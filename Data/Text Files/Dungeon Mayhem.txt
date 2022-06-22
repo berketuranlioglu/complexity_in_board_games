@@ -1,0 +1,242 @@
+AGE 8+
+
+Let’s Battle!
+Everyone draws three cards, and the youngest player goes first.
+Here’s what to do on your turn:
+1.	 Draw a card from your deck.
+2.	Play a card from your hand by putting it onto the table in
+front of you. Sometimes you can play more than one card
+in a turn, but you have to play at least one.
+
+How to Play
+Dungeon Mayhem™ is a free-for-all battle for two to
+four players. Be the last player left standing and you win!
+Play as one of four different characters. Each character’s
+tricks, gear, and skills are represented by a deck of cards.
+
+Contents
+• 4 hit point trackers	 • 4 reference cards
+• 4 hit point tokens	
+• 16 damage tokens
+• Four 28-card decks
+Sutha
+the Skullcrusher
+
+Azzan
+the Mystic
+
+Lia
+the Radiant
+
+Oriax
+the Clever
+
+Check your reference card to decide which card you
+want to play. You can see what all the different cards do
+on the back of this sheet.
+
+3.	Put all the cards you played this turn into your discard pile
+unless they have the
+symbol on them. Cards with the
+symbol stay on the table in front of you until they are
+destroyed—then they also go to the discard pile.
+4.	 Pass the turn to the player on your left.
+
+Did you play all your cards?
+Barbarian
+
+Wizard
+
+Paladin
+
+Rogue
+
+The First Time You Play
+Pop the cardboard tokens out of the frame, then open both
+packs of cards and separate them by color.
+
+If you don’t have any cards left in your hand, congrats!
+Draw two more cards.
+
+Did you run out of cards in
+your deck?
+No problem! Just shuffle your discard
+pile and start your deck over again.
+
+Get Ready
+
+Hit Points
+
+1.	 Choose one of the four character decks.
+
+Each player starts the game with 10 hit points. Whenever you
+play a card that deals damage to another player, they lose
+hit points (unless they have a card with a
+symbol). When
+you take damage, move the token on your hit point tracker
+to show how many hit points you have left. If your hit points
+drop down to zero (the
+symbol), you’re knocked out.
+
+2.	 Take the hit point tracker, hit point token, and reference
+	 card that match your deck, and set them on the table
+	 in front of you.
+3.	 Put a token on the number
+
+on your hit point counter.
+
+4.	 Shuffle the rest of your deck and put it on the table
+	 face down. Your play area should look something
+	 like this:
+
+Winning the Game
+Use your cards to deal damage to your opponents, and try not
+to take any damage yourself. The game ends when only one
+player is still in the game. That player is the winner!
+Sometimes a card can knock out many players at the same
+time. If no players are left in the game, then it’s a tie—so get
+ready to battle again!
+
+Card Types
+
+Draw
+Playing Draw cards lets you draw extra cards. When
+you play a Draw card, put one card into your hand for
+each
+symbol on that card.
+
+Attack
+Attack cards do damage to your opponents, and
+each character has their own unique attacks.
+
+Healing
+
+When you play an Attack card, choose one player (or Defense
+card) as the target of that attack. That player loses one hit point
+for each
+symbol on the card (unless they have a Defense
+card in play—see examples below).
+
+Play Again
+
+Defense
+Defense cards protect you by taking damage
+for you. Here’s everything you need to know
+about them:
+F	 The number of symbols on a Defense card is the 		
+	 amount of damage that card can take.
+F	 When you play a Defense card, place it face up on the table 	
+	 in front of you. It stays there until it is destroyed.
+F	 Put a damage token on one of the symbols for each 		
+	 point of damage it takes. When there are no symbols
+	 left, that card is destroyed and goes into the discard pile.
+F	 You can have more than one Defense card protecting you,
+	 and Attack cards can’t deal any damage to you until all your
+	 Defense cards are destroyed.
+F	
+	
+	
+	
+	
+
+Healing cards let you recover from damage. When
+you play a Healing card, you get one hit point back
+for each
+symbol on that card.
+
+If an attack card deals more than enough damage to 	
+destroy one of your Defense cards, any extra damage
+goes through to your other Defense cards. Once your
+last Defense card is destroyed, any extra damage goes
+through to you.
+
+Play Again cards let you play more cards on your
+turn. When you play a Play Again card, you can play
+one extra card for each symbol on the card.
+Remember, the extra cards you play for each symbol can
+also be Play Again cards!
+Your turn won’t end until you have played a card for each
+symbol on the cards you have used that turn. If you play all the
+cards in your hand before finishing your Play Again action,
+draw two more cards from your deck and keep going until
+you finish.
+
+Combinations
+Some cards have more than one kind of symbol on them.
+When you play one of those cards, you get to use all the
+different symbols!
+
+Mighty Powers
+Each character has some special abilities that are unique
+to that character. When you play one of these cards, just do
+whatever the card says!
+
+Frequently Asked Questions
+
+EXAMPLE 1
+
+Q: Can I use healing cards to get more than 10 hit points?
+A: No. Ten is the most you can have.
+DISCARD PILE
+
+This Attack card deals two
+damage, which is just enough
+to destroy this Defense card.
+The Defense card goes to the
+discard pile.
+
+Q: If I play a card with a symbol on it, do I have to play another
+card even if I don’t want to?
+A: Yes. You always have to play one card for each symbol on the
+cards you have already played.
+Q: If I use Azzan’s mighty power to take a Defense card from
+another player, what happens if that player gets knocked out?
+A: You keep that defense card in play until it is destroyed, then give
+it back to the knocked-out player.
+Q: If I use Oriax’s mighty power to steal and play a card from
+another player’s deck, whose discard pile does that
+card go into?
+A: The stolen card goes into the discard pile of the
+player you stole it from.
+
+EXAMPLE 2
+DAMAGE TO
+TARGET PLAYER
+
+Questions?
+Contact us: Support.Wizards.com
+
+DISCARD PILE
+
+This Attack card deals three
+damage, but this Defense card
+only has one symbol left.
+The Defense card is destroyed,
+and the target player loses two
+hit points.
+
+Credits
+Lead Design: Jordan Comar, Roscoe Wetlaufer
+Additional Design: Mike Mearls, C.J. Prosise
+Editing: Gregg Luben
+Copy Editing: Katy Bowman
+Illustration: Kyle Ferrin
+Graphic Design: Trish Yochum
+Art Direction: Emi Tanji
+Creative Direction: Shauna Narciso
+
+Production Management: Cynda Callaway,
+Gretchen Tapp, Tom Wänerstrand
+Producer: Dan Tovar
+Packaging Design: Roni Ruggenberg
+Prepress Management: Jefferson Dunlap
+Brand Direction: Nathan Stewart
+Brand Management: Shelly Mazzanoble
+Playtest Coordination: C.J. Prosise, Dawson Hadaway
+
+©2018 Wizards. All trademarks, including the dragon ampersand, are property of Wizards of the Coast
+LLC. Manufactured by: Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by: Hasbro
+Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. Please retain package for future
+reference. 400C6164000001 EN
+
+

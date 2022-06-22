@@ -1,0 +1,1703 @@
+Glory III
+
+A GMT GLORY Series Game
+
+Antietam; Maryland, September 17, 1862
+and Cedar Creek; Virginia, October 19, 1864
+
+RULEBOOK
+A RICHARD H. BERG Game Design
+Table of Contents
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+
+Introduction.................................................	2
+Components.................................................	2
+Sequence of Play.........................................	3
+Activation....................................................	4
+Leadership...................................................	5
+Movement...................................................	5
+Facing..........................................................	6
+
+8.	 Combat........................................................	7
+9.	 Artillery Fire................................................	7
+10.	 Charge.........................................................	8
+11.	 Combat Results...........................................	11
+12.	 Cavalry........................................................	13
+13.	 Night............................................................	13
+14.	 Refitting Glory I..........................................	14
+
+© 2007 GMT Games and Richard H. Berg
+
+
+
+
+
+Glory III
+
+1. INTRODUCTION
+
+Dismounted Cavalry Unit
+
+This is the 3rd, and revised, edition of the rules for the Glory game
+system, a system that emphasizes accessibility and playability.
+Given a choice between those two and strict historicity/reality,
+we have tended to go with the former.
+
+Dismounted Cohesion
+
+2. COMPONENTS
+The component list for each game in the series appears in the
+Battle Book. The following is applicable to all such components.
+
+2.1 The Map
+
+The game maps cover the area over which the battles were fought.
+The map is overlaid with a grid of hexagons—hexes—that are
+used to regulate movement. The various types of terrain represented are discussed in the rules, below.
+
+2.2 The Counters
+
+Glory III contains three different types of Combat units: the
+large, 9/16” (5/8” in the original Glory and Glory II: Across
+the Rappahannock) counters are the infantry; the smaller, 1/2”
+counters represent cavalry and artillery. They are all color-coded
+for ease in identifying to which command (see 2.4) they belong.
+All combat units are printed on both sides; the reverse shows the
+unit in a “Disordered” state, except for cavalry, whose reverse
+side can be its dismounted state depending on the battle.
+
+Full Strength Artillery Unit
+Command: Hays at
+Fred; Tyler at C’ville
+
+Appears in both
+C’ville & Fred/burg
+
+Activation Indicator:
+Army Reserve
+
+Movement Allowance
+(Yellow = Horse Arty)
+
+Fire Strength DRM
+
+Disordered Indicator
+No Fire Strength
+Disordered Cohesion
+
+Leader Unit
+
+Division Commander
+
+A p p e a r s only in
+Chancellorsville
+Movement Allowance
+
+	 Cohesion
+
+Disordered Indicator
+
+	
+
+	 	
+
+Disordered Cohesion
+
+	
+	 	
+
+	
+
+	
+
+	
+
+Commander’s Name
+
+Activation Die roll
+Range
+
+Chancellorsville only
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+The game uses a ten-sided die to resolve combat. A ‘0’ is a
+“zero”, not a “ten”.
+Activation Marker
+Indicator: Stuart
+Appears in both  
+C’ville & Fred/burg
+
+Charge Strength
+Mounted Cohesion
+
+Corps
+
+2.3 The Die
+
+Mounted Cavalry Unit
+Fitz Lee’s Brigade,
+	 	
+	‘a’ battalion
+	
+
+Movement Allowance
+
+The Activation Markers (4.1) indicate the Command to be activated and the battle they apply to. Some AMs have special uses,
+discussed in 4.1, et seq., and the Battle rules.
+
+Disordered Infantry Unit
+	 	
+
+Combined Activation
+Rating
+
+Division/Corp AM
+
+Activation Marker
+Indicator: I Corps
+
+	 	
+
+Command Range
+
+Name
+Appears only in
+Chancellorsville
+Rank
+
+‘a’ unit in Kershaw’s
+Brigade
+Combat Strength
+
+Range: Medium     Cohesion
+
+Disordered Artillery Unit
+
+Full Strength Infantry Unit
+
+	
+
+Dismounted Movement Allowance
+
+Dismounted Combat Strength
+
+Mounted Movement
+Allowance
+
+© 2007 GMT Games and Richard H. Berg
+
+
+
+Glory III
+
+2.4 Definitions and Abbreviations
+
+Awareness of the following terms will help as you read through
+the rules:
+AM = Abbreviation for Activation Marker, discussed in 4.1.
+CCDR = Cohesion Check Die roll (or simply “cohesion check”),
+a die roll made against a unit’s Cohesion rating to see whether
+something happens; cf. Charge Results, Rallying, Defensive
+Fire, etc. A CCDR is failed if after any applicable modifiers it
+exceeds the unit’s Cohesion rating. A separate CCDR is made
+for each affected unit.
+Cohesion = A unit’s ability to withstand the rigors of combat.
+Combat Strength = A unit’s ability to engage in combat, a
+number based on how many men are present. See 10.23.
+Combat Units = Artillery, cavalry and infantry counters. Leader
+and marker counters are not Combat Units
+Combined Activation (CA) = The ability to use more than one
+command in an AM at the same time; see 4.25.
+Command = A group of combat units controlled by one leader.
+This also on occasion refers to all of the Leaders and Combat
+Units that can be activated by a given AM.
+DF = Defensive Fire.
+DR = Die roll
+DRM = Die roll Modifier, a numerical adjustment to the DR.
+May = The word “may” means it’s up to the player, as opposed
+to “must”, which invokes something mandatory.
+Stack = When capitalized this refers to all of the Combat Units
+located within a given hex. Thus, for game purposes, a “Stack”
+could consist of a single Combat Unit not stacked with any others.
+In such a case, that unit is considered the top unit in that “Stack”
+and there is no bottom unit.
+Withdrawn = What happens to a unit when it can no longer
+withstand the rigors of combat.
+
+3. SEQUENCE OF PLAY
+Each game-turn follows a set sequence. However, the movement of individual units is somewhat random, dependent upon
+when their Activation Markers are drawn.
+Play Note: Some battles may add a segment to the basic Sequence; see the Scenario Rules in the Battle Book.
+
+A. INITIATIVE DETERMINATION PHASE
+1.	Roll the die to see who goes first. (5.2)
+2.	Initiative Player chooses which Command (AM) will start
+the turn, holding out one of that Command’s AMs for the
+first Activation. (4.21)
+
+B. MARKER SELECTION PHASE
+Place all other Activation markers for commands that are either on the map or scheduled to enter that turn in The Pool.
+
+C. ACTIVATION PHASE
+1. Draw Activation Marker from Pool. (Exception: 3.A.2)
+2. Activation Sequence:
+	 a. Command Activation Sequence (4.24)
+		
+i. Combined Activation attempt (4.25)
+	 	
+ii. Artillery Fire (9.0)
+	 	
+iii. Units Move (except for firing artillery) (6.0)
+	 	
+iv. Infantry/Artillery Defensive Fire (10.3)
+	 	
+v. Infantry/Cavalry Charge (10.2)
+	 	
+vi. Rally (for Disordered units that did none
+	 	
+	
+of the above) (11.5)
+	 	
+vii. Remove “Artillery Fired-No Move” and
+	 	
+	
+“No Rally” markers.
+	 	
+		
+		
+		
+
+Repeat the Command Activation Sequence “2.a”
+(Steps i through vii) until the Command of each
+Leader activated by the current AM has completed
+its activation.
+
+b. Remove “Artillery Return Fired” markers.	
+	 c. Set aside the AM drawn for that Phase.
+
+2.5 The Scale
+
+Each infantry and cavalry unit contains around 200 men per
+strength point, with dismounted cavalry units’ strength being
+adjusted in many cases for weapon types and tactical capabilities.
+Each artillery fire SP represents about 3–4 guns. Map scales are
+given in the Battle Book.
+
+Repeat the Activation Phase “C” until there are no markers
+left in the Pool. When finished with all Activations go to the
+Recovery Phase “D.”
+
+Design Note: The artillery units included in the original Glory
+represent 2–3 guns per SP. See 14.11 in regard to using these
+artillery units when playing the original Glory scenarios with
+this 3rd edition of the Glory series rules.
+
+1.	All units in the Recovery Box may check for Return to the
+game (11.6)
+2.	All units in the Withdrawn Box are moved to the Recovery
+Box.
+
+D. RECOVERY PHASE
+
+© 2007 GMT Games and Richard H. Berg
+
+
+
+Glory III
+
+4. ACTIVATION
+
+Play Note: A player may choose each turn to place any or all of
+his available AMs into The Pool.
+
+(4.11) Activation markers are used to determine which player
+may “go”, and what units he may then use. Each Activation
+Marker (AM) represents the superior Command level for a
+particular unit, or group of units, as indicated on the 2nd line of
+each counter.
+
+(4.22) In the first segment of the Activation Phase after the Initiative Player has gone, one of the players (it doesn’t matter which
+player) draws, randomly and blindly, one AM from The Pool.
+That AM designates which command’s units are activated. Only
+units from the drawn command may be activated.
+
+Play Note: Some AMs activate the units of one Leader, some
+AMs activate the units of all Leaders in a corps. Each scenario
+has a set of specific rules.
+
+(4.23) When an AM is drawn, the activated units of that Command may Move and engage in Combat. Disordered units of
+that Command which neither move nor engage in combat may
+attempt to Rally.
+
+4.1 Activation Markers (AMs)
+
+Example: The Antietam AM for Franklin/VI Corps would apply
+to—and activate—all Union units whose Activation Indicator
+is “VI”.
+(4.12) All Commands have two AMs. There are, however,
+several exceptions, which are covered in the scenario rules in
+the Battle Book.
+
+4.2 How AMs are Used
+
+(4.21) Unless otherwise indicated in the scenario rules, each
+Command that has at least one Combat Unit, either on the map or
+available to enter as a reinforcement, will have that Command’s
+AM(s) available for that turn. Most Commands have two AMs;
+some have one for specific turns. The Initiative Player secretly
+selects one of his available AMs for use as the first Command
+to activate that turn. Then, all other available AMs chosen by
+each player to be played this turn are secretly placed in an
+opaque cup (or similar container)—The Pool—in the Marker
+Selection Phase.
+
+Questions?
+
+Do you have any questions about play? Want a quick answer?
+We can be reached on the Internet at www.GMTgames.com
+or at www.Comsimworld.com
+Or, we can also be reached at:
+
+(4.25) COMBINED ACTIVATION: When there is more than one
+Leader/Command activated by an AM, the player may choose to
+attempt to combine more than one of those Commands so that
+he may move/fight/rally with the units of all chosen Commands,
+rather than one at a time, as in 4.24. To attempt this, the player
+chooses which Leaders’ Commands under that AM he wants to
+combine; each selected Leader must be within the Command
+Range (use the range of either Leader) of at least one of the other
+selected Leaders. The player then totals the Combined Activation Ratings of the chosen Leaders. He does not have to select
+all Leaders under that AM. He then rolls the die, comparing it to
+the total of the Combined Activation Ratings (i.e, total CA):
+•	 If the die roll is higher than the total CA, the units of those
+Leaders may all move/fight/rally as one (although stacking
+rules still apply).
+•	 If the die roll is the same as or lower than the total CA, the
+units of those Leaders may not combine; they operate under
+4.24. Moreover, they all act as if they are Out of Command
+for that Activation (5.13).
+Example: Cedar Creek: The Union Player has drawn his VI
+Corps AM, and he wishes to combine the divisions of Getty (CA
+of 2) and Ricketts (CA of 2). The total CA is ‘4’, so he would
+need a DR of 5 or more to combine. If he rolls a ‘4’ or less, all
+of Getty’s and Ricketts’ units are Out of Command.
+
+Designer: BergBROG@comcast.net
+Developer: JimDauphinais@aol.com
+Publisher: GMTGames@aol.com
+If you’re willing to wait, send your questions and a self-addressed stamped envelope, to:
+GMT Games
+ATTN.: Glory III
+PO Box 1308
+Hanford, CA 93232
+
+(4.24) All the units under the command of a single Leader must
+finish all their movement/combat/rallying before those of another
+Leader may do so. Units of different Leaders may not be combined, unless the Player attempts a Combined Activation.
+
+(4.26) When all the Commands of the drawn AM have finished
+their actions, that AM is set aside and a player draws another
+AM, repeating the 4.23 process.
+
+© 2007 GMT Games and Richard H. Berg
+
+Glory III
+
+
+
+5. LEADERSHIP
+
+6. MOVEMENT
+
+(5.11) LEADERS IN GENERAL: Each side has Leaders that
+command groups of combat units, usually a brigade or division,
+depending on the battle and the side. The Leaders may be at the
+same level of Command as the AM (e.g., both sides at Monocacy
+Junction), or they may be at one level lower (e.g., the division
+commanders at Antietam, where the AM are at Corps Level).
+Leaders are not combat units and do not have a Facing (7.11).
+
+(6.11) MOVEMENT ALLOWANCES: Each unit has its basic
+Movement Allowance (MA) printed on its counter. When a
+Command is activated, each unit in that Command may move
+up to its printed MA. Units may always move less than their
+printed MA.
+
+5.1 Leaders and Command Control
+
+(5.12) Leaders have three Ratings:
+•	 Command Range; see 5.13.
+•	 Combined Activation; see 4.25
+•	 Movement Allowance; see 6.11.
+(5.13) COMMAND RANGE: The Command Range is used
+to determine whether that Leader’s combat units are In or Out
+of Command. Range is counted in Movement Points (not just
+hexes); those MP costs are determined under the Leader column
+on the Terrain Chart.
+•	 Units that start their activation within a Leader’s Command
+Range are In Command and can function at full efficiency;
+they are not restricted.
+•	 Units that start their activation outside the Leader’s Command
+Range are Out of Command; they may not move adjacent to
+an enemy unit. If they start the turn adjacent, they are free to
+do what they want (other than moving adjacent).
+•	 Command Range is counted from Leader to unit. It cannot be
+traced through enemy Combat Units. It may be traced adjacent
+to enemy Combat Units.  Pike/Road/Trail costs (6.22) cannot be used for tracing command in hexes adjacent to enemy
+Combat Units.
+(5.14) Units outside their Leader’s Command Range but adjacent
+to a unit from the same Command that is In Command, are treated
+as being In Command. Note that this rule allows a chain of units
+to be In Command as long as one unit in the chain is within the
+Leader’s Command Range.
+(5.15) Leaders cannot be killed. If “attacked” (an enemy unit
+seeks to enter a hex containing only a leader), simply move them
+into a vacant or friendly-occupied hex. If all of a leader’s units
+are Withdrawn/Eliminated, remove the leader (11.61).
+
+5.2 Initiative
+
+(5.21) In the Initiative Determination Phase, each player rolls the
+die. If the Turn Record Track indicates, he adds to the die roll
+the DRM indicated. High total has the Initiative for that turn. If
+there is a tie, neither player has the Initiative and all available
+AMs selected by each player go into The Pool and Phase 3.A.2
+is skipped.
+(5.22) In certain turns of some battles, one player is given automatic Initiative; see the Battle Book for the rules.
+(5.23) The Player with the Initiative may pre-select (choose
+specifically) the AM he wants to start that turn.
+
+6.1 Movement in General
+
+(6.12) PROCEDURE: All units move separately and individually, even if they start stacked. As a unit moves it traces a path
+of contiguous hexes through the hex grid, paying the cost of
+each hex entered. You must complete the movement of one unit
+before moving another. A Combat Unit’s Facing (7.1) has no
+effect on how or where it may move unless it is stacked with
+another Combat Unit (7.1).
+(6.13) EXTENDED MOVEMENT: Any unit, except for dismounted cavalry and any Disordered unit, may use Extended
+Movement at any time, as long as the unit does not start or move
+within two (2) hexes of an enemy Combat Unit. If it wishes to
+move closer (or adjacent) to an enemy Combat Unit it must use its
+normal MA. Dismounted cavalry and Disordered units may not
+use Extended Movement. When using Extended Movement:
+•	 Infantry increases its MA by two (+2)
+•	 Regular Artillery increases its MA by three (+3)
+•	 Cavalry, Horse Artillery, and Leaders increase their MA by
+four (+4)
+Play Note: A unit can use only one type of Movement during
+any given AM. It cannot start using Extended and then switch
+to Normal.
+(6.14) ENEMY UNITS: Units that move adjacent to an enemy
+combat unit must cease movement for the rest of that activation,
+unless the hexside separating the opposing units is not crossable
+by either. Units that start their activation adjacent to an enemy
+Combat Unit, where the hexside separating the opposing units
+is crossable by either, may move, but they must stop as soon as
+they enter another hex so adjacent. A unit may never move into
+or through a hex containing an enemy combat unit.
+
+6.2 Movement and Terrain
+
+(6.21) Movement Point (MP) costs depend on unit type; see the
+Terrain Effects Chart. A moving unit must have enough MPs to
+pay the terrain cost of entering a hex; if it doesn’t, it may not
+enter that hex.
+Play Note: Horse artillery uses the MP costs under the Artillery
+column. It also has the ability to Retreat before Charge (10.27)
+as cavalry.
+(6.22) PIKES, ROADS AND TRAILS: Units pay the Pike/Road/
+Trail cost if they are entering that hex from a hex containing a
+connecting Pike/Road/Trail hex; otherwise, they pay the cost of
+the other terrain in the hex. Units may not use Pike/Road/Trail
+costs to move adjacent to an enemy combat unit; they must use
+the MP cost of the “other” terrain in the hex. Pike/Road/Trails
+negate/reduce elevation costs just like they negate/reduce other
+terrain costs.
+
+© 2007 GMT Games and Richard H. Berg
+
+
+
+Glory III
+
+(6.23) TRAILS: The cost to use Trails is one-half of the cost of
+the other terrain in the hex, rounding up. Thus, an artillery unit
+that would normally pay 3 MPs to enter a Woods hex would pay
+2 MPs to use a trail through the woods and 1 MP for a Trail in
+a Clear hex.
+(6.24) RIVERS, CREEKS AND STREAMS: Certain river hexsides are not crossable, except by Ford or Bridge. See the various
+battle rules. Roads or Trails do not negate the cost of crossing
+streams or creeks unless a bridge or ford symbol is present. Note
+that Fords and Bridges have their own MP costs.
+
+6.3 Artillery Movement
+
+(6.31) Artillery units may either Move or Fire during a single
+activation; they may not do both.
+(6.32) Artillery may not move adjacent to an enemy combat
+unit, unless:
+•	 There is already an infantry or cavalry unit in that hex (as per
+6.12, they may not move together), or
+•	 The hexside separating the opposing units is not crossable by
+either. (Such as an uncrossable river hexside).
+
+6.4 Stacking
+
+(6.41) Stacking refers to having more than one unit in a hex at any
+one time. The basic rule is: one combat unit per hex. However:
+1.	One artillery (regular or horse) unit may stack on top of one
+infantry/cavalry unit.
+2.	Two artillery units (regular and/or horse) may stack together.
+3.	Two infantry units, or dismounted cavalry units, with the same
+Leader (second line of the counter) may stack together.
+4.	Leaders and information markers stack “freely.”
+(6.42) Stacking restrictions apply at all times, even during movement. However:
+•	 One unit, at a time, may move through a hex containing a
+single, friendly artillery or cavalry unit at no additional cost
+in MP.
+•	 One unit may always move through (not stay in the hex with)
+another, single (friendly) infantry unit by paying +1 MP (in
+addition to terrain) to do so. It does not pay this cost if it is
+going to stay in the hex, if allowed as above (6.41).
+•	 Leaders never pay any MP to move into or through any
+units.
+
+6.5 Reinforcements
+
+(6.51) Reinforcements, where called for, enter the game when
+their AM is drawn. (Thus, their AMs are available on the turn
+they are scheduled to enter). They enter, by Command, through
+the Entry hex stated in the scenario as if they were in a “column”
+extending off the map: the second unit in that Command pays the
+cost to enter plus that of the first, etc. If the reinforcements are
+entering the map using normal movement or Extended Movement
+(6.13), they may stack in the off-map “column” within the bounds
+of normal stacking rules (6.4). If the entry area for a group for
+reinforcements consists of multiple hexes that are adjacent, the
+group of reinforcements may split their entry between the various hexes of that entry area in any manner the controlling player
+desires. In the event there are multiple entry areas available for
+a group of reinforcements, the player controlling the group of
+reinforcements chooses which entry area will be used. All units
+and Leaders of a given reinforcement group must enter through
+the same entry area.
+(6.52) Reinforcements unable to enter under one AM (usually no
+room, too many other units in front of them, etc.) simply come
+in the next AM for that Command. Reinforcements may not be
+voluntarily delayed unless the Battle rules specifically allow it.
+(6.53) No unit may enter or Charge any enemy Entry Hex until
+after all enemy reinforcements that can enter through that Entry
+Hex have entered the game.
+
+7. FACING
+
+7.1 Facing in General
+
+(7.11) All combat units must be faced in a hex so that the top of
+the unit (the side with its unit name) faces along one of the hexsides, as below. All units in a hex must be faced the same way.
+The facing of stacked units may be changed as the Stack’s entire
+Movement during its activation. The three hexes to the front are
+called the Frontal Hexes, those behind, the Rear.
+
+(6.43) An infantry unit moving into a hex with another infantry
+unit, where stacking is allowed, is always placed at the bottom
+of the Stack. That order may be changed only as a Stack’s entire
+Movement during its activation. The same applies to dismounted
+cavalry units when they are allowed to stack with another dismounted cavalry unit.
+
+© 2007 GMT Games and Richard H. Berg
+
+Front
+Front
+
+Front
+
+Rear
+
+Rear
+Rear
+
+Glory III
+(7.12) Facing has no effect on movement, and a unit is free to
+change its facing at any time during and at the end of movement.
+Units do not have to be facing a particular hex to enter that hex.
+However:
+• 	If an artillery or infantry unit begins movement stacked on top
+of an infantry unit and wishes to exit the hex into a Rear Hex,
+the unit must pay an additional MP to exit the hex.
+• 	If an infantry unit begins movement stacked under another
+infantry unit and wishes to exit the hex into a Frontal Hex,
+the unit must pay an additional MP to exit the hex.
+(7.13) Units may Charge or Fire only through their three frontal
+hexes.
+(7.14) Activated artillery can change facing (without leaving the
+hex) and Fire in the same phase. They may also change facing
+one hexside to Return Fire (9.13). However, an artillery unit may
+never change its facing using either of these two methods when
+it is stacked with an infantry or cavalry unit. Furthermore, an
+artillery unit stacked with another artillery unit may change facing
+using one of these two methods only if it is using Combined Fire
+(9.3) in which case the two artillery units change facing together.
+Artillery may not change facing to Defensive Fire (10.3).
+
+8. COMBAT
+There are three types of combat: Artillery Fire, Charge and
+Defensive Fire. Infantry and cavalry Charge; artillery cannot
+Charge—they Fire. Defending infantry, dismounted cavalry, and
+artillery that are being charged may use Defensive Fire.
+Design Note: Most combat in the Civil War consisted of shortrange firefights. Charging and engaging in face-to-face, hand-tohand melee was, while not rare, somewhat unusual— more so as
+the war progressed. The game term “Charge” covers all of this
+in one handy die roll (plus the defending unit’s reaction).
+
+9. ARTILLERY FIRE
+
+
+
+(9.13) RETURN FIRE: Artillery may fire at an enemy artillery
+unit that has fired at it in that phase, but only once per enemy
+Activation Phase, regardless how many times it is fired at. Return Fire is considered to take place simultaneously. Results are
+applied after all units have fired. Return Fire affects all units in
+the targeted artillery unit’s hex if those units can be affected by
+Artillery Fire (9.22).
+Play Note: When being charged, artillery uses Defensive Fire;
+see 10.3. This is not Return Fire, so an artillery unit fired at by
+an enemy battery may Return Fire and then may use Defensive
+Fire if charged.
+
+9.2 Procedure
+
+(9.21) Artillery may Fire at any target within its Range and Line
+of Sight. Artillery firing at a range of two hexes or more—counted
+from guns to target, not counting the hex the firing unit is in— can
+fire only if they can see the target (see 9.4: Line of Sight).
+(9.22) To resolve Artillery Fire, roll the die and add or subtract
+any modifiers (9.23). Then consult the Artillery Fire Table for
+Results. The one die roll affects all units in the target hex except
+when the target hex is adjacent to the firing artillery unit and
+contains two infantry units. When the target hex is adjacent and
+contains two infantry units, fire only affects the top unit in the
+Stack if the fire entered through a Frontal hex, and only affects
+the bottom unit in the Stack if the fire entered through a Rear
+hex (7.11).
+(9.23) DIE ROLL MODIFIERS: The following conditions provide modifiers to a Fire Die roll:
+•	 The firing unit’s Fire Strength
+•	 Range Effects (See the Artillery Range Chart for each
+	 battle)
+•	 Terrain (see the Terrain Effects Chart)
+•	 Combined Fire (9.3)
+These modifiers are cumulative.
+
+9.3 Combined Fire
+
+9.1 In General
+
+If two artillery units are stacked in the same hex, they may combine fire. To do so, use the higher Strength and then add two (+2)
+to the die roll. If the two units are of different Range/Type (9.11),
+then use the least beneficial (worst) Range DRM, if the latter is
+different for each unit. Two artillery units of different commands
+that are stacked may combine fire, but they may only fire together
+once under either of the two commands, not both.
+
+(9.12) WHEN: Artillery units may Fire once when activated
+(Activation Fire). They may Return Fire (9.13) once during each
+enemy Activation Phase (i.e., once per enemy AM). They may
+also use Defensive Fire (10.3) (against any, some, or all units
+charging it) once during each enemy Activation (i.e., once per
+Leader/Command or Combined Activation). However, Disordered artillery may not fire.
+
+Example: [Chancellorsville]. An “M” unit is stacked with an
+“L” unit, and they both want to combine fire at a target that is 5
+hexes distant. The DRM would be +2 for combined fire, but –1 for
+the range effect of the “M” guns (not the “0” for the “L”s).
+
+(9.11) RANGE: There are three types of artillery units, delineated by range: Short (S), Medium (M), and Long (L). Each
+type has the capability of firing at targets that are more than one
+hex away, but the allowable distance differs by type. As per
+the Artillery Range Chart, the farther away a target is, the more
+negative the DRM.
+
+9.4 Line of Sight (LOS)
+
+LOS is traced from the center of the firing hex to the center of
+the target hex.
+
+© 2007 GMT Games and Richard H. Berg
+
+
+
+Glory III
+
+If the firer and target are on the same level, the LOS is clear
+unless:
+•	 An intervening hex, regardless of its contents, is at an elevation
+level higher than the firer and target; or
+•	 An intervening hex at the same elevation level contains Woods
+or a Combat Unit.
+If the firer is higher than the target, the LOS is clear unless:
+•	 An intervening hex, regardless of its contents, is at the same
+elevation level or higher than the firer;
+•	 An intervening hex containing Woods is at an elevation level
+only one level lower than the firer;
+•	 An intervening hex containing Woods is at the same or higher
+elevation level than the target and halfway or closer to the
+target; or
+•	 An intervening hex at a higher elevation level than the target
+is exited through a steep or sheer hexside that is closer to the
+target than the firer.
+If the target is higher than the firer, the LOS is clear unless:
+•	 An intervening hex, regardless of its contents, is at the same
+elevation level or higher than the target;
+•	 An intervening hex containing Woods is at an elevation level
+only one level lower than the target;
+•	 An intervening hex containing Woods is at the same or higher
+elevation level than the firer and halfway or closer to the firer;
+or
+•	 An intervening hex at a higher elevation level than the firer is
+entered through a steep or sheer hexside that is closer to the
+firer than the target.
+In all cases, if LOS is traced along a hexside that borders any
+of the above blocked LOS on either side, the LOS is considered
+blocked.
+Play Note: Only some battlefields have steep and/or sheer
+slopes (e.g., Antietam has both; Cedar Creek has steep slopes;
+and Chancellorsville, Chickamauga, Fredericksburg, Manassas and Salem Church have neither). The vertices of a steep or
+sheer slope hexside are considered to be part of the steep or
+sheer slope hexside.
+
+9.5 Misguided Friendly Fire
+
+(9.51) The presence of units between a firing unit and target,
+where one of the latter is higher than the intervening units, does
+not block LOS, regardless of the relative positions of the three.
+However, if an intervening, occupied hex is adjacent to the target
+hex, and the occupying units are friendly to the firing unit, there
+is a possibility that the artillery fire hits those friendly units, not
+the target.
+(9.52) If the unadjusted Fire die roll is ‘2’ or less, then each
+intervening friendly unit adjacent to the target hex undergoes a
+CCDR, to which you add two (+2). If that adjusted DR is higher
+than an unintended target’s Cohesion, that unit is Disordered.  
+Regardless, the Fire has no effect on the original target.
+
+10. CHARGE
+10.1 In General
+
+(10.11) WHO MAY CHARGE: An active infantry or cavalry
+unit that is not Disordered may Charge any enemy unit(s) in its
+Frontal hexes. Infantry/dismounted cavalry and artillery units
+that are the target of a Charge may use Defensive Fire (10.3) to
+try to stop the Charge. Units may not, nor are ever required to,
+charge across or into terrain they are prohibited from crossing or
+entering using normal movement. Charges must be designated
+by the attacking player such that no more than one of the players has more than one Stack involved in each Charge. See 11.14
+when charging artillery alone.
+(10.12) COVERING: If there is more than one enemy in its
+Frontal Hexes, a unit must Charge all such units if it does choose
+to attack, unless the enemy unit(s) is (are) in the Frontal hexes
+of any other friendly unit. Enemy units so “covered” by other
+friendly units do not have to be Charged. However:
+
+B
+A
+
+D
+
+Example: Antietam Map: LOS is blocked from 2313 to 2311.
+LOS is blocked from 2012 to 2010 through 2000. LOS is blocked
+from 4617 to 4613 through 4609. LOS is clear from 4617 to 4608
+through 4600. LOS is blocked from 2110 to 2409 through 2508.
+LOS is clear from 2110 to 2608 through 2707.
+Example: Chancellorsville Map: LOS is blocked from C-4116
+to C-4114. LOS is blocked from C-4217 to C-4615 through
+C-6008.
+Example: Fredericksburg Map: LOS is blocked from F-5422 to
+F-5413 through F-5402. LOS is clear from F-5422 to F-5401
+through F-5400.
+
+C
+
+X
+Y
+
+Z
+
+Example of Covering: McLaws division is activated. Units Y
+and Z will charge unit D, while unit X charges units A, B and
+C. Unit X is covering for unit Y so he does not have to charge
+unit C. Note that even if unit X did not charge units A, B and
+C, unit X would still be covering unit C for unit Y such that
+unit Y does not have to charge unit C.
+
+© 2007 GMT Games and Richard H. Berg
+
+Glory III
+
+
+
+•	 Artillery and Disordered units may not be used to Cover
+•	 Units from different Commands/Leaders may not cover for
+each other unless they are using Combined Action.
+•	 The bottom unit in a Stack cannot be used to Cover.
+
+potentially lower odds (and revised DRMs) with the remaining
+units from hexes with top units that have not been Disordered
+(10.35), even if such units are no longer adjacent to other units
+involved in that same combined charge.
+
+Design Note: The “covering” units are keeping those enemy
+units busy with their presence, usually in the form of sporadic
+fire, etc.
+
+(10.25) COHESION DIFFERENTIAL: The attacker subtracts the
+defender’s best Cohesion rating from his best, and the difference
+is the DRM. The maximum DRM is usually +/–3; however, when
+mounted cavalry is charging any defender in a Woods hex, the
+maximum Cohesion benefit it may get is +1. Obviously, if the
+defender’s Cohesion is better than the attacker’s, that DRM will
+be a negative. Artillery Cohesion ratings have no effect here;
+they are not used in this determination.
+
+Play Note: Covering units do not have to Charge; their simple
+presence keeps the attention of the covered enemy units away
+from the other attacks. Also, the covered enemy units remain
+covered even if the covering unit is subsequently Disordered
+(11.12) due to Defensive Fire (10.3).
+
+10.2 Resolving a Charge
+
+(10.26) CAVALRY CHARGES: Mounted cavalry gets a +1 
+DRM when Charging infantry, but only if it moved at least one
+hex during the phase (3.C.2.a.iii), and none of the hexes entered
+cost more than 2 MPs.
+
+Play Note: This becomes important when Defensive Fire (10.3)
+disorders a charging unit, forcing any others charging along
+with it to attack at lesser odds.
+
+(10.27) RETREAT BEFORE CHARGE: When defending,
+mounted cavalry (and Horse artillery), even if Disordered, may
+retreat one or two hexes before being Charged by infantry (but
+not mounted cavalry). The retreat must place them farther away
+from the attacker than when they started the retreat, and they
+may not retreat into a hex adjacent to an enemy unit or occupied
+by any units, unless the Stacking rules would normally allow
+that. The Charging infantry may advance (as per 11.3) into the
+vacated hex.
+
+(10.21) The attacking player must designate all charges, and all
+units participating, before resolving any charges.
+
+(10.22) To determine the outcome of a Charge, the attacking
+player rolls the die and adjusts that die roll by the following:
++/–?	 Charge Strength odds/ratio (10.23)
++/–?	 The Difference between the two highest-rated Cohesion
+units on each side (10.25)
++/–?	 Terrain of Defender (see 10.4).
+	 +1	 If Charging through Defender’s Rear hexside
+	 +2	 If a Combined Charge through both Front and Rear
+	 +1	 Mounted Cavalry charging infantry (10.26)
+	 –1	 Charging Stack includes dismounted cavalry
+(10.23) CHARGE ODDS RATIO: To determine the DRM for
+odds/ratio, each player totals the Strength of all his units involved
+in the Charge (10.24). The attacker then compares the strength
+of his units with that of the defending units, stated as an odds
+ratio reduced to its simplest form and rounded off in favor of
+the Defender. Thus, a 9-point unit Charging an enemy 4-point
+unit would undertake a Charge at 2-to-1. If it were a 5 SP unit
+Charging a 7 SP unit, it would round off to 1-to-1 1/2 (listed as
+2 to 3). See the Odds/Ratio Chart for the applicable DRMs, and
+see 10.4 for an important Terrain effect on Odds Ratios.
+(10.24) COMBINED CHARGE: Charging units may combine
+their strengths and capabilities if they are stacked, or in adjacent
+(to at least one of the other Charging units) hexes. If not, and if
+they are separated by an intervening hex, each Charge is resolved
+separately, the order of which is up to the attacking player.
+However, mounted cavalry may not combine their attack with
+infantry or dismounted cavalry, even if adjacent. If a unit at the
+bottom of a Stack is going to charge, it must combine its charge
+with the unit it is stacked under.
+Play Note: If the top unit in one or more hexes involved in a
+combined charge is Disordered (11.12) due to Defensive Fire
+(10.3), the charge is still resolved as a combined charge at
+
+(10.28) ARTILLERY: Artillery never participates in Charge. Its
+strength is used only for Fire.
+•	 If stacked with a Charging Unit, and the Charging Unit “loses”,
+the artillery is Disordered and must Retreat, if required by
+the result. If the Charging Unit wins, the artillery may not
+advance.
+•	 If defending with one or more cavalry or infantry units and
+the latter units “lose”, the artillery must retreat and check for
+Disorder.
+•	 If defending without any cavalry or infantry units, it is automatically eliminated.  No Charge Resolution is required.  Also
+see 11.14.
+Play Note: Artillery is considered to be defending with a cavalry
+or infantry unit if both are defending against the same Charge.
+Thus, if any artillery unit and an adjacent infantry unit are together being Charged by the same enemy Stack, the artillery is
+considered to be defending with infantry even though the artillery
+unit is not stacked with the infantry unit.
+(10.29) RESULTS: The possible results of a Charge are dependent on the adjusted die roll (see the Charge Table ). Results on
+the Charge Resolution Table apply to all affected units (either
+attacker or defender, depending on the result with all required
+cohesion checks being rolled separately for each affected unit).
+The attacking player can resolve his Charges in any order he
+desires, but all Defensive Fire must be resolved prior to any rolls
+being made for the resolution of any Charges.
+
+© 2007 GMT Games and Richard H. Berg
+
+10
+
+Glory III
+
+10.3 Defensive Fire (DF)
+(10.31) WHO MAY USE DF: Any infantry, dismounted cavalry, or non-disordered artillery unit that is being Charged may
+use Defensive Fire against the Charging units to try to stop the
+Charge. Mounted cavalry may not use Defensive Fire. Nor may
+Horse Artillery that chooses to Retreat Before Charge (10.27).
+(10.32) FACING AND MULTI-HEX DF: Defensive Fire is directed through the defending unit’s Frontal Hexes only. However,
+it may be used against all enemy units charging through such
+hexes, even if there is only one defending unit using Defensive
+Fire. (And see 10.36.) If units are charging a defending hex from
+multiple frontal hexes, the defender may use Defensive Fire once
+at one, some or all such hexes. However:
+•	 For infantry using Defensive Fire, subtract one (–1) for each
+charging target hex greater than one being fired at. Example:
+DF against 3 charging units could have the defending unit fire
+at only one hex (no DRM), at two hexes (with a –1 DRM for
+each), or against all three hexes (with a –2 DRM for each).
+•	 For artillery using Defensive Fire, if firing at enemy unit(s)
+charging from only one hex, there is a +2 DRM. If firing at
+more than one, there is no DRM for any.
+
+A
+
+B
+
+(10.33) RESOLVING DF: To determine the effects of Defensive
+Fire, for each target hex the defending player rolls a die and compares it to the Cohesion of the top infantry/cavalry unit in that
+target hex. He does not use any ratings on the defending firing
+unit, making adjustments to the DR as per 10.34:
+•	 If the adjusted DR is higher than the charging unit’s Cohesion,
+the latter is Disordered (and cannot complete the Charge; see
+10.11).
+•	 If the adjusted DR is the same as or lower than the charging
+unit’s Cohesion, there is No Effect.
+(10.34) DF DRMS: The possible adjustments to a DF die roll:
+	 +2	 If the target/charging unit is mounted cavalry
+	 +2	 Artillery defensive firing at units in only one charging
+hex
+	 –?	 If infantry/dismounted Cavalry is using DF against more
+than one charging hex, add a –1 for each DR for each target
+greater than one (10.32).
+	 +2	 Non-disordered Artillery stacked with infantry/dismounted
+Cavalry
+	 +2	 Two non-disordered Artillery units stacked in the same
+hex using DF at units in only one charging hex.
+	 –1	 If the top unit in a defending/firing Stack is an infantry/
+dismounted Cavalry unit that is Disordered
+	+/–?	 Terrain. See the Terrain Effects Chart.
+All adjustments applicable to a particular target hex are cumulative; the cumulative DF adjustment for each target hex may be
+different.
+
+C
+D
+
+B
+A
+
+C
+
+X
+
+D
+Y
+
+Z
+X
+
+Example Continued:
+The defender (Union player) conducts his Defensive Fire
+(DF) first, before the attacker (Confederate) conducts his
+Charges. Units A, B and C use DF against unit X. There are
+no applicable DRMs. All three DFs require a die roll of 8 or
+9 to Disorder the attacker. Two are successful, resulting in
+two Disorder results against unit X—causing it to Withdraw.
+Unit D could DF against both units Y and Z with a –1 modifier, but in this case it is better to just DF against Y (a –1
+modifier would make it impossible to hit Z with a cohesion
+rating of 8). The die roll is a 7 which is unsuccessful (a die
+roll of 8 or 9 was necessary). This concludes the Defensive
+Fire for these units.
+
+Y
+
+Z
+
+Example Continued:
+After Defensive Fire the two Confederate units may conduct
+their charge. Note that Unit X was removed to the Withdrawn
+Box. The strength/odds ratio is 9 to 6 (3–2) which provides
+a +1 DRM. The difference between the two highest cohesion
+levels is three which provides a +3 DRM. There are no other
+applicable DRMs. A die roll of 5 is modified to 9 which results
+in the Union unit retreating and undergoing a CCDR. Unit
+Z must advance.
+
+© 2007 GMT Games and Richard H. Berg
+
+Glory III
+Play Note: Stacked units eligible to DF must do so together at
+the same target hex(s) with a single die roll for each target hex.
+When two infantry/dismounted Cavalry units are stacked, the
+bottom unit contributes no positive or negative DRMs to DF
+even if the bottom unit is disordered.
+(10.35) TOP UNIT AFFECTS STACK: When Defensive Firing
+against a hex with stacked units, DF affects only the top Charging unit. However, if that unit is Disordered, none of the units in
+that hex may Charge (even though the bottom unit in the Stack
+is not actually Disordered).
+(10.36) MULTIPLE DISORDER RESULTS: When units in a
+single hex are Charging multiple hexes of defenders, the defending player makes a separate die roll for each defending Stack
+choosing to use Defensive Fire. In such a case, Disorder results
+(11.1) can be cumulative.
+
+10.4 Terrain and Charge
+
+(10.41) THE CLEAR TERRAIN DRAWBACK: If, in determining Terrain DRM for a Charge, there is no DRM favorable to the
+defender—this usually occurs when opposing units are on the
+same level and the Defender is infantry in Clear Terrain—then,
+when determining Odds Ratio, players round leftover fractions
+up in favor of the attacker, not the defender.
+Example: 7 SP Charging 3 SP, both on the same level with the
+defender in Clear Terrain, would be rounded up to 3–1.
+Design Note: This reflects the reality of the drawback of defending out in the middle of “nowhere” vis a vis the style of warfare.
+Note that when a charging unit is in Clear Terrain, the defender
+gets a +1 DRM when using Defensive Fire.
+(10.42) STREAMS: As noted in the individual battles, streams
+usually have no effect, in terms of DRM, on charge. However, if
+any attacking unit is charging across such a stream, the attacker
+does not get the benefit of 10.41 for that Charge. A Stream does
+not affect Defensive Fire across it into a Clear terrain hex.
+(10.43) If attackers are charging from/into hexes that would give
+different DRM, the defender receives the single most beneficial
+cumulative DRM (for the defender).
+Example: In Antietam, a single infantry unit Charges two enemy
+infantry units that are in adjacent hexes at an odds ratio of 1:1
+and a cohesion differential of zero. One of the defending units is
+located in clear terrain that is one level lower than the Charging
+unit (a cumulative DRM of +1). The other defending unit is in
+a Woods hex that is at the same level as the Charging unit, but
+this defending unit is being Charged through one of its Rear
+Hexes (a cumulative DRM of +0). A DRM of +0 is applied to
+the Charge Resolution DR since it is the single most beneficial
+cumulative DRM for the defender.
+(10.44) Defensive terrain benefits are cumulative. A unit in the
+woods being attacked across a ford gets the benefit of both.
+
+11
+
+11. COMBAT RESULTS
+11.1 Disorder
+
+(11.11) A Combat Unit that suffers a Disorder result is flipped
+to its Disordered side. If it is already Disordered it Withdraws.
+Cavalry units without a Disordered side use a Disordered marker
+to register that status; see 12.4.
+(11.12) Disordered units:
+•	 May not use Extended Movement
+• 	May not move adjacent to an enemy combat unit.
+• 	May not Charge, but see 11.14.
+• 	Disordered infantry subtracts one (–1) from Defensive Fire
+	 if it is the top Combat Unit in a firing Stack.
+• 	Disordered artillery may not fire
+• 	Disordered infantry/cavalry may not Cover (10.12)
+• 	May not be moved to the top of a Stack when adjacent
+	 to an enemy combat unit.
+• 	May not change facing when adjacent to an enemy combat
+unit unless they are exiting their current hex (7.1).
+(11.13) Disordered units may be Rallied, 11.5.
+(11.14) An infantry or cavalry unit that becomes Disordered
+while Charging artillery that is not defending with an infantry
+or calvary unit may not complete its Charge.  In such a case,
+the defending artillery is not eliminated since the Charge was
+not completed.  An infantry unit that is already Disordered that
+starts its activation adjacent to artillery may Charge the artillery provided the infantry unit only Charges that artillery and it
+“survives” any artillery Defensive Fire.
+
+11.2 Retreat
+(11.21) IN GENERAL: A combat unit that retreats must move
+the required number of hexes away from the enemy unit that
+caused the retreat. Stacked combat units that have to retreat may
+retreat together or split up, at the player’s discretion. Retreated
+units are free to change their facing at any time during and at the
+end of their retreat, even if Disordered. Leaders do not retreat,
+nor do they alone block an enemy advance or retreat into their
+hex (5.15).
+(11.22) LENGTH OF RETREAT: Infantry, dismounted cavalry, and artillery retreat one hex. Mounted cavalry and horse
+artillery may retreat one or two hexes, at the retreating player’s
+discretion.
+(11.23) STACKING AND RETREATS: A retreating unit may
+not enter a friendly, occupied hex, unless allowed by Stacking
+rules. However, if it is allowed to do so, and the unit originally in
+that hex will be subject to an enemy attack that phase, the retreating unit does not add its strength or presence to the defense. It
+will, though, suffer any adverse effects that the unit with which
+it is now stacked incurs. An infantry unit retreating into a hex
+with another infantry unit, where stacking is allowed, is always
+placed at the bottom of the Stack conforming to the facing of
+the top unit (6.43).
+
+© 2007 GMT Games and Richard H. Berg
+
+12
+
+Glory III
+
+(11.24) TERRAIN AND RETREATS: Retreating units may not
+cross a hexside that it could not cross during normal movement.
+If it must retreat as a direct result of combat across a Ford or
+Bridge, it suffers an automatic Disorder after, and in addition
+to, any other mandated Disorder. However, for Streams (10.42),
+Fords do not cause an automatic disorder and Bridges subject
+only artillery units to an automatic disorder.
+Play Note: As with the Streams rule (10.42), the Terrain and
+Retreats rule above is the general rule. Scenario rules in the
+Battle Book or the Terrain Effects Chart for a scenario may
+modify these general rules.
+(11.25) ENEMY UNITS: A unit may retreat into a hex adjacent
+to an enemy unit, but if that hex is an enemy Frontal Hex (7.11)
+the retreating unit suffers an automatic (additional) Disorder
+result for each such hex entered. Any cohesion check required
+as a result of the attack that initiated the retreat is taken prior to
+the automatic (additional) disorder result.
+(11.26) DISPLACEMENT: If a unit’s only valid path of retreat
+is into a hex with a friendly unit with which it cannot stack, the
+player may Displace the stationary unit by retreating that unit
+one hex and having it undergo a Cohesion Check DR. If it fails,
+it suffers a Disorder. This may be done as many times as necessary to effect the retreat. Displaced units may force other units to
+displace, in a chain reaction. Displaced units may move into an
+enemy Frontal hex, but suffer the results (11.25) of doing so.
+Play Note: It is possible that Displacement may cause a declared
+Charge to not take place, by displacing the unit that was to attack, etc.
+(11.27) ELIMINATION: If a unit does not have a valid retreat
+path it is permanently eliminated unless it is able to retreat off
+the map in which case it is Withdrawn (11.4).
+
+11.3 Advance
+(11.31) PROCEDURE: If a defender vacates its hex (retreats,
+withdraws or is eliminated) as a result of a Charge, the Charging unit with the highest Cohesion, that is stacked on top, must
+advance immediately into the vacated hex. Ties? Attacker’s
+choice. Only the top Charging unit may advance in a Stack—a
+bottom Charging unit may never advance. Artillery stacked with
+infantry never advances. Advancing units may change facing
+after advancing. If defenders in two hexes are attacked from
+one hex and both defenders retreat, the attacker must pick one
+hex to advance into.
+(11.32) CONTINUED ATTACK: If the adjusted Charge Resolution DR was 11 or higher, the Charging unit that advanced, as per
+11.31, may Charge any enemy units it now finds in its Frontal
+hexes, as per 10.1. Only one Continued Attack is allowed. If the
+unit undertaking a Continued Attack rolls an 11 or higher (again),
+there is no additional Continued Attack. Continued Charges are
+resolved after all other, standard, attacks are resolved.
+
+(11.33) COUNTER-ATTACK: When the adjusted Charge Resolution DR is “less than 0”, forcing the attacker(s) to retreat, the
+defending non-artillery Combat Unit(s) may, if they so choose,
+advance into the vacated hex and counter-charge any one hex of
+retreating units, ignoring any other enemy-occupied hexes in the
+process. Such counter-charges are undertaken immediately and
+resolved like normal attacks, except that any subsequent CounterCharge/Attack or Continued Attack results are ignored.
+Play Note: When a Continued Attack or Counter-Attack occurs,
+the charge is affected by Defensive Fire (10.3), but only from new
+defending units that were not involved in the original combat that
+produced the Continued Attack or Counter-Attack result.
+
+11.4 Withdrawal
+
+Design Note: The word “Rout”, originally used in the Glory I
+Series Rules, seemed to confuse some gamers; they envisioned
+bug-eyed soldiers streaming away from battle, tossing aside
+anything they could to gain speed. That’s not what we wanted
+to “simulate.” So we changed the word. Withdrawal refers to a
+unit’s inability to stay in combat, whether from losses, fatigue,
+or simply it’s just “had it.”
+(11.41) A Disordered unit that suffers an additional Disorder
+Withdraws. When a unit Withdraws, it is immediately removed
+from play and placed in that side’s Withdrawn Box, regardless
+of its situation on the map.
+Exception: If the unit is artillery (including horse artillery), it
+is, instead, eliminated and not eligible for Recovery.
+(11.42) In the Recovery Phase (3.D.2), all units in the Withdrawn
+Box are moved into the Recovery Box. See 11.6.
+
+11.5 Rally
+(11.51) Disordered units that have not charged, moved or Fired
+may undertake Rally attempts at the end of their Command
+Activation Sequence, after all movement and combat has been
+completed. Units adjacent to an enemy unit may not undertake
+Rally.
+Play Note: “No Rally” markers have been included in Glory III.
+These may be used to help remember which Disordered units
+are not eligible to undertake rally attempts.
+(11.52) To rally a unit, roll the die.
+•	 If the DR is the same as or lower than its (Disordered) Cohesion flip to its full strength side and, if not stacked with another
+combat unit, reface as desired.
+•	 If the DR is higher than its (Disordered) Cohesion, nothing
+happens.
+(11.53) Leaders have no effect on Rally.
+
+© 2007 GMT Games and Richard H. Berg
+
+Glory III
+
+11.6 Recovery
+
+13
+
+12.2 Mounted Cavalry
+
+(11.61) IN GENERAL: In the Recovery Phase (3.D.1), all
+Withdrawn units in each player’s Recovery Box are eligible for
+Recovery (and return to the game). If an entire Command (all
+units: both infantry and artillery) has been Withdrawn/Eliminated; none of its units are eligible for Recovery. That Command
+is out of the game.
+
+Mounted cavalry may Charge, and, if doing so against infantry/
+dismounted cavalry, earn a +1 DRM provided the requirements
+of 10.26 are met. They may not use Defensive Fire, though.
+They may retreat before being charged by infantry/dismounted
+Cavalry, as per 10.27.
+
+(11.62) PROCEDURE: To check for Recovery, the player may
+roll the die for each unit so eligible, comparing the DR to the
+unit’s Disordered Cohesion Rating. There are no adjustments.
+If the DR is the same as or lower than the Cohesion, the unit is
+returned to the game, as per 11.64. If the DR is higher than the
+Cohesion, the unit is Eliminated, permanently.
+
+Dismounted cavalry is treated like infantry. However, they may
+not use Extended Movement, and, when Charging, incur a –1 
+DRM for so doing, even if combined with regular infantry.
+
+(11.63) Cavalry always uses its mounted (Disordered) Cohesion
+rating for Recovery, even if it was Withdrawn dismounted.
+(11.64) Recovered units (that have a leader) are placed back on
+the map as follows:
+•	 Within their Leader’s Command Range.
+•	 At least three (3) hexes from an enemy unit. If this is not possible, the Player must wait for a turn in which it is.
+•	 Mounted if they are Cavalry.
+•	 In Disordered status.
+(11.65) Recovered units that are Independent—they do not have
+a leader—must be placed per above except they may be placed
+within Command Range of any Leader in that unit’s AM (since
+they do not have a Leader) provided they are also being placed
+behind their own lines (it sounds somewhat hazy, but your opponent will define it for you, we’re sure).
+
+12. CAVALRY
+
+12.1 To Mount or Dismount
+
+Cavalry units have two states: Mounted and Dismounted. One
+side of the counter is for mounted and the reverse is for dismounted. It costs two (2) MP to mount or dismount, and such an
+action must be taken at the end of Movement. Simply flip counter
+to the corresponding side. Cavalry may not mount/dismount when
+adjacent to an enemy unit.
+Play Note: For some battles, such as Antietam, Cedar Creek,
+and Chickamauga, the counter mix provides separate dismounted
+cavalry counters.
+
+12.3 Dismounted Cavalry
+
+Play Note: Any chart or rule that says “infantry” includes dismounted cavalry, except for the two above instances.
+
+12.4 Disordered Cavalry
+
+To note Disorder results on cavalry, use the Disorder markers.
+•	 All Disordered mounted cavalry and Disordered dismounted
+Union cavalry has a Cohesion Rating one lower than its printed
+rating.
+•	 Disordered, dismounted Confederate cavalry has a Cohesion
+Rating two lower than its printed rating.
+Play Note: This rules section does not apply to those battles, such
+as Antietam and Cedar Creek, where the counter mix has allowed
+the luxury of a disordered side for cavalry counters.
+
+13. NIGHT
+During Night Turns, the following changes are in effect:
+•	
+•	
+•	
+•	
+•	
+
+It costs +1 to move adjacent to an enemy Combat Unit
+No Artillery Fire at a Range greater than one hex (adjacent).
+Mounted cavalry may not Charge.
++2 to all CCDR resulting from a Charge.
+Units that advance after combat are automatically Disordered.
+•	 Disordered Combat Units that do nothing and are not adjacent
+to an enemy Combat Unit are automatically Rallied in the Rally
+Phase.
+•	 No Combined Activations are allowed.
+•	 Players may roll for Recovery of Withdrawn units only during Night 2 Turns. Withdrawn units die rolling for Recovery
+during Night 2 Turns are not eliminated if that DR is higher
+than their Cohesion (11.62); they simply do not Recover and
+are eligible to try again.
+
+© 2007 GMT Games and Richard H. Berg
+
+14
+
+Glory III
+
+14. REFITTING GLORY I
+Gamers may use these 3rd Edition rules, along with the additional (needed) counters from Glory II: Across the Rappahannock, as delineated below, to play the original Glory (1995)
+battles, with changes/additions as noted.
+
+[CLARIFICATION] [6.22] On the Manassas map, roads /trails
+negate/reduce the movement costs of RR Embankments, but
+not the combat effects. And those combat effects work in both
+directions.
+
+14.1 General Rules
+
+1st Manassas Scenario: [ADDITION] Sherman’s Brigade
+sets up in 4009-4010, the E 3US in 4010
+
+(14.11) Use the Victory rules from the original Glory.   For
+artillery use the Artillery Range Chart for Fredericksburg and
+Chancellorsville that was included in Glory II.  If available,
+use the revised artillery counters for the original Glory that
+are included in Glory III.  Otherwise:
+•	 All artillery SPs are halved with fractions rounded down.
+•	 Light Artillery is treated as Short Range Artillery.
+•	 Field Artillery is treated as Medium Range Artillery.
+For Night Turns use the Glory III Night Rules (13.0) with the
+following modifications:
+•	 No Extended Movement is allowed.
+•	 A +2 (yes, +2) DRM applies to all Defensive Fire.
+•	 Recovery can occur as if it were a Night 2 Turn.
+Design Note: Artillery units went from 2-3 guns per SP in
+the original Glory to around 3-4 guns per SP starting with
+Glory II.
+(14.12) Use the Terrain Effects Charts provided for Manassas
+and Chickamauga in Glory II; they replace the ones in Glory I
+(and take into account the changes in mechanics).
+(14.13) Except as noted above, all Glory III Series Rules and
+combat tables are used and none of the Glory I Series Rules
+are used. Example: the Commitment DR on the Glory I AM
+are ignored.
+
+[CLARIFICATION] While the Warrenton Pike negates
+streams for movement, it does not do so for Charge.
+[CLARIFICATION] Hex 3635 is not a CSA Entrance Hex.
+2nd Manassas Scenario: [CORRECTION] Set-up: Union
+IIIv Corps units are facing “East”, and Gibbon ‘b’ is in 1518.
+On the 29th, Hood arrives at 1015, not 1012.
+[CLARIFICATION] 6.53 does not apply to hex 1020 until
+0515, 8/29.	
+Chickamauga Scenario: [CLARIFICATION] Starting September 19 (CSA Initial Deployment): Cheatham’s Division sets
+up on “Road” hexes 2539-2342; Stewart’s Division on Trail
+hexes 3234-3135, and the Wheeler cavalry starting within one
+hex of 3329 is J. Wheeler’s brigade of Forrest’s division (not
+Wheeler’s Division).
+[ADDITION] Starting September 20 (Union Initial Deployment): Campbell, Watkin and Ray’s Cavalry start within 2
+hexes of 1440.
+[CHANGE to Victory Conditions]. Remove “last to occupy”.
+Units must physically occupy a hex to control it.
+
+(14.3) 1st Manassas Scenario Changes
+
+(14.31) The Combined Activation rule (4.25) is not used. No
+brigades may combine any actions.
+
+(14.14) For infantry, use the larger Strength Point rating,
+if there are two such ratings. Ignore the smaller rating. Example: for Sherman’s brigade at 1st Manassas, each unit has
+a Strength of ‘8’.
+
+(14.32) Ignore all the CSA AM, except for the Cavalry AM.
+Instead, the CSA player gets two Beauregard AM, and two
+Johnston AM, both of which are available at the start, which
+apply as follows:
+
+(14.15) Leader, AM, and dismounted cavalry (for Chickamauga) counters for all three original Glory battles are provided
+in the counter mix for Glory II: Across the Rappahannock.
+
+Beauregard: Cocke, Early, Evans, KBBH.
+Johnston: Jackson, Bee, and Smith
+
+(14.16) Dismounted cavalry counters are provided only for
+Chickamauga. The dismounted rules are not used for either
+Manassas battle.
+
+(14.33) Leaders start (or arrive) stacked with any unit in their
+command.
+
+14.2 Errata Applicable to GLORY I
+
+(14.34) There is no Leader for the KBBH group (CSA) and
+both sides’ cavalry. Each of the brigades therein is considered
+independent and always In Command. (Both Radford units
+are in the same brigade). However, they may never combine
+activations; each unit therein must complete its actions before
+any other.
+
+The Manassas Map: Thanks to information supplied by one
+of our legion of fans, we determined that the two bridges near
+Sudley Mill, over Catharpin Run—2404 and 2503—were
+fords. Treat them as fords when playing.
+
+(14.35) Use the Special Rule for Tyler’s Division; you may use
+the Third Jackson AM, if you wish. The Third Jackson AM
+activates all of Jackson’s infantry and artillery units.
+
+The following is errata for Glory I (the section references are to
+that version) that is still applicable to the 3rd edition rules:
+
+(14.36) VP awarded for Victory for Routed units on map is
+now given for units in Withdrawal Box.
+
+© 2007 GMT Games and Richard H. Berg
+
+15
+
+Glory III
+
+14.4 2nd Manassas Scenario Changes
+
+(14.41) The Combined Activation rule (4.25) is not used for
+the Union. It is for the CSA.
+(14.42) Ignore all the CSA AM (including the Artillery
+AM), except for the Stuart AM (available at start). Instead,
+the CSA player gets two Longstreet AM (available Aug 29,
+1015 turn), and two Jackson AM (available at start). CSA
+Corps assignments for divisions are on the Leader counters.
+Moreover, for the 1745 turn of Aug 28, Hill and Ewell are
+activated with the second Jackson AM drawn; Stuart activates
+on the second Stuart AM drawn.
+(14.43) CSA Artillery battalions are assigned, for AM purposes, as follows:
+• Longstreet: Right Wing, S. Lee, Walton
+• Jackson: Shumaker, Walker
+(14.44) Leaders start (or arrive) stacked with any unit in
+their command.
+(14.45) 1st US Sharpshooters, Union. While nominally assigned to Morrel’s Division (1/V), the 1st US Sharpshooters may operate independently. It is activated when a V
+Corps/Porter AM is drawn, but it does not have to be within
+any leader’s range to be In Command. It also has some additional features:
+•	 When it uses Defensive Fire, add one (+1) to the DF die
+roll. If stacked with another unit, it must be on top to use
+this.
+•	 When alone in a hex, it may Retreat Before Combat, like
+cavalry, but only one hex.
+•	 When alone in a hex, it may not Charge.
+•	 It may stack with any V/Porter Corps infantry unit as if
+they were both in the same command.
+•	 When stacked with another infantry unit, it may take part
+in a Charge. In addition to adding in its 2 SP, it also provides
+the Union Player with a +1 DRM to the Charge die roll.
+(14.46) The Union cavalry has no leader; the units operate independently, and are always In Command, under the
+
+Game Designer: Richard Berg
+Game Developer: Jim Dauphinais
+Preliminary Glory III Development: Paul Jordan
+Glory II: Across the Rappahannock Developer: Mike
+Shanovich
+Original Glory Developer: Gene Billingsley
+Art Director, Cover Art and Package Design: Rodger
+B. MacGowan
+Game Counters: Mark Simonitch
+Rules Layout: Neil Randall
+
+(sole) cavalry AM. However, the units of one brigade may
+not combine with those of another.
+Play Note: The ‘a’ and ‘b’ units are in the same brigade.
+(14.47) VP awarded for Victory for Routed units on map is
+now given for units in Withdrawal Box.
+
+14.5 Chickamauga Scenario Changes
+
+(14.51) Ignore all the Chickamauga AM in Glory I, except
+for the Granger/Reserve and Mitchell/Cavalry AM (Union).
+The players use, instead, the AM supplied with Glory II. AM
+become available as per 4.21.
+Optional: Players may choose to use the Chickamauga AMs
+from Glory I if they would like to reflect a more fragmented
+command structure.
+(14.52) Leaders start (or arrive) stacked with any unit in their
+command, with the exception of Union General Granger (Reserve), who enters the game as Reinforcement in the 0630,
+Sept 19th game turn.
+(14.53) The Confederate Reserve Artillery ‘a’ and ‘b’ units
+are part of Buckner’s Corps, and may be activated with either
+Stewart or Preston, that decision being made prior to each
+turn. The Artillery Reserve ‘c’, part of Longstreet’s Corps,
+may be so activated with either Johnson or Kershaw or Law.
+Ignore the Artillery AM provided with Glory I.
+(14.54) There are dismounted units for cavalry included with
+Glory II, which are used as per the 3rd Edition Series rules.
+(14.55) Use the following Special Rules from Glory I:
+•	
+•	
+•	
+•	
+
+CSA Destination Designation
+Special Terrain (but ignore references to Commitment)
+Off-map Movement
+Union Reserve Corps Restrictions
+
+(14.56) Ignore the Special Rules on AM, Corps Activation
+Markers, and Retreat direction.
+(14.57) Wilder’s Brigade. Ignore the rule as printed in Glory
+I. Instead, Wilder’s Brigade, when using Defensive Fire,
+adds 3 (+3) to that DR. Wilder’s Brigade does not need to
+be in range of Reynolds or any other leader in order to be
+in Command.
+
+Game Map: Leland Myrick
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger B. MacGowan, Andy
+Lewis, Gene Billingsley and Mark Simonitch
+The Glory III Playtest Crew: Stephen Brasseur, Stephen
+Clark, Brian Horvath, John Iverson, Tom Jones, Duncan
+Lang, Mike Ollier and Arrigo Velicogna
+Proofing: John Ellsworth, Brian Horvath, Vincent Lefavrais, Patrick McGovern, Fabio Patricolo, Rich Shay, Jeff
+Twining and Dean Zadiraka
+
+© 2007 GMT Games and Richard H. Berg
+
+16
+
+Glory III
+
+SEQUENCE OF PLAY
+
+LINE OF SIGHT
+
+A. INITIATIVE DETERMINATION PHASE
+
+Line of Sight is traced from the center of the firing hex to the
+center of the target hex.
+
+1.	Roll the die to see who goes first. (5.2)
+2.	Initiative Player chooses which Command (AM) will start
+the turn, holding out one of that Command’s AMs for the
+first Activation. (4.21)
+
+B. MARKER SELECTION PHASE
+Place all other Activation markers for commands that are either on the map or scheduled to enter that turn in The Pool.
+
+C. ACTIVATION PHASE
+1. Draw Activation Marker from Pool. (Exception: 3.A.2)
+2. Activation Sequence:
+	 a. Command Activation Sequence (4.24)
+		
+i. Combined Activation attempt (4.25)
+	 	
+ii. Artillery Fire (9.0)
+	 	
+iii. Units Move (except for firing artillery) (6.0)
+	 	
+iv. Infantry/Artillery Defensive Fire (10.3)
+	 	
+v. Infantry/Cavalry Charge (10.2)
+	 	
+vi. Rally (for Disordered units that did none
+	 	
+	
+of the above) (11.5)
+	 	
+vii. Remove “Artillery Fired-No Move” and
+	 	
+	
+“No Rally” markers.
+	 	
+		
+		
+		
+
+Repeat the Command Activation Sequence “2.a”
+(Steps i through vii) until the Command of each
+Leader activated by the current AM has completed
+its activation.
+
+b. Remove “Artillery Return Fired” markers.	
+	 c. Set aside the AM drawn for that Phase.
+Repeat the Activation Phase “C” until there are no markers
+left in the Pool. When finished with all Activations go to the
+Recovery Phase “D.”
+
+D. RECOVERY PHASE
+1.	All units in the Recovery Box may check for Return to the
+game (11.6)
+2.	All units in the Withdrawn Box are moved to the Recovery
+Box.
+
+RALLYING UNITS
+•	 If the DR is the same as or lower than its (Disordered) Cohesion flip to its full strength side and, if not stacked with
+another combat unit, reface as desired.
+•	 If the DR is higher than its (Disordered) Cohesion, nothing
+happens.
+
+If the firer and target are on the same level, the LOS is
+clear unless:
+•	 An intervening hex, regardless of its contents, is at an elevation level higher than the firer and target; or
+•	 An intervening hex at the same elevation level contains
+Woods or a Combat Unit.
+If the firer is higher than the target, the LOS is clear unless:
+•	 An intervening hex, regardless of its contents, is at the same
+elevation level or higher than the firer;
+•	 An intervening hex containing Woods is at an elevation
+level only one level lower than the firer;
+•	 An intervening hex containing Woods is at the same or
+higher elevation level than the target and halfway or closer
+to the target; or
+•	 An intervening hex at a higher elevation level than the target
+is exited through a steep or sheer hexside that is closer to
+the target than the firer.
+If the target is higher than the firer, the LOS is clear unless:
+•	 An intervening hex, regardless of its contents, is at the same
+elevation level or higher than the target;
+•	 An intervening hex containing Woods is at an elevation
+level only one level lower than the target;
+•	 An intervening hex containing Woods is at the same or
+higher elevation level than the firer and halfway or closer
+to the firer; or
+•	 An intervening hex at a higher elevation level than the firer
+is entered through a steep or sheer hexside that is closer to
+the firer than the target.
+
+DISORDERED UNITS
+•	 May not use Extended Movement
+• 	May not move adjacent to an enemy combat unit.
+• 	May not Charge, but see 11.14.
+• 	Disordered infantry subtracts one (–1) from Defensive 	
+	 fire if it is the top Combat Unit in a firing Stack.
+• 	Disordered artillery may not fire
+• 	Disordered infantry/cavalry may not Cover (10.12)
+• 	May not be moved to the top of a Stack when adjacent
+	 to an enemy combat unit.
+• 	May not change facing when adjacent to an enemy
+	 combat unit unless they are exiting their current
+	 hex (7.1).
+• 	May be Rallied (11.5)
+
+GMT Games  •  P.O. Box 1308
+Hanford, CA 93232-1308  •  www.GMTGames.com
+© 2007 GMT Games and Richard H. Berg
+
+

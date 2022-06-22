@@ -1,0 +1,2308 @@
+The Conquerors: Alexander the Great
+
+1
+
+The Conquerors:
+Alexander the Great
+Battle Series Rules
+
+RULE BOOK
+Table of Contents
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Introduction ............................................................ 2
+Components ............................................................ 2
+General Course of Play .......................................... 4
+Action Phase Markers (APM) ................................ 6
+Leaders ................................................................... 6
+Provinces ................................................................ 7
+Treasuries ............................................................... 8
+Manpower ............................................................... 9
+Macedonian Weariness ........................................... 11
+
+GMT Games, LLC
+
+10. Movement ............................................................... 12
+11. Combat ................................................................... 14
+12. Rhodes .................................................................... 18
+13. Alexandria .............................................................. 19
+14. The Royal Family ................................................... 19
+15. The Z Cards ............................................................ 19
+16. Solitaire Play .......................................................... 24
+Counter scans ................................................................. 23
+Credits and Sources ........................................................ 24
+
+© 2006 GMT Games, LLC
+
+0604
+
+2
+
+The Conquerors: Alexander the Great
+
+1.0 INTRODUCTION
+The Conquerors: Alexander the Great is a game in which the
+Macedonian Player, representing Alexander III, tries to ‘conquer
+the known world’ of the 4th century, B.C. His opponent, the Persian Player, represents the ‘Great King’, Darius III. Alexander’s
+campaigns were highly logistical, and the game system reflects
+the importance of this factor.
+
+2.0 COMPONENTS
+
+DESIGN AND HISTORICAL NOTE: While we have used the
+Persian satrapial form of government to provide us with ‘provinces’, we occasionally took some liberties, e.g., there was no
+satrap of Phoenicia (the individual city-states, such as Tyre,
+were ruled as separate entities).
+We have left out some of the ‘strongholds’ that Alexander encountered in both Asia Minor and the Frontier, such as the mountain fortress at Termessos in Pisidia, which Alexander bypassed
+as unassailable, mostly because his siege equipment was not
+yet available.
+
+The Conquerors: Alexander the Great contains:
+•
+•
+•
+•
+•
+•
+
+The Paths indicate where there are connections between spaces.
+The type of path determines how many Movement Points it costs
+to move from one Space to another. There are five types of path:
+Land, Mountain/Strait, Desert, Sea/Coastal, and Deep Sea.
+
+1 22" x 32" game-map
+55 cards
+1 sheet of 140 1/2" cardboard markers
+1 sheet of 88 5/8" markers
+1 Rules Book
+3 six-sided dice
+
+2.2 Game Terminology and Acronyms
+The following terms and acronyms are used throughout the rules:
+Action Phase Marker (APM): The markers used for determining who goes, and when.
+
+2.1 The Maps
+The map covers the Indo-Persian Hellenistic known world of
+the 4th century, B.C. Virtually all terrain has been ignored, except where it affects the movement rules.
+The map is divided into Provinces. Control of Provinces is primarily important because it affects each player’s ability to replenish Treasuries.
+Each Province has at least one Space. Spaces can be Minor Cities, Major Cities, Strongholds or Transit Points. The playing
+pieces always use these Spaces for Movement, and all movement must end in a Space (Note: units may not end movement in
+Transit Points).
+
+ASP: Army Strength Point, a generic way of indicating the
+strength of an Army or Tribe. Garrisons have Garrison Strength
+Points (GSPs). Fleets use Naval Strength Points (NSPs), representing squadrons of war galleys.
+Action Round: What a player can do when his APM is drawn.
+Discard: Cards that have been used or played are placed in the
+Discard Pile. Most Discarded cards can eventually return to play,
+but some cards may only be played once per game.
+DRM: A die or dice roll modifier - a number used to adjust the
+die roll.
+
+Leaders
+Naval
+Rating
+
+Non-Persian
+Persian
+Leader
+Stripe
+
+Battle
+Rating
+Siege
+Rating
+Army Unit
+
+Activation
+Phase Marker
+
+In Revolt
+
+Royal
+Family
+
+Royal
+Treasury
+
+Alexandria
+City
+
+Under
+Siege
+
+Devastated
+
+Useless
+
+Persian
+Control
+
+Macedonian
+Control
+
+Bad
+Weather
+
+ASP
+
+ASP
+Marker
+
+Macedonian
+Weariness
+
+Alexander
+Injury
+
+Treasury
+Depleted
+
+Tribe Unit
+Built-in
+leader’s
+Battle
+Rating
+
+Fleet Unit
+
+Garrison
+
+Maximum
+NSP
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+3
+
+Elite Level: The experience and tactical expertise of a given
+Army. Elite Level does not apply to Fleets, Garrisons or Tribes.
+
+Naval Strength Points (NSPs): These indicate the combat
+strength of a Fleet; they are used like ‘change.’
+
+Frontier Provinces: Provinces not under the direct control of
+Persia; e.g., Parthia and Colchis.
+
+Armies: Each player has a maximum of three Armies. An Army
+counter represents the presence of an Army on the map. Its
+strength is indicated by the ASPs in that Army’s Holding Box.
+Each Army has an inherent Leader with a Battle Rating of ‘0’.
+
+Major City: Large ‘urban’ areas with strong, fortified walls.
+These are identified by their hexagonal shape, as well as a number in a circle next to them.
+Minor City: An area, not necessarily just a city or town, identified by the name in each circular Space on the map.
+MP: Movement Points - the cost to use a Path.
+PAT: ‘Play Any Time’ - an indication on a Z Card that it may be
+played at times other than during a player’s Turn. All other cards
+must be played in Phase C/1 of the Action Round. (EXAMPLE:
+a Terrain Advantage card is played as part of a Battle.)
+Strongholds: Natural, and excellent, defensive positions. Indicated by square spaces on map.
+Z Cards: Event cards representing persons, places and possible
+events that may or may not appear or occur during a game.
+
+Fleets: The naval version of Armies, containing Naval Strength
+Points (NSPs). Fleets are identified by who built them, their
+maximum NSP capacity, and the Home Port(s) for that Fleet
+(noted on the reverse side). For example, the Ionic Fleet, which
+starts the game as part of the Persian navy, may use Lesbos,
+Miletus, Chios, or Halicarnassus as a Home Port.
+Garrisons: Used to control and defend Spaces. Each counter is
+worth one (1) Garrison Strength Point (GSP).
+Informational Markers: Used to keep track of various information and locations, as the rules require.
+Leaders: The individuals who command armies, adding their
+abilities to the Armies to which they are assigned.
+
+2.3 The Charts and Tables
+
+Local Tribes: Limited ‘armies’ with GSP, usually located in
+Frontier provinces.
+
+The map has several charts, tables, and boxes that are used to
+help play. To keep track of a variety of items, we suggest the
+following:
+
+HISTORICAL NOTE: The Balkan tribes north of Greece and
+Macedon were not a factor during Alexander’s campaigns, having been subdued by him before he left for Persia.
+
+Alexander Injury Level: This track allows players to maintain
+a record of the effect of extended campaigning and fighting on
+Alexander.
+
+2.5 The Cards
+
+Army Holding Boxes: Place ASP markers in the corresponding
+box for that Army.
+ASP Available Track: Use this track to note how many ASPs
+each Player has left to Raise.
+Battle Resolution Table: Used to resolve land combat.
+Battle/Attrition Loss Table: Used to determine how many ASPs
+a player has lost.
+Macedonian Weariness. This track allows players to maintain
+a record of the effects of extended campaigning and fighting on
+the Macedonian Army.
+Siege Assault Table: Used to resolve assaults on Major Cities.
+
+2.4 The Markers
+The cardboard markers are used to represent what is in a player’s
+Army, and to facilitate various record-keeping tasks (mostly to
+indicate who controls a province).
+Action Phase Markers (APMs): Used to determine who goes,
+and when.
+Army Strength Points (ASPs): These indicate the combat
+strength of an Army; they are used like ‘change’.
+
+The Z Deck contains 55 cards representing persons, places and
+possible events that may or may not appear or occur during a
+game. (See 15.0.)
+
+2.6 The Dice
+The Conquerors: Alexander the Great uses six-sided dice to determine the outcome of certain events. When two or three dice
+are used, the rolls are added together, to get a result of 2-12 or 318, respectively.
+
+2.7 Balance and Game Length
+DESIGN NOTE: Let’s face it, folks, Alexander didn’t get to be
+called ‘the Great’ because he was large. In a space of 3 years
+he smashed three Persian armies and became The Great King
+himself. While it wasn’t as easy as it superficially looks, the
+Persians simply had the wrong army for the job (and Darius
+was no Alexander). To that end, we have made some adjustments; these may not sit well with the hard-line historians, but
+they give the Persians a ‘leg up’ and make the game playable...
+to which is added the fact that the Persian has a bit more hindsight than Darius ever had. And he has a wealth of Talents (if
+not talent) and manpower at his disposal.
+With all that, if Alexander can stay alive and keep his army
+intact, he will eventually win. The Persian task is to make him
+overwork to the point where either Alex dies or his army simply
+says “No Mas”, at which point, regardless of the score, the
+Persian Player has done better than history. The more experienced player should play the Persians. In addition, you can
+
+© 2006 GMT Games, LLC
+
+4
+
+The Conquerors: Alexander the Great
+
+adjust the balance in favor of the Persians (albeit slightly) by
+removing one of the Macedonian APMs from play ... the Macedonian superiority therein (4 to 3) reflecting their overall military and logistical superiority.
+A complete game should take about 3-4 hours, as the rounds
+move rather rapidly.
+
+2. 8 Questions?
+
+The Macedonian Fleet, consisting of Hegelochus and 3 NSPs, is
+placed in Chersonese (Thrace).
+The Macedonian Player may then place up to 5 Garrison Strength
+Points (in total) in any of the Spaces in Europe. Garrisons must
+meet stacking restrictions.
+
+d. The Persians Deploy
+The Persian Player starts with two Armies and the listed Fleets:
+
+Any questions about play? If you’re willing to wait, send your
+questions and a self-addressed stamped envelope to:
+GMT Games
+ATTN: Conquerors: Alexander Qs
+POB 1308
+Hanford, CA 93232
+
+Army #1, consisting of Darius III, the Royal Treasury (Empty),
+the Royal Family, and 42 ASPs, is placed in Susa (Susiana),
+outside the City. The Elite Level of the Army is 1.
+Army #2, consisting of Memnon and 40 ASPs, is placed in
+Cyzicus (Mysia). The Elite Level of the Army is 1.
+The Egyptian Fleet and Pharnabazus is placed in the port of
+Pelusium (Egypt).
+
+Alternatively, you can contact us by email:
+Designer: bergbrog@aol.com
+Developer: wframsay@aol.com
+Publisher: gmtgames@aol.com
+
+The Tyrian Fleet is placed in the port of Tyre (Phoenicia).
+
+For ongoing online support of this game, visit our website at
+www.gmtgames.com. It features a set of ‘Living Rules’ (a set of
+rules that we update regularly), as well as a discussion board
+where you can ask questions and get the latest tips and tricks
+from the designer and developer, as well as other players.
+We can also be found, along with most of the rest of the GMT
+designers and developers, on ConsimWorld’s discussion boards,
+at www.consimworld.com. We heartily recommend this site to
+anyone interested in wargaming.
+
+The Ionic Fleet is placed in the port of Salamis (Cyprus).
+The Persian Player now places up to 30 Persian Garrison Strength
+Points (in total) as he wishes, in any of the Spaces within the
+provinces in the Persian Empire except for Mysia, Bithynia, and
+the Frontier Provinces. Garrisons must meet stacking restrictions.
+
+e. Independent Forces
+The Rhodes Garrison (2 GSPs) and a 4 NSP Fleet is placed in
+Rhodes.
+
+f. Independent Tribes
+
+3.0 GENERAL COURSE OF
+PLAY
+3.1 SETTING UP THE GAME
+There are two players: the Macedonian and the Persian.
+
+a. Leaders
+The players start by setting aside the counters for Alexander III
+(the Great), Antipater, and Hegelochus (Macedonian), and Darius
+III, Memnon and Pharnabazus (Persian). The remaining Leader
+counters for each player are placed either face down or in two
+cups (one for each player), for random selection during the game.
+
+The following tribes are placed in their spaces: the Cadusii
+(Hyrcania), the Uxii (Susiana), and the Nabatanei (Arabaya).
+Note that the Cadusii have 2 GSPs, while all others have 1.
+
+g. Treasuries
+All Treasuries are Full, except for the Persian Royal Treasury,
+which is Empty.
+
+h. Tracks
+Set the Macedonian ASPs Available to 75, the Persian ASPs
+Available to 175, the Macedonian Weariness Level to 0, and the
+Alexander Injury Level to 0.
+
+i. Activation Phase Markers (APM)
+
+b. Z Cards
+Shuffle the Z Deck, and deal 3 cards to each Player. The remaining cards are placed face down for selection throughout the game.
+
+c. The Macedonians Deploy
+The Macedonian Player starts with two Armies and one Fleet.
+Army #1, consisting of Alexander III and 33 ASPs, is placed in
+Perinthos in Thrace. The Elite Level of the Army is 4.
+Army #2, consisting of Antipater and 15 ASPs, is placed in
+Pella (outside the City), in Macedonia. The Elite level of the
+Army is 2.
+
+Historical Opening: The Macedonian player takes one of his
+APMs, setting it aside. That is the game’s first APM. The rest of
+the APMs are placed in an opaque cup (the APM Pool) for blind
+selection.
+Optional Opening: All 7 Player APMs are placed in The APM
+Pool; the Admin APM is left out. A player draws one of the 7 at
+random. The APM chosen indicates which player starts the game,
+after which the Admin APM is immediately placed into the Pool.
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+j. Province Control
+The game starts with all provinces in Europe under Macedonian
+control, and all Persian provinces under Persian control. Persia
+also controls Lesbos, Mytilene, Chios and Naxos. Rhodes is independent, as are the Frontier Provinces (for game purposes).
+Provinces without a Minor City, Major City or Stronghold space
+cannot be controlled, and do not need to be controlled for any
+game purpose.
+
+3.2 THE ACTION ROUND
+The Conquerors: Alexander the Great has no Game-Turns. Play
+consists of alternating Action/Admin Rounds. Play proceeds until
+one of the players achieves victory.
+An Action Round occurs every time a Player APM is selected,
+indicating that a Persian or Macedonian Phase must take place.
+Each such Round is conducted according to the sequence given
+below.
+PLAY NOTE: The actual drawing of the APM is considered part
+of the Action Round.
+
+3.3 ACTION ROUND SEQUENCE OF PLAY
+Each Action Round includes the following steps, in order:
+A. APM Selection Phase
+B. APM Replacement Phase
+C. Player Phase
+1. Play Z Card Segment
+2. Draw Z Card Segment
+3. Activity Segment
+
+5
+
+• No card may be played in the First Round of the game, except
+for a card marked PAT.. PAT cards may be played in the first
+round.
+2. Draw Z Card Segment. Draw one Z card from the Deck (not
+from the discards). No card may be drawn in the First Round of
+the game.
+3. Activity Segment. The Player may now do one of the following:
+• Move and/or Fight with one of his Armies or Fleets
+• Move and/or Fight with more than one of his Armies and/or
+Fleets (if a Major Campaign Z Card was played)
+• Move one Army and conduct Devastation
+• Move any or all of his Leaders
+• Move the Royal Family (if controlled by that Player)
+• Raise new ASPs/NSPs and/or draw one additional Leader
+• Reorganize the ASPs between two or more of his armies, if
+they are Stacked together
+• Declare an Administrative Phase (Note: this may never be done
+twice in succession).
+4. Siege Assault Segment. If the Player has an ongoing Siege in
+progress, he may Siege Assault at this time.
+5. Victory Determination Segment. Players check to see if the
+Macedonian has achieved an Automatic Victory. If not, pick
+another APM at random from The Pool, and start another Action
+Round.
+
+D. Administrative Phase
+If the Player selects an Administrative Phase APM for an Action
+Round, or chooses to undertake an Administrative Phase during
+his Activity Segment, conduct the following actions, in the given
+order:
+
+Detailed Sequence of Play
+A. APM Selection Phase
+Either Player draws an APM from the APM Pool. (This is ignored for the game’s first Round when using the historical opening.)
+
+B. APM Replacement Phase
+The APM from the previous Round is placed back in the Pool.
+(This is ignored for the game’s first Round.)
+
+C. Player Phase
+If a Player APM (Macedonian or Persian Phase) is drawn, that
+Player may undertake the following:
+1. Play Z Card Segment. The Player may play one Z Card, if
+desired. Cards not marked Play Any Time (PAT) may only be
+played at this time. Some cards may (or must) be played in coordination with certain other cards; if that is necessary, it is permissible to play more than one card. If he wishes, the player
+may also Discard any number of cards without playing them.
+• If the Player has 5 Cards in his hand he must either play a card
+or discard a card.
+
+1. Both Players may try to Replenish their Treasuries (7.2).
+2. Both Players may remove or reduce any Garrisons (8.6).
+3. All Devastated, Drought, Bad Weather, and Battle Fatigue
+markers are removed. ‘Useless’ markers may be removed.
+4. Alexander may build an ‘Alexandria’ (13.0).
+5. If the Alexander Injury Level track is at 20 or more, Alexander undergoes an Injury Effect Check (11.3.I).
+6. If necessary, the Macedonians undergo a Weariness check
+(9.0).
+If a player declared an Administrative Phase in the immediately
+preceding Activity Segment, and then draws the Admin APM,
+this APM is ignored. Another APM must be selected. Once the
+new selection has been made, the Admin APM is returned to the
+APM Pool.
+
+• If the player discards, he may not play a card.
+
+© 2006 GMT Games, LLC
+
+6
+
+The Conquerors: Alexander the Great
+
+3.4 How to Win
+The Victory conditions apply solely to the Macedonian, as the
+burden of victory is on him. They reflect the varied objectives
+Alexander appears to have had during his campaigns.
+
+MACEDONIAN VICTORY
+The Macedonian Player wins the game automatically if he satisfies all of the following 3 objectives at the conclusion of any
+Action Round:
+1. Become the Great King. To do this he must do all of the following:
+• Control the provinces of Lydia (Sardes is the capital of Persian Asia Minor), Babylonia, Media, Susiana (Susa is the capital of the Achæmenid Empire), and Persis.
+• Capture or Kill Darius III.
+• Become King of Asia. He does this by having Alexander end
+an Action Round in Gordium (Phrygia), where he cuts the
+Gordian Knot (thereby fulfilling the supposed prophecy, perhaps invented ex post facto, that he who did so would become
+King of Asia).
+• Gain control of the Royal Family and marry a Persian Princess.
+PLAY NOTE: The ability to play several of the Z cards rests
+upon Alexander becoming Great King.
+2. Maintain Hegemony of Greece. He must control all European provinces, none of which may be in Revolt.
+3. Establish his Deity. He does this by:
+• Controlling Egypt (where, as de facto Pharaoh, he becomes
+“The Living God”).
+• Building Alexandria in Egypt.
+• Having Alexander end an Action Round in Siwa (Egypt). (HISTORICAL NOTE: His visit to the Oracle of Amun at the Siwa
+Oasis was followed by the announcement that he was the son
+of Zeus.)
+• Invoking the act of Proskynesis as mandatory. He does this
+either by playing the ‘Proskynesis’ Z card, or by using an entire Action Round to do so (during which no movement, combat or recruiting is allowed), after he has become Great King.
+If he does it as an action, the Army incurs one Weariness Point
+and the card is removed from play.
+
+PERSIAN VICTORY
+The Persian Player wins if Alexander dies before the Macedonian
+can win. The Persian Player can also win if the Macedonians
+fail a Weariness Check and subsequent die roll for Persian Victory (9.0).
+
+4.0 ACTION PHASE
+MARKERS (APM)
+There are two types of APMs: 7 Player APMs (4 Macedonian
+Phase and 3 Persian Phase), and one (1) Admin Phase APM.
+APMs are used to determine who goes next, and what may happen. To do this, the players put all the available APMs into the
+APM Pool at the start of play to be selected at random, except
+for one Macedonian APM held out at the start of the game to
+indicate that the Macedonians go first (when using the historical
+opening). In Phase A, one player (it doesn’t matter which) draws
+an APM from The Pool. The selected APM from the previous
+round is then returned to the Pool in Phase B. Each APM selected starts a new Action Round, and denotes the active player
+for the Action Round. There are no ‘Game-Turns’ as such in the
+game, neither is there a set number of Action Rounds.
+PLAY NOTE: There are always 7 APMs available in the APM
+Pool for selection; the 8th is always outside, having just been
+used.
+If one player’s APM is drawn three times in a row, the opposing
+player gets to undertake a free Action Round when the third is
+drawn. After the free Round is completed, the originally drawn
+APM is undertaken. Note that drawing an Admin APM does not
+interrupt such a ‘threepeat’ sequence.
+EXAMPLE: Two Macedonian APMs have been drawn in a row.
+The next APM drawn is the Admin APM. If the next APM drawn
+is another Macedonian APM, it is considered to be the third in
+a row. In this case, the third Macedonian APM is temporarily
+set aside and the Persian player gets a ‘free’ Action Round.
+Once the Persian Action Round is over, the previously drawn
+Macedonian APM takes effect.
+Important: The APM last selected is not returned to the Pool
+until the next APM is selected. Thus, no single APM marker can
+be drawn twice in succession.
+
+5.0 LEADERS
+5.1 Leader Counters
+All Armies and Fleets have inherent Leaders with a
+Battle and Naval rating of ‘0’. Leader counters provide additional capabilities for these units, in terms
+of rating points. Leaders may be assigned only to
+Armies or Fleets. They may not be assigned to individual ASP
+counters.
+Each Leader counter contains at least one of the following ratings/capabilities:
+Battle Rating—Land Battle Capability: This is a DRM for Land
+Battles, and whenever use of the Battle Rating is called for.
+Naval Rating—Naval Battle Capability: Used as a DRM when
+resolving Naval Combat.
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+Each player starts the game with certain Leaders. Other Leaders
+become available only when drawn at random during an Action
+Round.
+When a player wishes to add a Leader, he does so as part of a
+Recruit action in his Action Phase for that APM. He places his
+available Leaders in a cup and draws one from that pool, placing
+him wherever he wishes.
+A player is only obliged to reveal a Leader when it is assigned to
+an Army or Fleet. Otherwise, the player may keep that Leader in
+his ‘Hand’.
+Persian Leaders are designated as being Persian or non-Persian,
+the reasons for which become clear when you use the ‘Satrapial
+Insubordination’ Z Card (see 15.0 for detailed descriptions of
+the Z Cards).
+
+5.2 Overall Command
+The Overall Commander (OC) for each side is that country’s
+King. For Macedon it is Alexander III. For the Persians, at least
+at the start of the game, it is Darius (also the) III, The Great
+King.
+A player’s OC is always in command of that side’s #1 Army. In
+addition, no other army may be larger, in terms of ASPs, than
+the #1 Army. If, for whatever reason, a player’s #1 Army strength
+falls below this level, that player may not undertake any other
+action with another Army until he brings Army #1 up to strength.
+
+5.3 The Great King
+The Great King at the start of the game is Darius III. If Darius is
+killed, the Persian Player may anoint in his place any Leader he
+has in his hand or in Play, as long as the Persian player controls
+at least one Treasure City. The Persian may not appoint a new
+Great King if Alexander becomes Great King, or the Persian
+controls no Treasure Cities..
+HISTORICAL NOTE: When Darius fled after the battle of
+Gaugamela (Assyria, 331 BC), he was assassinated by Bessus.
+Bessus assumed the title as Artaxerxes IV, only to be handed
+over to Alexander by Spitamenes ... who then promptly revolted.
+
+7
+
+so, for play purposes, we consider them Frontier.
+Each province has at least one Space, not including Transit Points.
+Major City. These spaces may not be attacked by land battle if
+there are ASPs or GSPs Inside: instead, they must be taken by
+Siege (or Surrender). Major cities have a + or - number in a
+circle next to their location. This indicates their defensive DRM
+when besieged.
+Stronghold. These are cities built in naturally strong positions
+which greatly increase the defensive capability of the defenders.
+They may not be besieged; units in strongholds must be attacked
+by regular land battle.
+Port. Any Space to which a Sea Path runs is considered a Port.
+Lesbos, Mytilene, Chios, and Naxos. These islands are not provinces, nor are they part of any province. Occupation/control confers only port capabilities and uninterrupted naval movement.
+
+6.2 Provincial Control
+Provincial control is necessary for:
+• Victory (Macedonian Player)
+• Replenishing Treasuries (both Players)
+• Raising ASPs (both Players).
+A Player controls a province under one of the following conditions:
+1. He is the sole Player to have an Army or Garrison in that
+province.
+2. He is the sole Player to have a Fleet in a Port of that province,
+and there are no enemy Armies or Garrisons in the province.
+Fleets do not allow you to place a garrison.
+The presence of Tribes has no effect on control of a province.
+Devastation and Drought have no effect on Control. Provinces
+in Revolt are controlled by neither player.
+Players should use the Control markers to indicate who controls
+a province, although they may not be necessary in some areas of
+the map, as control will be obvious.
+PLAY NOTE: If a player controls a province because he has a
+garrison, and that garrison is removed (for whatever reason),
+he loses control of that province.
+
+6.0 PROVINCES
+6.1 Land
+The land mass is divided into Provinces. Islands are not provinces unless they are listed on the Revolt table.
+
+6.3 Revolts
+A Revolt may occur in any province listed on the
+Revolt Table with a numerical Revolt Rating. Revolts are triggered by the play of a Z Card.
+
+EXAMPLE: Crete and Cyprus are provinces; Lesbos and Chios
+are not.
+Provinces belong to one of the three “political” divisions:
+Europe: Province boundary in Green.
+Frontier Provinces: Province boundary in light yellow.
+Persian Empire: All other provinces.
+
+A generic Revolt card allows the player to choose in which province he wishes to attempt to foment revolt.
+
+DESIGN NOTE: Some of the Frontier provinces were part of
+the Persian Empire. However, the Achæmenid writ did not extend across the Zagros Mountains in anything other than name;
+
+When an opportunity to foment Revolt arises, the player consults the Revolt Table, names his province of choice, and rolls
+one die. If the die roll is less than or equal to that province’s
+
+Some cards specify the province. Those cards usually require no
+die roll, as Revolt is automatic.
+
+© 2006 GMT Games, LLC
+
+8
+
+The Conquerors: Alexander the Great
+
+Revolt Rating, that province is now In Revolt. Place an In Revolt marker in the Province. Army and Fleet markers remain,
+but any garrisons are removed.
+Provinces In Revolt are not controlled by either player. They
+may not be used for Treasury Replenishment. The Macedonian
+Player may not consider provinces his for victory purposes while
+they are In Revolt.
+To Quell a Revolt, and (re)gain control of that province, either
+player must end movement in any Space in the Province with an
+Army whose total ASP Strength is equal to or greater than three
+times (3x) the province’s Revolt Range, at which point the In
+Revolt marker is removed. (Thus, it would require an Army of at
+least 9 ASP to quell a Revolt in Armenia, which has a Revolt
+Rating of 3.)
+Frontier Provinces may not Revolt.
+PLAY NOTE: Initially, it may seem that any revolt in Greece is
+a waste of time. However, remember that Alexander must maintain control of all European provinces to win.
+
+7.0 TREASURIES
+7.1 Treasuries
+There are eight (8) Treasure Cities on the map. These function
+as Supply Depots, providing the financial backing and materiel
+needed for military campaigns. There is also the Persian Royal
+Treasury marker, which may move and be used for local, instant
+‘supply’. In order to Raise ASPs and NSPs, and to engage in
+land combat at full strength, a player must have a Line of Communication back to one of his Treasuries.
+The Macedonian Treasury is in Pella. All Macedonian LOCs
+must be traced there, until Alexander gains control of another
+Treasure City.
+
+• Raise ASP (automatic Treasury Reduction )
+• Raise/Refit a Fleet, or add NSP to an existing Fleet (automatic
+Treasury Reduction)
+• Giving an Army extra Movement Points (possible Treasury
+Reduction). An Army may move up to three (3) MPs (4 MPs
+if led by Alexander) without needing a Treasury. An Army
+which starts the Action Round with a LOC to a Depleted or
+Full (not Empty) Treasury may move up to 6 MP. After finishing movement, the player rolls the die, adding to that die roll
+the number of MPs (not Spaces) used by the Army, above the
+basic movement allowance of 3 MPs. If the adjusted die roll
+is 6 or more, the Treasury used for the extra MPs is Reduced.
+An Army must be able to trace a LOC to a Treasury in order to
+engage in Land battle at full strength, whether attacking or defending.. However, a Treasury never incurs Reduction when used
+in this way.
+EXAMPLE: Persian Army # 2 is in Sippara (Babylonia), with a
+LOC to the Full Babylon Treasury. The Army moves using 5
+MP. The Persian Player rolls the die, getting a 3. Even after
+adding 2 (for the 2 extra MP), the total is less than 6, so the
+Babylon treasury remains Full.
+When Reduced, Treasuries go from Full to Depleted, or from
+Depleted to Empty. The Royal Treasury goes from Full to Empty.
+Multiple uses, e.g., raising ASPs for Armies in different spaces,
+bring about multiple reductions.
+Replenishing Treasuries
+Players Replenish their Treasuries in Administrative Phases. To
+replenish an individual Treasury, the player rolls one die, and
+may add the following modifiers to that die roll:
++1 for the province the Treasure city is in
++1 for each province adjacent to the Treasure city’s province.
+
+A player who gains control of an opponent’s Treasure City may
+use that city as a treasury.
+
+Each province used towards modifying the die roll must be controlled by the player seeking Replenishment, and may not be a
+Frontier Province, Devastated, In Revolt, or suffering a Drought.
+(Examples: Damascus, in Abarnahara, has 4 adjacent provinces.
+Parthia cannot be used to replenish Ecbatana, even though it is
+adjacent.)
+
+7.2 Using and Replenishing Treasuries
+
+A Treasure City may be replenished one level per Admin Phase.
+
+The Persian Player starts with 7 Treasure Cities: Sardes, Damascus, Memphis, Babylon, Susa, Ecbatana, and Persepolis.
+
+Treasuries enable players to undertake a variety of actions. In
+many cases, using a treasury reduces that treasury’s ability to
+enable further actions. Treasuries are always at one of three levels: Full, Depleted, or Empty. The last two levels are indicated
+by Treasury Level markers.
+The Memphis Treasury can never be Reduced; it is always Full.
+The Royal Treasury marker has only two levels: Full and Empty.
+To use a Treasury, units must be able to trace a Line of Communications to it. An Empty Treasury may not be used for any purpose other than removing ‘Useless’ status.
+Treasuries are Reduced when used for one of the following purposes:
+
+A province can only be used for one Replenishment die roll. A
+province used to Replenish the Royal Treasury may not be used
+as a replenishment die roll modifier in the same phase.
+PLAY NOTE: The last item becomes important when the Persian player seeks to replenish his 4 eastern Treasure Cities.
+If the adjusted die roll is ‘7’ or higher, increase the level of that
+Treasury by one (i.e. from Empty to Depleted, from Depleted to
+Full). If the adjusted die roll is lower than ‘7’, the Treasury level
+remains unchanged. (Fire your tax collector ... he drew a blank.)
+PLAY NOTE: The Persian Royal Treasury replenishes in a different manner (see 7.4).
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+In an Administrative Phase, the Macedonian Player may use one
+of his Treasuries to replenish another to which it can trace a
+LOC (thereby reducing the Treasury which provided the Replenishment), without a die roll.
+EXAMPLE: The Macedonians control both Ecbatana and Babylon. The Babylon Treasury is Full, while the Ecbatana Treasury
+is Empty. In an Admin Phase, Alexander may reduce the Babylon Treasury to Depleted in order to raise the Ecbatana Treasury to Depleted.
+
+7.3 Lines of Communication
+In order for a Player to use or Replenish his Treasuries (or Raise
+ASPs), he must have a Line of Communication to one of his
+non-Empty Treasuries.
+A Line of Communication (LOC) is traced in Movement Points
+(not Spaces) from the relevant units to the Treasury. The Movement Points may be either naval or land, or a combination of
+both; see the Movement Rules for Movement Point costs. A LOC
+may not be traced through an enemy-controlled Space. It may
+be traced through an uncontrolled or friendly Space, even if that
+Space is in a province that is uncontrolled, Devastated, or suffering a Drought.
+Land LOC:
+• A Macedonian Land LOC may not be longer than ten (10)
+MPs.
+• A Persian Land LOC may not be longer than eight (8) MPs.
+Naval LOC:
+Both sides may
+• trace a Naval LOC no longer than eight (8) MPs back to a
+Treasure City, or
+• trace a Naval LOC no longer than two (2) MPs back to any
+friendly occupied Port (that is not under Siege).
+PLAY NOTE: For the Naval LOC, you may trace either one or
+the other; the two may not be combined.
+Desert LOC Costs. Although it costs only 1 MP to use a Desert
+Path for movement, it costs 2 MP when computing LOC.
+A LOC being traced by sea may be broken by a player declaring
+an Interception in the Sea Space through which the LOC is being traced. If LOC interruption is successful, move the Intercepting fleet to the Sea Space where the Interception took place.
+No combat is undertaken.
+A LOC being traced across a Strait may be broken using the
+above method. However, it may not be intercepted if the player
+tracing the LOC has a Fleet in a Port hex that is part of that
+Strait.
+EXAMPLE OF A LOC: A Macedonian army is in Aradus, with
+a Persian army just north of it, in Myriandrus. The only Asian
+Treasure City controlled by the Macedonians is Sardes, and the
+Persians in Myriandrus block LOC by land. The Macedonian
+can trace one Naval MP to Salamis (which is not occupied by
+anyone) and then a second Naval MP to a likewise unoccupied
+
+9
+
+Aspendus. From Aspendus, it is only 4 Land MPs to Sardes,
+and a LOC is established.
+
+7.4 The Royal Treasury
+Darius may travel with his own ‘treasury’. His is the
+only Persian Army that may do so. The Macedonian
+player may use the Royal Treasury if he captures it, as
+explained below. The Royal Treasury is treated and used like a
+Treasure City, except that it is mobile, local, and easily reduced.
+The Royal Treasury may be used only by units in the same Space.
+The Royal Treasury may only move with an Army-it may never
+move with a Fleet.
+A player may replenish his Royal Treasury in an Admin Phase if
+the Royal Treasury is in the same space as a Treasure City. Replenishment is automatic (no die roll is necessary). However,
+remember that a province used to Replenish the Royal Treasury
+may not be used as a replenishment die roll modifier in the same
+phase.
+If stacked with a defeated Army, the Royal Treasury will retreat
+with that Army [Exception: if the entire Army is eliminated, the
+victor captures the Royal Treasury]. In addition, if Darius ‘Flees’
+at the end of any Land Battle, the Macedonian Player captures
+the Royal Treasury and may use it himself.
+
+8.0 MANPOWER
+8.1 Armies
+Each Player may have a maximum of three Armies in play on
+the board at any one time. Each Army is represented on the board
+by its Army counter. An Army’s ASP strength is indicated by the
+ASP counter(s) corresponding to the numerical strength of that
+army that are in that Army’s Box (or under the Army counter, if
+you like stacks). To that end, ASPs are used like change. Any
+denomination of ASP counter can be used, as long as the counters’
+ASP total is the same as the total number of ASPs actually in
+that Army at any given time.
+EXAMPLE: At the start of the game, Antipater’s Army has 15
+ASPs. Place ASP markers totaling 15 in the Macedonian Army
+#2 Box.
+DESIGN NOTE: Yes, this is very generic. However, the tactical
+‘expertise’ of the armies and breadth of their weapons systems
+is indicated by their Elite Level (below) and the capabilities of
+their Leaders. The game is far too strategic in nature to differentiate between infantry and cavalry.
+ASPs may be placed in a Space without an Army, but ASPs that
+are not part of an Army may not move, attack, or avoid battle.
+They may Retreat; see 11.3/E. They become de facto garrisons,
+although they may be added to an Army as part of a Reorganization action.
+If two Armies are in the same Space at the start of an Action
+Round, the player may, as his action for that round (Reorganization), change and reassign the ASPs and Leaders in each army.
+Players may also use Reorganization to take ASPs that are on
+
+© 2006 GMT Games, LLC
+
+10
+
+The Conquerors: Alexander the Great
+
+the map but not part of an Army, and incorporate them in any
+Army that is in the same Space as the ASPs.
+PLAY NOTE: Moving armies may not pick up additional ASP
+during Movement. That can only be done by Reorganization,
+which is an action that precludes Movement.
+If any Battle Fatigued or Useless ASP is combined with other
+ASPs, all ASPs in the combined ASPs or Army also become
+Battle Fatigued or Useless. (Useless takes precedence over Battle
+Fatigued, if units of each status are combined.) If the Elite Levels of the ASPs to be combined is different, the combined ASPs
+or Army take the Elite Level of the largest group of ASPs, minus
+one Level (to a minimum Elite Level of zero). If the ASP groups
+or Armies to be combined are of the same size, the Elite Level is
+the highest Elite Level minus one.
+
+8.2 Elite Levels
+Each Army has an Elite Level; use a number marker to indicate
+this in the Army’s Elite Level box . The Elite Level may go up or
+down, depending on battle results. New Armies and non-Army
+ASPs have an Elite level of ‘0’.
+Elite Levels go up by one each time an Army
+• wins a battle against an enemy (whose force is more than half
+the Army’s ASPs) with at least twice as big a Battle Score as
+the Loser
+• takes a Major City by Siege Assault
+• plays an ‘Increase in Training and Tactics’ Z Card on any Army
+at Elite Level 3 or lower.
+Elite Levels go down by one each time an Army Loses a Battle,
+regardless of both the Battle Score differential, and whether the
+opposing force consists of ASPs or GSPs.
+The maximum Macedonian Elite Level is ‘5’. The maximum
+Persian Elite level is ‘3’. The minimum is ‘0’.
+DESIGN NOTE: The differences between the Macedonian and
+Persian Elite maximums is indicative of their respective weapons systems.
+
+8.3 Raising Armies
+The number of ASPs that may be raised during the course of the
+game is limited, as detailed below. Players must keep track of
+the number of ASPs raised so that they do not exceed this level,
+using the individual ASP tracks for this purpose.
+• Maximum Macedonian ASP Available to be raised: 75
+• Maximum Persian ASP Available to be raised: 175
+To raise ASPs, the player must have a Line of Communications
+(7.3); he then rolls three dice (3d6), adding them. That is the
+number of ASPs he has raised. The Treasury that is used to raise
+these new ASPs is reduced one level. The ASP Available Track
+is reduced by the number of ASPs raised.
+PLAY NOTE: The ASP maximums do not include the ASPs with
+which the players start the game.
+Raised Macedonian ASPs are placed with:
+
+• any Army presently on the map, as long as
+1. that Army can trace a LOC of any length to Pella
+2. Pella’s Treasury is not Empty
+• any new Army, which may be placed in any friendly Space in
+any Macedonian-controlled province within the standard LOC
+of a Full or Depleted Macedonian Treasury. To do this, the
+Macedonian Player must have a Leader in that province, or
+have one in his hand available for immediate placement with
+the newly raised ASP.
+Raised Persian ASPs must be placed in any of the following
+Persian-held Treasure Cities: Ecbatana, Babylon, Susa, or
+Persepolis. They may be divided among these cities, but they
+may not be placed elsewhere. If the Persian Player does not control any of these Treasure Cities, he may not Raise any ASPs,
+regardless of how many provinces he controls.
+PLAY NOTE: He does not have to use the treasury from that
+city to raise ASP; the restriction is on the location of the actual
+ASP.
+Eliminated ASPs are not re-usable in terms of the ASP track; the
+ASP markers themselves are always available for use as needed.
+Eliminated ASPs may not be added back to the ASP Available
+Track. The ASP Available Track can only decline during a game;
+it never increases.
+
+8.4 Fleets
+Fleets are composed of squadrons of War Galleys, represented
+by Naval Strength Points (NSPs). The Fleets available in the
+game are named according to place of Origin, and are limited to
+the Fleet markers in the countermix. Use the Fleet counters and
+the NSP markers in the same fashion as for Armies. The maximum NSP strength for each Fleet is printed on that Fleet marker.
+Fleets have Home Ports, which are listed on the back of their
+counters. This is where they may be brought back into the game
+if eliminated (as long as the province for that port is controlled
+by that player).
+EXAMPLE: the Ionic Fleet of the Persian Navy may be raised
+anew in Lesbos, Miletus, Chios or Halicarnassus.
+
+8.5 Raising Fleets and NSP
+Some Fleets do not start the game deployed. The following Fleets
+do not Deploy, but are available, as below:
+• Greek (will start in Athens; available only through card play)
+• Cypriot (will start in Salamis)
+• Phoenician (will start in Aradus, Byblos or Sidon).
+The number on the counter is the NSPs that Fleet starts with
+when it enters the game. That level can be reduced by combat,
+and it may be restored by building new NSPs. It may never go
+above that level.
+Fleets belong to whoever controls the Home Port(s) for that Fleet,
+listed on the back of the counter. Whoever controls all the Fleet’s
+Home Port(s) may also raise that Fleet, either for the first time
+in the game or after it is eliminated. If the Fleet is not on the
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+map, the player must be able to trace a LOC from a Treasury to
+the port in which it is raising this new Fleet, and then reduce that
+Treasury. That Treasury may be used to raise more than one Fleet
+(and/or replace NSPs in an on-map Fleet), but it still suffers only
+one level of reduction.
+Control of the Greek Fleet is determined by instructions on the
+‘Greek Fleet’ Z Card, if played.
+If a player gains control of a Fleet that had been controlled by
+his opponent, and that Fleet is stacked in the same Space as other
+Fleets controlled by his opponent, the Fleet’s new controller may
+move his new Fleet up to 4 MPs. This is not a separate action by
+the moving player; it is considered part of gaining control. Interception is not allowed by the Fleets in the Space from which it is
+moved, but Interception is allowed from other spaces.
+EXAMPLE: The Persians have the Tyre, Egypt and Ionic Fleets
+in Tyre. Alexander, as part of a move, takes and controls the
+ports of Lesbos, Mytilene, Miletus and Halicarnassus. The instant he does that, he gains control of the Ionic Fleet and may
+move it 4 MPs away from Tyre. The Persian Tyre and Egypt
+fleets may not intercept it as it moves away.
+PLAY NOTE: Using the same treasury to both raise ASPs and
+build NSPs will reduce that Treasury twice. As a result, only a
+Full Treasury can do this, after which it will be Empty.
+Refit: Destroyed Fleets may always Refit (be raised anew) in
+their Home Port, as above. Fleets with reduced NSPs can be
+brought up to strength in the same manner; they, too, must be in
+their Home Port to do so.
+PLAY NOTE: For example, you can’t add NSPs to the Egyptian
+Fleet in Tyre, even if you control both Tyre and Pelusium.
+
+8.6 Garrisons
+Garrisons—small forces left behind to control cities, towns, and provinces—are represented by Garrison Strength Points (GSPs). Garrisons are raised
+and placed as part of a Movement Action. No LOC
+is needed. They may be removed freely as part of an Admin
+Phase.
+A player who gains control of a Space, or who moves into or
+through an uncontrolled Space, may place a garrison therein.
+There is no Movement cost to do so, but he must have GSPs
+available. The moving Army is not affected by the placement of
+the Garrison.
+Each garrison counter is worth one GSP. The number of GSPs
+that a Player may have on the map at any one time is limited by
+the number of GSP counters available: Macedonian [20], Persian [30].
+• A Major City may hold up to 10 GSPs (and any number of
+ASPs) Inside the City. GSPs may never be placed outside a
+city.
+
+11
+
+GSPs are similar to ASPs. However, GSPs may not move, retreat or Intercept. They cannot attack; they will defend if attacked.
+When taking losses, a player may not take more losses in GSPs
+than ASPs, unless all ASPs are eliminated. If the ASPs have to
+retreat, any remaining GSPs (after losses are taken) are eliminated.
+EXAMPLE: A Persian Army of 27 ASPs in Issus, which also
+has 3 Persian GSPs, is defeated by the Macedonians and must
+lose 4 ASPs/GSPs. The Persian eliminates 2 GSPs and 2 ASPs,
+retreats his Army of ASP, and then also removes the 1 GSP left
+as the Macedonian Army takes over the Space.
+Eliminated GSP markers are available for use in any Round after the one in which they were removed.
+
+8.7 Tribes
+Some Spaces start the game occupied by
+Tribes (e.g., The Uxii in Susiana). Tribes
+are ‘independent’; no-one controls or
+moves them. They are treated like GSPs,
+except that once eliminated, they may not return to play. Tribes
+have no effect on the control of a province. When attacked, the
+attacker’s opponent rolls any necessary dice on the Tribes’ behalf.
+Tribes do block LOC, as they are not friendly to either player.
+Armies must stop when they enter a Space occupied by Tribes.
+
+9.0 MACEDONIAN
+WEARINESS
+DESIGN NOTE: As Alexander’s campaign drew onwards, his
+army, sated by loot and battle, and tired of risking death against
+recalcitrant locals, longed to return home. First they balked
+while on the Indian Frontier, upon which Alexander was forced
+to re-organize his army. They eventually mutinied in Babylon
+(323 B.C.), forcing Alexander to change some of his plans and
+begin to head for home. However, Alexander died before he
+could do this.
+To simulate this, we have the Macedonian Weariness Track and
+possible Check, conducted during every Administrative Phase
+which is brought about by the draw of the Admin Phase APM.
+The Weariness Level is adjusted as follows.
++1:
+
+each Round in which a Macedonian Army uses more
+than one Desert Path to move (not including Retreats,
+Avoidance or Interceptions). Example: a Macedonian
+Army moving from Jerusalem to ‘the Nabatanei’ would
+earn a Weariness point.
+
++1
+
+for each Land battle involving a Macedonian Army
+outside Europe, against a Persian Army of 10 or more
+ASPs/GSPs (more than half of the Persian strength
+points must be ASPs).
+
++1
+
+at the conclusion of any Siege, regardless of result, except for sieges concluded by Surrender.
+
+• All other spaces may hold a maximum of 3 GSPs, in addition
+to ASPs.
+
+© 2006 GMT Games, LLC
+
+12
+
+The Conquerors: Alexander the Great
+
++ or –1 for each specific Z Card played. EXAMPLES: ‘Mass
+Marriage’, ‘Alexander Goes Native’.
+–5
+
+for each Mutiny.
+
+In every APM-generated Admin Phase in which a die roll is
+needed, the Macedonian Player rolls the die, adjusting it by the
+Weariness Level. If the adjusted die roll is 20 or more, the army
+with Alexander has mutinied. (Obviously, a die roll will not be
+needed until later in the game.)
+When Alexander’s Army Mutinies, the Macedonian Player rolls
+the die; the result is the number of Macedonian Army ASP removed from play, as if they were eliminated.
+
+Desert Paths: 1 MP to use when moving, but cost 2 MP when
+tracing LOC
+Deep Sea: 4 MP. Using Deep Sea paths may incur losses from
+Storms. May not be used to trace a LOC. [These paths represent
+the deep sea routes that cross the Eastern Med, north to south,
+which were often hazardous for the ships of the time.]
+Transit Points: These red dots represent areas that are not important for determining control or victory. They are treated as
+normal Spaces for Land movement, except that no unit may end
+its movement in a Transit Point. Therefore, no combat may take
+place in a Transit Point.
+
+Persian Victory through Macedonian Weariness: If Alexander’s
+Army mutinies, roll one die again. If that die roll is lower than
+the number of Treasure Cities still held by the Persians, the Persians win the game.
+
+Movement costs may be increased by Bad Weather.
+
+10.0 MOVEMENT
+
+10.3 Stacking
+
+When it is a Player’s Action Round he may move any one (1) of
+his Armies or Fleets. Play of a Major Campaign Z Card allows
+the player to move more than one Army and/or Fleet, as stated
+on the card.
+
+10.1 Land Movement
+Armies have a movement capability of 3 MPs without a LOC (4
+for Alexander’s army). This can be extended to up to 6 MPs
+with a LOC, at the risk of possible Treasury Reduction.
+Exception: If a Persian Army includes the Royal Treasury it
+may move no more than 4 MPs per round. Alexander’s army’s
+maximum MP allowance is reduced to 5MPs if it carries the
+Royal Treasury. (The baggage train for Darius’ treasury was immense, and greatly restricted rapid movement.)
+Movement from one space to another must be by a path (land or
+sea). Units may not stop in a Transit Point.
+A player must state how many MPs he is going to use before he
+moves his Army. He may actually use less, but he may never use
+more than he declares.
+PLAY NOTE: It is the amount stated that determines possible
+treasury reduction, not the amount of MPs actually used.
+A Player moving an Army can always drop off ASPs (at no cost)
+in any Space through which his army moves. However, an Army
+must use Reorganization to add ASPs to its strength by picking
+up ASPs which are already on the map.
+ASPs may only move if they have been assigned to an Army.
+
+10.2 Land Movement Costs
+It costs 1 MP to use any Path, land or sea, with the following
+exceptions:
+
+Units entering and staying in an otherwise unoccupied Major
+City Space must state whether they will be Inside or Outside
+that city (using a marker to indicate their status). There is no MP
+cost to do so.
+There is no limit to how many ASPs may be in any one Space.
+However, a player may have no more than 10 GSPs (and any
+number of ASPs) Inside a Major City. A player may have no
+more than 3 GSPs (and any number of ASPs) in a non-Major
+City space. ASPs from opposing sides may not end any Action
+in the same Space.
+PLAY NOTE: A moving Army can end its movement in an enemy-occupied Space, but that will cause combat, at the end of
+which one of the Armies will leave the Space.
+A moving Army must stop when it enters an enemy- or tribaloccupied Space. However, if the stationary unit is Inside a Major City, the moving units may either continue to move (subject
+to Interception), or stop and declare a Siege.
+If the stationary units are Outside a Major City, or in a nonMajor City Space, they may
+• be subject to Overrun
+• attempt to Avoid Battle
+• be reinforced, if subject to attack, by friendly Intercepting units.
+
+10.4 Reorganization
+A Player may Reorganize two or more Armies as his Action
+Round, if both armies start the Action Round in the same Space.
+He may combine or rearrange the strength of the armies in any
+way he sees fit, as long as the Overall Commander ASP restrictions are followed. Such an undertaking is the only Action he
+may perform.
+A Player moving can always drop off ASPs at no cost in any
+Space through which his army moves.
+However, an army must use Reorganization to add ASP to its
+strength by picking up ASP already on the map.
+
+Mountains, Mountain Passes and Straits: 2 MP
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+10.5 Overrun
+If a player moves an Army into a Space containing enemy ASPs
+or GSPs that are not Inside a Major City, and the moving Army
+has at least an 8-to-1 numerical superiority, the stationary units
+are all eliminated, unless they can Avoid Battle. Overrunning a
+smaller force in this way costs no Movement Points, and the
+victorious Army may continue Movement. Overruns do not raise
+Elite levels, nor do they cause any Battle Fatigue. If the conditions for Overrun are met, a Land Battle may not take place in
+that Space instead.
+
+10.6 Interception
+A moving Army may be intercepted by an enemy Army if moving on land, or an enemy Fleet if moving by sea. A moving Fleet
+may be intercepted by an enemy Fleet.
+If an Army (or Leader moving alone) moves into a Space that is
+connected directly by a single Land Path to a Space containing
+an enemy Army, the enemy Army may attempt to intercept the
+moving unit(s).
+Units moving by Sea Lanes may be Intercepted by enemy Fleets
+within two Naval MPs of the target Space.
+
+Land Interception
+To intercept on land, roll one die. Modify the die roll by adding
+the Battle Rating of any friendly Leader who is with the intercepting Army. If the modified die roll is 6 or more, the Interception succeeds. Move the intercepting army into the target Space
+and proceed to Land Battle (including Avoidance). The intercepting army is now the Attacker. If the modified die roll is less
+than 6, the Interception does not take place, and the moving Army
+may continue its movement.
+There are restrictions to Land Interception.
+• You may not Intercept using a Mountain Pass, Strait or Sea
+path.
+• An Interception using a Mountain path incurs a –1 DRM. [Note
+that a Mountain path is not the same as a Mountain Pass path.]
+• Armies may not intercept Fleets.
+• Armies Inside Major Cities which are under Siege may not
+Intercept.
+• Armies which are targeted for Interception after moving into
+a Major City Space may not move Inside the city to escape the
+Interception.
+
+13
+
+• Lanes of Interception may not be traced through Enemy Fleets
+(as opposed to into them).
+• Fleets may not intercept Armies moving on Land.
+Fleets may intercept Armies moving by Sea. [See the rules for
+Naval Movement, and 11.5.]
+EXAMPLE: An Army in Pella wants to move to Ephesus by sea.
+It moves from Pella to the Transit Point in the Aegean Sea just
+to the south of Macedonia, and then to Lemnos, intending to
+proceed from there to Ephesus, via Mytilene and Chios. However, an enemy Fleet based in Ilium announces that it will attempt to Intercept the moving units as they pass through Lemnos,
+2 Naval MPs away.
+
+10.7 Naval Movement
+The Fleets in the game represent war galleys used for combat
+and other military objectives. Armies may move by sea (Transport) without any naval counters of any kind, although it helps
+their survival rate if accompanied by a Fleet.
+Armies move by sea using the Sea Paths as if they were Land
+Paths, with appropriate costs. They are subject to Interception
+(at sea) by enemy Fleets.
+A Fleet controlled by one player may co-exist in a Port with an
+Army belonging to his opponent. There cannot be any combat
+between the two.
+Units may use no more than 4 MPs for Naval Movement. Armies
+may combine land and sea movement, but they may use each
+type of movement only once during a single action (e.g. Land +
+Sea, or Sea + Land is permitted, but not Land-Sea-Land or SeaLand-Sea). Any land movement is always considered as above
+the MPs expended for Naval movement, and the Land Movement is subject to the standard LOC and potential Treasury expenditure rules.
+EXAMPLE: An Army decides (see 10.1) to use 5 MP for its
+Movement. It moves 1 MP to a Port and then moves 4 MP by
+sea to another Port. It has used its allotted MP for that activation, but even if it has a remaining MP it could not have used it
+for Land Movement (as it has already moved by Land) or Naval
+Movement (because it has used its 4 Naval; MP maximum).
+A moving Fleet or Transported Army may not pick up additional
+Fleets along the way and continue movement. Only Fleets that
+start in the same Space may move together.
+
+A single Army may attempt to intercept a moving enemy force
+in each eligible adjacent Space it enters during that movement,
+if the intercepting player so desires. Moreover, more than one
+Army may attempt to intercept a moving force.
+
+Regardless of the number of accompanying Fleets, no more than
+15 ASPs plus any number of Leaders may be Transported by sea
+in a single Action.
+
+Naval Interception
+
+Fleets do not need a leader (Admiral) to move. It should go without saying that a Fleet may never move ‘inland’!
+
+Units moving by Sea Lanes may be Intercepted by enemy Fleets
+within two Naval MPs of the target Space. Naval Interception is
+automatic, but there are restrictions.
+
+Fleets need to trace a LOC to move. If they cannot trace a LOC,
+they may not move.
+
+• Deep Sea Lanes may not be used for Interception purposes.
+
+Units moving along Deep Sea Lanes:
+• may not combine such movement with Land movement, and
+
+© 2006 GMT Games, LLC
+
+14
+
+The Conquerors: Alexander the Great
+
+• are subject to the ‘Storms at Sea’ Z Card [Play note: the effect
+of these storms can be quite brutal].
+
+11.0 COMBAT
+
+10.8 Leader Movement
+
+A land battle is initiated when an Army moves into a Space containing an enemy Army or Garrison, and those units do not or
+cannot Avoid Battle [Exception: if Overrun applies, no Land
+Battle occurs. See 10.5]. A battle forces the moving Army to
+stop moving. If victorious, the attacking Army may resume movement (if it has MP remaining). The moving Army is the attacker;
+the stationary Army or Garrison is the defender.
+
+Leaders usually move with their Armies or Fleets. However, a
+player may move any number of Leaders, alone, as his Action
+for that Round. Leaders do not pay any movement costs. They
+may move anywhere (and thus have a rather extended range),
+but they are subject to Interception. If Intercepted they are considered Captured, and are removed from the game.
+
+10.9 Devastation
+A Player may choose to Move and Devastate as the
+action for his Round. Only Armies may Devastate a
+province; Fleets, garrisons and Local Tribes may not.
+Armies involved in a Devastation Action may not
+engage in combat that Round, which means they may not enter
+an enemy-occupied Space that Phase. An Army may Devastate
+only if that entire province has no enemy presence. [Exception:
+You may devastate a province that has an enemy Garrison (not
+Army) Inside a Major City.]
+Devastation is part of Movement, and uses MPs in addition to
+those expended for movement itself. When attempting to Devastate a province, the player rolls one die. He modifies the die
+roll by adding the number of MPs he wishes the Devastating
+Army to expend, out of the total he has declared for that unit. If
+the adjusted die roll is more than the number of Spaces in that
+province (excluding Transit Points), the province is Devastated.
+Otherwise, no Devastation takes place and the MPs are lost.
+EXAMPLE: A Macedonian Army starts in Bynyan (Cappadocia). The Macedonian Player announces that the Army will use
+up to 5 MPs during that action. It uses 1 MP to enter Malatya
+(Commagene) and then announces a Devastation attempt with
+the expenditure of its remaining 4 MPs. The Macedonian rolls
+a ‘3’, to which he adds the 4 from his MP total. The result of 7
+is more than the number of spaces in Commagene (4), so
+Commagene is now devastated. Place a Devastated marker in
+the province. The Macedonian Player must then check for Treasury Reduction because he used more than 4 MPs.
+Only one attempt to Devastate may be made in any province per
+Activity Segment.
+Devastation has the following effects:
+• Devastated provinces may not be used to Replenish treasuries
+• The cost of tracing a LOC doubles for any land path in any
+part of that province
+• A Devastated province may not be used by the Macedonian
+Player (Alexander) towards determining his victory.
+All Devastated markers are automatically removed in an Administrative Phase, after Treasury Replenishment.
+
+11.1 Land Battle
+
+If the Defender is Inside a Major City he must be Besieged; he
+cannot undergo Battle. However, defending units Outside a Major
+City may be reinforced by friendly units from Inside the same
+Major City (a ‘sortie’). Place the units that wish to sortie Outside the Major City. They may now join the defenders against
+the attacking Army.
+
+11.2 Land Combat Sequence
+Land Combat is resolved in the following order:
+1. Defender may attempt Avoidance
+2. Determine Battle Strength
+3. Resolve the Battle, adjusting Weariness and Elite Levels as
+necessary
+4. Determine Leader Casualties (if any)
+5. Loser Retreats
+6. Determine and apply Battle Losses
+7. Assign Battle Fatigue and Useless status.
+
+11.3 Land Battle Details
+A. Avoidance
+When a moving Army enters a Space occupied by an enemy
+Army, the latter may attempt to Avoid Battle. An intercepted
+Army may also attempt Avoidance. GSPs may not attempt to
+Avoid Battle. To attempt Avoidance, the defending player rolls
+one die, adding to that die roll the Battle Rating of any one
+friendly Leader in that Space.
+If the adjusted die roll is ‘6’ or higher, the target Army has successfully Avoided the battle, but must move into any adjacent
+(directly connected) Space that is not occupied by enemy units
+of any type. The moving Army may continue to move, even if
+that means another possible battle (and more Avoidance ).
+If the adjusted die roll is less than ‘6’, there is no Avoidance, and
+battle is joined.
+PLAY NOTE: If the Overall Commander is with the Army (e.g.,
+Darius), you must use his Battle Rating.
+B. Determining Battle Strength
+Each side’s Battle Strength is the total number of ASPs and GSPs
+he has in the battle.
+C. Resolving Battle
+Each player rolls two dice, adding them and adjusting that dice
+roll by any of the modifiers listed below. He cross-references
+that adjusted total with his Battle Strength to give his Battle Score.
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+The player with the higher Battle Score wins. If the Battle Scores
+are even, the battle is a draw; see below. If necessary, increase
+the Macedonian Weariness level, and adjust the Elite Levels of
+the Armies involved.
+D. Battle Dice Roll Modifiers (DRMs)
+The following DRMs may apply to the Battle dice roll. All Battle
+DRMs are cumulative.
+Leader Military Capability. Add the Battle Ratings of any two
+Leaders present; if the OC is present, he must be one of those
+Leaders.
+LOC. If an Army had no LOC when it started the Player Phase,
+subtract one (–1) from its die roll.
+
+15
+
+but they do not get the benefit of subtracting the Leader’s Rating from that die roll.
+A player may cease retreating short of its Mandated number of
+Retreat Spaces, if the defeated force retreats Inside a Major City
+or Stronghold.
+The Retreating Player adds one to his Battle Loss die roll for
+each Movement Point after the first that would have to be spent
+to cover the Retreat route if it were normal movement.
+[EXAMPLE: If a defeated force must retreat along a Mountain
+Path, the controlling player adds one to the Battle Loss die roll;
+that Path would require 2 MPs to traverse, and the first MP of
+the Retreat is ignored.]
+
+Elite. A player gains a +1 DRM for each level of Elite Level
+superiority his Army has, compared to his opponent’s Army.
+EXAMPLE: A Macedonian Army, Elite Level ‘3’, faces a Persian Army, Elite Level ‘1’. Macedonian gets a +2 DRM for Battle.
+
+Retreating Inside a Major City, or into a Stronghold Space, does
+not cost any further MPs/Attrition Points.
+
+Battle Fatigue/Useless. A defending Army with Battle Fatigue
+subtracts two (–2) from its Battle dice roll. An Army with Fatigue may not attack. Note that an Army marked Useless is considered to have Battle Fatigue (11.3.H).
+
+DESIGN NOTE: Most losses from a battle in ancient times occurred during Retreats, and this mechanic for attrition reflects
+that to some extent.
+
+Surprise. If a player has played a ‘Surprise’ Card, that player
+has achieved surprise, and may add two (+2) to his dice roll. If
+both Players gain Surprise, the +2 DRMs cancel each other out
+and have no effect.
+Mountain Passes and Straits. If the attacker used a Mountain
+Pass or Strait to enter the Space where the Battle is taking place,
+he subtracts two (–2) from his dice roll.
+Strongholds. If the defender is in a Stronghold, the Attacker
+subtracts two (–2) from his Battle dice roll.
+PLAY AND DESIGN NOTE: The military differences between
+the two sides in the game are the remarkable advantage the
+Macedonians have in Leadership and Weapons Systems (represented by the Elite ratings): the two overwhelmingly important
+aspects of battle in this era. The chances of the Persian Army
+actually beating an Alexander-led Army in a major battle are
+slim, but not non-existent. We did have such Persian victories
+in playtesting, mostly of the Pyrrhic variety. The Persian’s challenge is to accept that and devise a strategy that circumvents
+the Macedonian’s military superiority. It can be done.
+E. Retreat
+The losing force must Retreat (move) a number of Spaces equal
+to a die roll. This die roll is modified by subtracting the printed
+Battle Rating of the OC, if present; if the OC is not present, use
+the lowest-rated leader present. The minimum Retreat is one
+Space; an Army may always retreat more Spaces than required.
+The path of retreat must never enter the same Space twice, and
+must always take the losing force further away from the Battle
+Space (it may not move into a Space closer to the victorious
+Army than the one it is presently in).
+
+A Retreating Army must stay together; it may not drop off ASPs
+as it retreats.
+
+PLAY NOTE: There is no limit as to how far a unit may go
+when retreating, other than the player’s willingness to risk incurring massive attrition. However, it may sometimes be smart
+to take an extended Retreat, and the concurrent Attrition, to
+keep that Army away from another battle.
+If the battle was a Draw, both players roll as if they were Victors. However, regardless of the loss results, the Attacking Army
+must return to the Space from which it moved to enter the Battle
+Space. This ‘retreat’ is not considered when determining Battle
+Losses.
+F. Battle Losses
+To determine how many ASPs are lost, each player rolls one die
+and consults the Battle Loss and Attrition Table.
+• The Victor subtracts one (–1) from his die roll. If his Battle
+Score was at least twice as high as that of the loser, he subtracts two (–2).
+• An Army with no LOC (7.3) for the battle adds two (+2) to its
+Battle Loss die roll.
+• An Army with Battle Fatigue adds two (+2) to its Battle Loss
+die roll
+• An Army with at least three times (3x) the Strength of its opponent subtracts two (–2) from its Battle Loss die roll.
+• Either player may play a Determined Troops card to have his
+opponent add one (+1) to his Loss die roll.
+• The Retreating Player adds one (+1) to his Battle Loss die roll
+for each Movement Point after the first that would have to be
+spent to cover the Retreat route if it were normal movement.
+The cross-referenced result is the number of ASPs that player’s
+Army has lost. This number of ASPs is immediately removed.
+
+PLAY NOTE: Remember, ASP without an Army may Retreat,
+© 2006 GMT Games, LLC
+
+16
+
+The Conquerors: Alexander the Great
+G. Battle Fatigue
+The Losing Army of a Battle is automatically ‘Fatigued’. Place a ‘Battle Fatigue’ marker on that Army
+to indicate this status. There is no additional penalty
+if a Fatigued Army suffers Fatigue again.
+The Victor is Fatigued only if his Loss die roll result has an ‘F’
+next to it.
+Armies with Battle Fatigue:
+• may not Attack or even enter an enemy-occupied Space
+• subtract two (–2) from any Battle Result dice roll
+• add two (+2) to any Battle loss die roll.
+All Battle Fatigue markers are removed in an Admin Phase.
+H. Useless
+A Losing Army is rendered ‘Useless’ if it suffers more
+than twice as many Battle Losses in Strength Points
+as the Victor. ‘Useless’ status is determined after all
+initial retreats have taken place (but see below). Place a ‘Useless’ marker on that Army to indicate this status.
+
+Example of a Land Battle
+The game starts with Alexander (with Army #1) crossing the
+Hellespont at Chersonese and moving to Cyzicus, occupied by
+Memnon and Persian Army #2. Memnon attempts to Avoid, but
+rolls a ‘2’, which, even with Memnon’s Battle Rating of 2, is not
+enough to escape. Both armies have a LOC.
+Alexander’s Army has 33 ASP. It also contains Alexander (Battle
+Rating 4). Its Elite rating of ‘4’ is 3 higher than the ‘1’ of
+Memnon’s Army. No cards are played, so Alexander’s DRM for
+the 28-35 column on the Battle table is +7. He rolls a ‘10’,
+adjusted to a 16+, giving him a battle score of ‘16’.
+The Persian player gets a +2 DRM for Memnon’s Battle Rating
+and rolls a ‘5’, adjusted to ‘7’, under the 36-44 column, giving
+him a battle Score of ‘7’.
+Alexander is the victor, and, as his Battle Score is at least double
+that of Memnon, his #1 Army increases its Elite Level to ‘5’.
+Memnon’s Army’s Elite Level drops to ‘0’ after the loss, For
+retreat, he rolls a ‘1’, but chooses to retreat 3 Spaces into the
+Treasure City of Sardes.
+Alexander checks his losses on the Attrition and Battle Loss
+Table, rolling a ‘3’, from which he subtracts two, as his battle
+Score was at least twice that of Memnon’s. He loses 1 ASP but
+does not suffer Battle Fatigue.
+Memnon checks for losses, and rolls a ‘3’, too. But he adds ‘2’
+to that for the extra MP he retreated. He loses 7 ASP and his
+Army is rendered Useless (and Battle Fatigued). He doesn’t have
+to choose Flight as his army is in a Treasure City (and will
+hopefully be able to refit there).
+There are no Leader casualties, as no one rolled an adjusted ‘9’
+or ‘13’.
+Alexander, who has used only 4 MP to close to battle with
+Memnon, may continue to move, if he announced he would be
+using more than 4 MP, and checks for possible Treasury Reduction (Pella) required to move more than 4 MP.
+
+A Useless Army:
+• is also Battle Fatigued, regardless of the die roll that produced
+its losses
+• may never move more than 3 Spaces as normal Movement
+• is totally destroyed, and all of its ASPs and Leaders removed,
+if it loses any battle while Useless.
+An army rendered Useless may take Flight: in effect, a second
+Retreat. That Army may move as many Spaces in retreat as it
+wishes, but must roll again on the Battle Loss table, according
+to the standard retreat rules.
+An Army may end its Useless status and remove the Useless
+marker during any Admin Phase that the Army spends in a Treasure City, regardless of the status of the treasury.
+PLAY AND BALANCE NOTE: While this mechanic reflects some
+of the realities of ancient warfare, it does help Alexander, something he doesn’t really need. Those of you looking for a balanced game should consider not using the ‘Useless’ rule, 11.3H.
+I. Leader Casualties
+If a Persian Player’s adjusted Battle dice roll was a ‘9’, or the
+Macedonian’s adjusted Battle dice roll was a ‘13’, there is a possibility that one or more of that player’s Leaders was killed. Leaders can only be affected if their Battle Ratings were used in the
+battle.
+This mechanic does not apply to either Alexander or Darius; see
+below.
+If the player rolls the casualty number (i.e. 9 for the Persian, 13
+for the Macedonian), the player rolls one die for each Leader
+used in that Battle. If he rolls a ‘5’ or ‘6’, that Leader is Dead. A
+1-4 has No Effect.
+
+The Macedonian Weariness level is increased by 1.
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+Darius. The Persian Player never rolls for Darius. Instead, if the
+Macedonian’s Battle Score was at least twice that of the Persians (with Darius present, even if his Battle Rating is not used),
+Darius Flees (after his Army conducts any mandated retreats).
+When this happens, roll two dice for Darius and apply the results below:
+• 2-7: place Darius in any Persian-controlled Treasury City. If
+there is none to which Darius could trace a LOC, treat as an
+11+ dice roll.
+• 8-10: the Persian places Darius in any province that is exactly
+4 MPs away. If there is none to which Darius could trace a
+LOC, treat as an 11+ dice roll.
+• 11+: Darius is caught and killed. (By whom is not important.)
+If any Macedonian combat unit enters a hex occupied by Darius
+but no Persian combat units, the Persian rolls again, adding 3 to
+the dice roll. (The Royal Treasury and Family have no effect on
+this procedure, but may be captured if they are in the same Space
+as Darius when he is killed. See 7.4, 14.0.)
+Alexander. Alexander may incur Injury Points (IPs) after every
+battle in which he uses his Battle Rating, regardless of the result
+of that battle. The Macedonian Player keeps track of Alexander’s
+IPs on the Alexander Injury Level Track. After a battle in which
+Alexander uses his Battle Rating, the Macedonian player rolls
+two dice, and applies the results below:
+•
+•
+•
+•
+
+2-5: Alexander incurs 0 IP
+6-9: Alexander incurs 1 IP
+10-11: Alexander incurs 2 IPs
+12: Alex may have been Killed. Roll one die again: if the die
+roll is a 1-5, he earns 2 IPs; if it is a ‘6’ he has been Killed in
+battle... unless the Macedonian Player can play the ‘Black
+Cleitus’ card. (See the Z Cards.)
+
+When the Alexander Injury Level Track reaches ‘20’, the Macedonian player rolls one die in each succeeding Administrative
+Phase:
+• Even number: Alexander survives
+• Odd number: Alexander dies of his wounds. Alexander may
+not be saved by Cleitus in this case. If Alexander dies, the
+game ends immediately in a Persian victory.
+HISTORICAL NOTE: Alexander was a very ‘up front’ commander and, in doing so, suffered a remarkable number of minor and major wounds and injuries, the last of which-an arrow
+in his chest-almost killed him, and was a leading cause in his
+ultimate death. At Granicus he was saved from almost certain
+death by the actions of Cleitus.
+
+11.4 Sieges
+Sieges occur when a Defender (which might be just a garrison
+of GSPs or non-Army ASPs), is attacked while Inside a Major
+City. In order to declare a Siege, the Attacker must move an
+Army of at least 10 ASPs into the Major City Space and declares
+a Siege. The Attacker’s Army remains Outside the Major City.
+Place an ‘Under Siege’ marker on the city. The units Inside the
+
+17
+
+city may not move out as long as the Siege is maintained (see
+below). The Siege lasts until resolved, or the Attacker (besieger)
+decides to abandon the siege by not maintaining it.
+To Maintain a Siege, the besieger must have an LOC for that
+Player Phase, even if he is not going to conduct any Siege activities that Round. If he does lose his LOC, remove the ‘Under
+Siege’ marker; the defenders of the city are free to move out
+when it is their Round. The besieger must always have at least
+10 ASPs present; if not, the Siege is over, and the defending
+force may once again move out, as above.
+The Attacker may resolve the Siege in one of two ways:
+1. Surrender. A Major City may Surrender simply because of
+the presence of an enemy Army in that Space, if that Army fulfills the conditions stated above (minimum 10 ASPs, and a LOC).
+This occurs as part of movement. No Siege need be declared,
+but it costs 1 MP to Demand Surrender. To determine Surrender,
+the moving player rolls one die and modifies the result as follows:
+• +?: the Battle Rating of any one Leader in his Army
+• +1: Attacker has more than twice as many ASPs as the Defender has ASPs/GSPs combined
+• –?: Fortification Rating of the city in question.
+• +3: if Attacker plays a Treachery card and, in doing so, reduces the Treasury he is using to provide a LOC (see the Z
+cards).
+• –1 for each ASP inside the City (GSPs have no effect on this
+DRM).
+If the Attacker’s adjusted die roll is 6 or more, the city Surrenders immediately. No Siege Assault is needed. If the modified
+die roll is less than 6, the Major City must be Assaulted to be
+taken.
+An Army may make only one Demand for Surrender, per game,
+for each Major City.
+2. Assault. The player may make only one Assault per Action
+Round, regardless of how many Sieges he has under way on the
+map.
+To resolve a Siege Assault, the Attacking Player rolls one die
+and consults the Siege Assault Table, modifying the die roll as
+follows:
+–? the City’s Defense rating (printed next to the city Space)
++1 Attacker has more than twice as many ASPs as the Defender has ASPs/GSPs combined
+–1 if the defender has a Fleet in that Major port
++1 if the Attacker has a Fleet in that Major port
++1 if the Macedonian player is using Diades of Thessaly in
+the Assault (see the Z Cards).
+The Siege Assault Table states the results as follows:
+
+© 2006 GMT Games, LLC
+
+18
+
+The Conquerors: Alexander the Great
+
+• the number to the left of the slash (/) is the number of Siege
+Points the city has incurred. Indicate this by placing a Siege
+Point marker on the city.
+• the number to the right of the slash (/) is the number of ASPs
+lost by the Attacker, if any.
+A Major City falls when it has incurred 3 Siege Points. All defending ASPs, GSPs and Leaders inside are eliminated. Defending Fleets must Retreat to the nearest friendly Port, regardless of
+distance. The Victor may now move up to 10 of his ASPs Inside
+the Major City.
+The Defender may resolve the Siege in one of three ways:
+Negotiated Capitulation. The defender may always Surrender
+a city under Siege on whatever terms both players agree upon.
+Terms may include how many ASPs/GSPs are to be eliminated
+(if any), and movement to adjacent provinces (but no further).
+Payment is also allowed, in that one player may, by reducing a
+Treasury of his own, replenish one of his opponent’s Treasuries
+(if there is a LOC).
+Counter-Attack. The Defender may attack the besieger, using
+normal Battle rules. If he wins, the Siege is broken and the ‘Under Siege’ marker removed. If he wishes, the Defender may then
+immediately move his Army Outside the city, to any adjacent
+province, or stay Inside the city. If he loses or draws, the Siege is
+still in effect and the defending force must stay inside the City.
+Escape by Sea. ASPs besieged inside a Major City may use
+Naval Movement to ‘escape’, but only if they have a Fleet present
+in that Port. Such escape movement is subject to Interception, as
+normal.
+
+11.5 Fleets and Naval Combat
+Fleets do not ‘carry’ land ASPs; they help protect such movement, and hinder that the naval transport of your opponent’s
+ASPs. They do not need a LOC to engage in combat.
+Naval Combat occurs when:
+• the active, moving player moves his Fleet(s) into a Space occupied by an enemy Fleet
+• the non-active player Intercepts enemy Naval Movement, even
+if no Fleet is accompanying the moving force.
+
+If the modified result is 6 or more, he avoids combat. However,
+if the Attacker has played a Surprise Card for Avoidance (even if
+Defender does as well), he may use it to negate Defender Avoidance (i.e., the Intercepted player may not attempt to Avoid). If
+the Attacker uses a Surprise card to negate Avoidance, the same
+card may not be used to influence the combat as well.
+If Naval Combat has been avoided, the moving units return to
+the Port from which they started their movement. Otherwise,
+Naval Combat occurs.
+
+Resolving Naval Combat
+Naval Combat is resolved by each Player rolling as many dice
+as he has NSPs. Thus, a player with a Fleet comprising 3 NSPs
+rolls three dice.
+A Player with an Admiral may roll additional dice equal to that
+Admiral’s Naval Rating.
+Each die roll of ‘6’ destroys one enemy NSP of the rolling player’s
+choice. Dice rolling is simultaneous, and results are applied simultaneously. Exception: a player who plays a Surprise Card
+for Naval Combat may roll and apply all losses on his opponent
+first, before his opponent rolls. After both players have rolled
+once, combat is finished.
+If the moving player has no Fleets, just transported ASPs, he
+does not get to roll. His opponent destroys all the transported
+ASPs if he rolls at least one ‘6’.
+The player who suffered the fewer losses (in NSPs) is the Victor. The player who suffers more NSP losses is the Loser. If NSP
+losses are equal it is a ‘draw’, and the moving units are treated
+as Losers. If only one player has NSPs, he is the Victor if he
+succeeds in destroying his opponent’s transported ASPs (by rolling at least one ‘6’, as above); his opponent is the Loser. If the
+only player with NSPs does not destroy his opponent’s transported ASPs, the Naval Combat is treated as a draw.
+The Loser must return to the Port from which he started. If that
+Fleet started in the Port in which battle took place, it must retreat to the nearest Port unoccupied by an enemy Fleet.
+The Victor either stays in the Space in which the battle took
+place, or, if it was the moving force, continues movement if possible.
+
+Naval Interception is automatic, has a Range of 2 Naval MPs,
+and may occur only in Spaces, not Transit Points. Deep Sea Lanes
+may not be used for Interception.
+
+12.0 RHODES
+
+EXAMPLE: A force moving by sea from Athens to Cnossus could
+be intercepted by an enemy Fleet sitting in Halicarnassus. However, it could not be intercepted in Cnossus by a fleet in Cyrene,
+because they are only linked by a Deep Sea connection.
+
+Rhodes is starting her career as toll-taker and ‘traffic cop’ for
+the Eastern Med. She is an independent province and starts the
+game controlled by neither player, but with her own 2 GSP garrison and a 4 NSP Rhodes Fleet (the front side).
+
+Avoidance
+
+A player may gain use of that Fleet in one of two ways:
+
+The Intercepted Player may attempt to Avoid Naval Combat. To
+do so, he rolls one die and modifies the result as follows:
++? the Naval Rating of his Admiral, if any is present
++2 if he plays a Surprise Card for Avoidance purposes.
+
+1)by playing the Rhodes Card when no one controls Rhodes; see the card. In this instance, the
+player gets to use the Rhodes 1 NSP Fleet, with
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+19
+
+the 4 NSP Rhodes Fleet remaining in Rhodes and reduced to 3
+NSPs.
+
+victory conditions), in any Macedonian Action Round after the
+one in which the Macedonian player captures the Royal Family.
+
+2)by capturing Rhodes (by Siege). In this case, the Rhodes 2
+GSP garrison is eliminated and the victorious player gets what’s
+left of the Rhodes Fleet.
+
+HISTORICAL NOTE: After the battle of Issus (Cilicia), where
+the Royal Family was captured, Darius offered the hand of his
+daughter, Stateira, as part of a deal. Alexander politely refused
+(although he did marry her later, in the somewhat strange Mass
+Marriage ceremony). Alexander treated Darius’ family with the
+utmost respect, mostly because it helped establish his position
+in Persia as Great King.
+
+While Rhodes remains independent, none of her units may be
+moved. However, all Naval Movement going through Rhodes
+must end its movement in Rhodes; it may continue moving in a
+subsequent action. There is no combat unless an attack is declared. LOC are not affected. One player’s fleets may be attacked
+in Rhodes by his opponent, using normal combat rules. An independent Rhodes will not interfere or take part in such activities.
+
+13.0 ALEXANDRIA
+There are four ‘Alexandria’ counters, representing cities built
+by Alexander, superficially in honor of himself. However, the
+cities served a double purpose-they were de facto garrison posts,
+and they spread Greek ideas and culture.
+Alexander may build an Alexandria in the Alexandria ‘space’ in Egypt (provided he controls Egypt),
+and in any Frontier Province or Persian Province that
+he controls. An Alexandria is treated as a Minor City,
+and may be built on any existing Minor City or Transit Point.
+Alexandrias may not be built on a Stronghold or Major City, or
+on another Alexandria marker. The Egyptian Alexandria location is treated as a Transit Point until it is built (as a Minor City).
+The Alexandria in Egypt must be built as part of Alexander’s
+Deity victory condition.
+To construct an Alexandria, the Macedonian Player simply places
+an Alexandria counter in that Space or Transit Point during any
+Admin Phase. Each Alexandria has a built-in garrison of 2 GSPs,
+the deployment of which counts against Alexander’s garrison
+maximum. Only one Alexandria may be built in each Admin
+Phase. Once placed, they are removed if the Persian Player takes
+control of the space. Alexandrias may not be rebuilt.
+
+14.0 THE ROYAL FAMILY
+There is a counter for the Royal Family: Darius’ wife,
+daughters, assorted relatives and hangers-on. The
+Family starts in Susa, with the Great King. It may
+• stay in Susa
+• move with The Great King
+• move on its own (3 MPs per Action Round), as the Persian’s
+Action for that Round.
+If the Family is with Darius and he Flees, the Macedonians capture the Royal Family. If a Macedonian Army gains control of a
+Space that contains the Royal Family, they capture the Family.
+The Persian Player may not ‘destroy’ the counter. The Royal
+Family counter has no military value or use. Alexander may declare he is marrying a member of the Royal Family (one of his
+
+15.0 THUS SPAKE
+ZARATHUSTRA: THE Z
+CARDS
+HISTORICAL NOTE: The state religion of the Persian Empire
+was Zoroastrianism (today, they’re Parsees), ‘founded’ by
+Zarathustra (Zoroaster in Greek) around 1000 BC. The ‘Z’ Deck
+reflects the battle between Ahura Mazda (the ‘Good Guy’, and
+no relation to the automobile) and Ahriman (the ‘Bad’ guy)...
+the constant thread that runs through Zoroastrianism.
+Each player starts the game with 3 Z Cards. They may play one
+card (and must draw one) in each of their APM Rounds. The
+‘one card play per Round’ restriction is waived for cards that
+work in tandem (e.g., ‘Bagoas’). They may also Discard as many
+Z cards from their hands as they wish. The maximum number of
+Z cards a player may have in his Hand at any one time is five
+(5). If a player starts his Action Round with 5 cards he must
+discard at least one before drawing a new card.
+PLAY NOTE: Part of the game’s tension stems from the ongoing decisions players must make as to which cards to keep at
+any given moment.
+Certain cards, noted with a [PAT], may be played at ‘any’ time
+other than C/1 in the Action Phase, although ‘any’ is usually
+specified on the card (and is generally obvious). PAT cards may
+always be played in addition to the one card a player may (or
+must) play in C/1.
+Some cards are played only once (e.g., ‘Proskynesis’). They are
+not placed in the Discard pile; they are set aside, out of the game.
+Other cards may remain in play (in use, but not ‘in hand’). They
+are not Discarded after play (e.g., ‘Diades’). All other cards are
+Discarded after play, for possible re-use.
+If no cards remain in the draw pile, or the ‘Fortunes of War’ card
+is played, the Discards and any remaining unpicked cards are
+shuffled again.
+Each card has its own use, discussed below. Some cards have
+multiple uses. Several cards can be used only in specific situations and, therefore, have little use for much of the game. Most
+of the applications and usage are printed on the cards. The number of each card available for play is listed in brackets.
+Ahriman in Bad Mood [2]. When played against your opponent, you get to do one of the following:
+
+© 2006 GMT Games, LLC
+
+20
+
+The Conquerors: Alexander the Great
+
+• blindly and randomly remove one card from his hand and Discard it. You may not look to see which card it is.
+• cancel an Assassination attempt, but only if played before the
+Assassination Attempt die roll is made. [PAT]
+• cancel removal of all Devastation and Drought markers. [PAT]
+Agis III, King of Sparta [1]. When played by Persia, Sparta is automatically in Revolt. (The Macedonian may not play this card.) Remove any Sparta
+garrison, plus any garrisons in Crete (although Crete
+is not in Revolt). Place the Spartan Army counter in Sparta with
+5 ASPs. The Persian player controls and may use the Spartan
+Army as if it were a Persian Army, although it may never leave
+Europe. Once played, the card is removed from the game.
+[Historical Note: Sparta was the sole city-state to not join Philip
+of Macedon’s Corinthian League. Agis, after some soldier of
+fortune activity in Crete (involving refugees from the battle of
+Issus), raised the Spartan flag of revolt and laid siege to Megalopolis. He was soundly trashed by Antipater for his troubles.]
+Ahura Mazda Smiles [2]. This card may be played only by the
+Persian Player. When you play this card you may choose one of
+the following:
+• go through the Discards and take one of them for your hand,
+or
+• ignore Bad Weather for that APM [PAT], or
+• save a leader targeted by ‘Illness’ from Death. When played
+before the Illness die roll, it assures that the targeted Leader is
+only out until the next Admin APM. [PAT]
+DESIGN NOTE: This is one of our Persian leg-up cards.
+Alexandrian Drunken Binge [1]. May be played only after Alexander is Great King. If Alexander is not yet Great King, this
+card may not be used.
+When played by the Persian, it earns Alexander one (1) Injury
+Point ... and he rolls to see if he kills Black Cleitus. If he rolls an
+odd number, he has killed his old friend in a drunken rage, and
+the ‘Black Cleitus’ card may no longer be used.
+When played by the Macedonian, remove one Weariness Point
+from the Macedonian Army-the ‘Revelry and Debauchery are
+Good for the Soul’ Theory-but roll for Black Cleitus, as above.
+Alexander Goes Native [1]. This may be played only after Alexander is Great King. If Alexander is not yet Great King, this
+card may not be played. It may be played only once.
+Alexander orders all his generals, advisors, and sycophants to
+adopt Persian dress and Persian court rituals. When played, the
+following occur (it doesn’t matter who plays the card):
+
+Assassin [2]. This card may be used against any Leader, including Diades. Roll a Die: 1-3 = the Leader is Dead; 4-6 = the Leader
+Survives.
+It may be played against Alexander, but if it results in ‘Dead’,
+Alexander does not die. Instead, the Macedonian player rolls
+one die and adds the result to Alexander’s Injury Track.
+The ‘Bodyguard’ card may be used in defense of Alexander or
+Darius, and the Macedonian can cancel any Assassination attempt on Alexander by playing Black Cleitus.
+Attrition [2]. This card may be played immediately after your
+opponent concludes movement [PAT]. If, during that move, your
+opponent’s army either
+• moved through a desert path, or
+• spent more than 5 MPs,
+roll one die, halving the result (round up fractions). That is the
+number of ASPs your opponent loses to attrition. He may prevent this loss by Reducing a treasury within LOC.
+Bad Weather [2]. This card may be played against any one Province. It triples the MP cost for any land movement into any Space
+in that province, and adds one (+1) to the MP cost of all adjacent
+provinces until the next Administrative Phase. Place a Bad
+Weather marker to indicate this.
+Bagoas [1]. The Achæmenid Royal Eunuch and Grand Vizier,
+advisor to both Darius and Alexander, appears to have been rather
+effectively wily and, at least in one source, somewhat ‘sinister’.
+This card may be played to do any one of the following (some of
+which will be [PAT] situations), after which it is discarded and
+may eventually be used again:
+• cancel the effects of a ‘Satrap Insubordination’ card
+• halve the results of any Embezzlement (round up fractions)
+• allow the Persian player to use the ‘Peucestas’ card (in tandem)
+• allow the Macedonian player to use the ‘Assassin’ card (in
+tandem) against Darius
+• force the Persian player to add three (+3) to his Flight die roll,
+if played by the Macedonian immediately upon Darius going
+into Flight.
+After play of this card, roll one die. If the die roll is a ‘6’, Bagoas
+has died, and the card is permanently removed from the game.
+HISTORICAL NOTE: Bagoas, whom several historians feel is
+nothing more than convenient fiction, appears to have started
+his career with Darius by elevating him to the throne, through
+killing off his immediate predecessor and any possible other
+interference. Sinister indeed.
+Black Cleitus [1]. This card has some unusual properties.
+
+• Add one (+1) to the Macedonian Weariness Track.
+• The Persian player may immediately play a ‘Satrap Insubordination’ card, regardless of who played the ‘Alexander Goes
+Native’ card.
+
+The Macedonian Player may, after using it, retain it in his hand
+for additional use by immediately discarding another card from
+his hand (or he may discard it after use like any other card).
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+21
+
+The card has no function for the Persian Player, other than as a
+hand-held version of Passive Aggression. Does take up room in
+the hand, though.
+
+his funds and some more animated local talent. Designate a Treasury City and reduce it by one level. May not be played against
+Pella or Memphis.
+
+It may be played at any time Alexander is in danger of being
+killed in a battle or by Assassination. If so, it cancels that ‘death’.
+(See also the ‘Alexandrian Drunken Binge’ card.)
+
+Greek Fleet [1]. The Greek Fleet becomes available to whoever
+controls Greece. It starts in Athens. It remains in the game and
+functions like any other Fleet.
+
+HISTORICAL NOTE: Cleitus, Alexander’s best friend, singlehandedly saved Alexander’s life at The Granicus; Alexander
+killed him during one of his drunken revelries.
+
+Illness and Injury [2]. When played against an opponent’s
+Leader, other than Alexander or Darius, roll the die. If the number is odd, that Leader has died from an illness. If the number is
+even, his illness causes him to be removed from the game until
+the next Administrative Phase. See the ‘Ahura Mazda’ Card.
+
+Bodyguards [1]. Both kings had large contingents of bodyguards.
+They were a mixed blessing. This card may be played against an
+opponent’s ‘Assassin’ card [PAT]. Doing so cancels the use of
+an ‘Assassin’ card. However, if the attempt is against Alexander,
+the Persian Player may immediately play the ‘Conspiracy Revealed’ card, if he has one.
+Command Indecision [2]. [PAT] This card is played the instant
+an opponent chooses which Army or Fleet he is going to move
+in that APM. The card player rolls one die. If the die roll is higher
+than that Army Leader’s Battle Rating (or Admiral’s Naval Rating), that move (and Activation Phase) is cancelled.
+Conspiracy Revealed [1]. There were several plots against
+Alexander’s life during the campaign. When this card is played
+(by the Persian, one assumes ... and it may be played as part of
+an Assassination attempt - see the ‘Bodyguards’ card), the Macedonian player must choose one of the following results:
+• the conspiracy fails. The Macedonian must add one (+1) to
+the Army Weariness Track.
+• he executes any one of his Leaders in Play, and the counter is
+removed from the game. He then draws a new one randomly
+to replace the executed leader.
+The card is then discarded for later possible play.
+HISTORICAL NOTE: Parmenion and several others of
+Alexander’s generals went out this way.
+Determined Troops [1]. This is played before your opponent
+determines his battle losses. When played, it represents your army
+having fought a decidedly vicious battle, and your opponent must
+add one (+1) to his Loss die roll.
+Diades of Thessaly [1]. Usable only by the Macedonian, Diades
+was the pre-eminent engineer of his era. Once placed, he remains in play and provides a +1 DRM to all Siege Assaults. He
+can be assassinated.
+Drought [2]. This card is played against any one province. Place
+the Drought marker in the chosen province. Drought affects all
+paths in that province and all adjacent provinces. The MP costs
+for LOC of paths in provinces suffering Drought are doubled,
+and a player may not use a Province with Drought for Replenishment. Remove the Drought marker in the next Admin APM.
+Embezzlement [1]. This card is played against your opponent.
+When played, the player against whom it is played has had one
+of his Treasury paymasters abscond to some Aegean isle with
+
+When played by the Persian against Alexander, simply add one
+(+1) IP to his Injury Level Track.
+The card may not be played against Darius.
+Major Campaign [2]. The Player may move two Armies, two
+Fleets, or one Army and one Fleet during this Activation.
+Mass Marriage [1]. May be played only by the Persian Player.
+May only be played if Alexander controls the Royal Family. If
+Alexander controls the Royal Family when this card is played,
+he marries Darius’ eldest daughter, Stateira. He also forces his
+immediate circle to marry Persian women. This adds one (+1) to
+the Macedonian Weariness Track. (The forced mass marriage of
+virtually all his generals and advisors was most unpopular.) This
+satisfies the victory requirement that Alexander marry into the
+Royal Family if he hasn’t already done so. Once played, discard
+permanently.
+Oligarchic Counter-Revolution [1]. This card applies only to
+the Ionic provinces in Asia Minor: Mysia, Lydia, and Caria. The
+Persian Player may place a garrison in any one Space therein
+that is unoccupied. If that province was controlled by the Macedonian player, he loses control of the province until that garrison is removed.
+Persians Gain Tactical Advantage [3]. [PAT] The Persian Player
+(only) may use this in a land battle. He may double the Battle
+Rating of any one of his Leaders.
+Persians Increase Training and Tactics [2]. This card may be
+used by the Persian player (only) to increase the Elite Level by
+one of any one Persian Army that is at Elite Level ‘3’ or lower.
+DESIGN NOTE: This is one of our Persian leg-up cards.
+Peucestas [1]. Mr P. was the rather efficient Satrap of Persis.
+This card may be played at any time. If the player who does so
+controls Persis, he may raise 10 ASP at no cost. May be used by
+the Persian, but only if he also plays the ‘Bagoas’ card at the
+same time. May be used only once, after which it is removed
+from the game.
+Proskynesis [1]. This may be played only after Alexander is
+Great King. Alexander orders all his generals, advisors, and sycophants to pay homage to him by the oriental act of prostration.
+When played two things happen:
+
+© 2006 GMT Games, LLC
+
+22
+
+The Conquerors: Alexander the Great
+
+• The Macedonian Player gains a victory objective.
+• Persian may follow it immediately with either a ‘Satrap Insubordination’ card or a ‘Conspiracy Revealed’ card.
+If Alexander (the Macedonian player) has already invoked
+Proskynesis without the card, the card may not be played by him
+as well. In this case, if the Macedonian player draws the card, he
+must immediately discard it and draw another.
+Revolt [2]. When played, it is aimed at any province listed on
+the Revolt table, regardless of who controls it. Roll the die. If
+the die roll is less than or equal to that province’s Revolt Range,
+that province is now In Revolt. Place an In Revolt marker in the
+province.
+Rhodes [1]. If Rhodes is not controlled by either player, the
+player using this card may use the 1 NSP Rhodes Fleet at no
+cost. That player retains control of this Fleet until:
+• someone else gains control of Rhodes by Siege, at which point
+that player now controls the 4 NSP Rhodes Fleet. Remove the
+1 NSP Rhodes Fleet from the map.
+• his opponent plays this card, at which point the Rhodes Fleet
+is immediately returned to Rhodes and is controlled by noone.
+Satrap Insubordination [2]. Both Darius and Alexander had a
+fair amount of trouble with the satraps who governed their provinces. The card player may choose to do one of the following:
+1) Treasury City Unusable: He may designate any one Treasure City as unusable until the next Administrative Phase.
+The player may not trace a LOC to that city, although, if the
+affected player is Persian, he may have Darius go there and
+transfer any Talents into the Royal Treasury. May be cancelled by play of the ‘Bagoas’ card. Does not apply to Pella
+or Susa.
+2) Dissension in Eastern Holdings for Alexander: May be
+played only after Alexander is Great King. Reports are filtering in that the Macedonian satraps in Babylonia,
+Mesopotamia, Media, Matiene and all provinces east of those
+are possibly running their own little kingdoms. Roll the die
+for each province with a Macedonian garrison. If that die roll
+is a 1-5, remove the garrison, but add the garrison GSPs to
+Alexander’s Army as ASP.
+HISTORICAL NOTE: this reflects Alexander’s Carmanian edict
+of 324, in which he demobilized almost 10,000 oriental garrison troops, stripping the satraps of manpower, and adding those
+men to his own army.
+3) The Harpalus Incident. The Persian Player may remove
+the Macedonian garrison of any one Macedonian-controlled
+Treasure City (but not Pella), reduce the Treasury to Empty,
+and roll for a Greek Revolt. This represents the incident in
+which Alexander’s Babylonian treasurer, Harpalus, absconded with many talents and 6000 men, ending up in Athens fomenting a murky sort of rebellion.
+
+4) Bad Blood in the Persian Army: the ‘Persian’ Leaders distrust the ‘non-Persian’ Leaders. For any one army that contains both, roll the die for each leader. The leader with the
+higher die roll is removed from play, but is available for placing back in the game. May be cancelled by play of ‘Bagoas’
+card.
+Spies [3]. When played, the player may do one of following:
+• look at all Z Cards in opponent’s hand
+• take any one Z card from opponent’s hand, drawing blindly
+• cancel the effect of any ‘Surprise’ card [PAT].
+Storms at Sea [1]. This card may be played against any Naval
+Movement using a Deep Sea path. Roll one die. If the die roll is
+an odd number, all units in that movement have been destroyed
+by storms. Otherwise, there is no effect.
+Surprise [2]. [PAT]. If both players play a ‘Surprise’ card, they
+each cancel the other out.
+If played in a Land Battle, the card player adds two (+2) to his
+Battle dice roll.
+If played for Naval Combat, the player has a choice, as follows.
+• If he is the defender, he may add two (+2) to any Avoidance
+attempt.
+• Either player during combat may use ‘Surprise’ in order to
+roll first, applying his opponent’s losses before the opponent
+rolls.
+Terrain Advantage [2]. [PAT] When played by a Defending
+Army, the Attacker must subtract one (–1) from his Battle dice
+roll, as Defender has secured favorable terrain (probably a river).
+May not be played by Attacking Army.
+PLAY NOTE: It is possible to play the Surprise, Tactical Advantage and Terrain Advantage cards at once, and the effects
+are cumulative.
+The Honeymooners [1]. This card may be played only once in
+the game. When played, the Macedonian Player removes 4 ASPs
+from Alexander’s Army, temporarily. (He has sent the recently
+married Macedonians home for a ‘horizontal holiday’.)
+Reduce the Weariness Track by one (–1).
+The 4 ASPs may be returned to any Macedonian Army during
+the next Administrative Phase.
+Treachery [1]. The defenders inside a Major City may have been
+Sold Out by a traitor. If the besieging player is attempting to
+Demand Surrender, playing this card adds three (+3) to that die
+roll, but reduces the Treasury he is using for a LOC.
+Continued on page 24
+
+© 2006 GMT Games, LLC
+
+The Conquerors: Alexander the Great
+
+© 2006 GMT Games, LLC
+
+23
+
+24
+
+The Conquerors: Alexander the Great
+
+16.0 SOLITAIRE PLAY
+Alexander’s campaigns lend themselves rather well to the introspective, historical viewpoint benefits of solitaire play, as do the
+APM play mechanics. Granted, you still have to wear two hats
+in making movement and recruitment decisions, but the selection of APM allows you to select those chapeaux without too
+much strain.
+All of the normal rules are used. Who you represent is determined by the draw of the APM. When playing that APM you
+play to win with that side. Cards are drawn and played as per the
+rules-and, yes, you know what cards the ‘other’ player has.
+
+SOURCES
+The map information came mostly from the terrain and logistics
+evaluations in Donald Engels’ Alexander the Great and the Logistics of the Macedonian Army, A.B. Bosworth’s Conquest and
+Empire, J.M. Cook’s The Persians, The Penguin Historical Atlas of Ancient Greece, and The Barrington Atlas of the Greek
+and Roman World. All of those, plus Robin Fox’s Alexander the
+Great, were good, modern sources for the history... although there
+are easily dozens of books available. If you want to get serious
+in your readings, the best (but not the only) ancient sources are
+Arrian, Curtius, and Diodorus.
+
+Abbreviated Sequence of Play
+A. APM Selection Phase
+Either Player draws an APM from the APM Pool.
+
+B. APM Replacement Phase
+The APM from the previous Round is placed back in the
+Pool.
+
+C. Player Phase
+1. Play Z Card Segment: If the Player has 5 Cards in his
+hand he must either play a card or discard a card. If the player
+discards, he may not play a card. No card may be played in
+the First Round of the game, except for a card marked PAT.
+2. Draw Z Card Segment
+3. Activity Segment: The Player may now do one of the
+following:
+• Move and/or Fight with one of his Armies or Fleets
+• Move and/or Fight with more than one of his Armies and/
+or Fleets (if a Major Campaign Z Card was played)
+• Move one Army and conduct Devastation
+• Move any or all of his Leaders
+• Move the Royal Family (if controlled by that Player)
+• Raise new ASPs/NSPs and/or draw one additional Leader
+
+Game Credits
+GAME DESIGN:
+
+Richard H. Berg
+
+DEVELOPMENT: William
+ART DIRECTOR:
+
+• Declare an Administrative Phase (Note: this may never be
+done twice in succession).
+
+F. Ramsay, Jr.
+
+Rodger MacGowan
+
+BOX ART AND PACKAGE DESIGN:
+MAP ART:
+
+• Reorganize the ASPs between two or more of his armies,
+if they are Stacked together
+
+4. Siege Assault Segment
+
+Rodger MacGowan
+
+Mark Mahaffey
+
+CARD LAYOUT AND DESIGN:
+COUNTERS: Rodger
+RULES LAYOUT:
+
+5. Victory Determination Segment
+Knut Grünitz
+
+D. Administrative Phase
+
+MacGowan, Mark Simonitch
+
+1. Both Players may try to Replenish their Treasuries.
+
+Mark Simonitch
+
+PROOFREADING: Tom Wilde
+
+2. Both Players may remove or reduce any Garrisons.
+
+and Steve Carey
+
+PLAYTESTING: David Fox; The NY Metropolitan Wargaming
+
+Club (Peter Stein, Ed Harmon, John Lynch), Jeremy
+Billones, Mark Herman, Robert Keough, Harvey Mossman
+PRODUCTION COORDINATION: Tony
+
+Curtis
+
+PRODUCERS: Tony Curtis, Rodger MacGowan, Andy Lewis,
+
+Gene Billingsley and Mark Simonitch
+
+3. All Devastated, Drought, Bad Weather, and Battle Fatigue
+markers are removed. ‘Useless’ markers may be removed.
+4. Alexander may build an ‘Alexandria’.
+5. If the Alexander Injury Level track is at 20 or more, Alexander undergoes an Injury Effect Check.
+6. If necessary, the Macedonians undergo a Weariness check.
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2006 GMT Games, LLC
+
+

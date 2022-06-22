@@ -1,0 +1,888 @@
+Von Manstein´s Backhand Blow
+Exclusive Rules
+
+A Schwerpunkt Series Game
+Table of Contents
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+15.0
+16.0
+17.0
+18.0
+19.0
+20.0
+
+Introduction
+Game Equipment
+Standard Procedures
+The Game Turn
+Weather
+Zones of Control
+Supply
+C3I Points
+Activity Points
+Stacking
+Reinforcements
+Soviet Replacements
+German Reorganization
+Soviet Front Markers
+Movement
+Combat
+Uprising
+The Scenarios
+Historical Commentary
+Designer´s Notes
+
+1.0 INTRODUCTION
+The Situation: Von Manstein’s Backhand Blow simulates the Soviet offensive in southern
+Russia in February/March 1943 and the German counterattacks. The Red Army tried to
+liberate the farmlands of the Ukraine and the important Donets Basin and to trap two Axis
+armies against the Sea of Azov. With a considerable superiority in men and material (more
+than 1,800 Soviet tanks were facing 354 German Panzer), it seemed logical from the Soviet
+point of view to continue the advance and extend the success of Stalingrad from the Soviet
+point of view.
+However, the Red Army faced two strong adversaries: an overstreched logistical network and
+Erich von Manstein, probably the most brilliant operational commander of World War II. The
+wide frontages and scarce resources, combined with the massive commitment of mobile
+formations by both sides created an extremely wild, fluid, and dynamic battle. Von
+Manstein’s Backhand Blow represents the high water mark of operational art during the 20th
+century.
+The Game: Von Manstein’s Backhand Blow is a two-player operational simulation and is
+basically intended for two players, one on each side, although it is also suitable for solitaire
+play. One side represents the German forces of Heeresgruppe Süd while the other side
+controls the Red Army forces of Southwest and Voronezh Fronts. The cardboard playing
+pieces represent the actual units which participated in the campaign, while the map represents
+the terrain over which the battle was fought.
+Von Manstein’s Backhand Blow is the first game in GMT´s Schwerpunkt series of World
+War II games. Certain concepts and mechanics of Von Manstein’s Backhand Blow can be
+found in other games of the designer, especially Turning the Tables (published by Moments
+in History in 1998), Drive to the Baltic! (published by Moments in History in 1999), and
+Velikye Luki (published by Moments in History in 2000). However, even veteran players
+who are familiar with the other games should study these rules carefully.
+Note: GMT Games published a game titled Lost Victory on the same topic in 1994. The
+game covers the campaign in greater detail and is still available from GMT.
+Course of Play: The game is played in game turns, each representing three days of real time.
+During a game turn a player moves and fights with his units and expends C3I Points.
+Object of the Game: The Soviet player must liberate the farmlands of the Ukraine and the
+important Donets Basin. The German player must hold the cities in order to keep the Ukraine
+and the Donets Basin under his control.
+
+2.0 GAME EQUIPMENT
+Each copy of Von Manstein’s Backhand Blow includes:
+• One 22 x 34 inch map
+• 280 die-cut counters
+• One Rules Booklet
+• 7 Player Aid Cards
+• Two six-sided Dice
+
+If any of these parts are missing or damaged, we apologize for the inconvenience and ask that
+you contact us to receive any replacement parts needed.
+Please send your correspondence to:
+GMT Games
+ATTN: vMBB
+PO Box 1308
+Hanford
+CA 93230 USA
+Phone: 559-583-1236 (800-523-6111 toll free in USA and Canada)
+Fax: 559-582-7775
+E-Mail: gmtoffice@aol.com
+BEGIN SPECIAL OFF SET BOX
+Answering Rules Questions
+Should any questions concerning play arise, we will gladly answer them. Please follow the
+guidelines printed below to expedite the process and assure a response:
+* Please refer to the numbered rules section(s) applicable to each question.
+• Mail your questions and a self-addressed stamped envelope to GMT Games at the
+address listed above
+For those on the Internet, we can be reached as follows:
+dirk.blennemann@t-online.de (the designer)
+UBlennemann@aol.com (the developer)
+gmtgames@aol.com (the publisher)
+For ongoing online support of this game, visit our website at www.gmtgames.com. It features
+a set of “Living Rules” (a set of rules that we continually update) as well as a discussion board
+where you can ask questions and get the latest tips and tricks from the designer/developer, as
+well as other players.
+We can also be found, along with most of the rest of the GMT designers/developers, on
+Consimworld´s discussion boards, at www.consimworld.com. We heartily recommend this
+site to anyone interested in wargaming.
+END SPECIAL OFF SET BOX
+2.1 The Rules
+Each major section of the rules is assigned a whole number (1.0, 2.0,...). Subordinate rules are
+assigned a corresponding number to the right of the decimal place. For example: 2.1, 2.2,...
+under rule 2.0; and 2.11, 2.12,... within sub-section 2.1. This system allows quick and easy
+cross referencing of rules.
+2.2 The Game Map
+The game map represents the area of southern Russia in which the fighting took place. It is
+based on contemporary German military maps, Red Army military maps captured by the
+Wehrmacht, and contemporary Soviet topographical maps. Each hex on the map has a fourdigit identification number, used for game reference purposes only. Example: The city of
+Kharkov is located in hex 2510.
+
+2.3 Charts And Tables
+The Player Aid Cards contain charts, tables, tracks and displays used to assist players
+throughout play. These are listed below, in alphabetical order:
+• Activity Table - lists possible actions of one player during one Schwerpunkt Segment.
+• Attrition Table - resolves Attrition Checks.
+• Combat Results Table (CRT) - resolves combat.
+• Game Turn Record Track - shows the passage of time, lists C3I Points and Victory Points.
+• Game Turn Sequence Track - lists the segments and phases to be undertaken each game
+turn.
+• General Records Track – records Action Points, C3I Points, and Victory Points.
+• German Combat Chits Chart - lists the effects of German Combat Chits.
+• German Substitute Unit Display - holds the counters of German units currently not in play.
+• German Variable Reinforcements Table - brings German Variable Reinforcements into
+play.
+• Random Events Table - resolves Random Events.
+• Reinforcement Schedule Chart - lists reinforcements entering play and the removal and
+addition of Combat Chits.
+• Soviet Combat Chits Chart - lists the effects of Soviet Combat Chits.
+• Soviet Substitute Unit Display - holds the counters of Soviet units currently not in play.
+• Terrain Effects Chart (TEC) - lists the number of Movement Points to enter each hex on
+the map, and how the different terrain types influence combat.
+• Terrain Key - shows the meaning of the various map colors and symbols.
+• Weather Table – determines the weather conditions of the current game turn.
+• Weather Track – shows the weather conditions of the current and previous game turns.
+2.4 The Playing Pieces
+German Variable Reinforcements are marked with an “R” in front of their setup code.
+German Verfügungskräfte and Soviet Uprising forces are stationary and may not move; they
+have a movement allowance of zero.
+2.41 Color Scheme
+A unit’s nationality is shown by its color scheme. In addition, it differentiates between Soviet
+Regular and Guards units and German Heer, Luftwaffe and Waffen-SS formations.
+A. German
+Heer
+Luftwaffe
+Waffen-SS
+
+gray
+blue
+black
+
+B. Soviet
+Soviet Regular
+Soviet Guards
+
+red
+gold
+
+2.42 Historical Identification
+A. German
+Many German units are designated by two groups of numbers/letters. In most cases, the group
+to the left of the unit identification box identifies the parent formation; the group to the right
+of the unit identification box identifies the unit itself. Example: 320-586 reads 586th infantry
+regiment of 320th Infantry Division.
+
+Some German units are designated by one group of numbers/letters. The numbers/letters
+identify the units itself. Example: FJ11 reads Fahnenjunkerregiment 11.
+Arb:
+Bau:
+Bel:
+Cha:
+Dne:
+Don:
+DF:
+DR:
+Dsch:
+EIW:
+FBB:
+FEB:
+Fel:
+FJ:
+FSS:
+Füs:
+FUS:
+FZK:
+G:
+GD:
+Ger:
+GFA:
+Gre:
+Her:
+HGN:
+Süd:
+HIW:
+KG:
+KoR:
+LAH:
+LGN:
+Nor:
+NSF:
+PD:
+Polt:
+Pol:
+SDK:
+SS:
+UFS:
+Sta:
+TB:
+TE:
+Tec:
+Thu:
+T:
+Tur:
+Url:
+
+Arbeits-Bataillon (labor battalion)
+Bau-Bataillon (contruction battalion)
+Bjelgorod (city; Belgorod)
+Charkow (city; Kharkov)
+Dnepropetrovsk (city)
+Donets (river)
+Der Führer (unit designation)
+Das Reich (unit designation)
+Deutschland (unit designation)
+Eisenbahninstandsetzungswerk (major railway repair shop)
+Führer-Begleit-Bataillon (unit designation)
+Feldeisenbahn-Betriebs-Abteilung (field railway battalion)
+Feldwirtschafts-Bataillon (field distribution battalion)
+Fahnenjunker-Regiment (regiment of officer aspirants)
+Frontsammelstelle (collecting center)
+Füsilier (unit designation)
+Feld-Unteroffizier-Schule (field NCO school)
+Feldzeug-Kommando (staff for technical services)
+Genesenen-Bataillon (convalescent battalion)
+Grossdeutschland (unit designation)
+Germania (unit designation)
+Grenadier-Feldausbildungs-Regiment (field training regiment for riflemen)
+Grenadier (unit designation)
+Herzog (commanding officer´s name)
+Heeresgruppen-Nachrichten-Regiment (signal regiment of an army group)
+Heeresgruppe Süd (Army Group South)
+Heeresinstandsetzungswerk (major repair shop)
+Kampfgruppe (task force)
+Rückwärtige Dienste eines Korps (base services of a corps)
+Leibstandarte Adolf Hitler (unit designation)
+Luftgau-Nachrichten-Rgt (air sector signals´ regiment)
+Nordland (unit designation)
+Nachschubführer (supply quartermaster)
+Panzer-Division (tank division)
+Poltawa (city; Poltava)
+Polizei (police)
+Streifendienst-Kommando (patrol services detachment)
+Schutzstaffel
+SS-Unterführer-Schule (Waffen-SS NCO school)
+Stalino (city)
+Transport-Begleit-Regiment (transport guard regiment)
+Theodor Eicke (unit designation)
+Technisches-Bataillon (technical battalion)
+Thule (unit designation)
+Totenkopf (unit designation)
+Turkmenisch (Turcmenian)
+Urlauber-Bataillon (battalion formed out of men returning from leave)
+
+Ukr:
+VK:
+W:
+Wac:
+Wes:
+WWB:
+Zap:
+
+Ukraine (area)
+Verfügungskräfte (security forces)
+Wiking (unit designation)
+Wach-Bataillon Hermann Göring (guard battalion Herman Göring)
+Westland (unit designation)
+Wehrwirtschaftliches Bergbau-Bataillon (mining battalion for war economics)
+Zaporezhe (city)
+
+B. Soviet
+Soviet units are designated by one group of numbers/letters letters to the right of the unit
+identification box identifies. Example: 41G reads 41st Guards Rifle Division.
+The following abbreviations appear on Soviet units as part of their historic identification:
+C
+G
+
+Cavalry
+Guards
+
+2.43 Unit Types
+All units in the game belong to one of the following three categories - motorized, nonmotorized, or stationary.
+A. Motorized
+Armored/Mechanized Infantry [ILLUSTRATION: show type here]
+Armored Reconnaissance [ILLUSTRATION: show type here]
+Tank [ILLUSTRATION: show type here]
+B. Non-Motorized
+Alarm [ILLUSTRATION: show type here]
+Infantry [ILLUSTRATION: show type here]
+C. Stationary
+Verfügungskräfte [ILLUSTRATION: show type here]
+Uprising forces [ILLUSTRATION: show type here]
+2.44 Unit Size
+The unit-size-symbols printed on top the unit type boxes mean:
+[II]
+Battalion-seized ad-hoc unit
+III
+Regiment
+KG
+Kampfgruppe
+XX
+Division
+XXX Corps
+2.45 Steps
+All Soviet Tank and Cavalry Corps as well as certain German units have four steps. Certain
+Soviet Infantry Corps have three steps. These units are represented by two counters, only one
+of which may be in play at any one time. The lower-valued units are marked with a “S”. At
+the start of play, these units should be positioned on the Soviet and German Substitute Unit
+Displays until needed (i.e., they are only introduced into play as combat losses are absorbed).
+2.5 Game Markers
+
+The Game Markers are used as record-keeping devices on the mapboard or play aid cards.
+Their use is covered in the rules.
+• Activity Points Markers - used on the General Records Track to mark the number of
+available Activity Points. [ILLUSTRATION: show marker here]
+• Administrative Movement Markers – used to mark units that conducted Administrative
+Movement. [ILLUSTRATION: show marker here]
+• Combat Chits - used for combat resolution. [ILLUSTRATION: show marker here]
+• C3I Points Markers - used on the General Records Track to mark the current C3I Points
+available to a player. [ILLUSTRATION: show marker here]
+• Game Turn Marker - indicates the current game turn. [ILLUSTRATION: show marker
+here]
+• Segment Marker - indicates the current game turn segment. [ILLUSTRATION: show
+marker here]
+• Soviet Front Markers – indicate the supply head of a Soviet front. [ILLUSTRATION:
+show marker here]
+• Weather Markers – indicate the weather of the current game turn, the previous game turn,
+and the number of continuous game turns with Deep Mud. [ILLUSTRATION: show
+markers here]
+2.6 Game Scale
+Each hex on the mapsheet covers approximately eight kilometers (8 km) from side to side.
+Each game turn represents three days of real time. Military units are corps, divisions,
+regiments, Kampfgruppen, and battalion-seized ad-hoc units.
+
+3.0 STANDARD PROCEDURES
+3.1 Hex Control
+Hex control is immediately lost if a unit no longer exerts a ZOC into the hex in question. A
+hex free of units and ZOCs is controlled by neither player. Hex control changes are
+immediate, and may occur and reoccur in the same hex any number of times during play.
+Note: Unlike most wargames, hex control is lost as soon as a unit does no longer exert a ZOC
+into a hex in von Manstein’s Backhand Blow. This was done because both sides had
+insufficient forces available to cover the entire front at all times.
+3.2 Formations
+Certain German units are permanently grouped into formations. All units belonging to a
+specific formation can be easily identified by their designation to the left of the unit
+identification box; this designation signifies the unit’s parent formation. In addition, the unit
+identification boxes of all units part of the same formation are identically colored. The Wiking
+and 19th PD formations consist of four, all other formations consist of three elements each.
+Formations are important for Stacking, (Regular) Movement, Administrative Movement and
+Integrity.
+
+4.0 THE GAME TURN
+Von Manstein’s Backhand Blow is divided into a maximum of 17 “Game Turns“ (or less for
+Scenario One: “Red Army’s High Water Mark”).
+
+4.1 Outline Sequence Of Play
+I. Administrative Segment
+II. First Soviet Schwerpunkt Segment
+III. First German Schwerpunkt Segment
+IV. Second Soviet Schwerpunkt Segment
+V. Second German Schwerpunkt Segment
+VI. Soviet General Segment
+VII. German General Segment
+4.2 Expanded Sequence Of Play
+I. Administrative Segment
+A. Advance the Game Turn Marker to the next higher numbered box on the Game Turn
+Record Track to indicate the start of a new Game Turn.
+B. The Soviet player determines the Weather, and places Weather Markers in the
+corresponding boxes of the Weather Track.
+C. The German player may announce that he is conducting the Rochade this game turn.
+D. Both players simultaneously check for Supply. Mark units Out Of Supply, and conduct
+Attrition Checks if required.
+E. The German player determines German Variable Reinforcements, and places eligible
+Variable Reinforcements on the map.
+F. The Soviet player places eligible Reinforcements either on the map or in his Administrative
+Movement Box #1 (player´s choice).
+G. The German player places eligible Reinforcements either on the map or in his
+Administrative Movement Box #1 (player´s choice).
+H. The Soviet player receives and spends Replacements.
+I. The German player conducts Frontnahe Auffrischung for motorized units (see 13.1).
+J. Both players add and remove Combat Chits according to the Reinforcement Schedule, and
+adjust the C3I Points Markers on the General Records Track according to the Game Turn
+Track.
+II. First Soviet Schwerpunkt Segment (skip this segment during Deep Mud game turns):
+The Soviet player conducts the following activities:
+A. Move Front Markers one hex each.
+B. Conduct Administrative Movement in the following order:
+(1) Move any one unit from Administrative Movement Box #2 onto the map.
+(2) Move all units from Administrative Movement Box #1 to Administrative Movement Box
+#2.
+(3) Place any one unit from the map into Administrative Movement Box #1.
+C. Declare in what order the Combat and Movement Phases will be carried out.
+D. Spend C3I Points and check the Activity Table. Divide Action Points between Southwest
+Front and Voronezh Front, and adjust Action Points Markers on the General Records Track
+according to the result.
+Note: The Segment ends if the player spends zero (0) C3I Points.
+E. Conduct either the Combat or Movement Phase.
+F. Conduct either the Combat or Movement Phase.
+III. First German Schwerpunkt Segment (skip this segment during Deep Mud game turns):
+The German player conducts the following activities:
+A. Conduct Administrative Movement in the following order:
+
+(1) Move any one unit (or all units part of the same formation) and any number of Variable
+Reinforcements from Administrative Movement Box #2 onto the map.
+(2) Move all units from Administrative Movement Box #1 to Administrative Movement Box
+#2.
+(3) Place any one unit (or all units part of the same formation) and any number of Variable
+Reinforcements from the map into Administrative Movement Box #1.
+B. Declare in what order the Combat and Movement Phases will be carried out.
+C. Spend C3I Points and check the Activity Table. Adjust Action Points Markers on the
+General Records Track according to the result.
+Note: The Segment ends if the player spends zero (0) C3I Points.
+D. Conduct either the Combat or Movement Phase.
+E. Conduct either the Combat or Movement Phase.
+G. Conduct Personalersatz for non-motorized units.
+IV. Second Soviet Schwerpunkt Segment (skip this segment during Deep Mud and Mud game
+turns): Same as “First Soviet Schwerpunkt Segment“.
+V. Second German Schwerpunkt Segment (skip this segment during Deep Mud and Mud
+game turns): Same as “First German Schwerpunkt Segment“.
+VI. Soviet General Segment
+The Soviet player conducts the following activities:
+A. Move Front Markers one hex each.
+B. Conduct Administrative Movement in the following order:
+(1) Move any one unit from Administrative Movement Box #2 to the map.
+(2) Move all units from Administrative Movement Box #1 to Administrative Movement Box
+#2.
+(3) Place any one unit into Administrative Movement Box #1.
+C. Declare in what order the Combat and Movement Phases will be carried out.
+E. Conduct either the Combat or Movement Phase, provided that no unit can conduct both
+combat and movement in this segment.
+F. Conduct either the Combat or Movement Phase, provided that no unit can conduct both
+combat and movement in this segment.
+VII. German General Segment
+The German player conducts the following activities:
+A. Conduct Administrative Movement in the following order:
+(1) Move any one unit (or all units part of the same formation) and any number of Variable
+Reinforcements from Administrative Movement Box #2 to the map.
+(2) Move all units from Administrative Movement Box #1 to Administrative Movement Box
+#2.
+(3) Place any one unit (or all units part of the same formation) and any number of Variable
+Reinforcements into Administrative Movement Box #1.
+B. Declare in what order the Combat and Movement Phases will be carried out.
+D. Conduct either the Combat or Movement Phase, provided that no unit can conduct both
+combat and movement in this segment.
+E. Conduct either the Combat or Movement Phase, provided that no unit can conduct both
+combat and movement in this segment.
+G. Conduct Personalersatz for non-motorized units (see 13.2).
+
+Last game turn of a scenario: The players consult the Victory Conditions to determine the
+winner.
+
+5.0 WEATHER
+Weather is important for the number of segments in the current game turn, the number of
+available C3I Points, and (Regular) Movement.
+The weather is always Frozen on the first game turn of the game. Starting with the second
+game turn, the Soviet player determines the weather of the current game turn by consulting the
+Weather Table, and places Weather Markers in the corresponding boxes of the Weather
+Track.
+5.1 Procedure
+The Soviet player rolls two dice and applies any modifiers. The result is either Frozen or Mud.
+If the result is Mud and the previous game turn has been either Mud or Deep Mud, the weather
+for the current game turn becomes Deep Mud.
+5.2 Effects of Frozen Weather
+• Use the appropriate columns on the Terrain Effects Chart.
+• Both players receive their full number of C3I Points (the left number on the Game Turn
+Record Track).
+• The game turn consists of two Soviet Schwerpunkt Segments and two German
+Schwerpunkt Segments.
+5.3 Effects of Mud Weather
+• Use the appropriate columns on the Terrain Effects Chart.
+• Both players receive a reduced amount of C3I Points (the right number on the Game Turn
+Record Track).
+• The game turn consists of one Soviet Schwerpunkt Segment and one German
+Schwerpunkt Segment (skip the 2nd Soviet and 2nd German Schwerpunkt Segments).
+5.4 Effects of Deep Mud Weather
+• Use the appropriate columns on the Terrain Effects Chart.
+• Neither player receives C3I Points that game turn.
+• The game turn does not consist of Schwerpunkt Segments (skip the 1st and 2nd Soviet
+and German Schwerpunkt Segments).
+5.5 Historical Weather
+The historical weather of each game turn is printed on the Game Turn Record Track for
+reference purposes. In addition, players may decide to use the historical weather instead of
+weather determination (see above).
+Note: We recommend weather determination.
+
+6.0 ZONES OF CONTROL
+Units do not exert a ZOC into City hexes in von Mantein´s Backhand Blow.
+
+7.0 SUPPLY
+German supply sources are all hexes on the western map edge. Soviet supply source hexes are
+all hexes on the eastern map edge from hex 4100 (inclusive) to hex 4125 (inclusive).
+
+8.0 C3I POINTS
+8.1 Weather & C3I Points
+The weather (see 5.0) of the current game turn influences the number of C3I Points available
+to a player.
+Frozen à full amount of C3I Points (left number on the Game Turn Record Track).
+Mud à reduced amount of C3I Points (right number on the Game Turn Record Track).
+Deep Mud à no C3I Points
+Example: The weather is Mud; the Soviet player receives ? C3I Points on Game Turn 6.
+8.2 Rochade
+Starting with Game Turn 7, the German player may declare the Rochade (“Castling the King”)
+once during a game on any one Frozen weather game turn.
+Effects:
+• The number of German units that may conduct Administrative Movement is increased.
+• The German player may neither receive nor spend C3I Points during the Rochade game
+turn (C3I Points accumulated on previous game turns are unaffected). Instead, the German
+player rolls on the Rochade column of the Activity Chart during each of his two
+Schwerpunkt Segments.
+
+9.0 ACTIVITY POINTS – SOVIET FRONTS
+The Soviet player must divide the number of available Activity Points as evenly as possible
+between Southwest Front and Voronezh Front. If an even number of Activity Points is
+generated, each Front must receive the same amount of Activity Points. If an odd number of
+Activity Points is generated, one Front (Soviet player’s choice) will receive one more point
+than the other. The Soviet player may spend Activity Points assigned to a given Front for
+movement and combat without further limitations.
+The German player is not restricted in this way.
+
+10.0 STACKING
+10.1 Soviet Stacking
+The Soviet player may stack up to three divisions and/or corps in one hex. Soviet Uprising
+markers stack for free. Soviet units that have their combat strengths in brackets ( ) stack for
+free.
+
+10.2 German Stacking
+The German player may stack up to four regiments and/or Kampfgruppen in one hex. Each
+German formation counts as two regiments. German formations consist of either three or four
+
+regiments/Kampfgruppen; the third and fourth regiment/Kampfgruppe stacks for free if two
+other regiments/Kampfgruppen of the formation are stacked in the same hex. Therefore up to
+eigth German units from two formations may stack in one hex. German units that have their
+combat strengths in brackets ( ) stack for free.
+
+11.0 REINFORCEMENTS
+11.1 Reinforcement Arrival
+German Variable Reinforcements (see 11.2) may be placed on the map (only).
+Soviet Reinforcements enter the game in one of three different ways:
+(1) Via their Entry hex (see the Soviet Reinforcement Schedule);
+(2) Via Administrative Movement Box #1;
+(3) They are placed on top of a Soviet Front Marker (see the Soviet Reinforcement Schedule).
+Entry hexes 3800 or 4103 (see the Soviet Reinforcement Schedule) à Voronezh Front
+Entry hexes 4114 or 4119 (see the Soviet Reinforcement Schedule) à Southwest Front
+11.2 German Variable Reinforcements
+All units marked by an “R” are German Variable Reinforcements. Following the Setup
+Instructions, all German Variable Reinforcements have to be placed in one container or cup
+from which they can be easily drawn at random. Starting with Game Turn 2, the German
+player consults the German Variable Reinforcements Table once during each Administrative
+Segment. He rolls one die and cross-references the result under the appropriate column. The
+result indicates the number of German Variable Reinforcements drawn by the German player
+at random. This process stops for the remainder of the game if all German Variable
+Reinforcements have been drawn.
+German Variable Reinforcements show a setup code next to their “R” marking. They must be
+placed in that hex, and may not be initially placed in the Administrative Movement Box. A
+German Variable Reinforcement is permanently lost if its setup hex has been Soviet
+controlled at any time during the game. The German player may not re-draw other German
+Variable Reinforcements in such a case.
+
+12.0 SOVIET REPLACEMENTS
+The Soviet player receives Replacements to strengthen units that suffered step losses.
+Replacements come in two types: Motorized and Non-motorized. Starting with the second
+game turn, the Soviet player determines the number of replacements by consulting the Soviet
+Replacement Table during the Administrative Segment of each game turn, and places
+Replacement Markers in the corresponding boxes of the General Records Track..
+Replacements may be accumulated from game turn to game turn. It is not necessary to divide
+them evenly between the two fronts.
+A Soviet unit that has suffered one or more step losses during previous game turns may
+receive one replacement (maximum) during the Administrative Segment of any game turn if
+the unit is both In Supply and in range of a Front Marker. Eliminated Soviet units may not
+receive replacements and may not be rebuilt in that way (eliminated Soviet units are out of
+play for the remainder of a game). Each replacement rebuilds one step; motorized
+replacements are limited to motorized units, and non-motorized replacements are limited to
+
+non-motorized units. Simply flip the unit in question to its front side, or bring into play the
+“stronger” counter in case of a tank or cavalry corps. Reduce the Replacement Markers on the
+General Records Track by “1“ for each replacement spend. Replacements may set up in an
+EZOC.
+Note: Units located in the Administrative Movement Box may receive replacements.
+Also note: Soviet units that received replacements are permitted to move and attack as normal
+on the turn they receive replacement steps.
+
+13.0 GERMAN REORGANIZATION
+The German player may strengthen units that suffered step losses by Reorganization.
+Reorganization is done in two ways:
+• Frontnahe Auffrischung for motorized units
+• Personalersatz for non-motorized units
+13.1 Frontnahe Auffrischung
+The German player receives two markers labled Frontnahe Auffrischung (“reorganization near
+the front under battlefield conditions”) on Game Turn 7. One marker is grey and used for
+German motorized formations of the Heer, the other marker is black and used for German
+motorized formations of the Waffen-SS.
+The German player may place the markers on any German motorized unit(s) during each
+Administrative Segment starting with Game Turn 7. The unit(s) in question may be either on
+the map, or in the Administrative Movement Boxes. The unit(s) must be In Supply and may
+not be adjacent to an enemy unit during placement. Both markers may be placed in the same
+hex.
+All units that are part of one formation (German player’s choice) located in the same hex
+receive up to two steps each during the Administrative Segment of the next game turn.
+Previously eliminated units of the formation in question may be rebuilt in that way; they are
+placed in the same hex. A formation may not conduct Frontnahe Auffrischung if all units that
+are part of the formation are eliminated; these units are out of play for the remainder of the
+game.
+Units undergoing Frontnahe Auffrischung may neither move (including Administrative
+Movement) nor attack during the game turn in question; they defend normally. The grey
+marker is limited to formations of the Heer; the black marker to formations of the Waffen-SS.
+Therefore the German player may conduct Frontnahe Auffrischung with all units of one
+formation of the Heer located in the same hex (or Administrative Movement Box), and with
+all units of one formation of the Waffen-SS located in the same hex (or Administrative
+Movement Box). Starting with Game Turn 7, both markers are available each game turn.
+13.2 Personalersatz
+A German non-motorized unit that previously has suffered a step loss may be flipped back to
+its front side by disbanding one German Variable Reinforcement unit during any German
+Schwerpunkt Segment. Both units must be either stacked in the same hex, or be located in the
+Administrative Movement Boxes. The units in question may be Out of Supply. German
+Variable Reinforcements spent (disbanded) in that way are out of play for the remainder of the
+game. Eliminated German non-motorized units may not receive Personalersatz (“personal
+replacements”) and may not rebuild in that way (they out of play for the remainder of the
+game).
+
+Note: The units receiving Personalersatz may be located in one or both Administrative
+Boxes.
+
+14.0 SOVIET FRONT MARKERS
+The Soviet player controls two Front Markers, labeled Southwest Front and Voronezh Front.
+They represent the command and logistical centers of the appropriate fronts of the Red Army.
+Unlike German units, Soviet units must be in range of a Front Marker in order to conduct one
+of the following activities:
+• receive Activity Points
+• conduct Administrative Movement
+• receive Replacements
+• full capabilities of certain Soviet Combat Chits
+A unit is in range of a Front Marker if it can trace a line of not more than twelve hexes (count
+the Front Marker’s hex, but not the unit’s hex) to the Front Marker. The line may be
+interrupted by enemy units and/or EZOCs. The unit must be only in range at the moment the
+selected activity (see above) is supposed to occur. Units placed in the Soviet Administrative
+Movement Box are always considered to be in range of a Front Marker.
+14.1 Restrictions On Front Markers
+A Front Marker must be able to trace an uninterrupted line of contiguous hexes (in the mind´s
+eye) back to a Soviet supply source at any time during a game turn. Such a path may be of any
+length, but may not
+• enter hexes occupied by enemy units;
+• enter hexes containing EZOCs unless there is a friendly unit in the hex to nullify that
+EZOC for this purpose
+The Soviet player immediately displaces a Front Marker to the next available hex the front
+marker could legally move into closer to a Soviet supply source and fulfilling all requirements
+if
+• the hex is entered by an enemy unit;
+• the Front Marker fails to trace an uninterrupted line of contiguous hexes back to a Soviet
+supply source
+14.2 Moving Front Markers
+The Soviet player may move Front Markers during Soviet player segments. Front Markers do
+not move like units; Activity Points, Movement Allowance, Terrain Effects, Terrain Features
+and EZOCs are not checked. Instead, each Front Marker may move exactly one hex during
+each Soviet player segment.
+
+15.0 MOVEMENT
+In addition to “normal” movement, von Manstein´s Backhand Blow uses Administrative
+Movement (see below). Please check the Sequence of Play.
+15.1 Administrative Movement
+
+Administrative Movement does not cost C3I Points, Activity Points, or MPs. A player may
+conduct Administrative Movement even if he spends zero C3I Points during a current
+Schwerpunkt segment.
+Each player may conduct Administrative Movement during each of his Player Segments in the
+following order:
+(1) Move one unit (or all units part of the same formation in the case of the German player)
+from Administrative Movement Box #2 to one hex on the map. In addition, the German player
+may move any number of German Variable Reinforcements from Administrative Movement
+Box #1 to hexes on the map.
+The unit/stack in question may be placed adjacent to or stacked with friendly unit(s) (or a
+Soviet Front marker in the case of the Soviet player) in a hex free of EZOCs to which the
+unit/stack can trace an uninterrupted line of contiguous hexes free of enemy units and/or
+EZOCs (a friendly unit in the hex does not negate an EZOC for this purpose) to a friendly
+supply source. Stacking limits are in effect.
+(2) Move all units from Administrative Movement Box #1 to Administrative Movement Box
+#2.
+(3) Move one unit (or all units part of the same formation that are stacked in the same hex in
+the case of the German player) from the map to Administrative Movement Box #1. In
+addition, the German player may move any number of German Variable Reinforcements from
+the map to Administrative Movement Box #1.
+The unit/stack in question is picked up from the map and placed in Administrative Movement
+Box #2. The “pick up hex” has to be In Supply and may not be in an EZOC. A friendly unit in
+the hex does not negate an EZOC for this purpose.
+Restrictions
+• Units may either use Administrative Movement or (Regular) Movement during one player
+segment, never both.
+• Out Of Supply units may not conduct Administrative Movement.
+• Units using Administrative Movement may not attack during the same player segment.
+• German units undergoing Frontnahe Auffrischung cannot conduct any kind of
+Administrative Movement.
+Important: Neither player may conduct Administrative Movement during Game Turn 1 (all
+segments).
+15.11 Additional Soviet Restrictions
+Soviet units must be in range of a Front Marker in order to conduct Administrative
+Movement. This is true for units placed on the map (from Administrative Movement Box #2)
+and units picked up from the map (and put in Administrative Movement Box #1).
+15.12 Rochade
+If the German player has declared the Rochade (see 8.2), he may move up to five units (or all
+units part of up to five formations) during any one segment of the game turn in question from
+Administrative Movement Box #2 to the map. The units may be placed in different hexes, but
+all units part of the same formation must be placed in the same hex.
+All other rules and restrictions are in effect.
+Note: It is possible to “mix” individual units and formations; however, the maximum number
+is five (e.g., the German player could move all units that are part of three formations plus two
+individual units.)
+
+15.2 Moving German Formations
+German units belonging to the same formation may move as one stack. These units must
+begin their Movement Phase already stacked, move together, and end their movement in the
+same hex. Reduce the Activity Points Marker on the General Records Track by “1“ for each
+stack that has moved (not by “1“ for each unit that has moved) during a German Schwerpunkt
+Segment.
+Of course, stacked units of a formation may move independently, however, in that case each
+unit pays 1 AP.
+15.3 Moving German Variable Reinforcements
+German Variable Reinforcements move for free (always, for the entire game). Do not reduce
+the Activity Points Marker on the General Records Track during a German Schwerpunkt
+Segment.
+Note: All other rules are in effect.
+15.3 Terrain Effects
+15.31 Rivers
+Crossing a River may cost a unit all MPs during certain weather conditions. The unit in
+question must start its Movement Phase adjacent to the river hexside and may cross it by
+expending all MPs. A bridge negates River crossing movement costs.
+15.32 Road Hexes
+A unit that is moving from one Road hex directly to another adjacent Road hex through a
+hexside crossed by the Road symbol ignores all other terrain in the hex entered (including
+Stream hexsides) and uses the Road movement rate (see the TEC).
+
+16.0 COMBAT
+In Soviet attacks at least one participating unit must be in range of a Front Marker if APs are
+to be spent.
+16.1 Combat Odds
+The column headings on the CRT range from 1:2 to 19:1. Attacks which are worse than 1:2
+yield an automatic combat result of “4/0“ (but roll two dice to determine Random Events or
+SNAFU). Attacks which are better than 19:1 are treated as 19:1 (but roll two dice to determine
+Random Events or SNAFU).
+16.7 Combat Modifiers
+16.71 Concentric Attack
+A Concentric Attack can never be created by units attacking into a City hex or across a River
+hexside.
+16.72 Terrain Effects
+Certain terrain features generate DRMs favorable to the defender. See the TEC for full details.
+16.721 Streams And Combat
+
+Streams generate a DRM of -2 if all units are attacking across Stream hexside(s). Streams
+generate a DRM of -1 if at least one unit is not attacking across Stream hexside(s).
+16.722 Rivers And Combat
+Units attacking across a River hexside have their combat strength halved and do not qualify
+for a Concentric Attack.
+A unit must stop a retreat after crossing a River hexside; it may not retreat further. A unit
+cannot cross a River hexside to extend a retreat path to a second hex.
+Units may not advance a second hex if attacking across a River hexside, or if the advance
+would require crossing a River hexside.
+Bridges do not negate the above effects.
+16.723 Cities And Combat
+Units attacking a City hex do not qualify for a Concentric Attack. A defending force located in
+a City hex is never forced to retreat, however, it may do so (defending player’s choice).
+16.724 Swamps And Combat
+Combat is not permitted into and out of Swamp hexes. Motorized units can never advance or
+retreat into Swamp hexes.
+16.73 Combat Chits
+Certain Soviet Combat Chits require the defender´s hex to be in range of a Soviet Front
+Marker.
+16.74 German Integrity
+The Tactical Rating of a defending or attacking German unit that is part of a formation may be
+increased due to the Integrity Bonus. In order to receive the Integrity Bonus, a German unit
+must be part of a formation and stacked with at least one other unit of its parent formation.
+Exception: A unit that is part of Wiking or 19th PD formation must be stacked with at least
+two other units of its parent formation.
+A unit fulfilling the above requirements receives a Formation Integrity Bonus of two (+2).
+This bonus may become unavailable if units of the formation have been eliminated.
+16.8 SNAFU Combat Result
+SNAFU effects are generated by unmodified die rolls of 3 or 11 during combat resolution
+(Step G of the Combat Resolution Process). If an unmodified 3 is rolled, the defender suffers
+one additional Combat Hit. If an unmodified 11 is rolled, the attacker suffers one additional
+Combat Hit.
+16.9 Comprehensive Example Of Combat
+!!! To be added!!!
+
+17.0 UPRISING
+The Soviet player consults the Soviet Uprising Table whenever a Soviet unit first moves
+within three hexes of any City hex. The result may be either Failure or Success.
+Note: There is only one uprising attempt per city hex per game.
+
+Uprising Results:
+• Failure: Nothing happens, play continues.
+• Success: The counter showing the German stationary Verfügungskräfte of the city in
+question is flipped over to its back side, showing the Soviet Uprising Forces. The
+Verfügungskräfte are permanently lost. The city becomes friendly to the Soviet player if
+no other German unit is located in the city hex now. The Soviet Uprising Forces are
+permanently lost if at least one other German unit is still located in the city hex.
+
+18.0 THE SCENARIOS
+Von Manstein’s Backhand Blow includes two scenarios. First, players choose which scenario
+they will play and then select which side they will command. The “Soviet player“ commands
+all Soviet units, while the “German player“ commands all German units.
+The first game turn of a scenario always starts with the 1st Soviet Schwerpunkt Segment (see
+4.2). Weather is always Frozen during Game Turn 1, and neither player may conduct
+Administrative Movement during game turn 1 (all segments). Place the Soviet C3I Points
+Marker in the “5” space, and the German C3I Points Marker in the “2” space on the General
+Records Track. All other markers are placed in the “0” space on the General Records Track.
+Starting with Game Turn 2, the regular sequence of play is in effect.
+18.1 Scenario One - Red Army’s High Water Mark
+This scenario starts with Game Turn 1 and finishes at the end of Game Turn 4, covering the
+first 12 days of the campaign. It can be completed in less than two hours, allowing players to
+get their feet wet with the game system.
+Victory is determined at the conclusion of Game Turn 4.
+• German Victory: No Soviet units are west of the Donets River.
+• Soviet Victory: One or more cities on the map are Soviet controlled.
+• Draw:
+Any other result.
+18.2 Scenario Two – von Manstein’s Backhand Blow
+This scenario recreates the entire campaign, which stretched over 51 days of fierce fighting.
+The scenario starts with Game Turn 1 and finishes at the end of Game Turn 17, allowing
+players to recreate the historical campaign in its entirety. With an estimate playing time of 10
+hours, this scenario is the centerpiece of the game.
+Victory is determined at the conclusion of Game Turn 17.
+* German Decisive Victory:
+* German Major Victory:
+* German Minor Victory:
+* Soviet Minor Victory:
+* Soviet Major Victory:
+* Soviet Decisive Victory:
+* Draw:
+
+All cities are German controlled and have at no time
+been Soviet controlled during the course of play.
+No Soviet units are west of the Donets River.
+All cities are German controlled.
+Two cities are Soviet controlled.
+Three cities are Soviet controlled.
+Four or more cities on the map are Soviet controlled.
+Any other result.
+
+19.0 HISTORICAL COMMENTARY
+
+20.0 DESIGNER´S NOTES
+
+CREDITS
+Game Design:
+Development:
+Editing:
+Playtesting:
+
+Dirk Blennemann
+Uli Blennemann
+Bob Irelan, Uli Blennemann
+Volkmar Böse, Detlef Borchert, Dirk Dahmann, Edgar Forschbach,
+Robert Holzer, Bob Irelan, Christoph Ludwig, Rainer Mattern, John
+McGuffog, Norbert Möhring
+Art Director:
+Rodger MacGowan
+Counter and Map Art: Mark Simonitch
+Package Design:
+Rodger MacGowan
+Production:
+Tony Curtis
+
+

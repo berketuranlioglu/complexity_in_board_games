@@ -1,0 +1,1286 @@
+Manifest Destiny
+
+© 2004 GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+1
+
+#0406
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+
+2
+
+1.0 OVERVIEW
+Manifest Destiny is a card driven strategy game for 3 to 5 players set in the Americas, between 1760 and 2000. Each player
+controls one of five mercantile empires and attempts to fulfill
+their destiny. The five empires are based in Louisiana, Mexico,
+Pennsylvania, Quebec, and Virginia. The player best responding to the opportunities the game presents fulfills their destiny—
+and wins!
+
+2.0 OBJECT OF THE GAME
+The object of the game is to be the player with the most Victory
+Points at the end of the investment or expansion phase after someone reaches at least 30 Victory Points. Purchasing Progressions,
+researching Breakthroughs, and controlling the most Cities earn
+Victory Points.
+
+3.0 COMPONENTS
+3.1 Each game of Manifest Destiny includes:
+•
+•
+•
+•
+•
+•
+
+This Rule Booklet
+One Reference Booklet
+One Mapsheet
+64 Influence Cards (50 Progress Cards and 14 Destiny Cards)
+Five Product Payout/Sequence of Play cards
+One sheet of stickers
+
+• Three Sheets of Deeds (two of sheet 1, and one of sheet 2).
+These include:
+—20 Breakthrough Deeds (2 sets of 10 cards)
+—75 Progression Deeds (5 sets of 15 cards)
+• One full-color Breakthrough Chart
+• Five full-color Progress Mats
+• Five sets of Control Tokens (1/4" cubes, 25 in each set)
+• Each player also gets 12 1/2" cylinders in his player color.
+These tokens are used for the following:
+—Seven are used as Breakthrough Tokens
+—One is used for a Victory Point Token
+—One is used for a Profit Token
+—One is used for a Turn Order Token
+—One is used for a Turn Order Choice Token
+—One is provided as a spare
+• 20 City Tokens (1/2" blocks, gray)
+• Five Native Tokens (1/2" blocks, dark red)
+• Three Tourist Tokens (1/2" blocks, orange)
+• Two Technology Tokens (1/2" blocks, brown)
+• One Surplus Token (1/2" block, black)
+• Five Tokens to indicate +100 on the Profit Track (1/2" blocks,
+light blue)
+• One Most Cities Victory Point Token (1/2" block, light green)
+• One Panama Canal Token (1/2" block, black)
+• One Era Track Token (1/2" block, white)
+• Four spare Tokens (1/2" blocks, white)
+• $38,000 play money in denominations of $5, $10, $20, $50,
+$100
+• five 6-sided dice
+
+INFLUENCE CARDS
+Progress Cards
+
+Destiny Cards
+Card #
+Era the card may be
+used in. In this case its
+a Multiple Era Card
+(8.13) and can be used
+in all three Eras
+(recycled).
+
+Progression
+Deed
+
+Event
+
+Both the Event
+and the Product
+Payout occurs
+when the card is
+played.
+Either the Event or
+the Product Payout
+may be used—not
+both.
+
+Not used in the
+3-player game
+
+Product Payout
+
+© 2004 GMT Games, LLC
+
+Breakthrough
+Deed
+
+Manifest Destiny
+
+3
+
+3.2 Tokens and Progress Mats
+
+4.3 Three Player Setup
+
+See page 11 for a description of the tokens and stickers and their
+initial placement. Before your first game, number the Progress
+Mats (using the stickers supplied) 1 through 5 in the upper left
+hand corner.
+
+Use the Five Player Setup with the following exceptions: Remove the following Influence Cards from their respective decks:
+Hudson Bay Company, Remember the Alamo, Ben Franklin,
+Thomas Jefferson, Robert Fulton, War of 1812, Star Spangled
+Banner, Davy Crockett, Samuel Morse, P.T. Barnum, Reconstruction, Seward’s Folly, Thomas Edison, The 60’s, Amelia
+Earhart, Dust Bowl, Franklin D. Roosevelt, Lawyer, Elvis
+Presley, and Civil Disobedience.
+
+3.3 Rule References
+Numbers in parenthesis represent references to other sections of
+the rulebook.
+
+3.4 Map Board
+The map is of the United States, Canada, Mexico, Central
+America and Foreign Markets. The United States includes Alaska
+and Hawaii. The map is divided into the following regions:
+Canada, Northern US, Southern US, Northwest (includes Alaska),
+Southwest (includes Hawaii), Mexico, Central & South America,
+and Foreign Markets (Foreign Markets are Asia, Australia, Europe, Middle East, and Africa).
+
+3.5 Control Tokens
+Each player has 25 Control Tokens available during the game.
+These tokens are used for controlling territories on the map, tracking Pioneers, tracking Breakthroughs, and purchasing Cities, Pioneers, and Cards.
+
+4.0 GAME SETUP
+4.1 Five Player Setup
+Each player selects a set of 25 colored Control Tokens and 12
+cylinder tokens and receives $60 to start the game.
+Separate the Influence Cards into 4 decks: Era 1 Destiny Cards
+(Cards #1-6), Era 1 Cards (Cards #14-32 and #61-64), Era 2
+Cards (Cards #7-9 and #33-46), Era 3 Cards (Cards #10-13 and
+#47-60).
+Each player starts with three cards. Randomly deal each player
+one Era 1 Destiny Card and then shuffle the remaining Era 1
+Destiny Card with the Era 1 Card Deck. Deal each player two
+additional cards from this deck. Place the remainder of the Era 1
+deck face down on the board. Place the Era 2 and Era 3 decks off
+to the side for later use.
+• Place each player’s Profit Token on the 30 Space of the Profit
+Track.
+• Place each player’s Victory Point Token on the 0 Space of the
+Victory Point Track.
+
+4.2 Four Player Setup
+Use the Five Player Setup with the following exceptions: Remove the following Influence Cards from their respective decks:
+Hudson Bay Company, Thomas Jefferson, Davy Crockett, P.T.
+Barnum, Reconstruction, Seward’s Folly, Amelia Earhart, Dust
+Bowl, Elvis Presley, and Civil Disobedience.
+• Place each player’s Profit Token on the 20 Space of the Profit
+Track.
+No movement or expansion is allowed in Canada.
+
+Place each player’s Profit Token on the 20 Space of the Profit
+Track.
+No movement or expansion is allowed in Canada or Mexico.
+
+5.0 TURN SEQUENCE
+Unless otherwise noted, players move in turn order during each
+phase, each player completing a phase before the next player
+begins his phase. Once the following player has taken an action,
+a player may not change actions previously taken or take any
+additional action.
+Each turn is broken up into five phases:
+1. Turn Order Phase
+2. Card Play Phase
+3. Investment Phase
+4. Expansion Phase
+5. Adjustments Phase
+Prior to the first turn, there is an additional Home Territory Selection Phase.
+
+6.0 HOME TERRITORY
+SELECTION PHASE
+In this phase, players select their Home Territory by bidding for
+the right to choose their Home Territory.
+
+6.1 Determine Bid Order
+Each player places one of his cylindrical tokens in an opaque cup.
+One player draws the tokens (one by one) from the cup. The order
+in which the tokens are drawn determines the bidding order.
+
+6.2 Place Bids
+Players bid by placing any amount of money in multiples of $5
+(including zero) on the table. After all players have had a chance
+to bid, players will choose their Home Territory based on their
+bids, from highest to lowest. If two or more players bid the same
+amount, whoever bid the amount first will choose ahead of the
+other tied players.
+
+6.3 Select Home Territory
+Beginning with the highest bidder and continuing in order of
+amount bid, players select their Home Territory. They place a
+Control Token colored side up on their Home Territory, pay the
+amount of their bid and receive a Progress Mat, numbered 1-5
+(3.2), corresponding to the order in which they choose their Home
+Territory.
+
+© 2004 GMT Games, LLC
+
+4
+
+Manifest Destiny
+
+6.4 Home Territories Available
+Five Player game: Louisiana, Mexico, Pennsylvania, Quebec,
+and Virginia
+Four Player game: Louisiana, Mexico, Pennsylvania, and Virginia
+Three Player game: Louisiana, Pennsylvania, and Virginia
+
+7.0 TURN ORDER PHASE
+At the beginning of each turn, players choose their turn order for
+the coming turn. Players choose their turn order based on the
+Turn Order Choice Box (8.62). Players indicate their Turn Order by placing one of their tokens on the appropriate space of
+the Turn Order Track.
+For the first turn, players choose turn order in the same order
+they chose their Home Territory (6.3).
+
+8.0 CARD PLAY PHASE
+During the Card Play Phase, players may play Influence Cards
+from their hand, in turn order, by placing them face up in front
+of them. The cards remain face up until the beginning of the
+next Turn Order Phase. Players may play (in any order):
+• Possibly One Destiny Card from the current Historical Era
+(subject to Destiny Card restrictions; see 8.2); and/or
+• Any number of Progress Cards from the current Historical
+Era.
+
+8.1 Historical Eras
+The top of each card lists an Historical Era or Eras. Era 1 spans
+1760-1860; Era 2 spans 1861-1920; Era 3 spans 1921-2000.
+Cards can only be played if the Era on the top of the card matches
+the current Era of the game turn. Use the Era token on the Era
+Track to record which Era the game is in and which cards can be
+played.
+8.11 Eras: When an Era deck is exhausted, shuffle the cards
+from the next Era deck and the recycled cards together to form
+the next deck. Cards played in the current turn are not recycled
+at this time. If eligible to be recycled, the cards played in the
+current turn will be recycled in the next Era.
+8.12 New Era: A new Era begins once the first card in the new
+Era deck is drawn. When this happens, the next Card Play Phase
+is a transition turn. This means that cards from the previous Era
+and the new Era may be played. During a transition turn, if the
+Era affects how the card is applied, the player playing the card
+may choose which Era applies.
+NOTE: As soon as a new era begins, the era token moves into
+the 1/2 or 2/3 box during the transition turn, and then into 2 or 3
+at the end of the card play phase.
+8.13 Multiple Era Cards: Certain cards may be played in more
+than one Era, indicated by having multiple Era listed on the top
+of the card. After being played, these cards are eligible to be
+
+recycled at the beginning of the next Turn Order Phase by adding them to the deck of the next Era. Some cards can be played
+in either of 2 Eras, indicated on the card as “Era 1 or 2” or “Era
+2 or 3”. These cards are not recycled.
+
+8.2 Destiny Cards
+When a Destiny Card is played, both the event and the product
+payout (8.331) occur.
+8.21 One Destiny Card Per Turn. Except as allowed by Section 8.22 below, only one Destiny Card may be played during
+each turn by all of the players (so if the player moving first plays
+a Destiny Card, no other player could play a Destiny Card that
+turn).
+8.22 Patriotism: A player owning the Patriotism Breakthrough
+may play one extra Destiny Card each turn (one if one has already been played and two if none has been played).
+
+8.3 Progress Cards
+8.31 Leader Cards provide discounts on Progressions and possibly some other benefits. These discounts are applicable only
+to the player playing the card unless two players are collaborating (9.351). If a player plays a Leader Card that provides a discount on a Progression the player already owns, the player receives a rebate of 1/2 of the listed credit. Rebates are only available from Leader Cards. Discounts from event cards do not entitle a player to rebates.
+8.32 Event Cards trigger actions that affect the play of the game.
+These include items such as creating products, natives occupying territories, expansion roll modifications, movement enhancements, profit adjustments, territory control changes, counter cards
+or response cards.
+8.321 Creating Products: Internet, Teddy Roosevelt, and Babe
+Ruth place additional Product Tokens in Territories. These tokens remain until the end of the game and add the stated Product
+to this Territory, even if control of the Territory changes.
+8.322 Natives: The Native Sovereignty card adds Native Tokens to certain Territories. These tokens act as deterrents to expansion and must be defeated in a competition roll in order to
+expand into that Territory. The Homestead Act card can be used
+to remove Natives.
+8.323 Expansion Roll Modifications: Cards that effect expansion rolls may allow either fewer Control Tokens to be spent to
+attempt a competition roll, winning ties when attacking, or rerolling a competition roll. Examples are: War of 1812 and Star
+Spangled Banner.
+8.324 Movement Enhancements: These cards allow movement
+to certain Territories during expansion that a player would not
+otherwise be able to reach. An example is Oregon Trail.
+8.325 Profit Adjustments: Some cards provide for adjustments
+to a player(s) Profit. Examples include: Abolitionists/Civil Rights
+Movement and Reconstruction.
+8.326 Territory Control Changes: These cards include placing
+Control Tokens in a Territory, replacing another player’s Con-
+
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+trol Token with your own, or eliminating Control Tokens in a
+Territory. When a card results in a player gaining control of a
+Territory, the player has the choice of placing a token as a New
+Presence (10.22), or an Established Presence (10.23). If a card
+results in a player ceding Territories to another player, the losing
+player chooses the Territories, though they must be accessible to
+the player gaining them. If a card requires Territories to be ceded
+and no player may legally take them, the Territories are left vacant. Examples of the different territory control cards include:
+Revolutionary War, Homestead Act, Trustbusters, and Lawyer.
+8.327 Counter Cards: These cards counter the effects of an
+event card. They can be played during another player’s turn to
+counter another player’s card play. When a counter card is played,
+the player playing the first card suffers the effect of the card
+instead. A card may not be played against a player who has played
+the counter to the card during his Card Play Phase earlier in the
+same turn. Counter cards are President, which counters Spy, and
+Abraham Lincoln, which counters Civil War. If President is
+played as Technology, it does not counter Spy during that turn.
+8.328 Response Cards: In addition to the counter cards, there
+are also response cards, which also may be played during another player’s card play. They are played in response to a card
+play made by another player and void the effects of the played
+card. The original card remains played for turn order purposes
+only. The response cards are President and Supreme Court.
+8.33 Event/Product Cards contain both an event and a product
+payout. The player playing the card must decide to execute either the event or the product payout.
+8.331 Product Payouts: When a product payout occurs, each
+player controlling territories producing that product receives a
+payout. The amount paid is based on the number of territories of
+that product controlled by each player, up to a maximum of six.
+A territory with two of the same product (Middle East: Oil and
+Central America: Produce) counts twice. The payout is increased
+by one level if the player has built one or more cities in territories containing that product. A player who controls a territory
+with two or more products receives payouts for all products in
+the territory when the appropriate product card is played.
+8.3311 Surplus: Once a product is paid out, the product is in
+surplus for the remainder of the turn. In addition, the Black Tuesday and The Depression Event Cards place all products in surplus for the remainder of the turn. When one of these two cards
+are played, place the Surplus Token in the Surplus All Box on
+the map to indicate that all products are now in surplus. At the
+end of the Card Play phase, the Surplus token is removed from
+the map.
+8.3312 Effects of Surplus: Payouts for products in surplus are
+reduced by one level for the remainder of the turn.
+Example: 3 Livestock in surplus would pay $10 rather than $20
+and 1 Livestock in surplus pays $0.
+
+8.332 Multiple Recipients: All tied players qualifying for the
+effect of a played card are affected by the card. Cards that have
+effects on multiple players may affect the same player multiple
+
+5
+
+times. For example, if a card affects the player with the most
+Victory Points, the Highest Profit, and the most Cash on Hand,
+one player could be the recipient of all three results if he had
+most VP’s, Highest Profit, and most Cash.
+8.333 News: President and Supreme Court may be played as
+“News.” Unlike other cards, cards played as News may be played
+without using the event or product listed on the card. They would
+be played as “News” for their card number only (8.62).
+8.334 Breakthrough Steps: Some leaders provide one or more
+steps needed in researching Breakthroughs. When the card is
+played, place a Breakthrough Step token on the indicated step(s)
+on the Breakthrough Chart (9.412). If the step(s) allow a player
+to complete the Breakthrough, that player may claim the Breakthrough (9.42) during this Card Play Phase. Collaboration is not
+allowed during this phase.
+
+8.4 Held Cards
+Players may hold up to three cards at the end of the Card Play
+Phase without penalty. Players lose 5 Profit for each extra card
+held beyond three.
+8.41 Storytelling: Players owning the Storytelling Breakthrough
+may hold four cards before incurring the penalty. Owners of the
+Storytelling Breakthrough also are allowed to discard cards (8.5).
+
+8.5 Discarding Cards
+Cards may not be discarded unless a player owns the Storytelling
+Breakthrough. A player owning the Storytelling Breakthrough
+may discard one card face down and out of play when Storytelling
+is acquired and then once per turn during each Card Play Phase.
+
+8.6 Turn Order Tokens
+8.61 Card Numbers: Each card has a number between 1 and
+64. Cards are numbered sequentially, with Destiny Cards being
+1-14 and Progress Cards being 15-64.
+8.62 Turn Order Choice: After everyone has completed their
+Card Play Phase, the Turn Order Choice for the following turn is
+determined. Turn Order Choice is based on the highest numbered card a player played. The player who played the highest
+numbered card receives 1st Choice, the 2nd highest—2nd Choice,
+etc. Each player places one of his cylindrical tokens in the appropriate Turn Order Choice box on the map to indicate this.
+This comes into play in the next Turn Order Phase (7.0). If two
+or more players did not play a card, they receive the Turn Order
+Choice in the order in which they chose their Home Territory.
+This can be determined by looking at the numbers on the Progress
+Mats.
+8.63 Priority Turn Option: Each player has a Priority Turn
+Option that may be used once during the game. This option allows a player to exchange their Turn Order Choice with another
+player’s Turn Order Choice to allow them an earlier choice of
+turn order during the next Turn Order Phase. Once a player has
+used this once-per-game option he places one of his Control
+Tokens in the Priority Turn box located on the map. This Control Token is lost to the player for the remainder of the game and
+signifies that his Priority Turn Option has been used.
+
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+
+6
+
+PROCEDURE: During a player’s turn during the Card Play
+Phase, Investment Phase, or Expansion Phase, a player may elect
+to use their Priority Turn Option by announcing this intent. The
+player then takes the 1st Choice space with each other player
+exchanging their space for the next highest number.
+If more than one player uses their Priority Turn Option in the
+same game turn, the second player using it would receive the
+2nd Choice space and the players who haven’t used their priority option would once again exchange their space for the next
+highest number.
+Example: Based on card play this turn, Bill has the 1st Choice,
+Steve the 2nd, Charlie the 3rd, Ken the 4th, and Debbie the 5th. If
+Debbie uses her Priority Turn Option during her investment phase,
+she would take the 1st Choice space from Bill, Bill would get the
+2nd, Steve the 3rd, Charlie the 4th, and Ken the 5th. If subsequent
+to this, Charlie then plays his Priority Turn Option, Debbie would
+keep the 1st Choice space, Charlie would get 2nd, Bill 3rd, Steve
+4th, and Ken would keep 5th.
+
+9.0 INVESTMENT PHASE
+Each player, in turn order, performs an Investment Phase. During the Investment Phase, each player may, in any order they
+wish, perform the following actions:
+•
+•
+•
+•
+
+Purchase Control Tokens
+Purchase a City, a Pioneer and/or a Card (with Circus)
+Purchase one or more Progressions
+Research Breakthroughs
+
+9.1 Purchase Control Tokens
+A player may purchase Control Tokens for $5 per token, up to
+the maximum allowed based on their turn order. The maximum
+allowed for each player is based on the player’s position in the
+turn order. The maximum tokens are as follows:
+Maximum Tokens Available
+Five
+Player
+Game
+
+Four
+Player
+Game
+
+Three
+Player
+Game
+
+First Player
+
+3
+
+3
+
+3
+
+Second Player
+
+5
+
+5
+
+5
+
+Third Player
+
+7
+
+7
+
+7
+
+Fourth Player
+
+9
+
+7
+
+Fifth Player
+
+7
+
+Free tokens received from Influence Cards or the Turnpike
+Breakthrough are not counted against the maximum allowed
+to be purchased. A player may also be limited by the number
+of tokens not already in use on the map, as Pioneers, or for
+claimed Breakthroughs. When a player buys Control Tokens,
+place the purchased tokens in the Purchased Token Box on the
+Progress Mat.
+
+9.11 Tolerance Progression: The Tolerance Progression allows
+a player’s maximum to be increased by 2.
+
+9.2 Purchase a City, Pioneer, and/or Card
+9.21 The cost of Cities, Pioneers and Cards is tied to the number
+previously purchased that turn. The first of each type costs one
+token, the second two tokens, the third three tokens, etc. City,
+Pioneer and Card boxes printed on the map are used to keep
+track of how many of each has been purchased. As each is bought,
+place a token from your purchased tokens into the corresponding City/Pioneer/Card box on the map. Return any additional
+tokens needed to buy the City, Pioneer, or Card from your purchased tokens back into stock. At the end of the turn, these tokens are returned to each player. A player may buy one of each
+of the items if he wishes to and has enough tokens.
+9.211 Mechanization: Each Turn, the Mechanization Breakthrough allows a player to purchase his choice of a City, Pioneer
+or Card for one token regardless of its normal cost.
+9.22 Cities: A player may acquire one city per turn. Cities are
+acquired by purchasing them with tokens or for free through the
+Electricity Breakthrough. When a City is acquired, the player
+places a City Token in any Territory in which the player has an
+Established Presence, provided the Territory does not already
+have a city.
+9.221 City Attributes: A City increases the product payout for
+the Territory (8.331) and provides a Territory with a defensive
+advantage (10.245).
+9.23 Pioneers: A player may acquire one Pioneer per turn subject to Pioneer limits (9.231). Pioneers are acquired by purchasing them with tokens or for free through Influence Cards. When
+a player acquires a Pioneer, the player places a Control Token
+from stock on the indicated space on the player’s Progress Mat.
+9.231 Pioneer Limits: In Era 1, a player may not own more
+than 2 Pioneers; in Era 2, a player may not own more than 3
+Pioneers; in Era 3 a player may not own more than 4 Pioneers.
+Pioneers who have been used to claim Breakthroughs do not
+count against Pioneer limits. Therefore, if a player starts the turn
+with their maximum Pioneers and uses one to claim a Breakthrough (9.42), they could then purchase an additional Pioneer
+that turn for use on the next turn.
+9.232 Pioneer Attributes: Each Pioneer provides one die roll
+toward researching a Breakthrough (9.4). When acquired, Pioneers may be used immediately, provided a research roll has not
+yet been made during the current player’s turn. Pioneers also are
+available for research during each subsequent game turn. Pioneers may research different Breakthroughs on different turns.
+9.233 Free Pioneers: Certain Influence Cards grant a player a
+free Pioneer. A player is not required to take the free Pioneer. If
+a player cannot (due to Pioneer limits) or chooses not to take his
+free Pioneer when the Influence Card is played, the free Pioneer
+is forfeited.
+9.24 Cards: A player may purchase one Influence Card per turn
+with purchased tokens provided he owns the Circus Progres-
+
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+sion. When a player purchases an Influence Card, he immediately draws the next Influence Card in the deck.
+9.241 Think Tank Attribute: A player(s) owning the Think Tank
+Breakthrough may keep the Influence Card drawn or take the
+next Influence Card from the deck (after which the rejected Influence Card is reshuffled into the current deck). If multiple players are receiving Influence Cards at the same time, all players
+get their Influence Cards before the Think Tank Attribute is used.
+This attribute can be used anytime a player receives an Influence Card.
+9.2411 End of Era Use: If a player draws the last Influence
+Card in an Era and wants to use the Think Tank Attribute, the
+first Influence Card of the next Era is taken and the original
+Influence Card is shuffled into the new Era deck.
+
+9.3 Purchase Progressions
+Progressions may be purchased for the amount listed on the
+Progress Mat, less any credits provided by applicable Influence
+Cards. When a player purchases a Progression, the player places
+its Progression Deed on the matching space on the player’s
+Progress Mat.
+9.31 Purchase Restrictions - Categories: Progressions within
+a Category (e.g., Transportation, Telecommunications, Government, Leisure, and Culture) must be purchased in order: first
+level, then second level, then third level.
+9.32 Purchase Restrictions - Levels: Players may not purchase
+Level 3 Progressions (three VP Progressions) until after they
+have purchased all of the Level 1 Progressions (one VP Progressions).
+
+collaborate with only one player in each game turn and the collaboration must be agreed to during each Game Turn. Unity also
+allows collaboration on completing Breakthroughs (9.423). Licensing and Breakthrough collaboration may be used in the same
+turn provided the rule of collaborating with only one player in
+each Game Turn is adhered to.
+
+9.4 Research Breakthroughs
+Breakthroughs are special inventions or characteristics that occurred during the course of history. Players research these in an
+effort to discover the Breakthrough. Once discovered, the Breakthrough provides Victory Points and special attributes.
+9.41 Conducting Research: A player conducts research by selecting a Breakthrough that has not been previously claimed and
+rolling one die for each Pioneer that he owns. A player may only
+research one Breakthrough during each Investment Phase. A
+player who claims a Breakthrough as a result of an Influence
+Card played in the Card Play Phase (8.334), may research another Breakthrough in the Investment Phase.
+9.411 Research Limitations: Players may not research level 2
+Breakthroughs (two VP Breakthroughs) until the start of Era 2
+and may not research level 3 Breakthroughs (three VP Breakthroughs) until the start of Era 3. Players may research the eCommerce Breakthrough before meeting its pre-requisite (owning Computers) but may not claim it until the pre-requisite is
+met.
+9.412 Research Steps: A player rolling a number that matches
+a step of the Breakthrough being researched, places a Break-
+
+9.33 Progression Bonuses: When a player has purchased all
+Level 1 Progressions (one VP Progressions), the player’s Profit
+increases by +10; when a player has purchased all of the Level 2
+Progressions (two VP Progressions), the player’s Profit increases
+by +20.
+9.34 Progression Victory Points: Purchased Progressions are
+worth Victory Points equal to their level (1–3), as indicated on
+the Progress Mat. When a Progression is purchased, the purchasing player’s VP Token is increased on the VP Track by the
+VPs listed on the Progress Mat.
+9.35 Progression Attributes: Each Progression has an associated attribute, which becomes available immediately upon the
+purchase of the Progression. The only exception is Unity, whose
+attribute is not available until next turn.
+9.351 Collaboration (Licensing): Each turn during the Investment Phase, a player owning Unity may collaborate with one
+other player who also owns Unity. In order to collaborate, both
+players must own Unity before the Investment Phase begins. If
+both players who own Unity agree to collaborate, they may share
+any combination of played Leader Influence Cards as mutually
+agreed. If players share a Leader, the player who wishes to use
+the other player’s Leader pays the other player a licensing fee of
+one-half of the amount of the credit for each Progression purchased and gets all of the benefits of the Leader. A player may
+
+7
+
+EXAMPLE OF RESEARCH: Both Red and Blue are researching “Think Tank”. Red only needs “3” to complete the Breakthrough, Blue needs 1,3 and 4. Red has two pioneers so is allowed two die rolls. He rolls a 1 and a 6. The “1” has no effect,
+but the “6” can be used for any number and so Red uses it for
+the “3” and completes the Think Tank Breakthrough. Red receives the Think Tank deed, 2 VPs and removes his four red
+Breakthrough tokens from the track for future use. He moves
+one of his Pioneers from his Pioneer box to the dashed circle to
+indicate he has claimd the Breakthrough. The blue token is returned to Blue.
+
+© 2004 GMT Games, LLC
+
+8
+
+Manifest Destiny
+
+through Step Token on the corresponding number on the Breakthrough Chart. A roll of a ‘6’ may become any number the player
+wishes. Numbers that are not needed or already rolled are research dead ends and are ignored. Players who have previously
+purchased the Innovation Progression may re-roll one research
+die per turn. This re-roll occurs before a player decides the
+number for a “6” roll.
+9.413 Multiple Research Attempts: More than one player may
+research the same Breakthrough. A Breakthrough’s research steps
+may be completed over more than one turn.
+9.414 Breakthrough Step Tokens Limit: Each player is limited
+to seven Breakthrough Step Tokens. A player may voluntarily remove a Breakthrough Step Token from an uncompleted Breakthrough. Breakthrough Step Tokens are returned to a player when
+someone claims the Breakthrough that the tokens were on.
+9.42 Claiming Breakthroughs: The first player to complete all
+of a Breakthrough’s required steps (including e-Commerce’s prerequisite) has succeeded in researching the Breakthrough. That
+player claims the Breakthrough by placing one of his Pioneers
+on the indicated space on the Breakthrough Chart. That Pioneer
+may no longer be used for Research (9.41). All players reclaim
+their Breakthrough Step Tokens that were used in researching
+that Breakthrough. Breakthroughs may only be claimed during
+the Investment Phase except for Breakthroughs completed by
+the play of an Influence Card (8.334)
+9.421 Breakthrough Deeds: The player completing the research
+on a Breakthrough receives a Breakthrough Deed corresponding to the Breakthrough claimed and places it next to his Progress
+Mat. No other player may claim the Breakthrough. These Deeds
+represent Victory Points based on their level (1 VP for level-1, 2
+VPs for level-2, 3 VPs for level-3). When the Breakthrough is
+claimed, increase the player's VP Token on the VP Chart.
+9.422 Breakthrough Attributes: When a Breakthrough is
+claimed, all attributes of the Breakthrough are immediately
+available.
+9.423 Collaboration (Research): Each turn during the Investment Phase, a player owning Unity may collaborate with one
+other player who also owns Unity. Both players must own Unity
+before the Investment Phase begins to collaborate. In order to
+collaborate, the collaborating players, by combining their existing research steps on a Breakthrough, must have completed all
+steps of a Breakthrough. The Breakthrough is then claimed by
+both of the collaborating players during the Investment Phase of
+the earlier moving player. Neither player may make a research
+roll that Game Turn. Both players place a Pioneer on the Breakthrough Chart (9.42) and take a Breakthrough Deed (9.421). A
+player may collaborate with only one player in each Game Turn
+and the collaboration must be agreed to during each Game Turn.
+Unity also allows collaboration on licensing Leader Influence
+Cards (9.351). Licensing and Research collaboration may be used
+in the same turn provided the rule of collaborating with only one
+player in each Game Turn is adhered to.
+
+10.0 EXPANSION PHASE
+Players move in turn order during the Expansion Phase and may
+use any remaining tokens they purchased during the Investment
+Phase to maximize their territorial empire.
+
+10.1 Placing Tokens
+Players may place Control Tokens in any Territory adjacent by
+land to a Territory in which they have an Established Presence
+(10.23) or from their Home Territory. Territories that are connected at one of its corners, including the four-corner space, are
+considered adjacent. Once Control Tokens are placed on the board
+they cannot be voluntarily removed unless the Wireless Progression is purchased (10.19).
+10.11 Westward Ho Limitations: Players may not place Control Tokens in or through territories in the Northwest or Southwest until they have purchased the Westward Ho Progression.
+10.12 Eastern and Western South America: Eastern and Western South America are considered adjacent. Western South
+America is on the Pacific Coast and Eastern South America is
+on the Atlantic Coast.
+10.13 Telegraph Attribute: Players who have purchased the Telegraph Progression may expand through
+an adjacent Territory to an adjoining Territory provided the adjacent Territory is not an Established Presence of another player. A player may not use Telegraph to expand through a Territory containing Natives or across water.
+10.14 Railroads Attribute: Players who have
+purchased the Railroads Progression may place
+Control Tokens in any territory within a Region
+in which the player has an Established Presence as long as placement does not take place across water. A player may use Railroads to expand beyond Territories controlled by Natives or other
+players.
+10.15 Steamships Attribute: Players who have
+purchased the Steamships Progression may place
+Control Tokens in any territory on the same coast
+as an Established Presence of that player. The Atlantic coast includes the Gulf of Mexico. Central
+America and Oaxaca border both coasts. Hawaii, Eastern South
+America, and Western South America can only be reached via
+Steamships. Alaska and Cuba can only be reached via Steamships or Ferry (10.17).
+NOTE: Alaska connects to British Columbia, not Washington.
+Quebec is on the Atlantic coast.
+PANAMA CANAL: Once the Panama Canal event has been
+played, all coastal Territories are considered on the same coast
+for Steamships. Upon the play of this event, place a black token
+on the Panama Canal space between Yucatan, Oaxaca, Central
+America border to indicate that the Panama Canal is now open.
+
+© 2004 GMT Games, LLC
+
+10.16 Airplanes Attribute: Players who have purchased the Airplanes Progression may place Control Tokens in any Territories other than Foreign
+Markets and in up to three Foreign Market Territories.
+
+Manifest Destiny
+
+9
+
+10.161 Foreign Market Restrictions: In order to place Control
+Tokens in a Foreign Market Territory using Airplanes, the player
+must meet one of the following pre-requisites:
+
+take control (attacker) must place Control Tokens equal to the
+Territory’s Control Number in the Territory and win a competition die roll.
+
+• have an Established Presence with a City located on the shore
+of the same ocean, Atlantic (including the Gulf of Mexico) or
+Pacific, as the Foreign Market Territory, or
+
+10.241 Competition Die Rolls: To win a competition die roll,
+the attacker rolls two dice and the defender rolls one die. The
+high roll on any die wins. The defender wins ties unless an Influence Card states otherwise (10.242) or the attacker has Television (10.243). The loser of the Competition Die Roll must remove his control tokens from the Territory. If the loser’s Control
+Tokens were established they are placed in the Loss Box (10.26).
+New Presences lost are returned to their owner.
+
+• have a City in another Foreign Market.
+10.17 Ferry: Any Territory connected by a white dashed line is
+automatically adjacent by Ferry. Players may not use the Telegraph or Railroads attribute in connection with a Ferry.
+10.18 e-Commerce Attribute: The player(s) who owns the eCommerce Breakthrough may place Control Tokens in any Territory on the board (including Foreign Markets).
+10.19 Wireless Attribute: A player who purchases the Wireless
+Progression may, on the turn the player acquires the Wireless
+Progression, remove up to five of the player’s Control Tokens
+from any territory on the board (subject to the Turn Order maximum), without cost or loss of Profit, and re-allocate them to
+purchase a Pioneer, purchase a City, purchase a Card with Circus, or place them in the player’s Purchased Tokens box for use
+anywhere on the board (including Foreign Markets) during the
+player’s next Expansion Phase.
+
+10.2 Controlling a Territory
+
+10.242 Card Adjustments: Certain event cards may modify or
+affect the die rolls.
+10.243 Television Attribute: A player who has purchased the Television Progression wins all ties when
+attacking.
+10.244 Telephone Attribute: A player who has purchased the
+Telephone Progression rolls three dice when attacking.
+10.245 City Defense Adjustments: If the Established Presence
+Territory has a City in it, the player attempting to take control
+must spend 1 additional Control Token to make the attempt. In
+addition, the defender gets an extra die roll. If the Territory containing the City is defeated, the City remains in the Territory.
+
+Each Territory can be controlled by spending Control Tokens.
+These Control Tokens must come from the player’s Purchased
+Token Box on his Progress Mat.
+10.21 Controlling a Vacant Territory: Each vacant Territory
+can be controlled by spending Control Tokens equal to the
+Territory’s Control Number (Control Numbers vary between 1
+and 3). Partial control, for example placing one token in a ‘2’
+territory, is not allowed.
+
+10.246 Pro Sports Attribute: A player who has
+purchased the Pro Sports Progression may attack
+Territories containing Cities with 1 less token than
+is normally required.
+10.247 Home Territory Adjustments: A player rolls an extra
+die if attacking or defending in that player’s Home Territory.
+
+10.22 New Presence: When a player takes control of a Territory, place one Control Token in the Territory and return the remaining Control Tokens used (if any) to stock. Indicate that the
+control is a New Presence by placing the Control Token with its
+white side face up.
+NOTE: Alternatively, if players do not wish to use the stickers they
+can indicate a New Presence by placing their Control Token on the
+Control Number box printed in the territory, and then moving it off
+the box when it becomes established.
+
+10.23 Established Presence: A New Presence still in place at
+the end of the Adjustments Phase becomes an Established Presence. Indicate an Established Presence by flipping the Control
+Token over. A player must have an Established Presence in order to collect payouts from and expand from a Territory. Established Presence Territories do not increase a player’s Profit
+(11.11), nor count as Territories taken when determining the
+Expansion Bonus Card recipient.
+10.24 Controlling an Established Presence Territory: To take
+control of a Territory in which there is an Established Presence
+of another player or Natives (8.322), the player attempting to
+
+EXAMPLE OF COMPETITION DIE ROLLS: Yellow has an
+established presence in both Utah and Colorado. Red wishes
+to take control of both Territories. Red first places one token in
+Utah (the required amount) and declares a Competition Die
+Roll. Yellow rolls a 4, and Red rolls a 1 and a 5—Red wins and
+the Yellow token is removed. Next Red attacks Colorado which
+requires two tokens. Both players roll their Competition Die
+Rolls. Yellow rolls a 3 and Red rolls a 2 and a 3. Defender
+wins ties, so Yellow wins and Red removes his two tokens from
+Colorado.
+
+© 2004 GMT Games, LLC
+
+10
+
+Manifest Destiny
+
+10.248 Rock ‘n Roll Attribute: The player(s) who owns the
+Rock n’ Roll Breakthrough may re-roll their first competition
+roll for each Territory attacked.
+10.25 Multiple Competitions: The attacker may compete in a
+Territory as many times as the player’s supply of Control Tokens in the Purchased Tokens Box allows.
+10.26 Loss Box: An Established Presence that is removed from
+the board, for whatever reason (including as a result of card play)
+is placed in the Loss Box. New Presences lost are returned to
+their owner. Tokens in the Loss Box are returned to players at
+the end of the turn.
+10.27 Expansion Bonus Card: The player with the most New
+Presences at the end of the last player’s Expansion Phase draws
+an Influence Card from the deck. If there is a tie for most New
+Presences, the player who moved first during the turn receives
+the Influence Card.
+
+11.5 Urban Renaissance Attribute
+The player(s) owning the Urban Renaissance Breakthrough receives $10 for each City that they control through an Established
+Presence in the Territory (10.23). If Cold War has been played
+that turn, the player with Urban Renaissance does not receive a
+payment from a city in any affected Foreign Market.
+
+11.6 Motion Pictures Attribute
+The player(s) owning the Motion Pictures Breakthrough receives
+$5 from each non-owner. Players who have previously purchased
+the Television Progression are immune and do not have to make
+the payment.
+
+11.7 Return Tokens
+Return all tokens in the Turn Order Track, Loss Box (10.26,
+11.12) and in the City, Pioneer and Card Boxes (9.21) to their
+owners.
+
+11.8 Draw a Card
+In turn order, each player draws an Influence Card from the deck.
+After the Adjustment Phase, the turn is over and a new turn begins,
+starting with a new Turn Order Phase (7.0).
+
+11.0 ADJUSTMENTS
+11.1 End of Phase Profit Adjustment
+Once all players have expanded, each player’s Profit Token is
+adjusted for New Presences (10.22) and Control Tokens in the
+Loss Box (10.26).
+
+12.0 Game Etiquette
+12.1 Showing of Cards
+
+11.11 Profit for New Presences: Each player’s Profit is adjusted
+by +1 space ($5) for each New Presence he has on the board.
+
+Players may not show their Influence Cards to other players.
+
+11.111 Computers Attribute: If a player has purchased the Computers Progression, his Profit is adjusted by +2 spaces ($10) for
+each New Presence he has on the board.
+
+12.21 Hidden Money: Money may be kept secret, but must stay
+on the table. The only time money must be revealed is when an
+Influence Card is played that has an effect based on a player’s
+cash on hand. If such an Influence Card is played, all players
+must reveal their cash on hand.
+
+11.12 Control Tokens in the Loss Box: Each player’s Profit is
+adjusted by –1 space ($5) for each Control Token he has in the
+Loss Box. Once a player’s Profit has been adjusted for the tokens in the Loss Box, the tokens are returned to the player’s
+stock for future use.
+11.13 Minimum Profit: All players have a minimum Profit of
+$20. Do not move any player’s Profit Token below the $20 level.
+11.14 Profit over $100: If a player’s Profit exceeds $100, place
+a +100 Profit token under the player’s Profit token.
+
+11.2 Changing Control Tokens to Established
+Presence
+All New Presences now become Established Presences (10.23).
+
+11.3 End of Phase Profits
+Following the adjustment of the players’ Profit Tokens, each
+player is paid cash equal to the player’s Profit.
+
+11.4 Safety Net Attribute
+A player who has purchased the Safety Net Progression collects
+his Safety Net payment based on his Profit position (i.e. the player
+with the lowest income receives the largest amount). If there is a
+tie in Profit, all players tied qualify for the higher payout provided they own Safety Net.
+
+12.2 Money:
+
+12.22 Fractions: Fractions are rounded off to a player’s detriment.
+
+13.0 END OF GAME
+The game ends:
+• At the end of the current Investment Phase (if the last Influence Card is drawn during the Investment Phase) or the next
+Investment Phase (if the last Influence Card is drawn during
+any other phase) once the last Card is drawn or
+• At the end of the current Investment Phase when a player
+reaches at least 30 Victory Points or
+• At the end of the current Expansion Phase when a player
+reaches at least 30 Victory Points.
+Cards remaining in players’ hands do not get played.
+The player with the most Victory Points at the end of the Game
+wins. If there is a tie, whichever tied player has the most Cash
+wins. If still tied, the player with the Highest Profit wins.
+
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+
+11
+
+Description of Tokens
+Use one of the white
+tokens to indicate current
+Era. The remaining four
+white blocks are extras.
+
+Use one of the black
+tokens to indicate the
+Panama Canal has been
+built. Place it aside at start
+of game (10.15).
+
+Use the five dark-red
+tokens and the five Native
+stickers to indicate Native
+presence. Place these aside
+at start of game (8.322).
+
+Use one of the black tokens
+to indicate a Surplus in all
+products. Place in the
+Surplus All box when this
+occurs (8.3311).
+
+Natives
+
+Dark-Red Blocks
+
+Black Block
+
+x5
+
+x1
+
+x5
+
+x1
+
+Use the five light-blue
+blocks to indicate +100 on
+the Profit Track (stack the
+player's Profit Token on
+top of the block).
+
+Use the three orange
+blocks and the three
+Tourist stickers to add
+Tourist product to a
+territory. Place these aside
+at start of game (8.321).
+
+Use the two brown blocks
+and the two Technology
+stickers to indicate
+Technology has been added
+to a territory. Place these
+aside at start of game (8.321).
+
+Use the light-green block
+and the 2 VP sticker to
+represent 2 Victory Points
+for owning the most Cities.
+The player awarded these
+points places the block on
+his Progress Mat.
+
+Light-Blue Blocks
+
+Orange Blocks
+
+Brown Blocks
+
+Light-Green Block
+
+x5
+
+x3
+
+x2
+
+x1
+
+Ps
+
+V
+
+Black Block
+
+2
+
+White Blocks
+
+Half Inch Cylinders
+
+Use the 20 gray tokens to
+signify a city.
+Five (one of each
+player color) are used
+on the VP Track.
+
+Five (one of each
+player color) are used
+on the Profit Track.
+
+Five (one of each
+player color) are used
+on the Current Turn
+Order Track.
+
+x5
+
+x5
+
+x5
+
+Gray Blocks
+
+x20
+Each player gets 25 small blocks in his player
+color. These tokens are used for controlling
+territories on the map, tracking Pioneers,
+tracking Breakthroughs, and purchasing
+Cities, Pioneers, and Cards. Place a sticker on
+one side of each token to facilitate showing a
+New Presence (10.22).
+
+1/4 inch Blocks
+
+x125
+
+Place a G sticker on the
+green blocks, a B sticker
+on the blue blocks, a Y
+sticker on the yellow
+blocks, etc.
+
+Each player uses seven
+of the tokens in his
+player color to track
+research steps achieved
+in Breakthroughs
+(9.412).
+
+Five (one of each
+player color) are used
+to track the Turn Order
+Choice for the next
+turn (8.62).
+
+Five (one of each
+player color) are
+spares.
+
+x35
+
+x5
+
+x5
+
+© 2004 GMT Games, LLC
+
+Manifest Destiny
+
+12
+
+# of Territories
+Resource
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Produce
+
+5
+
+10
+
+15
+
+20
+
+30
+
+40
+
+Livestock
+
+5
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Timber
+
+5
+
+10
+
+20
+
+30
+
+45
+
+60
+
+Grain
+
+10
+
+20
+
+30
+
+40
+
+60
+
+80
+
+Textiles
+
+10
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Ore
+
+10
+
+25
+
+50
+
+75
+
+100
+
+125
+
+Fur
+
+10
+
+30
+
+60
+
+90
+
+120
+
+-
+
+Tobacco
+
+10
+
+30
+
+60
+
+90
+
+120
+
+-
+
+Oil
+
+10
+
+30
+
+60
+
+90
+
+120
+
+150
+
+Gold
+
+20
+
+40
+
+70
+
+100
+
+150
+
+200
+
+Technology
+
+20
+
+40
+
+70
+
+100
+
+150
+
+200
+
+Tourist
+
+20
+
+40
+
+70
+
+100
+
+150
+
+200
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2004 GMT Games, LLC
+
+

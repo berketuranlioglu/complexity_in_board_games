@@ -1,0 +1,2496 @@
+Living Rules
+
+March 2014
+
+RULE BOOK
+This is the “Living Rules” document for the game. It
+includes errata and clarifications to the original rules. To
+aid readability, errata is indicated in blue text.
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+2
+
+Iron & Oak Rules Manual
+
+Table of Contents
+
+1.0	 GAME COMPONENTS...........................................3
+1.1	Gameboard...................................................................3
+1.2	Ship & Fort Counters...................................................3
+1.3	Card Decks...................................................................4
+1.4	Game Markers..............................................................5
+1.5	Play Aids.......................................................................6
+1.6	Dice...............................................................................7
+2.0	 SETTING UP THE GAME......................................7
+2.1	Team Play.....................................................................7
+3.0	 SEQUENCE OF PLAY..............................................7
+3.1	Status Phase..................................................................7
+3.2	Order Phase..................................................................8
+3.3	Action Phase.................................................................8
+3.4	Replace Card Phase......................................................9
+3.5	Victory Phase................................................................9
+4.0	ORDERS...................................................................9
+4.1	Anchor..........................................................................9
+4.2	Weigh Anchor..............................................................9
+4.3	Refloat...........................................................................9
+4.4	Unfoul.........................................................................10
+5.0	MOVEMENT......................................................... 10
+5.1	Maneuver Procedure...................................................10
+5.2	Drifting.......................................................................11
+5.3	Towing........................................................................11
+5.4	Hazards.......................................................................12
+5.5	 Crossing the ‘T’...........................................................12
+5.6	 Ram/Spar Torpedo Attacks........................................13
+5.7	Terrain........................................................................14
+6.0	 GUNNERY COMBAT............................................. 15
+6.1	Combat Range............................................................15
+6.2	Combat Procedure......................................................15
+6.3	Critical Hits................................................................16
+6.3.1	 Armament (May Repair)....................................16
+6.3.2	Boiler..................................................................16
+6.3.3	Captain...............................................................16
+6.3.4	Collateral............................................................16
+6.3.5	Crew...................................................................17
+6.3.6	 Engine-D (May Repair).....................................17
+6.3.7	 Engine-S (May Repair)......................................17
+6.3.8	Explosion...........................................................17
+6.3.9	Fire.....................................................................17
+6.3.10	 Jam (May Repair).............................................17
+
+6.3.11	Magazine.........................................................17
+6.3.12	Ram.................................................................17
+6.3.13	 Rudder (May Repair).......................................17
+6.3.14	 Spar Torpedo....................................................18
+6.3.15	Speed...............................................................18
+6.3.16	Smokestack......................................................18
+6.3.17	 Steering (May Repair).....................................18
+7.0	 ACTION CARDS.................................................... 18
+7.1	Double Charge [5]—Gunnery Segment.....................18
+7.2	Grapeshot [5]—Gunnery Segment............................18
+7.3	Incendiary Shells [5]—Gunnery Segment..................19
+7.4	Misfire [4]—Gunnery Segment..................................19
+7.5	Quick Maneuver [6]—Movement Segment...............19
+7.6	Rapid Fire [5]—Gunnery Segment............................19
+7.7	Screen [3]—Movement Segment...............................19
+7.8	Scuttle [4]—Movement Segment...............................19
+7.9	Slipped Anchor [2]—Movement Segment.................19
+7.10	 Slow Maneuver [6]—Movement Segment...............19
+7.11	 Springs [1]—Movement Segment............................19
+7.12	 Strike [4]—Movement Segment..............................19
+8.0	 CAMPAIGN GAME............................................... 20
+8.1	Campaign Log............................................................20
+8.2	Campaign Game Sequence of Play.............................20
+8.3	Campaign Setup.........................................................20
+8.4	Pre-Battle Actions......................................................20
+8.5	Battle...........................................................................21
+8.6	Night Battles...............................................................21
+8.7	Post-Battle Actions.....................................................21
+8.8	Repairing and Refitting Ships.....................................22
+8.9	Yard Cards..................................................................22
+8.9.1 Crew Grade [4]...................................................22
+8.9.2 Fast Repair [2].....................................................22
+8.9.3 In Short Supply [2].............................................24
+8.9.4 Limited Ammunition [2]....................................24
+8.9.5 Out of the Mist [2].............................................24
+8.9.6 Replacements [2].................................................24
+8.9.7 Yard Fire [2]........................................................24
+9.0	 OPTIONAL RULES............................................... 24
+9.1	Low Freeboard............................................................24
+9.2	Tenders.......................................................................24
+9.3	Alternating Movement...............................................24
+
+© 2013/2014 GMT Games, LLC
+
+3
+
+Iron & Oak Rules Manual
+
+Turn Track
+
+Player Side
+
+Band
+
+Grid Box
+
+1.0	GAME COMPONENTS
+
+1.1	Gameboard
+
+The Gameboard is used to control all action in a scenario and
+is placed between the two sides with the Union sitting on one
+side and the Confederate on the opposite side. It includes three
+main sections:
+
+•	 The Play Area: A 5 x 5 grid where the various ships maneuver. Each one of the play area’s 25 ‘boxes’ is called a ‘Grid
+Box’. A horizontal row or vertical column of 5 contiguous
+Grid Boxes is called a ‘Band’. Place markers per the scenario
+instructions if the top and/or the bottom are bounded by
+river banks/shorelines.
+•	 Environment: Place markers per the scenario instructions
+to indicate the shoal depth in each Band and the current
+and wind conditions.
+•	 Turn Track: Used to keep track of the current turn. Place
+the Turn Marker on the current turn. The scenarios indicate
+the game length in turns.
+
+Ship Cards are arranged along their respective edge of the
+Gameboard for easy viewing by both sides.
+
+1.2	 Ship & Fort Counters
+
+Each counter has the name of a ship or fort and its national flag
+depicted on the front side and just its national flag depicted on
+the back side (note that some scenarios require hidden movement and ships are committed in secrecy to campaign scenarios).
+These Counters are what the players use on the Gameboard to
+indicate the current position of a ship or fort. Two ship counters
+(the Steamer/Barge) represent either a Steamer or a Barge as
+required by a scenario.
+
+	
+
+front	back
+
+Each game of Iron & Oak contains the following:
+•	 1 22”x34” map
+•	 2 counter sheets (1 full and 1 half )
+•	 This rule booklet
+•	 1 Playbook
+•	 78 Ship and Fort cards
+•	 50 Action cards
+•	 16 Order cards
+•	 16 Naval Yard cards
+•	 2 (identical) Player Aid cards
+•	 10 dice (2 red, 2 white, 2 green, 2 yellow, 2 blue)
+
+© 2013/2014 GMT Games, LLC
+
+4
+
+Iron & Oak Rules Manual
+
+1.3	 Card Decks
+
+Iron & Oak includes four types of cards: Ship and Fort Cards
+(78 large cards [1.3.1]), the Action Card deck (50 cards [1.3.2]),
+Order Cards (16 sets of four cards each [1.3.3]), and the Naval
+Yard Card deck (16 cards [8.9]). When specific Action and Yard
+card names appear in these rules, they are rendered in Small
+Caps text. Naval Yard cards are utilized only during Campaign
+Games and should be kept separate from the Action cards at
+all times.
+B. Ship Name
+
+CSS Atlanta
+
+Sample Ship Card:
+CSS Atlanta
+
+C. Victory Points
+
+A. Nationality
+
+H. Specials
+	 (none present)
+E. Crew Factor
+
+D. Maneuver Chart
+
+F. Draft
+
+I. Ram Rating
+
+J. Spar Torpedo
+
+G. Armored Hit Location
+G. Wooden Hit Location
+
+K. Gunnery
+
+L. Ship Image
+
+1.3.1	Ship Cards
+A.	 Nationality: Depicts the Civil War era naval ensign of
+either the CSA or USA.
+B.	 Ship Name: The name of the ship.
+C.	 Victory Points: The point value of a ship for comparison
+purposes or when it is used in the campaign game.
+D.	 Maneuver Chart: Each line shows the Maneuver dice
+rolled by the ship when it attempts to move after incurring the number of Hits shown. For example, if Atlanta has
+suffered 8 Hits, it would roll a d8 and a d6. When the ship
+suffers the Total Hits allowed, it sinks.
+E.	 Crew Factor: A numerical value depicting the size of a
+ship’s crew. The Crew Factor is depicted as #/ (light casualties)/# (heavy casualties) –# (full crew). As a ship’s crew
+suffers casualties it affects the ship’s ability to fire its guns
+and maneuver, and it may be forced to retire from a battle.
+F.	 Draft: A numerical rating of the amount of water the ship
+draws (depth the hull rides in the water) from 1 (slight
+draft) to 3 (deep draft). A ship’s draft may increase as it
+suffers damage. If a ship’s draft rating is higher than a shoal
+rating, it could run aground.
+
+G.	Hit Location: There are 5 possible Hit Locations for
+each ship. Each location is classified as either armored or
+wooden as depicted by its background image. Each Hit
+Location also depicts the dice that are rolled for defensive
+purposes when that location is hit during combat action.
+H.	Specials: These symbols indicate whether or not a ship
+is subject to damage from Grapeshot, is classified as a
+monitor-type ship, or may participate in campaign Blockade Battles. The symbols are:
+	
+
+Ship’s crew is subject to damage from grapeshot.
+
+	
+	
+
+Monitor-type ship
+Ship may participate in campaign blockade battles.
+
+I.	 Ram Rating: All ships have the ability to ram another ship.
+The Ram Rating depicts the dice that are rolled to resolve
+a ram attack.
+
+© 2013/2014 GMT Games, LLC
+
+5
+
+Iron & Oak Rules Manual
+J.	 Spar Torpedo: If a ship is equipped with a spar torpedo, it
+has “Spar” listed. It is able to conduct a single spar torpedo
+attack where the spar torpedo explodes. Note the Union
+ship, USS Spuyten Duyvil, was able to reload its spar
+torpedo and may therefore conduct any number of spar
+torpedo attacks.
+K.	 Gunnery: The Gunnery section is a graphical depiction of
+a ship’s ability to fire its guns at an opposing ship or fort,
+including the dice that are rolled when a ship fires its guns.
+Gunnery is subject to various die roll modifiers. Two are
+shown in this Section: Bow-On Fire and Stern-On Fire.
+	
+Bow-On Fire
+Gunnery Modifier
+
+1.3.3 Order Cards
+Each Order card has one or two Orders [4.0] at each end.
+
+During the Order Phase of each turn, players will assign an
+Order to each ship by placing an Order Card next to its Ship
+Card with the applicable Order closest to the ship. If there are
+two Orders at that end, the ship’s situation will make it clear
+which applies. For example, a Grounded ship cannot Drift,
+while a ship that is not aground cannot Refloat.
+
+Gunnery Dice:
+Limited guns have a
+yellow circle
+Stern-On Fire
+Gunnery Modifier
+
+	
+
+If an “X” is shown, the ship may not fire at an opposing
+ship that is across its Bow or Stern as appropriate.
+L.	 Ship Image: A graphical depiction of the listed ship for
+information purposes only.
+
+1.3.2	 Action Cards
+
+Union and Confederate players use the Action Cards to assist
+during a battle. Scenario instructions indicate the number of
+Action Cards each side is dealt at the beginning of a scenario.
+Action Cards are classified as either Movement or Gunnery,
+indicating the Segment of an Action Phase when they may be
+played. Players are never required to play Action Cards. Keep
+un-played Action Cards hidden at all times.
+
+Each set of four Order Cards is numbered to ease sorting. Assign a set to each ship.
+
+1.4	 Game Markers
+
+Various counters are used to mark the status of situations
+during a scenario; e.g., Hits, Critical Hits and the position of
+Torpedo-Mines on the Gameboard.
+
+Protection Damage (‘Shields’): Includes values from
+“–1” to “–4”. They are used to mark protection damage
+at each of the five possible Hit Locations on ships or
+fort section.
+Hits: Includes values from “1” to “10”. Marks total
+Hits on a ship or fort section. Use multiple markers
+for 10+ Hits.
+
+Card Name
+
+Fouled: Marks a ship that is fouled with another ship,
+an obstruction, or a hulk.
+
+Card Text
+
+Grappled: Marks two ships that are grappled together.
+
+Decision Dice
+
+Anchored: Marks a ship that is anchored.
+
+Card Type
+
+Slipped: Marks a ship that may not anchor.
+
+Day/Night
+Symbol
+
+Grounded: Marks a ship that is aground.
+Opposed: Marks an opposed maneuver.
+Light/Heavy Smoke: Marks a ship or fort
+section obscured by smoke.
+
+© 2013/2014 GMT Games, LLC
+
+6
+
+Iron & Oak Rules Manual
+Repair Party: Marks a ship or fort section employing
+a Repair Party.
+
+Rudder: Marks a Rudder Critical Hit on a ship.
+
+Elite: Marks a ship/fort section as possessing Elite
+Grade.
+
+Armament: Marks Armament
+Critical Hits on a ship or fort
+section.
+
+Crack: Marks a ship/fort section as possessing Crack
+Grade.
+
+Torpedo-Mine: Placed in a Grid Box to indicate the
+potential presence of mines.
+
+Green: Marks a ship/fort section as possessing Green
+Grade.
+
+Heavy Obstruction: Placed in a Grid Box to indicate
+the potential presence of Heavy Obstructions.
+
+Draft +1: Marks Draft increase on ships due to damage.
+
+Obstructions: Placed in a Grid Box to indicate the
+potential presence of Obstructions.
+
+Fire: Includes values from “1” to “5”. Marks fires on
+a ship or fort section.
+
+Hulk: Placed in a Grid Box where a sunken ship
+poses a hazard to navigation.
+
+Crew Loss: Includes values from “1” to “6”. Marks
+crew hits on a ship or fort section. Use multiple markers for 7+ hits.
+
+Bank: Placed at the top or bottom of the Play Area
+to indicate Banks along those edges.
+
+Engine Damaged: Marks an Engine Damaged
+Critical Hit on a ship.
+
+Wind: Placed in the Environment section
+to indicate wind strength.
+
+Engine Stopped: Marks an Engine Stopped Critical
+Hit on a ship.
+
+Shoal Depth: Includes values from “0”, “1” , “3”, “4”.
+Placed along the edge of the Play Area to indicate
+shoal depth in those Bands.
+
+Speed –1 and Speed –2: Marks Speed
+Critical Hits on a ship.
+
+Current: Indicates the direction and speed of the
+Current (if any) on the Play Area.
+
+Steering: Marks a Steering Critical Hit on a ship.
+
+Gunfire: Marks ships and batteries firing this turn at
+night.
+
+Jam: Marks a Turret Jammed Critical Hit on a
+monitor.
+Captain: Marks a Captain Critical Hit on a ship.
+Smokestack: Marks a Smokestack Critical Hit on a
+ship.
+Ram: Marks a Ram Critical Hit on a ship.
+Spar: Marks a Spar Critical Hit on a ship.
+Boiler: Marks a Boiler Critical Hit on a ship.
+
+© 2013/2014 GMT Games, LLC
+
+Turn: Indicates the current turn (Day or
+Night) on the Gameboard.
+
+1.5 Play Aids
+
+The 2-sided Play Aids
+include all of the reference tables and charts required for play. They are
+explained in the various
+sections of these rules.
+
+Iron & Oak Rules Manual
+
+1.6	Dice
+
+The ten dice (two red four/eight-sided—called a “d4”; two
+white six-sided—“d6”; two green eight-sided—“d8”; two
+yellow eight-sided—d8; and two blue ten-sided—“d10”) are
+used to determine results. Note that some versions of d10s are
+numbered 0-9. In those cases, treat the “0” as “10.” A set of five
+dice is composed of one of each color and is used by a player
+to determine movement, combat and other results. When one
+die is rolled, the number rolled on it is used as the result. When
+two or three dice are rolled, the highest number rolled appearing
+on any of the dice is used as the result.
+Example: If a red “4” and a green “2” are rolled, the number used
+is the “4.”
+Exception: See Dice Sum Rolls [1.6.1C].
+
+1.6.1	Rules for Dice Rolls
+Movement, Combat, and some Action Cards and other checks
+require die rolls to determine the outcome. Some die rolls are
+competitive, while others are just one-side rolls. Movement,
+combat, and decision resolutions are always an attack or challenge roll by an active player and a defensive or response roll by
+an opposing player. The dice to be rolled are found within their
+respective sections on the Ship, Action Card or table. Opposing
+players roll the indicated dice (listed in the format “dXdY”),
+from one to three, and compare the results to determine the
+outcome. Only the single highest number rolled from each set
+of dice is used for comparison.
+A. Movement and Combat Resolution
+	 If the highest modified movement/combat number rolled
+exceeds the highest modified opposing/defense number
+rolled, the movement or combat is successful.
+
+B. Decision Resolution
+	 If the highest modified ‘Challenge’ number rolled exceeds
+the highest ‘Response’ number rolled, the decision is successful. If the highest modified ‘Challenge’ number rolled
+equals or is less than the highest ‘Response’ number rolled,
+the decision fails. In either case, apply the result if appropriate.
+
+2.0	SETTING UP THE GAME
+
+Players should choose a scenario from the Play Book and lay
+out the gameboard between them. Shuffle the Action Card deck
+and deal each side the number of cards indicated in the scenario instructions. Select the appropriate Ship Cards and Ship
+Counters for the scenario, place Environment Game Markers
+per the scenario instructions, and set the remaining markers off
+to the side. Give each ship one set of four Order cards [1.3.3].
+Give each side a set of five dice [1.6].
+
+2.1	 Team Play
+
+Many Iron & Oak scenarios are perfect for three or more players.
+When teams of two or more play a scenario, divide the ships
+among the teammates by any method desired. Play Action
+Cards from a single hand—do not divide the cards among the
+teammates. Teammates must agree how cards are to be played
+each turn—remember, it is a collective effort.
+
+3.0	SEQUENCE OF PLAY
+
+Iron & Oak is played in turns with one side resolving its turn
+as the active side, and then the other side resolving its turn.
+The two sides alternate play until the scenario is completed.
+Each scenario indicates which side plays first during each turn.
+
+First Side’s Turn
+1.	Status Phase:
+a.	Attempt repairs or remove Repair Party markers (if
+desired).
+b.	Check the status of all fires affecting your forts and
+ships.
+c.	Check for removal of each Smoke marker on your forts
+and ships.
+d.	P lace Repair Party markers.
+2.	Order Phase: The first side orders all its ships as desired.
+3.	Action Phase: The first side moves and conducts combat
+with each of its ships and forts as ordered.
+
+4.	Replace Card Phase: The first side may replace one action
+card in its hand if it did not play any.
+
+C. Dice Sum Rolls
+	 Some Action Cards and Critical Hits call for the numbers
+rolled to be added. When this applies, the dice will be listed
+in the format “dX+dY”.
+	 Example: If a red “4” and a green “2” are rolled, the result
+
+Second Side’s Turn: Complete the same four phases.
+
+D. Dice Roll Modifiers (DRMs)
+	 Except for Shields modifying a defensive roll in gunnery
+combat [6.2.1] and target Maneuver rolls during Crossing
+the ‘T’ or Ram/Spar Torpedo attacks [5.5, 5.6.1], all DRMs
+apply to the attack or challenge roll.
+
+3.1	 Status Phase
+
+used is “6.”
+
+7
+
+5.	Victory Phase: Determine if either side has met the victory conditions for the scenario. If not, advance the Turn
+marker by one and start the sequence again. When teams
+of two or more play, the players of a side play in any order
+desired during their phases just like a single player.
+
+Each ship or fort that has one or more fires burning and/or is
+marked with a Heavy or Light Smoke marker must check the
+status of each occurrence. Check status in any order, except
+must check any Level 5 Fires first. Ships and forts with Repair
+Parties may also attempt to repair Critical Hits.
+
+© 2013/2014 GMT Games, LLC
+
+8
+
+Iron & Oak Rules Manual
+
+3.1.1	Repairs
+At the end of a Status Phase, players may place a Repair Party
+marker on any ship or fort section with less than full crew casualties that does not already have a Repair Party or Captured
+marker. A Repair Party remains in play until the ship or fort
+section suffers full crew casualties or until voluntarily removed
+at the beginning of a subsequent Status Phase.
+A ship or fort section with an existing Repair Party may attempt
+to repair any one repairable Critical Hit:
+
+•	 The active player rolls the Challenge d10d4 with a +1 DRM
+for an Elite Grade Crew; –1 DRM if Green Crew.
+•	 Any opposing player rolls the Response d10.
+•	 If the Challenge is successful, remove the Critical Hit
+marker (Exception: Flip an Armament 4/2 marker to its
+Armament 2/1 side).
+
+A Repair Party also automatically assists in fighting any and all
+active Fires per the Fire Status Table. While present, apply a
+–2 DRM to all Gunnery attacks by a ship or fort section with
+a Repair Party.
+
+3.1.2	Fire Status
+A ship or fort section may have one or more fires burning at
+the same time. Roll a d10 for each Fire marker and apply the
+indicated results from the Fire Status Table, modifying the die
+roll by the following:
+•	
+•	
+•	
+•	
+•	
+
++2: The ship/fort has a Repair Party marker present
++1: The ship/fort has an Elite crew
+–1: The ship/fort has a Green crew
+–1: The Crew has heavy casualties (/#)
+–2: The Crew has full crew casualties
+
+A fire may either Extinguish, decrease 1 level, remain unchanged, or increase 1 or 2 levels. Level 3, 4 and 5 Fires also
+apply a number of Hits per turn. After determining their
+status, refer to the Fire Table and immediately apply the listed
+number of Hits.
+
+Note that fires affect movement and combat by applying the
+listed modifier(s) to the respective die rolls.
+
+If a Level 5 Fire is not reduced during the next turn’s friendly
+Status Phase, the player must roll for an Explosion Critical Hit.
+Remove the Level 5 marker and apply all indicated damage.
+See the Critical Hit section of the rules [6.3.8] for resolution.
+
+3.1.3	Smoke Status
+Roll to remove each Heavy or Light Smoke marker in play on
+the active side’s forts and ships. The player controlling the
+ship or fort with the Smoke marker rolls one d10 and applies
+DRMs if any:
+•	 If the scenario stipulates ‘Fresh Wind’:	+1
+•	 If the scenario stipulates ‘Calm’:	
+–1
+•	 If a fort or the ship is immobile [4.0]:	 –1
+
+If the result is 7 through 10, remove a Light Smoke marker or
+flip Heavy Smoke to Light. If the result is 11, remove any Smoke
+marker.
+Important Note: A ship also removes any Smoke marker if it moves
+into a new Grid Box during the Movement Segment.
+
+3.2	 Order Phase
+
+The active side gives an Order to each of its ships by placing
+one Order card next to each Ship card, face down, with the
+applicable Order next to the Ship card.
+
+3.3	 Action Phase
+
+The phasing side resolves each ship’s order and fires its guns (or
+fires a fort’s guns) one at a time until all have executed their
+orders and/or fired. Players may choose their ships/forts in any
+order desired, except all ships subject to drifting (voluntary or
+un-powered) must move before any others.
+
+3.3.1	Movement Segment (skip for Forts)
+A. Order the Ship
+	 Identify the ship, turn its Order card face up, and describe
+its path and intended destination if Maneuvering. Ships
+under power that are to remain in place or that are immobile
+do not move, but are still subject to Action card play.
+B. Play Movement Cards
+	 The player controlling the ship may play any and all desired
+Action cards (with “Movement” listed on the bottom edge)
+on the moving ship.
+C. Play Opposing Movement Cards
+	 The opposing player(s) then may play any and all desired
+Action cards (with “Movement” listed on the bottom edge)
+on the moving ship.
+	 Resolve each Action card as soon as it is played except those
+applying to the Maneuver procedure. Note that certain
+Action cards may be played on ships by either side during
+a Movement Segment whether or not the ship attempts
+to Maneuver.
+	 Example: An opposing player may play a Slipped Anchor
+Action card on a ship even though it cannot attempt to move.
+
+D. Move the Ship
+	 Resolve the Order and, if it drifts or Maneuvers successfully,
+move the ship. If the ship does not drift or the Maneuver
+fails, the ship remains in its starting location.
+Fort Morgan, Mobile Bay
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+
+3.3.2	Gunnery Segment
+Ships and forts are not required to fire their guns, but other than
+for Night Combat (when they may reveal their position), there is
+no reason not to fire as there are no specific ammunition limits.
+A. Remove Gunfire Markers
+	 (Night Combat only; see 6.2.4)
+B. Announce Target
+	 Identify the ship or fort that is firing its guns and its target.
+C. Play Gunnery Cards
+	 The player controlling the ship or fort may play any and all
+desired Action cards (with ”Gunnery” listed on the bottom
+edge) on it.
+D. Play Opposing Gunnery Card
+	 The opposing side may play one Misfire card on the firing
+ship or fort.
+E. Resolve Gunnery
+	 Resolve the gunfire and mark any resulting damage. Place
+a Gunfire marker on the firing ship if battle is at night
+[6.2.4].
+
+3.4	 Replace Card Phase
+
+Players never refill their hands. However, if the phasing side
+did not play any Action cards from its hand during the current
+turn and has not already replaced a number of cards equal to
+half its original hand size, it may set aside one card from its
+hand and draw a replacement card from the Action Card deck
+(never from the discard pile). If the deck is exhausted, reshuffle
+the discard pile to reform the Action Card deck.
+•	 Set the card to be replaced facedown off to one side—not
+in the discard pile. These cards may not be examined or
+reused later; they are out of play.
+•	 This serves two purposes. First, it does not reveal the card
+to the opposing side. Second, it keeps a ready count of the
+number of cards replaced.
+
+3.5	 Victory Phase
+
+If neither side has won, advance the Turn marker and begin a
+new turn. Return all Order Cards to their respective sets.
+
+3.5.1	Victory Conditions
+Each scenario lists the conditions that must be met for either
+side to claim victory. Usually they require the sinking or damaging of enemy ships and/or the exiting of friendly ships from the
+play area. A ship is considered to have taken ‘Light Damage’
+once it has suffered sufficient Hits to use the middle (second)
+line of its Maneuver Chart. It has taken ‘Heavy Damage’ if it
+has suffered sufficient Hits to use the bottom (third) line of its
+Maneuver Chart.
+
+9
+
+4.0	ORDERS
+
+During the Movement Segment, each ship must execute one
+of the following Orders:
+
+•	 Anchor
+•	 Weigh Anchor
+•	 Refloat
+•	 Unfoul
+•	 Drift
+•	 Maneuver
+Ships that are anchored, aground, fouled with a hulk or obstruction, or fouled with such a ship are immobile and may not Drift
+or Maneuver. Any ship that is un-powered (i.e., has a Boiler or
+Engine-S Critical Hit) or that is fouled with an opposing mobile
+ship cannot Maneuver and must check for drift unless immobile.
+
+The procedures for the Drift and Maneuver Orders are described
+in the following section [5.0]. If a ship is given an illegal Order,
+its Order changes to Drift unless immobile (in which case,
+nothing happens). If an Order is rendered impossible by events
+which occur after it is given and before it can be executed, is it
+is changed to a Maneuver 0 order.
+
+4.1	Anchor
+
+Place an Anchored marker on the ship if in a Grid Box with
+a Shoal depth of 4 or less. This prevents all movement by the
+anchored ship.
+
+4.2	 Weigh Anchor
+
+Remove the Anchored marker. The ship is free to move in subsequent Movement Segments.
+
+4.3	Refloat
+
+A ship with a Grounded marker may attempt to break free.
+
+4.3.1	Powered Ships
+If the ship does not currently have an Engine-Damaged Critical Hit:
+
+•	 The controlling player rolls the Challenge d10d8. Apply a
++2 DRM if one friendly powered ship that does not currently have an Engine-Damaged, Rudder, Speed, Smokestack
+or Steering Critical Hit is grappled to the grounded ship
+and is not immobile.
+•	 Any opposing player rolls a Response d10.
+
+If the Challenge fails, the ship remains aground. If the Challenge succeeds, remove the Grounded marker from the ship,
+which may attempt to move normally during subsequent turns.
+However, as a result of breaking free, the ship may suffer an
+Engine-Damaged Critical Hit:
+•	 The controlling player rolls the Challenge d10d8.
+•	 Any opposing player rolls the Response d8.
+
+If this Challenge succeeds, nothing happens. If it fails, place
+an Engine-Damaged CH marker on the ship. In addition, if
+the Response roll is triple or more than the Challenge roll also
+apply a “WL” Critical Hit [6.3]. In either case, do not apply
+any Hits as a result.
+© 2013/2014 GMT Games, LLC
+
+10
+
+Iron & Oak Rules Manual
+
+If the ship currently has an Engine-Damaged Critical Hit:
+
+•	 The controlling player rolls a Challenge d8. Apply a +2
+DRM if one friendly powered ship is grappled to the
+grounded ship and it does not currently have an EngineDamaged, Rudder, Speed, Smokestack or Steering Critical Hit.
+•	 Any opposing player rolls the Response d10d8.
+
+If the Challenge succeeds, remove the Grounded marker from
+the ship, which may attempt to move normally during subsequent turns. If the Challenge fails, the ship remains aground
+and replaces the Engine-Damaged Critical Hit with an EngineStopped Critical Hit. In addition, if the Response roll is triple
+or more than the Challenge roll also apply a “WL” Critical Hit
+(but do not apply any Hits as a result).
+
+4.3.2	Un-powered Ships
+If the ship currently has a Boiler or Engine-Stopped Critical Hit:
+•	 The controlling player rolls a Challenge d6. Apply a +2
+DRM if one friendly powered ship that does not currently
+have an Engine-Damaged, Rudder, Speed, Smokestack or
+Steering Critical Hit is grappled to the grounded ship and
+is not immobile.
+•	 Any opposing player rolls the Response d10d8.
+
+If the Challenge succeeds, remove the Grounded marker from
+the ship. If the Challenge fails, the ship remains aground. In
+addition, if the Response roll is triple or more than the Challenge roll also apply a “WL” Critical Hit (but do not apply any
+Hits as a result).
+
+4.4	Unfoul
+
+Attempt to unfoul a ship from an obstruction, hulk or ship:
+
+•	 The controlling player rolls the Challenge d10, applying a
+–2 DRM if fouled with a Heavy Obstruction.
+•	 Any opposing player rolls a Response d10d4.
+
+Note: There is no facing in Iron & Oak. Ships may never move
+through a Grid Box containing one or more opposing ships. They
+may move into such a Grid Box but not through it on the same
+move.
+
+5.1	 Maneuver Procedure
+
+Conduct powered ship movement by rolling the dice competitively, referring to the ship’s Maneuver Chart and the
+Maneuver Response Chart to determine the appropriate dice
+to roll. The player attempting the move rolls Challenge dice
+based on the ship’s current Hits, and any opposing player rolls
+Response dice based on the ship’s attempted movement per
+the Maneuver Chart.
+Example: Undamaged CSS Arkansas attempts to move to an
+adjacent Grid Box. The Confederate player rolls a d10, and the
+Union player rolls a d8d6.
+The ship’s modified dice-roll result must exceed the opposing
+(never modified) dice-roll result to complete the Maneuver. If
+successful, move the ship to the new Grid Box or off the play
+area as ordered, tracing its path if it is moving to a non-adjacent
+Grid Box. If unsuccessful, the ship remains in its present position or off the map. When a ship enters the map, it always
+ends its move in the Grid Box adjacent to its off-map position.
+
+A number of situations can reduce a ship’s Maneuver dice or
+cause positive or negative dice-roll modifiers to be applied.
+All of these situations are cumulative, but the net DRM cannot
+exceed “+/–5”.
+
+5.1.1	Currents
+Apply a positive DRM if the entire Maneuver is directly
+downstream, and a negative DRM if any part of a Maneuver
+is against a Moderate or Fast Current as shown:
+
+If the Challenge succeeds, remove the Fouled marker from the
+ship(s), which may attempt to move normally during succeeding turns.
+If the Challenge fails and this is the first of one or more mobile
+ships Fouled together to execute an Order this turn, check for
+drifting [5.2].
+
+Direction
+of Current
+
+5.0	MOVEMENT
+
+During their Movement Segments, the Union and Confederate
+players must attempt to move each ship with a Drift or Maneuver order (but see Maneuver 0 [5.1.3]). Ships under power may
+attempt Maneuvers from off the play area onto a Grid Box on
+the edge of the play area; from a Grid Box on the edge of the
+play area to off the play area; within the Grid Box they currently
+occupy; to an adjacent Grid Box; or to a non-adjacent Grid
+Box that is two Grid Boxes away in distance. Ships may never
+move to a Grid Box that is three Grid Boxes away in distance.
+Ships may move in any direction vertically, horizontally or
+diagonally. There is no extra cost to move diagonally, but ships
+may make only one diagonal move in a turn, never two.
+
+© 2013/2014 GMT Games, LLC
+
+Direction
+of Current
+
+11
+
+Iron & Oak Rules Manual
+
+5.1.2	Opposing Maneuver
+Use this order to hinder Maneuvering by an enemy ship located
+in the same Grid Box. The ordered ship must not be:
+•	 Anchored;
+•	 Fouled;
+•	 Grounded;
+•	 Towing or under tow; or
+•	 Across the bow or stern of any ship.
+
+5.1.7	Maneuver 2
+Use this Order when attempting to move to a non-adjacent
+Grid Box that is two Grid Boxes away [5.1], including escaping
+from a Bow-On or Stern-On position [5.5.3]. When tracing
+the ship’s path, either of the two Grid Boxes may be entered
+diagonally, but not both [5.0], and the diagonal move may not
+pass between two enemy ships. If successful, remove any Smoke
+marker on the ship.
+
+If successful, designate one enemy ship that must
+apply a –1 DRM if attempting to Maneuver in its
+next Movement Segment unless it orders a Ram or
+Spar Torpedo attack on the opposing ship or attempts
+to Cross its ‘T’. Place an Opposed marker on the designated
+ship. Regardless of how many Opposing Maneuvers succeed,
+apply only one –1 DRM.
+Play Note: In a large battle, players may wish to place the opposing
+ship across the bow of its target with the Opposed marker between
+them as an aid to recall which is the opposing ship.
+
+5.1.3	Maneuver 0
+Use this Order when attempting to escape from a Bow-On
+or Stern-On position while remaining in the same Grid Box
+[5.5.3], when playing a Screen Action card [7.7], or when
+desiring to remain in position (including across an enemy’s bow
+or stern). When remaining in position, no Maneuver rolls are
+needed, but Hazards must still be negotiated [5.4].
+5.1.4 Maneuver 0: Crossing the ‘T’
+Use this order when attempting to cross the bow or stern of
+an opposing ship.
+5.1.5 Maneuver 0: Spar and/or Ram Attack
+Use this order when attempting to Ram an opposing ship and/
+or attack it with a Spar Torpedo.
+5.1.6	Maneuver 1
+Use this Order when attempting to enter or leave the map or
+to enter an adjacent Grid Box [5.1], including escaping from
+a Bow-On or Stern-On position [5.5.3]. If successful, remove
+any Smoke marker on the ship.
+
+Maneuver 2
+not possible
+
+5.2	Drifting
+
+If a ship is un-powered (i.e., has a Boiler or Engine-Stopped
+Critical Hit), fouled with an opposing mobile ship, or is ordered
+to Drift, the phasing player rolls one d10 and refers to the
+Drifting Table instead of using the Maneuver procedure. The
+scenario map indicates the direction and speed (slow, moderate
+or fast) of the current, if any.
+
+If two or more ships are fouled or grappled together, check for
+drifting only during the first of these ships’ Movement Segments
+of each turn. If Drift results, all the fouled ships drift together.
+Ships drifting off the gameboard either exit the map (and may
+count towards victory conditions if appropriate) or automatically run aground on a marked bank edge of the map (including
+diagonally off the corners where applicable). If the latter, mark
+the ship counter in the same Grid Box with a Grounded marker.
+
+5.3	Towing
+
+A friendly powered ship that is not immobile may automatically
+grapple a single friendly powered or un-powered ship or barge
+located in its Grid Box at the start of its move for the purpose
+of towing it to a new Grid Box, or more likely to tow it off of
+the play area. Butt the two ship counters together and place a
+Grappled marker on them. Then use the towing ship’s Maneuver
+dice to determine movement for both ships. Grappled ships may
+not be given a Maneuver 2 Order, and cannot move if either is
+immobile. Apply a DRM per the Towing Chart:
+
+•	 Subtract the towed ship’s original (undamaged) Hits value
+from the towing ship’s original Hits value.
+•	 Apply that result in the Chart to determine the modifier, if
+any, the towing ship must apply to its movement die-roll.
+
+USS Brooklyn after the battle of Mobile Bay.
+
+Example: USS Zouave is towing USS Minnesota. The Maneuver
+dice roll modifier is “–4” (3 – 17 = –14).
+© 2013/2014 GMT Games, LLC
+
+12
+
+Iron & Oak Rules Manual
+
+The two ships/ship and barge may automatically ungrapple
+at the start of their own Order Phase. Remove the ‘Grapple’
+marker; the ships may then move normally.
+
+5.3.1	Crossing the ‘T’ Maneuvers
+A towed ship cannot have an Across the Bow Maneuver attempted against it. A towing ship cannot have an Across the
+Stern Maneuver attempted against it.
+
+5.4	Hazards
+
+If a ship drifts or maneuvers into a new Grid Box or attempts
+to maneuver within its starting Grid Box, and that Grid Box’s
+Shoal Depth is less than the ship’s Draft or it includes one or
+more Hulk, Obstruction, or Torpedo-Mine markers (all collectively known as “Hazards”), the ship must check to see if it
+has safely negotiated each hazard. If more than one hazard is
+present, an opposing player chooses the order in which they are
+resolved. If two or more ships are grappled or fouled together
+and the moving ship safely negotiates a hazard, each other ship
+in succession must also check against that hazard (the moving
+player determines the order if more than one).
+
+5.4.1	Shoals
+If the Shoal Depth in the Grid Box is less than the ship’s Draft,
+determine if the ship runs aground:
+•	 The controlling player rolls a Challenge die
+•	 d10 if the ship’s current draft is 1 more than the Shoal
+Depth;
+•	 d8 if the ship’s current draft is 2 more than the Shoal
+Depth; or
+•	 d6 if the ship’s current draft is 3 or more greater than
+the Shoal Depth.
+•	 Any opposing player rolls a Response d10d6.
+
+If the Challenge fails, place a Grounded marker on the ship and
+end its movement.
+
+5.4.2	Hulks and Obstructions
+If the Grid Box has a Hulk or Obstruction marker:
+
+•	 The controlling player rolls the Challenge d10d4, applying a –2 DRM for a Heavy Obstruction and –1 for each
+additional Hulk.
+•	 Any opposing player rolls the Response d10.
+
+If the Challenge fails, place a Fouled marker on the ship and
+end its movement.
+
+5.4.3	Torpedo-Mines
+For each Torpedo-Mine marker in the Grid Box:
+
+•	 The controlling player rolls the Challenge d10d6.
+•	 Any opposing player rolls the Response d10.
+
+If the Challenge fails, the mine explodes. Roll a d8 on the ‘Mine’
+column of the Torpedo Damage Table and apply the resulting
+number of Hits to the ship.
+•	 Increase the target’s WL “Shield” damage to –4.
+•	 End its movement, and remove the Mine marker.
+
+5.5	 Crossing the ‘T’
+
+When starting the Order Phase in the same Grid Box as one
+or more opposing ships, a special kind of Maneuver may be attempted if the moving ship is not already across the bow or stern
+of an opponent. Use the Maneuver 0 (Crossing the ‘T’) Order
+and, when this ship is selected during the Movement Segment,
+designate an opposing ship in the same Grid Box to be the
+target and specify whether attempting to cross its bow or stern.
+•	 Since the attacking ship is moving within a Grid Box, the
+player must first safely negotiate any potential hazards [5.4].
+•	 The attacking player and the opposing player may play
+Quick Maneuver and/or Slow Maneuver Action Cards
+on the attacking and/or target ships if under power and
+not anchored, aground, or fouled.
+•	 Note any applicable movement dice-roll modifiers for both
+the moving and target ships. If the target ship had executed
+an Opposing Maneuver against the moving ship [5.1.2],
+remove the Opposed marker.
+•	 Automatically apply a DRM of “–1” to the moving ship.
+	 Note: This is in addition to a potential Opposed maneuvering DRM.
+
+•	 After determining the final modifiers, both ships roll their
+current Maneuver dice. A Towed or Towing ship uses
+the Towing ship’s Maneuver dice and applies any Towing DRMs [5.3]. Exception: If the target ship is anchored,
+aground, or fouled, roll one d10 for its Response instead and
+apply a –5 DRM. The moving ship must roll higher than
+the target ship to succeed.
+
+If unsuccessful, the moving ship cannot attempt to cross the
+‘T’ of the same target ship during the next turn.
+
+5.5.1	Across the Bow
+If successful, butt the two ship counters together with the moving ship across the bow of the target.
+
+•	 The target ship is now Bow-On to the ship across its bow
+and is subject to a combat modifier if it fires at that ship
+(it may fire normally at another ship). If an ‘X’ is listed in
+the bow-on portion of its combat section it may not fire
+at the ship across its bow at all.
+•	 A ship may only be Bow-On to one ship at a time, and
+cannot attempt to cross the ‘T’ of any ship.
+•	 The target ship adds a +1 DRM to its Maneuver roll if
+attempting a Ram or Spar Torpedo Attack on the ship
+across its bow. When attempting any other Maneuver, the
+ship suffers a –1 DRM to its roll.
+
+5.5.2	Across the Stern
+If successful, butt the two ship counters together with the moving ship across the stern of the target.
+
+•	 The target ship is now Stern-On to the ship across its stern
+and is subject to a combat modifier if it fires at that ship
+(it may fire normally at another ship). If an ‘X’ is listed in
+the stern-on portion of its combat section it may not fire
+at the ship across its stern at all.
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+•	 A ship may only be Stern-On to one ship at a time, and
+cannot attempt to cross the ‘T’ or make a Ram or Spar
+Torpedo Attack on the ship across its stern.
+
+5.5.3	Escape
+To escape from a Bow-On or Stern-On position, either the
+target ship or the ship across its bow/stern must Maneuver into
+the same or a new Grid Box. The position also ends if either
+ship drifts into a new Grid Box or they are fouled after a Ram
+or Spar Torpedo Attack.
+
+5.6	 Ram/Spar Torpedo Attacks
+
+When starting the Order Phase in the same Grid Box as one
+or more opposing ships, Ram and/or Spar Torpedo Attack
+Maneuvers may be attempted. Use the Maneuver 0 (Spar and/
+or Ram Attack) Order and, when this ship is selected during the
+Movement Segment, designate an opposing ship in the same
+Grid Box to be the target and specify which kind of attack (or
+both) is attempted. Resolve Ram and Spar Torpedo Attacks
+with a four-step procedure:
+i.	 Determine if the attacking ship negotiates any Hazards
+in the Grid Box [5.4];
+ii.	 Determine if the attacking ship makes contact with the
+target ship;
+iii.	 If contact is made, resolve the attack(s).
+iv.	 If contact was made, check for fouling.
+A ship may combine a Spar Torpedo Attack with an immediately following ramming of the same target ship. The attacking
+player must declare both attacks prior to determining if the
+ship makes contact with the target. If it makes contact, it does
+so for both attacks; it does not need to roll again for the ram
+portion of the attack. Any damage, to either ship, as a result of
+the spar torpedo attack is taken into account for the follow-on
+ram attack. If the target or attacking ship sinks as a result of
+the spar torpedo attack, the ram attack never occurs.
+
+5.6.1	Making Contact
+If the attacking ship successfully negotiates all Hazards in the
+Grid Box, determine if contact is made.
+
+•	 The attacking and the opposing players may play Quick
+Maneuver and/or Slow Maneuver Action Cards on
+the attacking and/or target ships if under power and not
+aground, anchored, or fouled.
+•	 Note any applicable Maneuver dice-roll modifiers for both
+the attacking and target ships, including an automatic ‘–2’
+DRM to the attacker’s roll and a ‘+1’ DRM to the attacker’s
+roll if the target ship is across its bow. If the target ship
+had executed an Opposing Maneuver against the attacking
+ship [5.1.2], remove the Opposed marker.
+•	 After determining the final modifiers, both ships roll their
+current Maneuver dice. A Towed or Towing ship uses
+the Towing ship’s Maneuver dice and applies any Towing DRMs [5.3]. Exception: If the target ship is anchored,
+aground, or fouled, roll a d10 for its Response and apply a “–5”
+DRM. The attacking ship must roll higher than the target
+ship to make contact.
+•	 If contact is made, resolve the attack(s). Otherwise, discard
+any Action card(s) played and go on to the next move.
+
+13
+
+Example: CSS Atlanta is attempting to ram USS Nahant. USS
+Weehawken is also present in the same Grid Box and she played
+an Opposing Maneuver against CSS Atlanta. The Confederate
+player plays a “Quick Maneuver +3” card on Atlanta and she is
+bow-on to the monitor, while Nahant has a ‘Captain’ Critical Hit.
+The Confederate final modifier is “+1” (– 2 + 1 + 3 – 1) due to the
+BOW ON status, the Quick Maneuver card, and the Opposed
+Maneuver from Weehawken. The Union final modifier is “–1”
+due to the Captain’s injuries. Atlanta rolls a d10 with a result of
+“6” which is modified to “7” (6 + 1). Nahant rolls a d10 with a
+result of “6” which becomes “5” (6 – 1). The maneuver is successful.
+
+5.6.2	Resolving a Spar Torpedo Attack
+First roll to determine if the torpedo explodes:
+
+•	 The attacking player rolls the Challenge d10d8.
+•	 The target player rolls the Response d4.
+
+If the Challenge succeeds, refer to the Torpedo Combat Table:
+•	 The attacking player rolls a d8 and applies the resulting
+number of Hits under the ‘Spar Torp’ column to the target
+ship.
+•	 Increase the target’s WL “Shield” damage to –4.
+•	 The attacking player rolls a d8 a second time and applies
+the resulting number of Hits under the ‘Ship Spar’ column
+to the attacking ship.
+•	 Place or increase the attacking ship’s WL “Shield” damage
+based on the number of Hits incurred.
+•	 Place a Spar CH marker on the attacking ship, but do not
+apply any Hits as a result.
+
+Example: CSS Atlanta is attacking USS Nahant with her Spar
+Torpedo. The Confederate player rolls a d8 with a result of “3”; USS
+Nahant receives “7” Hits and also applies a Shield –4 on her WL.
+The Confederate player rolls the d8 again with a result of “5”; CSS
+Atlanta incurs “1” Hit and also applies a Shield –1 on her WL.
+
+5.6.3	Resolving a Ram Attack
+Roll the attacking ship’s Ram dice from its ship card. Roll the
+target ship’s WL defense dice. Compare the two results by subtracting the target ship’s result from the attacking ship’s result.
+•	 If the result is positive, apply the resulting number of Hits
+to the target ship.
+•	 If the result is negative, apply the resulting number of Hits
+to the attacking ship.
+•	 If the result is “0”, both ships receive a number of Hits equal
+to ½ the attacker’s result (round down) with a minimum
+of “1” Hit.
+•	 On each ship, apply WL “Shield” damage equal to the
+number of Hits (up to 4) applied to that ship.
+
+Example: CSS Atlanta is ramming USS Nahant. The Confederate
+player rolls a d10d6 with a result of “8”. Nahant has a Shield –2
+marker on her WL and the Union player rolls a d10d6d4 with a
+result of “8” which is modified to “6” (8 – 2). Nahant receives “2”
+Hits and also replaces the Shield –2 on her WL with a Shield
+–4 marker.
+
+© 2013/2014 GMT Games, LLC
+
+14
+
+Iron & Oak Rules Manual
+
+Example: Using the same ships as above, Atlanta’s result is “5”.
+Nahant’s modified result is also “5”. Atlanta incurs “2” Hits (1/2
+of “5” rounded down to “2”) and also applies a Shield –2 on her
+WL. Nahant also receives “2” Hits and replaces the Shield –2 on
+her WL with a Shield –4 marker.
+After determining damage, check to see if the attacker’s ram
+is damaged:
+•	 The attacker rolls d10d8 Challenge dice.
+•	 The target rolls a d8 Response die.
+
+If the Challenge fails, place a Ram CH marker on the attacking
+ship (but do not apply any Hits as a result).
+
+5.6.4	Check for Fouling
+If contact is made (whether or not a spar torpedo explodes) and
+neither sinks, check to see if the ships become fouled:
+•	 The attacker rolls d10d8 Challenge dice.
+•	 The target rolls a d8 (if rammed) or d6 (if spar torpedo
+only) Response die.
+
+If the challenge fails, butt the ship counters parallel together
+and place a Fouled marker on them. Until one or the other
+succeeds in unfouling [4.4], both ships check for drift together
+during subsequent Movement Segments unless either or both
+are immobile.
+
+5.6.5	Consequences
+Whether or not contact is made, certain consequences apply
+to the attacking ship:
+
+•	 The attacking ship cannot attempt either a Ram or Spar
+Torpedo attack (regardless of which one was originally
+attempted) against the same target ship during the next
+turn.
+•	 If the attacking ship attempts to fire on the target ship
+during its next Gunnery Segment, it must use its Bow-On
+Combat dice.
+•	 If the target ship is given a Maneuver 0 Order and fires
+on the attacking ship during its next Gunnery Segment,
+it fires at Point Blank Range.
+
+5.7 Terrain
+
+Terrain overlays may be added to Grid Boxes to alter the look
+of the mapboard to create many different configurations. They
+may be designated to represent any type of terrain from high
+coastal areas to flat, low-lying islands or sandbars.
+Unless a scenario’s Special Rules indicate otherwise, all mapboard terrain applies the rules for Gunnery and Movement in
+section 5.7.1 below.
+
+5.7.1 Gunnery & Movement
+Gunnery may be directed into a Grid Box containing terrain
+against forts, but may not cross over a Grid Box containing
+terrain as measured from the center of one Grid Box to the
+center of another Grid Box unless the terrain is designated as
+a low-lying island or Sandbar.
+
+Actually crossing over the physical terrain is not necessary,
+just the fact that terrain is located in a Grid Box. Firing along
+a diagonal is allowed as long as terrain is not located in two
+adjacent Grid Boxes split by a diagonal.
+Ships may never enter a Grid Box containing terrain unless the
+terrain is designated as a Sandbar (see 5.7.2).
+Ships may never move between terrain located in two adjacent
+Grid Boxes split by a diagonal.
+Terrain acts in a similar manner as an opposing ship when attempting a Maneuver 2 order (see 5.1.7).
+
+5.7.2 Sandbars
+If a ship drifts or maneuvers into or attempts to maneuver within
+its starting Grid Box and that Grid Box contains a Sandbar:
+
+•	 The controlling player rolls the Challenge d10, applying a
+-4 DRM and an additional –1 for each amount the ship’s
+current draft is greater than 1 (remember, a ship’s draft
+increases by 1 when at heavy damage).
+•	 Any opposing player rolls the Response d10.
+
+If the Challenge fails, place a Grounded marker on the ship
+and end its movement.
+Example: An undamaged CSS Virginia enters a Grid Box with
+a Sandbar. The Confederate player rolls the Challenge d10 and
+applies a -6 DRM (-4 for the Sandbar and an additional -2 for
+the Virginia’s current draft, which is 3). Any Union player rolls
+the Response d10.
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+
+6.0	GUNNERY COMBAT
+
+During a Gunnery Segment, the active ship or fort may fire
+at only one opposing ship or fort section. A ship or fort may
+fire at the same target as other ships/sections. Each section in
+a fort fires individually.
+
+6.1	 Combat Range
+
+The combat ranges are:
+
+•	 Long: The target is located in a non-adjacent Grid Box
+that is two Grid Boxes away in distance.
+•	 Medium: The target is located in an (orthogonally or diagonally) adjacent Grid Box to the firing ship or fort.
+•	 Short: The target is located in the same Grid Box as the
+firing unit.
+•	 Point Blank: The target attempted a Ram or Spar Torpedo
+attack on the firing ship during its previous Action Phase
+or is Fouled with the firing ship.
+
+Ships may never fire at a ship or fort in a Grid Box that is three
+Grid Boxes distant. While forts are typically located at the edge
+of the play area, each is considered to occupy the adjacent Grid
+Box(es) for range determination purposes.
+
+6.2	 Gunnery Combat Procedure
+
+When a ship fires at a fort, it fires at one of the fort’s active
+sections, not the entire fort.
+
+When a ship fires its guns, the controlling player rolls the dice
+found in the Gunnery Section of the ship’s card plus a yellow
+d8 and applies any appropriate die-roll modifiers. The yellow d8
+indicates the Hit Location on the target ship (for forts, there
+is only one location—the targeted section). Once the Hit Location is identified, the player controlling the target ship then
+rolls the defensive dice for that location and applies any ‘Shield’
+die-roll modifiers. Either result may increase to any value, but
+is never less than“1”.
+Apply the modified dice results—Combat Result (CR) vs.
+Defense Result (DR)—to determine gunnery damage:
+
+•	 CR less than or equal to DR: No effect
+•	 CR greater than but not double DR: Possible Effective Hit
+•	 If the Hit Location does not have any Shield markers
+present—no effect.
+•	 If the Hit Location is Wooden with any ‘Shield’ marker
+present—place “1” Hit.
+•	 If the Hit Location is Armored with a ‘Shield –2’, ‘–3’
+or ‘–4’ marker present—place “1” Hit.
+•	 CR double but not triple DR: Effective Hit
+•	 If the Hit Location is Wooden with any ‘Shield’ marker
+present—place “2” Hits.
+•	 If the Hit Location is Armored with a ‘Shield –2’, ‘–3’
+or ‘–4’ marker present—place “2” Hits.
+•	 In all cases, increase the ‘Shield’ marker by “–1” (placing
+a Shield –1 marker if none present).
+•	 CR triple or more than DR: Critical Hit.
+
+15
+
+•	 Increase the current ‘Shield’ marker at that location by
+“–2” (placing a Shield –2 marker if none present) and
+place “2” Hits.
+•	 In addition, the attacking player rolls two d6 on the
+Critical Hit Table and applies the listed result to the
+target ship.
+•	 If the Hit Location is WL, add 1 additional Hit.
+
+6.2.1	Gunnery Modifiers
+A number of situations cause positive or negative die-roll
+modifiers to be applied to the gunnery dice-roll. All of these
+situations are cumulative, but the result is never less than “1”.
+
+Only Shield markers cause negative defensive die-roll modifiers
+equal to the Shield value. The maximum Shield DRM in any location is –4, and the modified result is never reduced to less than “1.”
+
+6.2.2	Hit Location
+When firing at ships (forts are targeted as a specific section),
+the Target Hit Location is determined by the yellow d8 on
+the Hit Locations Table. The hit locations are also listed on
+the ship cards.
+If the target ship is Bow-On or Stern-on to the firing ship, treat
+‘S’ hits as ‘B’ hits and ‘B’ hits as ‘S’ hits, respectively. Hits on a
+monitor’s TF or TR are not subject to change, since a monitor’s
+turret is considered to be rotating at all times throughout the
+battle (even if it has a ‘Jam’ Critical Hit).
+Note that if the target ship is subject to ‘Plunging Fire’ those
+Hit Locations marked with an asterisk (‘*’) are treated as D
+(deck) hits instead.
+
+6.2.3	Special Considerations
+A. Limited Guns
+	 Ships with just a single d4 or a d6 as their combat dice are
+classified as ‘Limited Guns’.
+B. Fouled Ships
+	 Fouled ships may fire on one another. They fire at Point
+Blank Range, and treat all hits in the ‘WL’ location as ‘A’ or
+‘TS’ hits instead. All Fouled ships except Monitors suffer
+adverse Gunnery die-roll modifiers when firing.
+C. Smoke
+	 When firing with neither a Bow-On or Stern-On modifier
+nor an Armament CH, place a Light Smoke marker on the
+ship or fort section if the unmodified gunnery die roll is 8
+or 10. If a ship or fort section with an existing Light Smoke
+marker would get another, flip the marker to its Heavy
+Smoke side instead. A ship or fort section is never subject to
+more than a single Smoke marker. Apply Gunnery DRMs
+for both the firing and the target ships/fort.
+D. Plunging Fire
+	 Forts firing on ships at Long Range may choose to treat ‘*’
+location hits as Deck hits instead if they declare this option
+before rolling the Gunnery dice.
+E. Grounded Ships
+	 A ship that is aground, and any non-Monitor fouled with
+it or grappled to it, suffers adverse DRMs when firing. A
+
+© 2013/2014 GMT Games, LLC
+
+16
+
+Iron & Oak Rules Manual
+ship or fort targeting a grounded ship or any ship fouled
+or grappled to it enjoys positive DRMs.
+
+F. Draft
+	 A ship’s Draft increases by “1” once it suffers heavy damage
+[3.5.1]. It is now riding lower in the water.
+
+G. Crew Casualties
+	 A ship with light (#/) or greater crew casualties suffers a
+–2 DRM to its Maneuver rolls. Once a ship suffers heavy
+(/#) or greater crew casualties, it must immediately retire
+from the battle [6.2.3H]. Once a ship suffers full crew (#)
+casualties, it may no longer fire.
+H. Retirement
+	 Any ship required to retire must exit the play area by assigning a Maneuver 1 order to move one Grid Box per
+turn towards its friendly map edge (the edge marked by
+the national flag in the scenario description) each turn
+if possible. It may not play any Action Cards that would
+impede its progress.
+
+I. Captured Ships
+	 If an opposing ship is captured through the play of a
+Strike card, that ship must immediately retire towards
+the capturing player’s map edge if able (see above) and
+may not fire. For movement purposes, it utilizes the
+‘Grade’ of the original crew. The ship may be fired on
+as an opposing ship by the original side. If subsequently
+sunk in the same battle, award only normal Victory
+Points to the capturing side.
+J. Sunken Ships
+	 Any ship incurring a number of Hits greater than or equal
+to its ‘Total Hits’ rating is sunk and removed from the
+game. If Fouled or Grappled with another ship, remove
+the marker—the other ship automatically breaks free. If
+it sinks in a Grid Box with a shoal depth of “2” or less or
+while Grounded, place a Hulk marker in its Grid Box.
+K. Silenced Forts
+	 A fort section that sustains Hits equal to or greater
+than its ‘Hits’ rating or suffers full crew (#) casualties is
+silenced and may no longer fire. If all a fort’s sections
+are silenced, remove it from the game.
+
+6.2.4	Night Combat
+Some of the scenarios take place at night when sighting conditions are limited. Place a Gunfire marker and apply the single
+largest DRM from the Night Combat Modifiers Table when
+firing at a ship or fort and not fouled with the target.
+Play Note: You may not fire at night at a target at Long Range
+unless it is on fire or it fired its guns during its last Action Phase.
+If a ship fires, it may be targeted at Long Range or the reduced
+combat modifier at Medium Range applies for the next opposing
+Action Phase only.
+
+6.3	 Critical Hits
+
+When a ‘triple’ hit is scored on a target ship or fort, the firing
+player rolls two d6s and refers to the Critical Hit Table. Note
+that there are five separate columns. On a Waterline (WL) hit,
+
+use the appropriate WL column depending on whether the
+target ship is Bow-On, Stern-On or normal to the firing ship.
+Use the Ship column when the Hit Location is other than the
+WL. If the target is a fort, use that column.
+All Critical Hit markers show
+one or two yellow “hit” symbols
+for ease of recognition.
+
+6.3.1	Armament (May Repair)
+For the first Critical Hit, place an Armament –2
+marker (Armament –1 for Limited Guns [6.2.3A]);
+for the second, place an Armament –4 marker (Armament –2 for Limited Guns). For a third hit, Mark “2”
+Hits on the ship or fort section instead.
+•	 Apply the DRM to the ship’s gunnery roll.
+•	 Successful repair of an Armament –4 CH flips the marker
+to its Armament –2 CH side; for an Armament –2 CH,
+remove it (for Limited Guns, replace it with an Armament
+–1 marker); for Armament –1 CH, remove it.
+
+6.3.2	Boiler
+Target ship suffers an explosion and loses all power;
+it is now subject to drifting. Place a Boiler marker on
+the ship and resolve the explosion by:
+•	 Hits: Roll a d10+d8 and apply the resulting total number
+of Hits.
+•	 Roll a d10 gunnery attack vs. any ships grappled or fouled
+with the target ship.
+
+If the target ship sinks, ignore the remaining steps:
+
+•	 Crew Casualties: Apply the resulting number of casualties
+to the target:
+•	 If the Crew Factor is greater than ‘10’ roll a d8
+•	 If the Crew Factor is ‘9’ or ‘10’ roll a d6
+•	 If the Crew Factor is ‘8’ or less roll a d4
+•	 Fire: Place a Level ‘3’ Fire marker on the target ship
+
+If a ship with a Boiler marker is the target of a crossing the
+“T” or Ram or Spar Torpedo attack, apply a –5 DRM to its
+Maneuver  roll. For a subsequent Boiler hit, mark “2” Hits on
+the ship instead.
+
+6.3.3	Captain
+Target ship’s captain is incapacitated. Place a Captain
+marker on the ship. For a subsequent hit, mark “2”
+Hits on the ship instead.
+•	 All Gunnery and Maneuver applies a –1 DRM to the roll.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –1 DRM to the Maneuver roll.
+
+6.3.4	Collateral
+Protection damage extends to an adjacent location. Add “–1”
+Shield damage to:
+•	 Hit Location “B” or “S”—place on “A”
+•	 Hit Location “TF” or TR”—place on “TS”
+•	 Hit Location “A”—place on “B” or “S” at targeted player’s
+choice
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+•	 Hit Location “TS”—place on “TF” or “TR” at targeted
+player’s choice
+•	 Hit Location “WL” or “D”—place on any location of the
+targeted player’s choice other than the original location
+
+If all potential target locations are already at ‘Shield –4’, apply
+2 Hits to the ship instead.
+
+6.3.5	Crew
+Roll one die:
+
+•	 If the Crew Factor is ‘8’, ‘9’ or ‘10’ roll a d6
+•	 If the Crew Factor is ‘7’ or less roll a d4
+•	 Fire: Place a Level ‘3’ Fire marker on the ship
+•	 For a fort, resolve the explosion by:
+•	 Hits: Roll a d10+d6, and apply the resulting total number of Hits.
+If the section is destroyed, ignore the remaining steps.
+•	 Crew Casualties: Roll a d4 and apply the resulting
+number of casualties.
+•	 Fire: Place a Level ‘3’ Fire marker on the section.
+
+6.3.9	Fire
+A fire starts on the target. Roll a d10 and, depending on the
+result, place a new Fire marker:
+
+•	 If the Crew Factor is greater than ‘10’ roll a d8
+•	 If the Crew Factor is ‘8’, ‘9’ or ‘10’ roll a d6
+•	 If the Crew Factor is ‘7’ or less roll a d4
+
+Apply casualties up to ½ the current crew size (round down,
+minimum “1” casualty). If the ship has casualties equal to its
+full crew, ignore subsequent hits.
+Example: The Atlanta has a Crew Factor of ‘9’, so a d6 is rolled.
+On a result of 4, 5 or 6, 4 casualties are applied. On results of 1, 2
+or 3, the actual result rolled is applied as casualties. For subsequent
+Critical Hits, the original Crew Factor of ‘9’ is still used to determine what to roll.
+
+6.3.6	Engine-Damaged (May Repair)
+Target ship’s engine has suffered damage. Place an
+Engine-Damaged marker on the ship. For a subsequent hit, replace Engine-Damaged with an EngineStopped marker.
+•	 Ship applies a –2 DRM to all Maneuver rolls.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –2 DRM to its Maneuver roll.
+
+6.3.7	Engine-Stopped (May Repair)
+Target ship’s engine has stopped; the ship is now
+subject to drifting. Place an Engine-Stopped marker
+on the ship (and remove an Engine-Damaged marker, if any). For a subsequent hit, mark “2” Hits on the
+ship instead.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo, apply a –5 DRM to its Maneuver roll.
+
+6.3.8	Explosion
+Target ship/fort suffers an explosion:
+
+•	 For a ship, resolve the explosion by:
+•	 Hits: Roll a d10+d6 and apply the resulting total number of Hits.
+•	 Roll a d10d6 gunnery attack vs. any ships grappled or
+fouled with the target ship.
+•	 Roll a d10 gunnery attack vs. any other ships in the
+same Grid Box.
+
+If the target ship sinks, ignore the remaining steps.
+
+17
+
+•	 Crew Casualties: Apply the resulting number of casualties to the target:
+•	 If the Crew Factor is greater than ‘10’ roll a d8
+
+•	 1-4: Level ‘2’
+•	 5-8: Level ‘3’
+•	 9-10: Level ‘4’
+
+6.3.10	 Jam (May Repair)
+A monitor’s turret(s) is jammed. Ship applies a –2
+DRM to gunnery rolls. Place a Jam marker on the
+ship. For a subsequent hit, mark “2” Hits on the ship
+instead. For a non-monitor type ship, treat as a Collateral Critical Hit instead.
+6.3.11	Magazine
+Target ship/fort suffers a catastrophic explosion:
+
+•	 For a ship, resolve the explosion by:
+•	 Hits: Roll a d10+d8+d6 and apply the resulting total
+number of Hits.
+•	 Roll a d10d8d6 gunnery attack vs. any ships grappled
+or fouled with the target ship.
+•	 Roll a d10d4 gunnery attack vs. any other ships in the
+same Grid Box.
+
+If the target ship sinks, ignore the remaining steps.
+•	 Crew Casualties: Apply the resulting number of casualties to the target:
+•	 If the Crew Factor is greater than ‘10’ roll a d8
+•	 If the Crew Factor is ‘8’, ‘9’ or ‘10’ roll a d6
+•	 f the Crew Factor is ‘7’ or less roll a d4
+•	 Fire: Place a Level ‘3’ Fire marker on the target ship
+•	 For a fort, the section is destroyed.
+
+6.3.12	Ram
+Target ship’s ram is damaged. Apply a –5 DRM to
+all ram combat resolutions (not the procedure to
+determine if the ship contacts its target). Place a Ram
+marker on the ship. For a subsequent hit, mark “2”
+Hits on the ship instead.
+6.3.13	 Rudder (May Repair)
+Target ship applies a –4 DRM to all Maneuver rolls.
+It may not attempt any crossing the “T” or Ram or
+Spar Torpedo attacks. Place a Rudder marker on the
+ship. For a subsequent hit, mark “2” Hits on the ship
+instead.
+
+© 2013/2014 GMT Games, LLC
+
+18
+
+Iron & Oak Rules Manual
+
+•	 If it is then the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –4 DRM to its Maneuver roll.
+
+6.3.14	 Spar Torpedo
+Target ship’s spar torpedo is destroyed. Place a Spar
+marker on the ship. For a subsequent hit, mark “2”
+Hits on the ship instead. If the ship is not equipped
+with a spar torpedo or it already expended its spar
+torpedo in an attack, treat as a Collateral Hit instead.
+6.3.15	Speed
+For the first Critical Hit, place a Speed –1 marker on
+the target ship; for the second, flip the marker to its
+“Speed –2” side. For a third hit, mark “2” Hits on the
+ship instead.
+
+•	 Apply a –1 or –2 DRM to all Maneuver rolls as appropriate.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –1 or –2 DRM to its Maneuver
+roll as appropriate.
+
+6.3.16	Smokestack
+Ship’s funnel is destroyed, reducing draft to its
+boiler. Place a Smokestack marker on the ship. For a
+subsequent hit, mark “2” Hits on the ship instead. For
+a monitor type ship, treat as a Collateral Critical Hit
+instead.
+•	 Apply a –2 DRM to all Maneuver rolls.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –2 DRM to its Maneuver roll.
+
+6.3.17	 Steering (May Repair)
+Ship’s steering mechanism is damaged. Place a Steering marker on the ship. The ship may only move
+within its current vertical or horizontal Band. It may
+not attempt any crossing the “T” or Ram or Spar
+Torpedo attacks. For a subsequent hit, mark “2” Hits on the
+ship instead.
+
+•	 Roll a d6 and on the result:
+•	 1-3: Ship must stay in its vertical band. Place the ‘Steering’ marker vertically on the ship as a reminder.
+•	 4-6: Ship must stay in its horizontal band. Place the
+‘Steering’ marker horizontally on the ship as a reminder.
+•	 If it is the target of a crossing the “T” or Ram or Spar
+Torpedo attack, apply a –3 DRM to its Maneuver roll.
+
+7.0	ACTION CARDS
+
+There are 12 different types of Action Cards included in the
+game; they are summarized below. The [#] following each card’s
+name indicates the number of that specific card included in the
+50-card deck. Each type may be played either during a Gunnery
+Segment or a Movement Segment. Unless otherwise indicated,
+multiple Action Cards of different types may be played at the
+same time, combining their effects.
+Example: Double Charge and Grapeshot Action Cards could
+be played in the same combat, but two Grapeshot cards could not.
+When played, most cards are discarded face-up next to the Action Card deck. Some cards are placed on ship cards for reference purposes. Once their action is complete, they are discarded.
+
+7.1	 Double Charge [5]—Gunnery Segment
+
+Cannot play in combination with Rapid Fire. Adds a modifier
+to the combat resolution based on range, but there is automatic
+Smoke placement and a chance of armament damage. After
+resolving the combat, place a Light Smoke marker on the firing
+ship or fort and roll for the armament damage: if the Challenge
+fails, place an Armament Critical Hit marker on the firing ship
+or fort. Do not apply any Hits as a result of placing the Armament Critical Hit marker.
+
+7.2	 Grapeshot [5]—Gunnery Segment
+
+Grapeshot cannot be played in combination with Incendiary
+Shells, and may only be fired at Short or Point Blank Range
+at ships or forts. It cannot be fired against monitor-type ships
+unless one or more non-WL locations are currently marked
+with a Shield –4 Protection Damage marker.
+If the crew (through symbol or Shield damage) is vulnerable
+and the target ship is not a monitor, it may suffer both crew
+and smokestack damage from the same shot.
+Resolve Grapeshot fire differently than normal combat. Compare the attack and defensive die rolls (including all normal
+DRMs) and, if the attack roll is greater than the defense roll,
+
+1) If the crew is subject to Grapeshot fire or the non-WL
+location hit has a Shield –4 marker, apply crew casualties
+equal to the difference up to ½ (round down) of the target
+ship’s remaining crew factor with a minimum of “1” Hit.
+
+	
+
+Example: The attack die-roll result is an “8” and the defensive
+result is a “2”; the difference is “6”. The target ship has a Crew
+Factor of “8”, so “4” crew casualties are applied (1/2 of 8). The
+remaining “2” casualties are ignored.
+
+2) If the target ship is not a monitor, place a Smokestack
+Critical Hit marker on the ship if the Hit Location equals
+“3”, “4”, “5”, or “6”. If a damaged smokestack is hit again by
+Grapeshot, ignore the effects. Do not apply any Hits as a
+result of placing a Smokestack Critical Hit marker.
+
+Never change the ‘Shield’ status of the position hit. Grapeshot
+cannot cause Critical Hits (other than Smokestack per (2)
+above).
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+
+7.3	 Incendiary Shells [5]—Gunnery Segment
+
+Cannot play in combination with Grapeshot. Apply a –1
+DRM to the combat. This card may start a fire on the target ship
+if the combat causes any damage (i.e., Hits are applied). Apply
+all other damage caused by the combat normally including a
+fire started from a Critical Hit.
+•	 If the decision die roll is:
+•	 Greater than: apply a Level 1 Fire marker
+•	 Double: Level 2 Fire marker
+•	 Triple or more: Level 3 Fire marker
+
+19
+
+7.8	 Scuttle [4]—Movement Segment
+
+Play this card to sink a friendly grounded or un-powered ship. If
+grounded or in a Grid Box with Shoal Depth of 2 or less, place a
+Hulk marker [6.2.3J]. If the ship is grappled or fouled, the other
+ship automatically breaks free. Award normal Victory Points.
+
+7.9	 Slipped Anchor [2]—Movement Segment
+
+Play this card to flip the Anchored marker on an opposing ship.
+The same ship may never anchor again.
+
+7.10	 Slow Maneuver [6]—Movement Segment
+
+7.4	 Misfire [4]—Gunnery Segment
+
+Play this card before an enemy makes a roll to hit. Apply a –2
+die roll modifier to the combat. After resolving the combat,
+roll for the armament damage: if the Challenge fails, place an
+Armament Critical Hit marker on the firing ship or fort. The
+player controlling the firing ship rolls the Challenge dice. Do
+not apply any Hits as a result of placing the Armament Critical
+Hit marker.
+If the enemy played Rapid Fire, this card has no effect on the
+second shot.
+
+7.5	 Quick Maneuver [6]—Movement Segment
+
+Play this card to improve a friendly powered ship’s Maneuver
+attempt by applying a positive modifier of “+1”, “+2” or “+3” to
+the maneuver dice roll.
+The opposing side may play a single Slow Maneuver card on
+the same ship to counteract its impact.
+
+7.6	 Rapid Fire [5]—Gunnery Segment
+
+Cannot play in combination with Double Charge. Play of
+this card enables two shots in a row. If Grapeshot or Incendiary Shells is played in combination, these cards apply to
+both shots. Roll the two shots individually, with the second
+shot automatically targeting the same location as the first.
+Any damage as a result of the first attack is taken into account
+for the second. After resolving both shots, place a Light Smoke
+marker on the firing ship.
+
+Play this card to hinder an opposing powered ship’s Maneuver
+attempt by applying a negative modifier of “–1”, “–2” or “–3” to
+the maneuver dice roll.
+
+The opposing player may play a single Quick Maneuver card
+on the same ship to counteract its impact.
+
+7.11	 Springs [1]—Movement Segment
+
+Play of this card enables an anchored ship to conduct combat
+without applying the negative fire modifiers. It is still subject
+to the positive fire modifiers when fired at. Place the card on
+the anchored ship, where it remains. Remove the card when
+the Anchored marker is flipped or removed.
+
+7.12	 Strike [4]—Movement Segment
+
+Play this card to capture an opposing ship that is aground,
+un-powered, or fouled with a hulk, obstruction, or one of your
+ships. Compare the VPs of all ships under power in the same
+Grid Box as the target (including ships fouled with the target).
+If the friendly total exceeds the enemy total (always including
+the target ship), the target ship immediately surrenders; otherwise the card has no effect. Place a Captured marker on the
+surrendered ship and award double Victory Points. Captured
+ships may not be recaptured by the original side during the
+same scenario.
+
+7.7	 Screen [3]—Movement Segment
+
+Play this card when executing a Maneuver 0 Order to defend a
+designated friendly ship in the same Grid Box. If the maneuver is successful, immediately select one opposing ship or fort.
+During the next opposing Action Phase:
+•	 The opposing ship or fort cannot fire upon the designated
+ship (Exception: A battery using Plunging Fire [6.2.3D]).
+•	 The opposing ship cannot attempt to make a Ram/Spar
+Torpedo Attack or Crossing the ‘T’ of the designated ship.
+
+© 2013/2014 GMT Games, LLC
+
+20
+
+Iron & Oak Rules Manual
+
+8.2	 Campaign Game Sequence of Play
+
+8.0	CAMPAIGN GAME
+
+The Iron & Oak Campaign Game pits player-selected forces in
+a series of randomly generated battles. As play unfolds, players
+do not know the exact length of the campaign or the specific
+mix of battle scenarios. The only thing known for certain is that
+a campaign consists of at least 5 battles. Players must plan for
+every possibility and assume they are in it for the long haul—not
+unlike their historical counterparts.
+Pick a fairly large play area so there is adequate room for all of
+the ship cards, gameboard, markers, and card decks.
+
+8.0.1 Campaign Scenarios:
+During the American Civil War a few open water battles did
+take place, e.g., Iron & Oak Scenario 8. Nevertheless, the vast
+majority of the battles were fought out in the many rivers, bays,
+inlets and coastal areas. The Campaign Game mirrors those
+brown water actions.
+The various components required for each battle, including
+the gameboard setup and Action cards, are different for each
+scenario based on its rules and requirements and other playerdetermined conditions as set forth in the Campaign Game
+section of the Play Book.
+
+8.1	 Campaign Log
+
+The Confederate and Union players each document the specific
+campaign information on their respective Campaign Logs
+including scenario types, ships selected, and outcomes. Players may fill out the Campaign Log in any convenient manner,
+but the following are suggested notations for uniform record
+keeping.
+
+•	 List all starting ships by name, their individual Victory
+Points, the total points for the starting force, and any ships
+added through the play of Replacements Yard cards in
+their respective sections.
+•	 On the Battle # line, list the scenario type and whether the
+Attacker or Defender. For Engagements, list the maximum
+ship Victory Points allowed. If a Crew Grade Yard card
+is played on your side, note whether you played it (‘+’) or
+your opponent did (‘–’). If more than 10 battles are required,
+use the back side or an additional page.
+•	 List all ships committed to a battle and their Crew grades.
+Circle those ships added through the play of Out of The
+Mist Yard cards, and note any suffering the effects of
+Limited Ammunition cards.
+•	 Use each scenario’s blank map section to note banks, shoal
+depths, current and direction and any other notations such
+as obstructions and torpedo/mines.
+•	 If the scenario is a Night Action [8.6], circle the “N” on
+the scenario line.
+•	 If you win the battle, circle the “W” on the scenario line.
+If you lose, do nothing.
+•	 At the conclusion of the campaign, summarize the results
+at the bottom.
+
+See page 22 for a sample Campaign Log.
+
+1.	Campaign Setup
+A. Select Forces (Union and Confederate)
+•	 Select Ships
+•	 Assign Crew Grades
+B. Generate the First Battle Scenario
+C. Assign Ships to the First Battle
+2.	Pre-Battle Actions
+A. Generate the Next Battle Scenario
+B. Assign Ships to the Next Battle
+3.	Battle
+A. Set Up the Battle
+B. Play the Battle
+4.	Post-Battle Actions
+A. Assess Victory
+B. Return Ships
+C. Discard Cards and Shuffle Decks
+D. Draw and Play Yard Cards
+E. Refit & Repair Ships
+F. Roll for the End of the Campaign
+
+8.3	 Campaign Setup
+
+8.3.1 Select Initial Forces
+Union and Confederate players determine their campaign forces
+based on the following criteria:
+
+•	 Each side secretly selects and notes on their respective
+Campaign Logs at least 6 and no more than 10 ships totaling 3,200 Victory Points or less. After both sides have
+selected their ships, openly display them for review.
+•	 Each side receives 2 Crack Grade and 2 Green Grade
+markers and openly assigns them to their respective ships.
+All remaining ships start play at Average Grade.
+
+8.3.2 Generate the First Battle
+Roll to determine the first battle’s scenario using the Campaign
+Game procedure in the Play Book. Then secretly select and
+record the forces for this battle as prescribed for that scenario.
+
+8.4	 Pre-Battle Actions
+
+8.4.1 Generate Next Battle Scenario
+If the campaign will not end at the conclusion of the upcoming
+battle, the side that last won a battle rolls one d10 to generate
+the next scenario.
+
+•	 If this is the start of the campaign and the first battle has
+not yet been played, the player who did not roll to generate
+the first battle scenario rolls for this one.
+•	 Determine Attacker/Defender, Force Sizes, Current,
+Shoals, Wind, and whether this battle will occur at night
+[8.6], and record this information on the Campaign Logs.
+
+8.4.2 Assign Ships to the Next Battle
+Secretly record ships committed to the new battle, i.e., one battle
+in advance. Captured ships are considered part of the capturing
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+side’s force and may be committed normally. You may not use
+any of the ships currently committed to the upcoming battle,
+or those ships sunk or captured by the opposing side.
+•	 Unless a side has no uncommitted ships remaining, at least
+one ship must be committed to each battle, regardless of
+its current repair status, if it
+(1)	meets the Victory Point limit, if any, and
+(2)	has not incurred heavy (/#) or greater crew casualties.
+•	 If no ships are committed, the opposing side wins the battle
+by default.
+•	 If neither side is able to commit any ships, the Defender
+wins the battle.
+
+8.5	Battle
+
+Simultaneously reveal the ships previously committed to the
+current battle. Review the scenario rules and victory conditions,
+set up the gameboard, apply any previously played Out of The
+Mist and Limited Ammunition Yard cards, deal out the appropriate number of Action cards, and start play.
+
+8.6	 Night Battles
+
+Committed ships are not revealed at the start of the scenario.
+Use these rules in addition to 6.2.4 if the battle is fought at
+night.
+
+8.6.1 Identification
+Identified ships are face-up, while unidentified ships and False
+Contacts start hidden (face down). All ships set up hidden in
+night battles.
+To identify any hidden ship or False Contact, each friendly
+ship (not False Contacts) may search for one hidden ship or
+False Contact in the same Grid Box at the end of its Movement
+Segment. After designating the target, roll one d10:
+•	 1-6:	 Search unsuccessful
+•	 7-10:	 Target identified
+
+Also immediately identify a ship if it fires its guns or attempts
+a Crossing the ‘T’ [5.1.4], Spar Torpedo, or Ram Maneuver
+[5.1.5].
+
+Once identified, a ship remains face up for the remainder of
+the battle; permanently remove False Contacts from play. Only
+identified ships may be the target of gunfire, crossing the ‘T’
+maneuvers, or spar torpedo or ramming attacks.
+
+8.6.2 Movement
+Ships may not attempt to move two Grid Boxes per turn at
+night. Hidden ships use their actual Maneuver dice or may use
+any dice smaller than their actual rating as a means to disguise
+their identity. They may never use dice greater than their actual
+rating. False Contacts use the same maneuver dice as the actual
+friendly ship(s) they are mimicking.
+8.6.3 Hazards
+When encountering Shoals, Hulks, or Obstructions, apply a
+–2 DRM to the Challenge roll in addition to any other modifiers [5.4].
+
+21
+
+8.7	 Post-Battle Actions
+
+8.7.1 Assess Victory
+If this was the last battle of the campaign [8.7.6], the side
+winning the greatest number of battles is declared the winner.
+If not, apply any previously played Crew Grade Yard cards.
+8.7.2 Return Ships
+Return all surviving ships from the battle to their respective
+forces, including un-powered ships and ships fouled with obstructions or hulks. With the exception of Fires (automatically
+extinguished), ships retain any and all damage, Critical Hits
+(including reparable Critical Hits) and crew losses suffered
+during the scenario.
+8.7.3 Discard and Shuffle Cards
+Discard all played Crew Grade (after determining any change
+in grade), Out cf The Mist, and Limited Ammunition Yard
+cards and shuffle that deck together with its discards. Return
+all Action cards (played or unplayed) to that deck and shuffle.
+8.7.4 Draw and Play Yard Cards
+Both sides draw Yard cards if they committed ships to the
+battle just completed.
+
+•	 Deal 2 new Yard cards to the winning side.
+•	 Deal 1 new Yard card to the losing side. If the losing side
+did not commit any ships to the scenario, they are not dealt
+a card.
+•	 If neither side committed any ships to the scenario, do not
+deal Yard cards to either side.
+
+Both sides play any desired Fast Repair, Replacements, Yard
+Fire or In Short Supply Yard cards, including those cards just
+drawn, on their Navy Yards. Both sides may also play any desired
+Crew Grade, Out of The Mist, or Limited Ammunition
+Yard cards; they will apply to the immediately upcoming battle.
+The side that most recently won a battle plays first. After all
+cards are played, sides must discard if necessary to reduce their
+hands to the limit of three Yard Cards each.
+
+8.7.5 Refit and Repair
+Both sides repair and refit their ships as desired, including any
+captured ships [8.8]. Discard any Fast Repair, Replacements,
+Yard Fire or In Short Supply Yard cards played after resolving their effects.
+8.7.6 Campaign End
+Starting after Battle 4, and following at the completion of
+every even numbered battle thereafter, the player who won the
+just-completed battle determines if the campaign will end at
+the conclusion of the next odd-numbered battle. Roll one d10:
+•	 Completion of Battle 4: on a result of 1-3, ends after
+Battle 5;
+•	 Completion of Battle 6: on a result of 1-5, ends after
+Battle 7;
+•	 Completion of Battle 8: on a result of 1-7, ends after
+Battle 9;
+•	 Completion of Battle 10 and every even-numbered
+battle thereafter: on a result of 1-9, ends after the next
+odd-numbered battle.
+
+© 2013/2014 GMT Games, LLC
+
+22
+
+Iron & Oak Rules Manual
+
+8.8	 Repairing and Refitting Ships
+
+Only the very lucky are able to return from battle without some
+damage or crew loss. Players repair and refit their ships at the
+conclusion of each battle at their Navy Yards before generating
+a new one. This includes those ships already committed to the
+next battle. Both sides receive a base set of repair, critical hit
+and crew replacement points. The base amount for each side
+may increase or decrease through a series of die rolls.
+
+Players may expend repair, critical hit and crew replacement
+points as desired. They are not required to expend any points;
+however, points do not carry over from turn to turn. Ships may
+be fully repaired, partially repaired or not repaired at all. It is
+best to have one side conduct their repairs and refits while the
+other side observes and then the other side does the same.
+Note: Any Fast Repair and Yard Fire Cards played modify the
+chance for both repair points and critical hit points.
+
+8.8.1 Repair Points
+Each side receives a base of “10” repair points to remove Hits
+and protection damage from ships. Remove 1 Hit or ‘Shield’
+for each repair point expended.
+•	 Roll one d10, applying any modifiers from Fast Repair
+and Yard Fire Cards. On a result of:
+•	 1 or less: “–5” repair points
+•	 2-9: No effect
+•	 10 or more: “+5” repair points
+
+8.8.2 Critical Hit Points
+Each side receives a base of “3” critical hit points to repair
+critical hit damage from ships. Remove 1 Critical Hit for each
+point expended.
+•	 Roll one d10, applying any modifiers from Fast Repair
+and Yard Fire cards. On a result of:
+•	 1 or less: “–2” critical hit points
+•	 2-9: No effect
+•	 10 or more: “+2” critical hit points
+•	 The Engine-Stopped Critical Hit on the ‘target’ ship in a
+Defend scenario is repaired automatically unless the ship
+is captured.
+
+8.8.3 Crew Replacement Points
+Each side receives a base of “5” crew replacement points to
+replace ship crew losses. Replace 1 crew factor for each replacement point expended.
+
+•	 Roll one d10, applying any modifiers from Replacements
+or In Short Supply cards. On a result of:
+•	 Less than 1: “–3” crew replacement points
+•	 1 through 9: No effect
+•	 10 or more: “+3” crew replacement points
+•	 If a ship receives replacements equal to more than half of
+its base crew capacity (round up), Elite, Crack and Average
+Grades decrease one level. Green Grade is unaffected.
+•	 Elite, Crack and Average Grade crews may transfer from
+ship-to-ship to consolidate and maintain a grade level.
+
+•	 The entirety of the remaining crew on a captured ship
+must be replaced by a new crew before the ship may be
+committed to combat. Any grade the ship had, e.g., Elite,
+Crack or Average, is lost. The new grade is Green.
+•	 A ship may sail without a full crew, as long as it has less
+than heavy (/#) crew casualties.
+
+8.9	 Yard Cards
+
+There are seven different types of Yard cards included in the
+game; they are summarized below. The [#] following each card’s
+name indicates the number of that specific card included in the
+16-card deck. Unless otherwise indicated, multiple Yard cards
+may be played at the same time, combining their effects.
+Shuffle the Yard Card deck during Post-Battle Actions after
+discarding any Crew Grade, Out of The Mist, or Limited
+Ammunition Yard cards from the just-completed battle and
+before drawing any new cards [8.7.3]. The maximum hand size
+is three Yard cards. A side must discard any cards in excess of
+the maximum hand size after playing any desired cards.
+
+The friendly side always has the option of first playing any desired cards on their ships or Navy Yard. The opposing side may
+then play any desired cards on the opposing ships or Navy Yard.
+Fast Repair and Replacements cards may also be played in
+response by the friendly side to cancel out the play by the opposing side of Yard Fire and In Short Supply cards, respectively.
+
+8.9.1 Crew Grade [4]
+After both sides reveal their ships at the start of a scenario, play
+this card on either the friendly or opposing side to potentially
+increase or decrease a randomly-chosen ship’s grade based on
+the outcome of the scenario. After determining the results at
+the end of the battle, if any, discard the card.
+
+When selecting the affected ship, apply the following criteria:
+•	 Do not include any Barge or Steamer;
+•	 If the battle was won, do not include any ship that suffered
+crew casualties greater than the light threshold (#/) or
+incurred a Captain Critical Hit [6.3.3]. For example, USS
+Hartford may not be included if it has incurred 9 or more crew
+casualties;
+•	 If the battle was lost, a ship with a Captain Critical Hit
+must be selected if any are present.
+
+A ship’s grade may only increase if the battle was won. Increase
+the ship’s grade by a single level and mark the ship with the
+appropriate grade marker if other than Average Grade.
+A ship’s grade may only decrease if the battle was lost. Decrease
+the ship’s grade by a single level and mark the ship with the
+appropriate grade marker if other than Average Grade.
+
+A ship’s grade can never be greater than Elite or less than Green.
+
+8.9.2 Fast Repair [2]
+Play this card on your friendly Navy Yard. It may add additional
+repair and/or critical hit points. Roll individually for each type,
+applying a +2 die roll modifier [8.8.1-2]. You may play both
+cards for a +4 die roll modifier. Discard after determining the
+results.
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+
+Circle Side
+
+List Ships
+Ships Total Points
+
+Replacements
+additional ship
+
+Out of the Mist
+additional ship
+
+Night Action
+Battle Type
+
+Crew Grade
+increase
+
+Map configuration
+with shorelines,
+current, shoal,
+depths, wind and
+obstructions
+
+Battle won
+
+© 2013/2014 GMT Games, LLC
+
+23
+
+24
+
+Iron & Oak Rules Manual
+
+You may also play this card in response to cancel a Yard Fire
+Card. Discard both cards.
+
+9.0	OPTIONAL RULES
+
+8.9.3 In Short Supply [2]
+Play this card on an opposing Navy Yard. It may limit or reduce
+the number of crew replacements by applying a –2 die roll
+modifier [8.8.3]. A player may play both cards of this type for
+a –4 die roll modifier. Discard after determining the results.
+
+Players desiring increased realism may elect to use any or all of
+the following rules. They should only be used if all players agree.
+
+8.9.4 Limited Ammunition [2]
+After both sides reveal their ships at the start of a battle (including ships appearing Out of The Mist), randomly select
+an opposing ship (other than a Barge or Steamer). A side may
+play only a single card per ship. The ship must apply a –1 DRM
+to all gunnery combat dice rolls [6.2.1].
+
+9.2	Tenders
+
+You may also play this card in response to cancel a Replacements card. Discard both cards.
+
+9.1	 Low Freeboard
+
+When a WL hit location (1 or 8) is rolled against a monitor
+or USS Spuyten Duyvil, reroll the location d8 and apply this
+second result, regardless of its location.
+When towing another ship [5.3], treat CSS Bombshell and USS
+Zouave as having twice their actual undamaged Hits when
+calculating the Maneuver DRM.
+
+9.3	 Alternating Movement
+
+8.9.5 Out of the Mist [2]
+Play this card to add a single non-committed ship to the friendly
+side in the upcoming battle. If the ship is valued at 500 or more
+Victory Points, the opposing side may also add a single noncommitted ship valued at less than 500 Victory Points.
+
+Instead of one side completing the first four Phases before the
+other, both sides conduct each of these phases simultaneously.
+Before beginning Turn 1, divide the Order card sets into odd
+and even groups: 1, 3, 5, 7, 9, 11, 13, 15 and 2, 4, 6, 8, 10, 12,
+14, 16. The side designated to move first in the scenario (or the
+Attacker in a campaign game) will use the odd numbered group.
+
+Discard at the end of the battle.
+
+9.3.1 Status Phase
+Both sides conduct each of the five steps of this phase simultaneously. Each side must still check any Level 5 Fires first before
+checking the status of its other fires.
+
+A side may play only a single card per battle, although both
+sides could play the card resulting in up to four additional ships.
+
+8.9.6 Replacements [2]
+Play this card on a friendly Navy Yard. It may add an additional
+ship or additional crew replacements, not both, by applying
+a +2 die roll modifier when determining crew replacements
+[8.8.3]. A player may play both cards for two ship attempts,
+or a single ship attempt with a +2 die roll modifier, or a single
+ship attempt and a +2 die roll modifier for crew replacements,
+or a +4 die roll modifier for crew replacements. Discard after
+determining the results.
+
+If an additional ship is added, select it from the group of friendly
+ships out of play. A ship previously sunk may not be selected.
+A lower Victory Point value ship may be selected instead of
+the indicated value if desired or if one is not available. The ship
+enters play at Average Grade.
+You may also play this card in response to cancel an In Short
+Supply Card. Discard both cards.
+
+8.9.7 Yard Fire [2]
+Play this card on an opposing Navy Yard at the end of a scenario.
+It may limit repair and/or critical hit points. Roll individually
+for each type, applying a –2 die roll modifier [8.8.1-2]. You
+may play both cards for a -4 die roll modifier. Discard after
+determining the results.
+You may also play this card to cancel a Fast Repair card.
+Discard both cards.
+
+9.3.2 Order Phase
+Both sides simultaneously assign orders to their ships per 3.2.
+A ship may be assigned any Order card set # within its side’s
+group, and is not required to keep the same Set # from turn
+to turn. A side may not skip any sets when assigning Orders.
+Example: The Confederate side has two ships and goes second in
+Scenario 2, Hampton Roads, so the Confederates will use sets 2 and
+4 in this battle. When assigning orders on Turn 1, the Confederate
+player chooses to use Set 2 for CSS Virginia and Set 4 for Patrick
+Henry On Turn 2, he may (but need not) decide to switch this order
+and use Set 2 for Patrick Henry and Set 4 for Virginia.
+
+9.3.3 Action Phase
+Ship #1 executes its order and fires first, followed by ship #2,
+and so on.
+If an order was valid when given but has become illegal, e.g.,
+the only enemy ship in your Grid Box is now across your stern
+and you have a Maneuver 0 Cross the ‘T’ order, you may change
+your order to Maneuver 0.
+
+9.3.4 Replace Card Phase
+The side moving first decides whether or not to set aside and
+replace one Action card in its hand [3.4], then the other side.
+
+© 2013/2014 GMT Games, LLC
+
+Iron & Oak Rules Manual
+
+© 2013/2014 GMT Games, LLC
+
+25
+
+26
+
+Iron & Oak Rules Manual
+
+INDEX
+
+Note: Where there are multiple entries, numbers in bold face indicate
+primary references.
+
+Action Cards 1.3.2, 3.3.1B-C, 3.4, 5.5.6, 7.0; Replacement of 3.4, 9.3.4
+Aground see Grounded
+Anchor 4.1, 5.1.2, 5.5; Slipped 7.9; and Springs 7.11;
+Weigh 4.2
+Band 1.1, 6.3.17
+Bank 1.1, 5.2
+Blockade Battle Symbol 1.3.1H
+Boiler Hit 4.0, 4.3.2, 5.2, 6.3.2
+Bow-On 5.1.6, 5.5.1, 6.2.2; Escaping 5.1.3, 5.1.6-7, 5.5.3; Gunnery
+DRM 1.3.1K, 5.6.5, 6.2.3C
+Campaign 8.0; Battle Generation 8.2.2, 8.4.1-2; End 8.7.1, 8.7.6;
+Repair 8.7.5, 8.8, 8.9.2, 8.9.7; Setup 8.3; Victory 8.7.1
+Capture 6.2.3I, 7.12; and Repairs 3.1.1
+Cards 1.3; see also card types (e.g., Action Cards)
+Casualties 6.2.3G, 6.3.5, 6.3.8, 6.3.11, 7.2, 8.4.2; Heavy 1.3.1E, 3.1.2,
+6.2.3G, 8.4.2, 8.8.3; Light 1.3.1E, 6.2.3G, 8.9.1
+Challenge Resolution 1.6.1B
+Collateral Hit 6.3.4, 6.3.10
+Crew 1.3.1E; Casualties 6.2.3G, 6.3.5, 6.3.8, 6.3.11, 7.2, 8.4.2; Grade
+3.1.1-2, 6.2.3I, 8.1, 8.3.1, 8.9.1; Replacement 8.8.3, 8.9.3, 8.9.6
+Critical Hit (CH) 6.2, 6.2.2, 6.3; Repair of 3.1.1, 8.8.2
+Crossing the ‘T’ 5.1.4, 5.3.1, 5.5; Across the Bow 5.1.2, 5.3.1, 5.5.1,
+5.6.1; Across the Stern 5.1.2, 5.3.1, 5.5.2
+Current 5.1.1, 5.2
+Damage 3.5.1; Heavy 6.2.3F
+Dice 1.6; Challenge-Response 1.6.1B; Gunnery 6.2;
+Rolls 1.6.1; Sum 1.6.1C
+Draft 1.3.1F, 5.4, 5.4.1; When Damaged 6.2.3F
+Drifting 3.3, 4.0, 5.0, 5.2, 5.4, 5.5.3
+Engine-D Hit 4.3.1, 6.3.6
+Engine-S Hit 4.0, 4.3.2, 5.2, 6.3.7
+Environment 1.1
+False Contact 8.6.1
+Fire 3.1.2, 6.3.8-9, 6.3.11, 7.3; and Repair Parties 3.1.1, 3.1.2
+Fort Counters 1.2; Gunnery from 6.0, 6.2, 6.2.3D, 7.1;
+Range to/from 6.1; Sections 6.0, 6.2
+Fouled 5.1.2, 5.4-5, 5.5.3, 5.6iv, 5.6.1, 6.3.2, 7.12; Becoming 5.4.2,
+5.6.4; Drifting when 5.2; Sinking while 6.2.3J, 7.8
+Gameboard 1.1; Entering 5.1, 5.1.6; Exiting 5.1, 5.1.6, 5.2
+Grapeshot 7.2; Symbol 1.3.1H
+Grappled 4.3.1-2, 5.3, 5.4, 5.6.1, 6.3.2; Drifting when 5.2; Sinking
+while 6.2.3J, 7.8
+Grid Box 1.1; and Gunnery Combat 6.1; Movement Into/Within
+5.0, 5.1-3
+Grounded 4.3, 5.1.2, 5.2, 5.4.1, 5.5, 5.6.1, 7.12; and Gunnery 6.2.3E;
+Sinking while 6.2.3J, 7.8
+Gunfire Markers 6.2.4; Placing 3.3.2E; Removing 3.3.2A
+Gunnery 3.3.2C-D, 5.6.5, 6.0, 7.1-4, 7.6-7, 8.6.1; Dice 1.3.1K; DRMs
+6.2.1, 6.2.3E, 6.2.3G, 6.2.4, 6.3.1, 6.3.3, 6.3.10, 7.3-4, 7.11, 8.9.4;
+Procedure 6.2; and Repair Party 3.1.1; and Smoke 6.2.3C
+Hazards 5.1.3, 5.4-5, 5.6i; at Night 8.6.3
+
+Hits 5.6.2-3, 6.2; Critical 6.3; Locations 1.3.1G, 6.2, 6.2.2; to Sink
+6.2.3J
+Hulks 4.4, 5.4, 5.4.2; Placing 6.2.3J, 7.8, 7.12, 8.6.3
+Immobile Ship 4.0, 5.3
+Limited Guns 1.3.1K, 6.2.3A
+Low Freeboard 9.1
+Maneuver 3.3.1D, 4.0, 5.0, 5.1, 5.3-6, 5.6.5, 6.3.3, 6.3.15-16, 7.5, 7.7,
+7.10; Chart 1.3.1D; Dice 1.3.1D, 5.1, 5.5; at Night 8.6.2-3; Opposing 5.1.2, 5.5, 8.6.2
+Markers 1.4
+Mines see Torpedo-Mines
+Misfire 3.3.2D, 7.4
+Monitor 1.3.1H, 7.2, 9.1; Gunnery by a 6.2.3B; Jam 6.3.10
+Movement 1.6.1A, 3.1.3, 3.3.1, 5.0; Cards 3.3.1B-C, 7.0; and Hazards
+5.4, 8.6.3; see also Drifting, Maneuvering
+Night Identification 8.6.1; Combat 6.2.4, 8.6.1; Movement 8.6.2-3
+Obstructions 4.4, 5.4, 5.4.2, 7.12, 8.6.3; Heavy 4.4, 5.4.2
+Orders 3.2, 3.3.1A, 4.0; Cards 1.3.3, 3.2, 9.3
+Plunging Fire 6.2.3D
+Powered Ship 4.0, 4.3.1
+Ram 5.1.2, 5.1.5, 5.5.1, 5.6, 6.2.3H, 6.3.2, 6.3.6-7; Attack Resolution
+5.6.3; CH 6.3.12; and Gunnery 6.1; Rating 1.3.1I
+Range 5.6.5, 6.1, 6.2.4, 7.2; Point Blank 6.1, 6.2.3B
+Refloating 4.3
+Repair 3.1.1; Campaign 8.7.5, 8.8, 8.9.2, 8.9.7; Party 3.1.1
+Retirement 6.2.3G, 6.2.3H
+Screen 5.1.3, 7.7
+Scuttling 7.8
+Shields 5.6.2-3, 6.2, 6.2.1, 6.3.4, 7.2
+Ship Captured 6.2.3I; Cards 1.3.1, 7.2; Counters 1.2;
+Gunnery 6.0
+Silenced Forts 6.2.3K
+Sinking 5.6, 6.2.3I, 6.2.3J, 7.8
+Smoke 3.1, 3.1.3; Placement 6.2.3C, 7.1, 7.6; Removal 3.1.3, 5.1.6-7
+Smokestack 7.2; CH 6.3.16
+Spar Torpedo 1.3.1J, 5.1.5, 5.5.2, 5.6, 6.2.3H, 6.3.6-7, 6.3.13, 6.3.1517; CH 6.3.14; Attack Resolution 5.6.2
+Stern-On 5.1.6, 5.5.2, 6.2.2; Escaping 5.1.3, 5.1.6-7, 5.5.3; Gunnery
+DRM 1.3.1K, 6.2.3C
+Strike see Capture
+Torpedo-Mine 5.4, 5.4.3
+Towing 5.1.2, 5.3, 9.2
+Turn Track 1.1
+Unfouling 4.4
+Un-powered Ship 4.0, 4.3.2, 7.8, 7.12
+Victory 3.5.1; Campaign 8.7.1; Phase 3.5; Points 1.3.1C, 6.2.3I, 7.8,
+7.12
+Wind 3.1.3
+Yard Cards 8.1, 8.7.3-4, 8.9
+
+© 2013/2014 GMT Games, LLC
+
+GMT Games, LLC
+
+P.O. Box 1308, Hanford, CA 93232-1308
+
+

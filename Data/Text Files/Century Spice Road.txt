@@ -1,0 +1,176 @@
+Spice Road
+
+Setup
+
+Cinnamon
+
+2nd player
+1st player
+
+Cardamom
+
+Sa
+
+Tumeric
+
+4th player
+
+3rd player
+
+Setup:
+5. Spices are represented by wooden cubes. Sort them by color
+1. Shuffle the orange-backed scoring cards and form a stack. A
+Place five of these cards face-up in a row next to the stack. B
+and place them in the spice bowls.
+2. Put twice as many gold coins as there are players playing
+Note: Put the filled bowls in ascending order of their value
+above the leftmost scoring card. C Place the same number
+as stocks on the table G : yellow (turmeric) ►red (saffron)
+of silver coins above the second card from the left. D
+►green (cardamom) ► brown (cinnamon).
+3. Among the purple-backed trader cards there are 10 starting cards
+6. Take as many caravan cards (gray back) as players are playing,
+with a violet frame on the front. E Each player
+
+receives a "2 Tumeric" (yellow) and a conversion
+card as a starting hand. Return the other
+starting cards back to the box.
+
+2 Tumeric
+
+Conversion
+
+4. Mix the remaining purple-backed trader cards and form a
+face-down stack. E Place six of these cards face-up the left
+of the pile in a row. F
+
+Gameplay
+
+Century is played over several rounds.
+Each player performs one action each turn
+(turns move clockwise, starting with the start player).
+When it is your turn, do one of the following actions:
+
+Play a card: Play a card from your hand.
+Acquire: Get a new trader card.
+Rest: Take all the cards you’ve played back into your hand.
+Score: Claim a score card.
+
+including the one market with the purple start
+player symbol. Mix the cards and give each player a card. H
+The player with the symbol on their card is the start
+player. The player sequence is clockwise.
+7. Each player receives the following spices and places them
+on their caravan.
+► Start player: 3 turmeric
+► 2nd and 3rd players: 4 turmeric each
+► 4th and 5th players: 3 turmeric and 1 saffron each
+
+Play a card
+To play a hand card, place it face-up in front of you
+and trigger its effect. There are three types of trader
+cards that you can play:
+Spice card
+If you play a spice card, take the
+number of spices of the appropriate
+color(s) A from the stock and place
+them on your caravan. In the example
+shown, the player places 1 turmeric
+and 1 saffron on his caravan.
+
+Conversion cards
+If you play a conversion card, you may convert
+spices on your caravan into the next most
+valuable spice (i.e. yellow (turmeric) ► red
+(saffron)► green (cardamom) ► brown (cinnamon))
+the number of times depicted on the card. You do
+not have to execute all conversions that are
+possible according to the card. In the illustrated
+example, you were allowed to turn a yellow turmeric
+into a red saffron and do the same again, or convert the
+converted saffron into a green cardamom.
+
+Order of the spices conversion
+
+Exchange cards
+If you play an exchange card, put the spices above
+the arrow A from your caravan back into
+their bowls, and take the spices shown under
+the arrow B out of the stock and place them
+on your caravan. You may carry out the
+same exchange as many times as you wish in your
+train as long as you have the necessary spices.
+Example: Tom has 6 turmeric and plays a card
+with which he can exchange 2 turmeric for
+1 cardamom. He can now exchange 2, 4, or 6 turmeric
+for 1, 2, or 3 cardamom.
+
+Acquire card
+To acquire a trader card, you must place a spice of your
+choice from your caravan onto each card to the left of
+the one you wish to acquire, then place any spices
+already on your selected trader card into your caravan
+and pick up the card and put it into your hand.
+Note: The card on the far left you can acquire for free.
+
+Rest
+When you are resting, you take all
+the cards that you have played before
+back into your hand. (This allows you to
+expand your hand over the course of the
+game, i.e. to operate a kind of "deckbuilding").
+
+Score
+To take a scoring card, you must have all of the
+depicted spices on your caravan. Put these spices
+back into their bowls, take the scoring card and
+place it in front of you. Slide the scoring cards so
+that the resulting gap closes and a free space is
+created on the right side of the row. Draw the top
+card from the deck and place it in the free space.
+If you take the first or second point card from the
+left, take 1 gold or silver coin from above it. If you
+have taken the last gold coin, move the remaining
+silver coins from above the second card above
+the first card.
+
+Caravan limit
+
+At the end of your turn, if you have more spices
+on your caravan than you can transport, you must
+return spices of your choice into the bowls until
+your upper limit is reached.
+A caravan can transport up to 10 spices.
+
+Spice limit
+The spice stock is not limited. If a bowl is emptied,
+use another material or a multiplier as a
+replacement.
+
+Game End
+If a player has his fifth point card
+(with 2 or 3 players, his sixth), the game ends after
+the current round. Each player earns the points on
+their scoring cards. In addition, each gold coin is
+worth 3 points, each silver coin is worth 1 point
+and all spices better than turmeric(yellow) earn 1
+point per wooden cube. The player with the most
+points wins the game. In the case of a tie, the
+player who was later in turn order wins.
+
+About
+Example: Tom would like to acquire the 4th trader card from
+the left A so he places one spice on each card to the
+left of it. B
+
+Author: Emerson Matsuuchi
+Note:
+These are not official English rules. I’ve made this using
+
+Slide the trader cards so that the resulting space is closed and the translation done by Jeremy Heilman, and my basic
+a free space is created on the right side of the train stack.
+knowledge of Illustrator. I needed the rulse as we inteded
+Draw the top card from the deck and place it in the free space. to give this game as a present to our friend Boris.
+Happy birthday! :)
+
+

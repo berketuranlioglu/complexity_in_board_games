@@ -1,0 +1,2801 @@
+1817
+Copyright © 2012 by Craig Bartell and Tim Flowers. All Rights Reserved.
+Version 1.0 - 5 March 2012
+
+Table of Contents
+1 Introduction...................................................1
+1.1 Short Selling............................................1
+1.2 Game Components...................................1
+1.2.1 Map.............................................................1
+1.2.2 Stock Market...............................................1
+1.2.3 Current Round Marker................................1
+1.2.4 New York Stock Exchange.........................2
+1.2.5 Bank of New York......................................2
+1.2.6 Private Companies......................................2
+1.2.7 Public Companies.......................................3
+1.2.8 Track Tiles..................................................3
+1.2.9 Trains..........................................................3
+1.2.10 Money.......................................................3
+
+2
+3
+4
+
+5
+
+1.3 How to Win.............................................4
+1.4 Player Etiquette........................................4
+Game Phases..................................................4
+General Sequence of Play..............................5
+Setup and Start of the Game.........................5
+4.1 Setting up the Game.................................5
+4.2 Conducting the Initial Auction.................5
+Stock Round..................................................6
+5.1 Certificate and Share Limit......................6
+5.2 Selling Stock............................................6
+5.2.1 Resigning as President................................6
+
+5.3 Selling Stock Short..................................7
+5.4 Buying Stock...........................................7
+5.4.1 Change of President....................................7
+
+5.5 New Company IPO..................................7
+5.6 Acting on a Company's Behalf.................8
+5.7 Ending the Stock Round..........................8
+6 Operating Rounds.........................................8
+6.1 Overview.................................................8
+6.2 Operating Order.......................................9
+6.3 Lay or Upgrade Track..............................9
+6.3.1 Laying Yellow Track..................................9
+6.3.2 Upgrading Track.........................................9
+
+6.4 Place Station Marker................................9
+6.5 Run Trains...............................................9
+
+6.6 Pay / Half Pay / Withhold Dividend.......10
+6.7 Buy Trains.............................................10
+6.8 Pay Loan Interest...................................10
+6.9 Repay Loans..........................................11
+6.10 Check for Liquidation..........................11
+6.11 End of the Operating Round.................11
+7 Merger and Acquisition Rounds.................11
+7.1 Converting and Merging........................11
+7.1.1
+7.1.2
+7.1.3
+7.1.4
+
+Conversion................................................11
+2-Share Merger.........................................12
+5-Share Merger.........................................12
+Post Conversion/Merger Process..............12
+
+7.2 Company Sales......................................12
+7.2.1
+7.2.2
+7.2.3
+7.2.4
+
+Liquidations..............................................12
+Acquisitions..............................................13
+Friendly Sales............................................13
+Sales Process.............................................13
+
+7.3 Acquired Station Markers......................14
+7.4 Cash Crisis.............................................14
+7.5 End of Merger Round............................15
+8 End of the Game..........................................15
+9 Variants........................................................15
+9.1 Increased Short Sales.............................15
+9.2 More Players..........................................15
+9.3 Short Squeeze........................................16
+9.4 Modern Trains.......................................16
+10 Conflicts and Errata..................................16
+11 Appendices.................................................16
+11.1 Strategy Tips........................................16
+11.1.1
+11.1.2
+11.1.3
+11.1.4
+
+General Guidelines.................................16
+Private Companies..................................17
+Initial Companies and Loans...................17
+Short Selling...........................................18
+
+11.2 Design & Historical Notes...................19
+11.2.1 Company Histories..................................20
+
+12 Acknowledgments / Credits / Notices........22
+13 Train Manifest / Phase Chart....................23
+14 Tile Manifest and Upgrade Table.............23
+
+1817
+
+Page 1
+
+1 Introduction
+
+Bank of New York, with interest rate marker and 70
+unlabeled loan markers [1.2.5]
+
+Cross-references within the rules are denoted by square
+brackets – [2.2] refers the reader to section 2.2 for
+additional information about the topic under discussion.
+
+11 Private Companies [1.2.6], including a total of 6
+coal mine tokens, 3 bridge tokens, and a special yellow tile for Pittsburgh
+
+1817 is a railroad operations and share trading board
+game in the 18xx series (originated by Francis Tresham
+with 1829) with a distinct financial flavor. It is named
+after the year the New York Stock Exchange opened at
+40 Wall Street in New York. Three to seven players represent investors in railway companies, spending their
+initial capital to buy wholly owned private companies
+and 2-share companies, and later shares in larger 5-share
+and 10-share companies. Each company is controlled by
+its largest shareholder, called the President. Company
+revenue can be paid out as dividends to shareholders or
+retained to fund further track and rolling stock. The value of shares will rise and fall in relation to the fortunes
+of the company.
+
+20 Public Companies [1.2.7], each with a charter, 8
+station markers, 1 stock marker, 1 revenue marker, a
+5/10-share marker, a president's certificate, and 18
+other share certificates (28 if variant components
+were purchased [9.1])
+
+1817 is a fairly long game. Experienced, brisk players
+can expect to take about six hours to complete a game.
+Novices or more deliberate players might add several
+hours to that time.
+
+You will need to provide a Bank, which may be poker
+chips or play money (optional component). The amount
+of money in the Bank is unlimited, but $12,000 should
+be enough for most games.
+
+Information about assets owned by a player or company
+is public knowledge. Personal and company assets
+should be laid out in plain view and must be disclosed
+upon request.
+
+1.2.1 Map
+
+1.1 Short Selling
+A key feature of 1817 is the ability to sell stock short,
+which is the practice of selling stock that is not owned,
+with the intention of buying the stock back at a later
+date. The short seller hopes to profit from a decline in
+the price of the stock between the sale and the repurchase, as he will pay less to buy the stock than he
+received on selling it.
+
+166 track tiles (but considered unlimited), in yellow,
+green, brown and gray [1.2.8]
+36 train cards (2-trains have permanent trains on the
+reverse side) [1.2.9]
+One priority deal card, and 7 player number cards
+These rules
+
+The map shows the Northeast USA from Chicago to
+New York and Canada to Atlanta. Superimposed on the
+map is a hex grid on which hexagonal track tiles are laid.
+Large circles represent cities (Toronto is also a city, but
+a station marker may not be placed there). Destinations
+beyond the edge of the map are represented by red “OffMap” areas. The map is surrounded by red Off-Map
+areas, shaded non-buildable areas, and the Atlantic
+Ocean.
+
+1.2.2 Stock Market
+
+You can think of a short share as a negative share, or a
+promise to provide the share in the future. In 1817, there
+is no requirement to close the short position (by buying a
+share) during the game, but while you own a short share,
+it is a liability – you must pay to the bank any dividends
+the company pays. See [6.6] for more details.
+
+The stock market governs the value of shares in companies. It is represented by a row of columns. Each box
+represents the value or financial status of the company.
+The company can be in liquidation, in acquisition, or
+valued from $40 to $600 per share. Shares of a company
+in the liquidation or acquisition section of the stock market are considered illiquid and cannot be bought or sold.
+
+1.2 Game Components
+
+1.2.3 Current Round Marker
+
+The game comes with the following components:
+
+The round marker keeps track of when the game is in a
+stock round, operating round, or merger and acquisition
+round. It also serves as a reminder to set the loan fee and
+to export a train at the appropriate time.
+
+Map [1.2.1] / Stock Market [1.2.2] / Current Round
+Marker [1.2.3]
+New York Stock Exchange [1.2.4]
+
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 2
+
+1.2.4 New York Stock Exchange
+The New York Stock Exchange (NYSE) is where shares
+are placed when sold by players. The Open Market represents shares held by the public. Once a share is sold
+short in a company, the remaining available short certificates and their matching share certificate are put in the
+Open Short Interest section of the NYSE.
+
+1.2.5 Bank of New York
+The Bank of New York makes loans available to public
+companies in $100 increments. Companies may take
+loans for any purpose at times specified in the stock
+round, the operating round and the merger and acquisition round. The president of a company provides a
+personal guarantee for the company’s loans.
+The Bank of New York charter tracks the number of
+loans taken by all companies and the current loan fee. At
+the start of the game, place 70 loan markers in each of
+the circles and the interest rate marker in the $5 space.
+When a loan is taken by a company, remove a loan marker from the top-most row of loans and place it on the
+company charter along with $100 from the bank. Move
+the company’s stock price one space to the left if it is not
+already in the left most gray acquisition space on the
+stock market. When a company repays a loan, return the
+loan marker from the company onto the lowest valued
+empty circle and pay $100 from the company to the
+bank. Move the company’s stock price one space to the
+right if it is not already on the $600 stock space. Loans
+can only be paid back at the specified time during the
+company's operating turn or after a company has been
+acquired or liquidated.
+The loan fee is set at the start of each operating round by
+placing the interest rate marker in the Interest column to
+the left of the highest row on the Bank of New York that
+is missing a loan. If no loans are missing, the interest
+rate is set at $5. The interest rate remains in effect until it
+is reset at the start of the next operating round regardless
+of how many loans are taken or repaid.
+The number of loans a company may acquire is limited
+by its share size, as indicated on the charter: a 2-share
+company may not exceed 2 loans, a 5-share company
+may not exceed 5 loans, and a 10-share company may
+not exceed 10 loans. The total number of loans available
+is limited to the 70 loans on the Bank of New York.
+
+1.2.6 Private Companies
+
+new public companies and may not be resold. Private
+companies may be acquired in mergers, liquidations, or
+takeovers. Private companies remain open the entire
+game. Players may find it convenient to reduce clutter by
+removing a private company from the game once it is no
+longer able to do anything.
+The game includes eleven private companies which are
+as follows:
+Name
+Pittsburgh Steel Mill
+Mountain Engineers
+Ohio Bridge Co
+Union Bridge Co
+Train Station
+Minor Coal Mine
+Coal Mine
+Major Coal Mine
+Minor Mail Contract
+Mail Contract
+Major Mail Contract
+
+Face Value
+$40
+$40
+$40
+$80
+$80
+$30
+$60
+$90
+$60
+$90
+$120
+
+Pittsburgh Steel Mill has a face value of $40. The Pittsburgh Steel Mill allows the owning company to place the
+special Pittsburgh yellow tile during the tile laying phase
+of its operating turn. This counts as a yellow tile lay.
+There is no connectivity requirement to lay this tile. The
+Pittsburgh hex is not reserved and any company with a
+route to Pittsburgh (or that starts there) may place a regular yellow city tile on the Pittsburgh hex – in that case,
+later upgrades follow the normal path.
+Mountain Engineers has a face value of $40. It earns $20
+for the owning public company every time the owning
+company lays a yellow tile in a mountain hex. The company must first pay any applicable fee for placing the tile
+prior to collecting the $20.
+Ohio and Union Bridge Companies have a face value of
+$40 and $80 respectively. The Ohio Bridge Company
+comes with one bridge token; the Union Bridge Company comes with two bridge tokens. A bridge company
+allows the owning company to place a yellow tile on river hexes without paying the usual $10 fee. The owning
+company may place one or both bridge tokens at any
+time during its operating turn. A bridge token may be
+placed on Louisville, Cincinnati, or Charleston provided
+the city does not already have a bridge token. Placing the
+token is optional and has no connectivity requirement.
+The token is placed on the hex, but does not occupy a
+station marker location. Once placed, the token increases
+the value of the city by $10 for all trains (from any company) running to the city.
+
+Private companies are sold to players during the initial
+subsidy auction. Private companies are then used to fund
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 3
+Train Station has a face value of $80. This provides an
+additional station marker for the owning company. When
+the train station is acquired by a Company, place a station marker on the company charter.
+Coal Mine Companies (Minor, Regular, Major) have a
+face value of $30 (minor), $60 (regular), and $90
+(major). The coal mine companies come with either one
+(minor), two (regular), or three (major) coal mine tokens.
+When the owning company lays yellow track tile in any
+mountain hex adjacent to a city or red off-board location,
+it may also place one of its coal mine tokens. If it does
+so, it does not pay the usual $15 mountain tile fee. The
+yellow tile underlying the coal mine may not be upgraded. Coal mines must directly connect to a city or red offboard location, or be placed adjacent to a city such that if
+the adjacent city were sufficiently upgraded, it could
+directly connect to the coal mine. The coal mine increases the value of any company's route through the hex by
+$10. Any company may use the coal mine. Train routes
+may not start or end at a coal mine.
+Mail Contracts (Minor, Regular, Major) have a face value of $60 (minor), $90 (regular), and $120 (major). A
+mail contract pays the owning company $10 (minor),
+$15 (regular), or $20 (major) at the beginning of every
+operating round provided the owning company has one
+or more trains.
+
+1.2.7 Public Companies
+There are twenty Public Companies, each with a Charter,
+10 tokens, and 19 share certificates (a president's certificate, 13 share certificates, and 5 short share certificates;
+as an optional component, additional shares are available
+for use with variant [9.1]).
+A company may be reused after a company is removed
+from play, which may happen due to a merger, liquidation, or acquisition.
+Public Companies may be 2, 5, or 10-share companies,
+and is always marked accordingly in the top-right of the
+charter. The choice is made when the new company IPO
+occurs [5.5] subject to the restrictions of the current
+phase [2], and may be changed by mergers and conversions [7]. A company is never required to convert or
+merge; a company may end the game as a 2-share company.
+Ten tokens are provided for each company. One token is
+used to mark the stock price on the stock market, and
+another for the revenue chart. The remaining eight are
+available for the company to use as station markers.
+
+Version 1.0
+
+Barring a takeover, acquisition, or ownership of the
+Train Station private company, the basic number of station markers a company will have is listed in the
+following table. Companies also start with this number
+of station markers after an IPO:
+Company Size
+2-share
+5-share
+10-share
+
+Starting /
+Basic Station Markers
+1 station marker
+2 station markers
+4 station markers
+
+Companies purchase the extra station markers when converting to larger companies (even if they already have
+the required number of station markers through other
+means). Companies can also acquire station markers
+through mergers and acquisitions.
+
+1.2.8 Track Tiles
+1817 was designed with the intent that the game does not
+run short of tiles; there is considered to be an unlimited
+number of each type of tile. The provided tiles should be
+enough for most games. If there is a shortage of tiles,
+players should come up with a substitute.
+
+1.2.9 Trains
+There is considered to be an unlimited number of 2trains available for purchase during the first operating
+round of the game. The provided 2-trains should be sufficient for most games; if there is a shortage of 2-trains,
+use a substitute. After exporting a 2-train at the end of
+the first operating round, all the remaining unsold 2trains are removed from play and 2+-trains become
+available.
+Train
+2-Train
+2+-Train
+3-Train
+4-Train
+5-Train
+6-Train
+7-Train
+8-Train
+
+Cost
+$100
+$100
+$250
+$400
+$600
+$750
+$900
+$1100
+
+Quantity
+Unlimited*
+4**
+12
+8
+5
+4
+3
+Unlimited
+
+* Available first operating round only
+** Runs one operating turn after 4-train purchased
+
+1.2.10 Money
+1817 was designed with the intent that the Bank does not
+run out of money. The amount of money in the Bank is
+unlimited, but $12,000 should be enough for most
+games. If that runs out, add more as necessary.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 4
+
+1.3 How to Win
+Players win by having the highest net worth (comprised
+of cash and owned stock, less short stock) at the end of
+the game [8]. Company-owned assets—such as Company cash and trains—do not contribute to net worth.
+
+Phase 3 starts on the purchase of the first 3-Train. During Phase 3:
+Yellow and green track is available
+Red off-board areas and pre-printed grey hexes
+count the second value
+
+1.4 Player Etiquette
+
+Companies may own no more than 4 trains
+
+Players should attempt to speed play as much as possible. In particular, players should try to determine what
+share to buy or what tile to place or upgrade during
+another player’s turn.
+
+New companies may only be started as 2-share or 5share companies
+
+Player cash and Certificates owned should be arranged
+neatly in front of the player. Company cash should be
+placed in the Treasury section of the Company Charter,
+and the Company’s trains should be neatly displayed in
+the train section of the Company Charter.
+
+Phase 4 starts on the purchase of the first 4-train. At the
+start of phase 4, 2-trains become obsolete and are eliminated without compensation. (The 2-trains have
+permanent trains on the reverse side, so don't put them
+away.) During phase 4:
+Yellow and green track is available
+
+Upon request, a player must disclose his cash or Certificate holdings, or the assets of any Company under his
+control.
+
+Red off-board areas and pre-printed grey hexes
+count the second value
+
+Corporate transactions are public knowledge, whether
+conducted between a Company and the Bank, a Company and a player, or two Companies.
+
+New companies may only be started as 5-share companies
+
+Players may engage in public, verbal discussions and
+enter into public, verbal agreements. Such discussions
+should be reasonably brief in order to speed play. Performance is not enforceable except by moral suasion; a
+player who has performed an action under such an agreement in the anticipation of future action by his partner
+has no other recourse if his partner reneges on the agreement. Secret discussions or agreements, whether verbal
+or written, are prohibited.
+
+2+-trains may not be bought or sold, and are discarded without compensation at the end of the owning
+company’s "Run Trains" step [6.5]
+Phase 5 starts on the purchase of the first 5-train. During
+phase 5:
+Yellow, green, and brown track is available
+Red off-board areas and pre-printed grey hexes
+count the third value
+Companies may own no more than 3 trains
+
+2 Game Phases
+1817 proceeds through a series of Phases, which affect
+which tiles may be played, the value of the red off-board
+areas and pre-printed grey hexes, which trains are available to be bought or rusted, and how many trains may be
+owned by a Company. Each Phase lasts until the Triggering Event for the next Phase.
+The game starts in Phase 2. During Phase 2:
+Yellow track is available
+Red off-board areas and pre-printed grey hexes
+count the lowest value
+Companies may own no more than 4 trains
+New companies may only be started as 2-share companies
+Version 1.0
+
+Companies may own no more than 3 trains
+
+New companies may only be started as 5-share or
+10-share companies
+Phase 6 starts on the purchase of the first 6-train. At the
+start of phase 6, 3-trains become obsolete and are eliminated without compensation. During phase 6:
+Yellow, green, and brown track is available
+Red off-board areas and pre-printed grey hexes
+count the third value
+Companies may own no more than 2 trains
+New companies may only be started as 10-share
+companies
+Phase 7 starts on the purchase of the first 7-train. During
+phase 7:
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 5
+Yellow, green, brown, and gray track is available
+
+4 Setup and Start of the Game
+
+Red off-board areas and pre-printed grey hexes
+count the highest value
+
+4.1 Setting up the Game
+
+Companies may own no more than 2 trains
+
+Companies may own no more than 2 trains
+
+Lay out the map, stock market, and Bank of New York.
+Sort each company's stock certificates with the President's Certificate on top, and its tokens nearby. Stack the
+trains in order. At the start of the game, only the yellow
+track tiles will be used but other tiles should be available
+for inspection. Place the Round Marker on the roundel
+space marked “Stock Round”. Each player should have
+enough room for several company charters, stock certificates, and a pile of money. Some players will find
+writing materials and a calculator useful. Determine the
+seating order and the starting player at random or by
+mutual agreement. Give the starting player the priority
+deal card.
+
+New companies may only be started as 10-share
+companies
+
+The starting money of $1260 is equally divided between
+the players as shown in the table below:
+
+New companies may only be started as 10-share
+companies
+Phase 8 starts on the purchase of the first 8-train. At the
+start of phase 8, 4-trains become obsolete and are eliminated without compensation. During phase 8:
+Yellow, green, brown, and gray track is available
+Red off-board areas and pre-printed grey hexes
+count the highest value
+
+Short selling is no longer permitted, although there
+is still no requirement to close short positions
+There are an unlimited number of 8-trains
+
+3 General Sequence of Play
+The game starts in Phase 2, reflecting the fact that the
+first train available for sale in the bank is a type 2. As
+further trains are bought, new phases start with each new
+type of train [2, 6.7]. The game ends in phase 8 (see [8]
+for details).
+
+Number of
+Players
+3
+4
+5
+6
+7
+
+Starting
+Cash
+$420
+$315
+$252
+$210
+$180
+
+Certificate
+Limit
+21
+16
+13
+11
+9
+
+Private companies are laid out face up in the middle of
+the board along with the starting seed money of $200.
+
+4.2 Conducting the Initial Auction
+
+After an Initial Auction Round [4.2], the game progresses through a series of rounds, repeating until the end of
+the game: a Stock Round [5], an Operating Round [6], a
+Merger/Acquisition Round [7], a second Operating
+Round, and a second Merger/Acquisition Round.
+
+Before the first stock round, a special Private Company
+auction is held. The private companies are laid out in a
+central location along with $200 in seed money from the
+Bank. The seed money is used to subsidize the purchase
+of private companies.
+
+During stock rounds, players start new companies, and
+buy and sell shares (including short sales, [1.1, 5.3]) in
+public companies. During operating rounds, companies
+lay track, place station markers, operate trains to earn
+revenue, and purchase more trains. During the
+merger/acquisition rounds, companies may change their
+share structure to 5-share or 10-share companies and
+may also merge or acquire other companies.
+
+The player with the priority deal card may now put a
+company up for auction or pass. When a private company is put up for auction, the initial bid combined with the
+available seed money must be a multiple of $5 that is at
+least equal to the face value of the private company. No
+bid may be negative or exceed the face value of the private company. Bidding continues around the table with
+players bidding increasing amounts evenly divisible by
+$5. Once a player passes, he may not bid again on the
+same private company. The auction is over once all players but one have passed.
+
+An important part of 1817 is determining your company’s financial structure. Companies may take on debt
+in the form of $100 loans in order to improve profitability. The fee on loans is reset at the start of each operating
+round. This fee must be paid during the company’s operating turn.
+
+Version 1.0
+
+The winning bidder now pays the bank his bid and takes
+the private company. Funds from the seed money are
+paid to the bank to make up the difference between the
+winning bid and the face value of the private company.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 6
+
+Play proceeds to the left of the player that started the
+auction.
+The initial stock round ends when all players pass consecutively. Give the priority deal card to the player to the
+left of the last player to initiate a Private Company auction. The game now continues with a normal stock
+round. All unsold private companies are removed from
+the game. Any remaining seed money is returned to the
+bank.
+
+5 Stock Round
+A stock round consists of a series of turns, starting with
+the holder of the priority deal card and proceeding clockwise. On each turn, the active player may act either for
+himself or for one of his companies (which must not be
+in the red liquidation or the gray acquisition areas of the
+stock market) [5.6].
+If acting for himself, he may perform any or all of the
+following actions in this order:
+1) Sell any number of share certificates [5.2]
+2) Sell short one share certificate [5.3]
+3) Buy one share certificate [5.4] or start a new
+company [5.5]
+If a player acts for one of his companies, the company
+must take one or both of the following actions in this
+order:
+1) Take one or more loans up to the maximum
+allowed for the company.
+2) Purchase one or more shares of the company’s
+own stock from the open market.
+A player doing none of these things is deemed to pass.
+The stock round ends only when all players pass consecutively. Thus, a player selling, shorting, buying, or acting
+for his company is guaranteed another turn in the current
+round.
+
+In order to buy a certificate, a player must hold fewer
+certificates than the limit. Thus, in a four-player game, a
+player holding 16 certificates must sell shares in order to
+make room to buy alternatives. A player may close a
+short position by purchasing a matching share of stock
+even if he is at or above the certificate limit.
+Any time a player finds himself with both a regular share
+and a short share of the same stock, he must immediately
+close the short position by returning the matching pair to
+the open short interest section of the open market. This
+can happen after purchasing a share of stock or after a
+merger.
+Players are limited to owning six shares in a 10-share
+company, three shares in a 5-share company, and two
+shares in a 2-share company.
+A player can be temporarily caused to be above the cer tificate limit by losing a presidency or due to two 5-share
+companies merging. If a player finds himself in excess
+of the certificate limit during his turn in a stock round,
+he must, if possible, sell shares in excess of the limit prior to ending his turn. A player may never end his turn
+during a stock round in excess of the certificate limit,
+unless all certificates held are IPO shares that cannot be
+sold.
+
+5.2 Selling Stock
+To sell stock, the player transfers any number of share
+certificates from his holdings into the Open Market, subject to the following constraints:
+Private companies may not be sold to the bank
+Shares of a 2-share company may not be sold
+Shares in a company may not be sold during the
+stock round the company formed due to an IPO
+The President’s certificate may never end up in the
+Open Market
+Shares in a company whose share price is in one of
+the gray acquisition areas on the stock market may
+not be sold
+
+All stock transfers in the stock round are done between a
+player and the open market, a player and a company, or a
+company and the open market. Players may never buy
+stock directly from another player. Companies may only
+have their own stock in their treasury.
+
+The player receives the current share price for each share
+sold from the bank. Selling stock, even by the President,
+does not change the current share price.
+
+5.1 Certificate and Share Limit
+
+5.2.1 Resigning as President
+
+A player may hold a limited number of certificates [4.1].
+Only public company shares count against the certificate
+limit. Private companies and short share certificates do
+not count against this limit.
+
+If, as a result of selling shares, the holding of a Company
+President drops below that of another player who owns
+at least two shares of the Company, that other player
+becomes the new President. If there is more than one eli-
+
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 7
+gible player, the new President is the player with the
+largest holding, or, in the case of a tie, the tying player
+closest to the outgoing President’s left. The outgoing
+President exchanges his President’s Certificate for two
+ordinary certificates of the affected company belonging
+to the new President. The exchange is affected before
+resolving the rest of the sale (which may include selling
+only one of the two shares received).
+
+5.3 Selling Stock Short
+A player may sell short one share of stock in a 5-share or
+10-share company subject to the following constraints:
+Shares of a 2-Share company may not be sold short
+No share may be sold short if there are already 5 or
+more short shares in play (but see variant [9.1])
+Shares in a company may not be sold short in the
+same stock round that the company formed due to an
+IPO
+You may not sell short shares if you own any shares
+in the company, including the President’s certificate
+Shares in a company whose share price is in one of
+the gray acquisition spaces on the stock market may
+not be sold short
+Short selling is prohibited during phase 8, which is
+triggered by the sale or export of an 8-train
+If the company has not yet been sold short, move five
+short shares and regular shares to the Open Short Interest
+section of the NYSE. To sell short, the player takes a
+Share and a Short Share from the NYSE Open Short
+Interest. The player then sells the share just as he would
+a regular share while retaining the short share. The player receives the current share price for the share sold short
+from the bank. There is no limit to the number of short
+shares an individual may have. Selling short stock does
+not cause the current share price to change.
+The act of short selling is considered a sale, and prevents
+the player from purchasing this stock for the remainder
+of the stock round.
+
+5.4 Buying Stock
+To buy stock, the player whose turn it is transfers one
+certificate from the company treasury or the Open Market into his own holdings. The President’s certificate of
+the company must be owned by a player, the player must
+adhere to the certificate and share limits defined in section [4.1], and the player may not have sold stock in that
+company earlier in the same Stock Round. Only one certificate may be bought per Stock turn. Shares in a
+Version 1.0
+
+company whose share price is in one of the gray acquisition spaces on the stock market may not be bought.
+If the certificate comes from the company treasury then
+its price is paid to the company. If the certificate comes
+from the Open Market then its price is paid to the Bank.
+In all cases the price for certificate is the current share
+price. Buying stock does not cause the current share
+price to change.
+
+5.4.1 Change of President
+If, as a result of a share purchase, the player’s holdings
+exceed that of the current President, he becomes the new
+President and must exchange the President’s Certificate
+for two shares of his own.
+
+5.5 New Company IPO
+Instead of buying a certificate, a player may start a new
+company IPO. The player selects a company that is currently not in play and places a station marker from that
+company on the board in any available open location
+except Toronto. A new company IPO may not occur if
+there are no open city locations to place a starting station
+marker or if there are no available company charters.
+The President’s certificate for this company is then auctioned. The current player starts the bidding at a multiple
+of $5 between $100 and $400 inclusive. Going around
+the table starting at the left of the current player, each
+player may raise the bid to any multiple of $5 above the
+current bid not to exceed $400, or pass. A player may not
+bid an amount he cannot pay. Once a player passes, he
+may not bid any further in the same auction. When only
+one player is left in the bidding, he wins the auction.
+The share price is the winning bid, divided by two, and
+rounded down to the nearest stock price. The company’s
+stock marker is now placed at this location on the stock
+market. The winning player declares if this president’s
+share is for a 2-share, 5-share, or 10-share company as
+permitted by the current phase of the game. The company is now considered funded and operational. The
+winning bid is placed on the company charter and winning bidder takes the President’s certificate. Private
+companies held by the player may be used in lieu of cash
+for partial or full payment of the winning bid. The face
+value of the private company must be used. The player
+must contribute equity (cash + private company values)
+that exactly total the winning bid. If more shares are
+available to purchase, they are placed on the company
+charter.
+New companies receive the initial station marker placed
+on the map for free. 5-share companies must purchase 1
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 8
+
+additional station marker for $50, and 10-share companies must purchase 3 additional station markers for $150.
+
+6 Operating Rounds
+
+Payment for these station markers must be made prior to
+the end of the stock round. Paying for these station markers is not an action. Companies may take loans to pay for
+the initial station markers. Taking loans must be a company action. If the stock round ends without the
+company purchasing the required station markers, the
+company is placed in liquidation.
+
+Prior to the start of each Operating Round the loan fee is
+set on the Bank of New York charter. Instructions on
+how to do this are in section [1.2.5] “Bank of New
+York”.
+
+After the IPO is concluded, play proceeds to the left of
+the player that started the IPO auction, regardless of who
+won the auction.
+
+During an Operating Round each Company in the green
+or gray area of the stock market may:
+
+Mail contracts are paid to companies that own a mail
+contract and one or more trains at the start of the operating round before any company takes its operating turn.
+
+Lay one or two track tiles (one may be an upgrade)
+
+5.6 Acting on a Company's Behalf
+If a player decides to act on behalf of a company instead
+of taking action himself, he must perform one or both of
+the following actions in this order for any one company
+for which he is president and whose share price is not in
+the red liquidation or gray acquisition areas of the stock
+market:
+1) Take one or more loans up to the maximum
+allowed for the company, as described in [1.2.5].
+(Reminder: interest is due each operating round,
+but not during the stock round.)
+2) Purchase one or more shares of the company’s own
+stock from the open market, up to the amount
+available, by paying the bank for the stock
+purchase.
+
+5.7 Ending the Stock Round
+The stock round ends when all players pass consecutively. Give the priority deal marker to the player to the left
+of the last player to take an action, for himself or one of
+his companies in the stock round. Advance the roundel
+marker.
+Examine the price of each stock in operating order. If
+100% or more of a 5-share or 10-share company’s stock
+is held by players, the stock price moves one space to the
+right, unless the value of the stock is already at $600, in
+which case it does not move. Note that it is possible for
+players to own 100% or more of a 5-share or 10-share
+company while stock is in the open market or the company charter due to short selling. The stock price is then
+moved one space to the left for each share in the open
+market. The stock price may not move left further than
+the left most gray space on the stock market. If the stock
+price reaches this location, it stops moving.
+
+Version 1.0
+
+Place a station marker
+Run trains
+Pay full, pay half, or withhold dividends
+Buy trains
+Pay fees on loans
+Repay loans
+Companies on the red liquidation space do not operate.
+
+6.1 Overview
+Companies may take loans at any time (as described in
+[1.2.5]) during their operating turn before or during the
+“pay fees on loans” step or after the “repay loans” step.
+Companies may not take loans between these two steps.
+Loans may only be repaid at the designated time. Move
+the stock price left one space at the time each loan is taken unless the stock price is already in the left most gray
+area of the stock market, in which case it does not move.
+Move the stock price one space to right for each loan
+paid off, unless the stock price is $600, in which case the
+stock price does not move.
+A route of a company consists of a continuous
+unbranched length of track, including on it a city containing a station marker belonging to the company (not
+necessarily at the beginning or end of the route). It may
+not pass through a city completely blocked by the station
+markers of other companies. It may not visit any city or
+red off-board area more than once; the two groups of city
+circles in New York are part of the same city and a route
+may not visit both. A route may not use any track segment more than once; note that the junction in the middle
+of brown plain track tiles is not considered part of any
+track segment.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 9
+
+6.2 Operating Order
+
+6.3.2 Upgrading Track
+
+Companies operate in descending order of share price. If
+the stock values of two or more companies are equal,
+then the one whose stock marker was placed in that
+space first operates first. In order to help indicate which
+stock marker was placed first, whenever a stock marker
+is moved on the Stock Market, it should be placed lowest
+in that value column.
+
+When upgrading track, the old tile is removed and the
+new substituted. Green tiles may be used to replace yellow, brown to replace green, and gray to replace brown.
+Plain track, normal city, “B” and the “NY” city tiles
+must be replaced with corresponding tiles. Track segments on the old tile must be represented, in the same
+orientations, on the new. See [14] for examples.
+
+6.3 Lay or Upgrade Track
+
+Some part of the track (not necessarily a new part) on the
+new tile must be part of a route of the company. If the
+tile has one or more Station Markers on it, these are
+replaced on the new tile in the same position as before.
+There is no charge for upgrading track in difficult terrain
+except for Detroit and New York; those cities cost $20
+to upgrade to a green tile.
+
+The active Company may, per Operating turn, lay a yellow tile or upgrade one yellow, green, or brown tile to
+green, brown, or gray respectively when available. For
+an additional fee of $20, a Company may perform a second tile operation; at most one of the two operations may
+be an upgrade. Also, a Company may not lay a yellow
+tile and upgrade it during the same turn. Companies may
+not perform three tile operations in the same operating
+turn.
+Green tiles are available from Phase 3, brown from
+Phase 5, and gray from Phase 7.
+The board already contains a number of yellow and gray
+hexes on which track is printed. These hexes should be
+treated as though a tile of the same color as the background of the hex has been placed there already; yellow
+tiles may not be laid there, but the yellow hexes may be
+upgraded.
+The supplied quantity of track is intended to be sufficient for most games; if it runs out a substitute should be
+used.
+
+6.3.1 Laying Yellow Track
+When a yellow tile is laid, it must be placed on and
+aligned with one of the pale green hexes on the map.
+While there is no track in the Company’s home hex, the
+Company may lay any suitable city tile there. Otherwise,
+the track on the tile must form part of a route of the
+Company.
+Track laid may not run off the hex grid, into the blank
+side of a red or gray hex, or into impassible water
+(denoted by a thick blue line).
+If the hex is labeled with a sum of money, representing
+difficult terrain, the Company must immediately pay that
+sum to the Bank unless that cost is defrayed by a Private
+Company. If the map hex is marked with a large open
+circle, representing a large city, then so must the tile.
+If the map hex does not contain an open city circle, then
+plain track (i.e. track without a station) must be used.
+Version 1.0
+
+When upgrading normal cities to brown, players must
+use tiles with as many exits as will fit.
+Tiles with a Coal Mine may not be upgraded.
+
+6.4 Place Station Marker
+A Company may place an additional station marker, if it
+has one available, in any open city circle to which it has
+a legal route on a hex in which it does not already have a
+station marker. Placing the station marker is free; each
+Company pays for station markers at the time they are
+acquired. A station marker may not be placed in Toronto.
+
+6.5 Run Trains
+A Company that owns one or more trains now operates
+them and calculates the resulting earnings. A Company
+must calculate the maximum possible earnings (not necessarily the maximum possible dividend for any
+particular train if more than one train is owned).
+Earnings are calculated as follows:
+Each train must operate on a legal train route, which
+is a route where both ends terminate at a City or OffMap Location. A train's route may not start or end at
+a Coal Mine.
+The maximum number of Cities and Off-Map Locations that may be included in the route is the train
+number. Coal mines do not count against the train
+number.
+All Cities, Coal Mines, and Off-Map Locations
+included in the route count for revenue.
+Off-Map Locations must be at the ends of a train’s
+route. A train may begin and end its route at two dif-
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 10
+
+ferent Off-Map Locations, provided the route is otherwise legal.
+
+Here are the payments to the company treasury and
+shareholders under each possible scenario:
+
+Trains may not use track segments used by any of
+the Company’s other trains in the same operating
+turn. Trains may, however, visit Cities or Off-Map
+Locations visited by other trains.
+
+2-Share
+5-Share
+10-Share
+Company
+Company
+Company
+Treas. Owner Treas. Share Treas. Share
+Full
+$0
+$190
+$0
+$38
+$0
+$19
+Half
+$95
+$95
+$95
+$19
+$90 $10
+Withhold $190
+$0
+$190
+$0
+$190 $0
+
+The route value is equal to the sum of the values of
+all Cities, Coal Mines, and Off-Map Locations
+included in the route. The Company earnings are
+equal to the sum of the value of all the Company’s
+train routes.
+
+6.6 Pay / Half Pay / Withhold Dividend
+Companies may pay full, pay half, or withhold dividends. The portion of the dividend paid out is divided
+among shareholders. This is paid from the bank to the
+player when a player owns shares or to the company for
+shares in the company treasury; dividends for shares in
+the open market are retained by the bank.
+If the total dividend paid to stock holders is greater than
+or equal to the stock price, the share moves one space to
+the right. The share moves two spaces to the right if the
+total dividend paid to stock holders is greater than or
+equal to double the stock price. The gray acquisition area
+is considered $40 for calculating stock movement when
+paying a dividend. Paying a dividend of $40 to $75 when
+in the gray acquisition area will move the stock marker
+one space to the right. Paying a dividend of $80 or
+greater when in the gray acquisition area will move the
+stock marker two spaces to the right. If the total dividend
+paid to stock holders is zero, the share moves one space
+to the left. If the total dividend is above zero, but below
+the stock price, the share price does not change.
+When moving the share price, it may never move right of
+the $600 stock value space, or left of the left most gray
+acquisition space.
+Players that have sold short a company that declares a
+dividend must match the dividend payment paid to shareholders on a per share basis by paying that amount to the
+bank. If a player is unable to make this payment with
+cash on hand, follow the “Cash Crisis” instructions in
+section [7.4].
+When a 10-share company pays a half dividend, it
+rounds the half paid to shareholders up to the nearest $10
+and the half retained down to the nearest $10.
+The following table provides an example for a company
+that earned $190 running trains. 2-Share companies only
+have a single shareholder with the President’s certificate.
+
+Version 1.0
+
+6.7 Buy Trains
+If a company is below the current train limit, it may buy
+one or more trains, from the Bank or from another Public
+Company with the consent of its President. In a single
+turn, it may buy several trains, as long as it has room and
+the money, but any phase changes caused by the purchase of one train take effect before the next is bought.
+New trains are purchased from the Bank in the order
+they appear at the top of the train stack. Trains in the
+Open Market may also be purchased from the Bank at
+face value.
+To purchase a train from the Bank, the company must
+pay the purchase price of the train it wishes to buy to the
+Bank from its Treasury. To purchase a train from another
+Public Company not in liquidation, it must pay the other
+company a mutually agreed price, which may be as little
+as $1. Trains may not be purchased from companies in
+liquidation.
+If a phase change includes a reduction in the Train Limit,
+all Public Companies, including the one operating, must
+immediately discard any trains in excess of the Train
+Limit to the Open Market.
+Public Companies are never required to purchase a train,
+and thus, unlike many other 18xx games, the president
+may not contribute cash to buy one. However, if a company ends its operating turn without a train, it will be
+liquidated.
+
+6.8 Pay Loan Interest
+After buying trains, interest is paid on all loans. For each
+loan the amount due is marked in the “interest” column
+of the Bank of New York. The company must make the
+payment if possible, even if this means taking additional
+loans. Fees must be paid on any additional loans taken to
+pay the fees on existing loans. If the company has taken
+the maximum number of loans allowed and still is unable
+make the payment, its stock marker is placed in the red
+liquidation space. The president takes the cash from the
+company charter and must now make the loan interest
+payment with personal funds. If the player is unable to
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 11
+make this payment with cash on hand, follow the “Cash
+Crisis” instructions in section [7.4]. After paying interest, the company may not take loans until it has
+completed the “repay loans” step.
+
+6.9 Repay Loans
+The company may now choose to repay any number of
+loans. When a company repays a loan, return the loan
+marker from the company onto the lowest row that has
+less than 5 loan markers on it and pay $100 from the
+company to the bank. The stock price is moved one
+space to the right as each loan paid off unless the stock is
+already on the $600 space, in which case it does not
+move. The company may now take loans following the
+instructions in section [1.2.5]. After taking the desired
+loans, if any, the company’s operating turn is over.
+
+6.10 Check for Liquidation
+If a company does not own a train at the end of its operating turn, place its stock marker in the liquidation space.
+
+6.11 End of the Operating Round
+Export the next available train by removing it from the
+game. This may cause a phase change.
+After a 2-train is exported at the end of the first Operating Round, remove all unsold 2-trains from the game.
+2+-trains now become available.
+
+7 Merger and Acquisition Rounds
+The following activity takes place in the Merger and
+Acquisition Round in order:
+Convert or merge companies in white section of the
+stock market, in operating order
+Liquidate companies in the red liquidation area, in
+reverse order they were placed in liquidation.
+Acquire companies in the gray acquisition area, in
+reverse operating order.
+Offer for sale companies in the white section of the
+stock market, in reverse operating order.
+Companies in the red liquidation or gray acquisition
+areas may not perform any action during this phase.
+They may not convert, merge, or bid on other companies.
+If a company moves into the gray acquisition area of the
+stock market due to loans taken during an acquisition or
+conversion, the company is not put up for acquisition
+during this M&A round, and may not participate in further activity during this M&A round.
+
+Version 1.0
+
+If a company is above its train limit at any time, it must
+put excess trains of its choice in the open market.
+If a company ends up with more than one station marker
+on a tile, it must remove one of the station markers and
+place it back on its charter. This station marker may be
+placed during a future operating round.
+
+7.1 Converting and Merging
+In operating order based on stock values at the start of
+the M&A round, companies declare and execute conversions and mergers. A 2-share company may convert to a
+5-share company or merge with another 2-share company to form a 5-share company, and a 5-share company
+may convert to a 10-share company or merge with another 5-share company to form a 10-share company. If a
+company does not declare a conversion or merger, it may
+still participate in a merger with another company that
+comes after it in the operating order.
+Only companies in the white area of the stock market
+may convert or take part in a merger. The presidents of
+both companies in a merger must agree to the merger.
+Companies are not required to be connected to merge.
+Companies may only participate in a single conversion
+or merger during the M&A round. Companies may not
+merge in the same M&A round in which either of the
+companies has merged or converted. A 2-share company
+may not convert to a 5-share company and then also convert to a 10-share company in the same M&A round.
+After converting or merging the President will have an
+opportunity to buy shares in the newly formed company.
+All other players will have an opportunity to buy one
+share or sell shares they own in the newly formed company.
+
+7.1.1 Conversion
+To convert, place the extra shares on the charter and cover the 2-share circle with a 5-share marker or flip the 5share marker to the other side. Conduct the post conversion/merger purchase and sales process described in
+section [7.1.4]. The company may now take loans following the instructions in section [1.2.5]. The company
+must now purchase additional station markers. When a
+2-share company converts to a 5-share it must buy one
+station marker for $50 provided the company currently
+has fewer than eight station markers. When a 5-share
+company converts to a 10-share company, it must buy
+two station markers for $100 provided the company has
+six or fewer station markers. If it has exactly seven station markers, it must buy one station marker for $50. If
+the company is unable to purchase the station markers,
+its stock marker is placed in the red liquidation area.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 12
+
+7.1.2 2-Share Merger
+Two 2-share companies may merge into a 5-share company by exchanging stock on a 2 for 1 basis. Choose one
+company to survive, the other will disappear. Put the
+contents of the company charters onto the surviving
+company’s charter. Convert station markers to the new
+company as described in section [7.3]. Place three single
+shares on the company’s charter, and cover the 2-share
+circle with a 5-share marker. The new stock value is the
+sum of the stock values of the two 2-share companies
+rounded down to the nearest market value. Place the
+company’s stock marker so that it operates after other
+companies with the same stock value. If the two companies had the same president, that player takes the
+president’s certificate of the merged company. If the two
+companies had different presidents, the president of the
+2-share company that initiated the merger must purchase
+one more share to get the president’s certificate; the other president receives a single share in the company.
+Conduct the post conversion/merger purchase and sales
+process described in section [7.1.4]. The company may
+now take loans following the instructions in section
+[1.2.5].
+
+7.1.3 5-Share Merger
+Two 5-share companies may merge to become a 10-share
+company by exchanging stock on a 1 for 1 basis. Unlike
+conversions or 2-share mergers, no new shares are created from the merger. Choose one company to survive, the
+other will disappear. Put the contents of both company
+charters onto the surviving company’s charter, and flip
+the 5-share marker over to the 10-share side. Convert station markers to the new company as described in section
+[7.3]. The new stock value is the average of the two 5share company’s stock values, rounded down to the next
+stock value. Place the company’s stock marker so that it
+operates after other companies with the same stock value. Replace shares and short shares of the disappearing
+company with shares of the surviving company. If the
+two companies had different presidents, then the President with the most shares after the merger is the
+president of the merged company. If there is a tie, the
+President of the company that initiated the merger is the
+President of the merged company. Conduct the post conversion/merger purchase and sales process described in
+section [7.1.4]. The company may now take loans following the instructions in section [1.2.5].
+After two 5-share companies merge, it is possible that
+more than five short shares exist in the surviving company. In this case, shares and short shares in the old
+company are used as short shares in the new company
+until there are five or fewer short shares in the new comVersion 1.0
+
+pany held by players. Place the old charter under the
+surviving company’s charter as a reminder that the old
+shares are being used as shares in the surviving company. If a short share and a regular share of a company are
+ever in the open short interest section of the stock market
+and there are more than five short shares in play, the pair
+are removed from the game (exchange as required to
+keep only the surviving company's shares).
+
+7.1.4 Post Conversion/Merger Process
+This process takes place as part of a conversion or merger. First, the President may purchase any number of
+shares from the company treasury (not from the Open
+Market) subject to the certificate and company share
+ownership limits in section [4.1]. Then each other player,
+in clockwise order starting on the left of the President,
+gets one opportunity to buy or sell shares in the company, or to pass. To buy, a player purchases one share of
+stock from the company treasury only, if available, and
+subject to the certificate and share ownership limits in
+section [4.1]. To sell, a player sells any number of shares
+of currently owned stock in this new company. Short
+sales are not allowed during this process. A new player
+may become president during this process; if this happens, section [5.4.1] applies.
+
+7.2 Company Sales
+Companies are only sold to other companies, never
+directly to players. A company sale gives the purchasing
+company the trains, station markers and private companies of the sold company. In acquisitions and friendly
+sales, the company treasury and loans are also acquired
+by the purchasing company. The sold company is then
+returned to the storage area and may be restarted as a
+new company later in the game. There are three types of
+company sales: Liquidations, Hostile Acquisitions, and
+Friendly Sales. While the process for executing a sale is
+similar, the reasons for having the sale differ greatly.
+
+7.2.1 Liquidations
+Liquidations are caused when a company is no longer a
+viable railroad business. This can be due to missing an
+interest payment or not owning a train at the end of an
+operating turn. In both cases, the company has shown an
+inability to operate in a profitable manner and its stock
+marker is in the red liquidation section of the stock market. The company has been closed and its assets,
+excluding cash and loans, will be sold off to the highest
+bidder. After the sale, any surplus cash after paying off
+loans is divided evenly among the shareholders, while
+any deficit must be paid by the President of the liquidated company. Because the bank makes the initial offer of
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 13
+$0 for the assets, there is always a sale, and the company
+always ceases to exist.
+
+7.2.2 Acquisitions
+Acquisitions are made when a company is in a weak
+financial position and has let its stock value drop too
+low. The company’s financial choices become limited
+and the stock is illiquid and can’t be bought or sold. This
+is indicated by the company’s stock market marker falling into the gray acquisition section of the stock market.
+In this case a financially stronger company may prey on
+the weaker company by making an offer to purchase the
+company for as little as $10. All company holdings are
+sold, including cash and loans. The acquiring company
+must be able to afford the sales price and must be able to
+take on and/or redeem all loans owned by the acquired
+company, although it may use the cash from the acquired
+company in doing so. If no offers are made for a company in acquisition, the company continues to operate
+normally.
+
+7.2.3 Friendly Sales
+Friendly sales are offered by the President of the company when he believes he can maximize the value of a
+company by selling it. The company must have a stock
+value that is not in the red liquidation or gray acquisition
+areas of the stock market. The president will announce
+the company is being offered for sale. All company holdings are sold, including cash and loans. The minimum
+purchase price is the market value of the company,
+which is computed by taking the share price on the stock
+market and multiplying it by the number of shares available, either 2, 5, or 10. After the sale, shares of stock in
+the company’s treasury are sold to the open market at the
+current market value. The cash infusion from selling
+stock in the company’s treasury may significantly boost
+the amount of cash in the company being acquired, and
+can be a significant motivation for making the purchase.
+As with acquisitions, the purchasing company must be
+able to afford the sales price and take on or redeem all
+loans owned by the sold company. If no offers are made
+to purchase the company, it continues to operate normally and no shares are sold to the open market. Note that if
+any offer is made, the company will be sold – the President cannot change his mind to sell it after offering it for
+sale.
+
+7.2.4 Sales Process
+In reverse operating order based on stock values at the
+start of the M&A round, companies with their stock
+marker in the red liquidation space are liquidated, companies with their stock marker in the gray acquisition
+Version 1.0
+
+area may be acquired, and other companies may be
+offered for sale. Companies in liquidation or acquisition
+may not make purchases during the M&A round. A company whose stock value drops into the gray acquisition
+section of the stock market as a result of a purchase is
+not offered for acquisition sale and may not be offered
+for friendly sale this M&A round. The following
+describes how to perform these actions:
+1) Companies in liquidation are always offered for
+sale and will always be sold because the bank will
+make an initial bid of $0. Companies in acquisition
+are always offered for sale, but will only be sold if
+another company makes a bid. Other companies
+are offered for sale only if permission is granted by
+the president of the company, and will only be sold
+if another company makes a bid.
+2) Prior to the auction for companies in liquidation,
+the president removes the loans and cash from the
+company and sets them aside.
+3) Minimum bid: The initial bid for companies in
+liquidation is made by the bank for $0. The
+minimum bid for companies in acquisition is $10.
+The minimum bid for friendly sales is the market
+value of the company, which is computed by taking
+the stock market price and multiplying it by the
+number of shares issued by the company, either 2,
+5, or 10. Note that since the winning company
+collects remaining cash after selling any treasury
+shares before paying shareholders, the acquired
+company's assets may be used to pay for the bid.
+4) Auction: Bidding starts with the player to the left
+of the president of the company being offered for
+sale. Going around the table starting with the
+player to the left of the president of the company
+being sold, presidents may bid on behalf of one of
+their companies or pass; the bid may be any
+multiple of $10 that is at least the minimum bid
+and above the previous bid. The president of the
+company being sold is additionally limited to
+bidding no more than $10 above the previous bid
+when bidding on behalf of his other companies. To
+be eligible to buy the company that is for sale, the
+purchasing company must be able to pay the
+purchase price, allowing for all cash and loans that
+may be acquired and any loans that the company
+takes out to fund the purchase, as explained in
+steps 6 and 7 below. Companies in acquisition or
+liquidation are not eligible to buy other companies.
+The president placing the bid must own at least one
+eligible company. He is not required to identify
+which of his companies is making the bid. Once a
+player passes, he may not bid any further in the
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 14
+
+same auction. When one player is left in the
+bidding, that player’s company has won the
+auction. The President that won the auction must
+now identify which of his eligible companies will
+make the purchase.
+5) If there were no bids, a company not in liquidation
+continues to operate as normal. If the high bid was
+the $0 initial bid by the bank for a company in
+liquidation, all the company’s station markers are
+removed from the charter and the board, and its
+private companies and trains are removed from the
+game.
+6) Treasury shares in the company being sold are
+placed in the Open Market. If the company was in
+liquidation or acquisition, it receives no
+compensation. Companies priced in the green zone
+of the stock market are compensated for each share
+transferred at the current market value. The
+company that won the auction now takes all trains,
+station markers, private companies, cash and loans
+from the charter of the acquired company
+(excepting any cash and loans set aside in step 2).
+Trains in excess of the limit must be discarded to
+the open market. Convert station markers to the
+new company as described in section [7.3].
+7) The company that won the auction must now pay
+the winning bid. The winning company may now
+take loans following the instructions in section
+[1.2.5], for example to generate the funds required
+to make the purchase. For purchases of liquidated
+companies, the payment is added to the cash and
+loans set aside by the president of the company that
+was just bought. For other purchases, the price is
+paid to the bank. The winning company may now
+optionally pay off any loans acquired from the
+target company. For each loan acquired from the
+target company, but not paid off, the stock price is
+moved to the left one space, up to the left most
+gray acquisition space on the stock market.
+8) If the company sold was in liquidation, the
+president of the liquidated company now settles the
+company’s debts from the combination of the cash
+and loans set aside in step 2 and the payment that
+was added in step 7. If there is not enough cash to
+pay off the loans, the president must make up the
+difference with personal funds. If the president
+doesn’t have enough cash, follow the “Cash Crisis”
+instructions in section [7.4]. After paying off loans,
+any money left over is paid to the bank. This
+amount is used when settling with shareholders in
+step 9.
+
+Version 1.0
+
+9) Shareholders and short shareholders settle on a per
+share basis. The per share payment is computed by
+taking the purchase price (or, for liquidated
+companies, the surplus value from step 8) and
+dividing it by the number of shares issued by the
+company, either 2, 5, or 10, and rounding down.
+Players owning shares in the company exchange
+each share with the bank for the per share payment
+amount. Players with short shares in the company
+pay the per-share payment to the bank for each
+short share owned and then return the short share
+to the bank. If a short share holder does not have
+enough cash to make this payment, follow the
+“Cash Crisis” instructions in section [7.4]. If a
+liquidated company has no surplus from step 8,
+then all shares and short shares are simply returned
+to the bank.
+10) The company charter, share certificates, short share
+certificates, stock, revenue, and station markers
+from the sold company are now returned to the
+storage area and may be used again.
+
+7.3 Acquired Station Markers
+Companies may acquire additional station markers
+through mergers and acquisitions. Merge the newly
+acquired station markers into the surviving company by
+using the following instructions:
+If there are eight or fewer station markers between the
+two companies:
+Replace station markers from the disappearing company
+with unpurchased station markers from the surviving
+company using station markers in the storage area. If
+there are 2 station markers on the same hex the surviving
+company must remove one and place it on its charter.
+If there are more than eight station markers between the
+two companies:
+The president starts by selecting one station marker from
+either company per hex to keep until eight station markers are chosen, or there are no more station markers on
+the board to select. Take all eight of the surviving company's station markers and place one on the board in
+each of the selected locations. Any station markers
+remaining from the eight that the company has available
+are placed on the surviving company's charter.
+
+7.4 Cash Crisis
+A cash crisis occurs if a player does not have enough
+cash on hand to cover a required payment. This may
+come about in the following situations:
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 15
+One of the player’s companies is unable to pay its
+loan interest and the player has insufficient cash to
+make up the shortfall.
+One of the player’s companies has been liquidated
+and the player is unable to pay off its remaining
+loans with cash on hand.
+The player is required to pay the dividend for a short
+share and has insufficient cash on hand.
+The player has insufficient cash to settle a short
+share following a company sale.
+A player in cash crisis must sell one share of stock at a
+time to the open market, subject to the limitations in
+[5.2], until he has enough cash to make the payment.
+Shares may not be sold that cause a president’s certificate from any company to change hands. If the player
+has sold all the shares possible, and still can’t make payment, he is bankrupt and removed from the game. The
+game continues without the player. The certificate limit
+is increased to the number allowed based on the current
+number of players remaining in the game. Use the following steps to liquidate the player’s holdings and
+remove him from the game.
+Place all the player’s stock shares, short shares, and private companies in the open market. If the president’s
+certificate for any company is now in the open market,
+place that company’s stock marker in the liquidation
+space. If the cash crisis occurred during an operating
+round, it is possible that this company will not operate in
+this round. If the cash crisis occurred as a result of the
+player being unable to pay loan interest on one of his
+companies, all the player’s cash (including that raised by
+the stock sales described above) is placed on the company’s charter. Otherwise, all the player’s money is
+returned to the bank. If the cash crisis occurred as a
+result of the player being unable to redeem the loans in a
+liquidated company, that company’s remaining loans are
+returned to the Bank of New York.
+When liquidating a company that has no president, the
+sale is managed by the banker and any shortfall is made
+good by the bank (i.e. if the company has insufficient
+funds to redeem its loans, they are simply returned to the
+Bank of New York). The auction for the liquidated company starts with the player who was to the left of the
+bankrupt player (or nearest to his left, if other players
+have gone bankrupt as well).
+At any time, if there is a share and a matching short
+share in the open market, they are removed from the
+open market and placed in the NYSE Open Short Interest
+section. At the start of every stock round, the bank closes
+
+Version 1.0
+
+any short positions in the open market by purchasing
+stock from the company treasury, if there is any available. The bank will continue to do this until all short
+shares are cleared from the open market.
+
+7.5 End of Merger Round
+Advance the current round marker on its roundel.
+
+8 End of the Game
+The game end is normally signaled by the purchase or
+export of the first 8-train. The game continues for three
+more operating rounds. If this purchase (or export) is
+during the first operating round of a set, then complete
+this set of operating rounds, play a stock round, then
+complete a final set of two operating rounds. If this purchase (or export) is during the second operating round of
+a set, then complete this operating round, play a stock
+round, then complete a final set of three operating
+rounds. In both cases, the intervening Merger and Acquisition phases are played.
+Each player’s total wealth is the value of his stock, at
+current prices, minus the value of short shares, at current
+prices, plus his cash on hand. Company assets and private companies count for nothing. The richest player
+wins.
+If all players but one have gone bankrupt, the sole solvent player is declared the winner.
+
+9 Variants
+All players must agree to the use of any optional rules
+before the game begins.
+
+9.1 Increased Short Sales
+Up to ten shares may be shorted in a 10-share company
+instead of just five.
+Experienced players may enjoy this more brutal
+approach to short selling. This variant greatly increases
+the risk of converting or merging to a 10-share company.
+The additional short shares available increases the potential cash a short seller can receive from shorting a 10share company and increases the potential damage to the
+stock price of a 10-share company.
+Note that this variant requires additional components (or
+creative use of existing components).
+
+9.2 More Players
+Play with 8 to 12 players. Use the starting cash and certificate limit in the following table:
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 16
+Number of
+Players
+8
+9
+10
+11
+12
+
+Starting
+Cash
+$158
+$140
+$126
+$115
+$105
+
+Certificate
+Limit
+8
+7
+6
+6
+5
+
+1817 has not been tested thoroughly with more than seven players. Test games have been played with twelve
+positions, but using far less than twelve players. The
+game mechanics hold up well, and the game is playable.
+When playing with more than seven players, it is likely
+the game with end with fewer players than it started with
+due to bankruptcies.
+
+11 Appendices
+This section is not part of the official rules.
+
+11.1 Strategy Tips
+1817 is a very open game with endless possibilities and
+unique features. Taking loans and shorting stock are the
+two most unique features. This strategy guide gives several in-depth examples on how to profit from these two
+game mechanics. Reading and understanding these general guidelines and examples will help experienced 18xx
+players acclimate to the financial climate in 1817.
+
+11.1.1 General Guidelines
+1817 permits a wide range of financial shenanigans,
+but just because you can doesn’t mean you should!
+
+9.3 Short Squeeze
+If more than 100% of a company is owned by players at
+the end of a stock round, move the stock right two spaces
+instead of only one.
+This increases the danger to short sellers by providing a
+stiff penalty to short sellers that do not close out their
+short positions quick enough.
+
+9.4 Modern Trains
+When running trains in section [6.5], 7-trains earn an
+extra $10 and 8-trains earn an extra $20 per station
+marker from the owning company on their route.
+7-trains and 8-trains are often an inefficient consolation
+prize for companies that were unable to buy a 5-train or
+6-train. This variant increases their value, making them a
+better purchase. It also rewards companies with plenty of
+station markers on the board.
+
+10 Conflicts and Errata
+The official rules are this document (excluding sections
+11 and beyond) plus any officially-published errata. In
+the event of conflict between the official rules and any
+components, the rules take precedence. Published errata
+may be retrieved from:
+http://www.deepthoughtgames.com/games/1817/
+
+For clarifications or customer support, send email to:
+support@deepthoughtgames.com
+
+Don’t be afraid to abandon companies. Merging or
+growing financially weak companies in an attempt to
+save them often just makes a larger financially weak
+company and attracts short sellers. It is not unusual
+for 25% of all 2-share companies in a game to be
+voluntarily abandoned into liquidation.
+Pay off debt. Paying full dividends and then making
+interest payments by taking more loans is dangerous.
+Don’t get caught with a trainless company full of
+loans!
+Half paying dividends should be considered normal.
+A half pay increases the stock price as well as
+putting money in the company to justify the higher
+stock value. Full payouts will tend to over value a
+company and attract short sellers. Withholding will
+tend to undervalue a company and reduce your personal earnings.
+It is generally advisable to run as many trains as possible. While interest rates are below $20 per loan,
+you should take loans and run more trains. When
+interest rates hit $45 per loan, tragic consequences
+are sure to follow.
+Different company sizes provide a tradeoff between
+dividend payout and stock value. A 2-share company
+with a permanent train will pay you a very high dividend through the end of the game. However, owning
+six shares in a 10-share company will provide
+greater stock appreciation.
+Players frequently will not get to their certificate
+limit until the last stock round of the game. With
+good holdings, you don’t need to be at your certificate limit to win.
+
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 17
+11.1.2 Private Companies
+Private companies are generally worth about 50% to
+75% of their face value. Experienced players may find
+circumstances where the value falls out of this range. For
+example, the Mountain Engineers is likely worth at least
+$30, and perhaps even the face value of $40, to a player
+that already purchased the Major Coal Mine.
+Purchase private companies that will provide a synergy
+for your starting companies. For example, if you purchased the Union Bridge Company, consider starting
+companies in Louisville and Cincinnati. Both companies
+can run a pair of 2-trains between Louisville and Cincinnati.
+An example of a fairly complex synergy that may not be
+possible in games with more than four players is the
+Small Coal Mine, Major Coal Mine, Ohio Bridge Company, Mountain Engineers, and Pittsburgh Steel Mill. In
+this case, start a company in Pittsburgh with the Pittsburgh Steel Mill and the Small Coal Mine and another in
+Charleston with the remaining private companies. Build
+coal mines from Atlanta to Charleston to Pittsburgh and
+then regular track from Pittsburgh to Cleveland and run
+two 2-trains in each company. This can be an extraordinarily profitable route, but is difficult to execute.
+A slightly more complex method to value private companies is to estimate the earnings from the private company
+before 3-trains come out. Once green tiles are available,
+other players will open new companies that are co-located or adjacent to your starting companies and leech off
+the route you worked so hard to develop. This reduces
+the competitive advantage you enjoyed while having
+exclusive use of the private company resources. For
+example, say you bought the Union Bridge Company and
+opened two 2-share companies in Louisville and Cincinnati with each company running two 2-trains between
+the two cities. Once both cities are upgraded to green,
+another player can start a 2-share company in Louisville
+and run a 3-train from St. Louis to Louisville to Cincinnati. Your companies still enjoy the nice route, but other
+players are starting to enjoy it as well. This reduces the
+competitive advantage previously provided by owning
+the private companies.
+
+11.1.3 Initial Companies and Loans
+The initial 2-share companies should almost always start
+with at least $10 in cash. This provides the cash to make
+interest payments on one or two loans in the first operating round. This extra cash may be the difference between
+running a single 2-train and two 2-trains.
+
+Version 1.0
+
+Starting a company at a $55 stock price allows it to move
+backwards three spaces the first operating round without
+falling into the acquisition section of the stock market. A
+starting company will move back one space on the stock
+market for not paying a dividend and up to two more
+spaces for taking loans. Starting with a $50 stock value
+is sufficient for companies that plan on taking zero or
+one loan in the first operating round.
+The game starts with a very low interest rate of $5 per
+loan and an unlimited number of highly profitable 2trains. The combination of low interest rates and highly
+profitable trains means it is generally good for a company to buy as many 2-trains as it can run. Here is an
+example of a 2-share company starting in Indianapolis
+with $120 in cash at a $60 stock price. The company will
+run until its 2-trains rust, and then liquidate.
+In OR1a the company places a yellow city tile in Indianapolis with one exit heading North West towards
+Chicago. In OR1b, the company places a straight track
+tile to connect Indianapolis to the South East side of
+Chicago and pays a $50 dividend. Assuming green tiles
+are available in the second set of operating rounds, the
+company will upgrade Indianapolis to a green $30 city
+and pay out $80 for OR2a and OR2b. Based on a likely
+lifespan of three runs, the 2-trains will probably not run
+again. The total return from this company is $210 in dividends plus the liquidation value of the station marker
+and $20 left in the treasury. Not bad for a $120 investment, but we can do better.
+Now let’s examine how leverage can improve the financial results. In OR1a, the company pays $20 to lay an
+extra tile so that the yellow Indianapolis city tile has
+exits North West and North East. The second tile connects the North West side of Indianapolis to the South
+East side of Chicago. The company takes two loans and
+buys two 2-trains, then pays $10 in interest. The company finishes OR1a with two loans, two 2-trains, and $90
+in cash at a stock price of $45. In OR1b, the company
+pays $20 to lay two curved tracks to connect North East
+Indianapolis to the East side of Chicago. The company
+withholds the $100 dividend and buys a 2+-train, then
+pays the interest on the two loans out of pocket. For this
+example, we’ll assume the interest rate was $15 in
+OR1b. At the end of OR1b, the company has two 2trains, one 2+-train, two loans, and $40 in cash with a
+$40 stock price. We’ll again assume green tiles are available in the second set of operating rounds. The company
+upgrades Indianapolis to a green $30 city and pay $20 to
+lay an extra straight yellow track connecting Indianapolis
+to Saint Louis. This time, the company withholds $220
+in dividends. Along with its remaining $20 in cash, this
+is enough to pay interest on the two loans (assuming $20
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 18
+
+interest rate in OR2a) and pay off both loans. At the end
+of OR2a the company now has two 2-trains, one 2+train, no loans, no cash, and a stock price of $45. In
+OR2b the company pays out the full $220 dividend.
+Again, assuming this is the last run of the 2-trains, the
+2+-train will still have one last run for $80. In this example, the president received $300 using leverage versus
+the $230 received in the previous example. In addition,
+the station marker may liquidate for a higher price
+because it has access to more developed routes.
+
+11.1.4 Short Selling
+Short selling is very risky, and can lead to both tremendous profits as well as personal bankruptcy. Two
+examples of short selling are provided below; one highly
+profitable, the other highly disastrous. It depends on your
+perspective, as the short seller or the president of the
+company whose stock is being shorted, which is which.
+Evaluating a short target can be tricky, but a good starting point is to compare the company’s assets (known as
+book value) to the company’s market value (stock price
+multiplied by the number of shares issued, either 2, 5, or
+10). Here is an example. There is a 5-share company
+with a 3-train, 4-train, 3 loans, no cash, two station
+markers, and no treasury stock. The book value is the
+sum of all assets minus loans: $250 for the 3-train, $400
+for the 4-train, $100 for two station markers (estimated
+at $50 each), and -$300 for the three loans. This adds up
+to $550 ($250 + $400 + $100 - $300). Divide $550 by
+the 5-shares, and you get $110/share as the book value of
+the company. If this company’s stock price is well above
+$110, it may be a good short target. If the company’s
+stock value at or below $110, it is probably not a good
+short target.
+Here is an example of a highly profitable short sale. For
+this example, we’ll say your opponent read the first half
+of this strategy guide, stopping just before the part on
+short selling. He purchased the Union Bridge company
+and opened two 2-share companies in Louisville and
+Cincinnati, each running two 2-trains for great profit. At
+the end of the second set of operating rounds he decides
+to merge the two companies. He fatefully chooses the
+Rutland railroad to survive the merger and buys one
+share of stock in the newly merged 5-share company.
+The Rutland now has four 2-trains, $120 in cash, two
+station markers (Louisville and Cincinnati), two shares
+of treasury stock, and a stock market price of $120/share.
+There are three 3-trains remaining for sale before the 4trains become available. The president has made two
+mistakes. The first is to get train locked with all the same
+type of train. The second is underestimating your devious short selling plans.
+Version 1.0
+
+You enter the stock round with $300 in cash. The president of the Rutland thinks his four 2-trains will get one
+more run. You know better. You short five shares of the
+Rutland, collecting $600. You use the $600 along with
+your $300 to open two 5-share companies at $150 stock
+price, buying three shares of each. Both companies have
+$400 after purchasing their second station marker and
+are guaranteed to operate before the Rutland due to their
+higher stock price. Assuming no action on the part of the
+naïve president of the Rutland, the five shares in the
+open market at the end of the stock round drive down the
+Rutland’s stock price to $70 from $120. You operate the
+first of your new companies and buy two 3-trains by taking two loans. Your second company buys the last 3train and the first 4-train by taking five loans. The president of the Rutland is panic stricken as his four 2-trains
+rust before running. When the Rutland finally runs, it
+doesn’t pay a dividend because it doesn’t have a train,
+then takes four loans to buy a 4-train. Its new stock price
+is now $45. In the second operating round, the Rutland
+half pays his earnings of $160, giving the Rutland a single bump on the stock market to $50. You pay $80 to
+cover the dividend for your short shares. The Rutland
+pays off one loan for another bump to $55. Your new
+companies ran before the Rutland in the second operating round, paying you enough money to easily cover the
+$80 payment on your short shares. In the stock round,
+you repurchase the five shares of Rutland at $55 each.
+You receive a total of $600 from short selling. Closing
+the position cost you $80 to cover the dividend and $275
+to buy back the stock (5 x $55). Not only did you profit
+$245 ($600 - $80 - $275) from the short sale, you also
+funded two highly profitable 5-share companies!
+This next example is of a short sale going horribly wrong
+for the short seller. Everything is identical to the previous example, except that each of the 2-share companies
+bought a 3-train prior to merging. So this time, the Rutland is a 5-share company with two 3-trains, two 2trains, two station markers (Louisville and Cincinnati),
+$120 in cash, two shares of treasury stock, and a $120
+stock price. You mistakenly figure the company isn’t
+much better than last time, and short 5 shares, netting
+you $600. Just like last time, you put the money to good
+use opening two new companies.
+Prior to the end of the stock round, the Rutland takes 4
+loans, dropping the stock price to $80 and uses the $400
+from the loans to purchase the five shares from the open
+market. Your thinking “Hey, I’ve already made
+$40/share in profit!” Unfortunately, because you already
+sold Rutland stock, you can’t immediately buy it back;
+you must wait until the next stock round.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 19
+In the first operating round, you dutifully rust the 2trains, leaving the Rutland with two 3-trains, seven
+shares of treasury stock, $120 in cash, four loans, and
+two station markers (Louisville and Cincinnati). However, this time, the Rutland runs the two 3-trains for $240
+and pays out in full. You pay $240 to the bank for your
+five short shares. The Rutland collects $336 ($48 per
+share x 7 shares). The Rutland uses this to pay interest
+on the four loans and pays off two loans. The payout
+provides two bumps on the stock market and paying off
+two loans gives it another two bumps. The Rutland’s
+stock price is back to $120.
+In the second operating round, the Rutland again earns
+$240 and pays out in full. You pay $240 to the bank for
+your five short shares. The Rutland again collects $336,
+pays interest, and pays off two loans. Again, the Rutland
+bumps four spaces on the stock market, and is now
+priced at $180/share. You collected $600 from the short
+sale, but had to pay $480 in dividends and are looking at
+a $900 repurchase to close the short position. This looks
+like a net loss of $780, but at least you got to borrow the
+$600 to open your new companies, and they are paying
+good dividends.
+Then it gets worse, much worse. The president of the
+Rutland offers the company for friendly sale at
+$180/share, or $900 for the company. The first player to
+his left makes the initial minimum bid of $900. This triggers the sale of Rutland’s treasury stock to the open
+market for $1,260 (seven shares at $180/share). The Rutland now has two 3-trains, two station markers
+(Louisville and Cincinnati), and $1,260 in cash! Other
+players salivate at the opportunity and bid the company
+up until it sells for $1,500. The winning company takes
+the Rutland, including its $1,260 in cash, and pays the
+purchase price of $1,500 to the bank. The president of
+the Rutland smiles as he collects $900 for his three
+shares that were worth only $360 (three times $120 starting price in this example) not long ago. You are now
+required to make an immediate $1,500 payment to close
+your short positions. You read section 6.4 titled “Cash
+Crisis” and start liquidating your holdings. Unfortunately, it’s not enough and you are bankrupt. Your new
+companies are placed in liquidation for others to feast
+upon during the next M&A round. You have become
+another casualty in the bloody game of high finance.
+Let’s take a look at how the book value approach would
+have helped evaluate whether or not to short the Rutland.
+In the first example, the Rutland’s assets were four 2share trains ($400), two station markers ($100 when valued at $50 each), two treasury shares ($240), and $120
+in cash. This totals $860, or $172/share. Compared to
+$120/share stock price, the Rutland looks undervalued,
+Version 1.0
+
+and not a short target. However, in the first example, we
+can force a change to the book value by rusting the 2trains before they run. Let’s examine the expected future
+book value of the Rutland. At the end of the first operating round, the Rutland will have a 4-train ($400), two
+station markers ($100 when valued at $50 each), two
+treasury shares ($90), an estimated $40 in cash, and 4
+loans (-$400). This totals $230, or $46 per share. By predicting future events, we see that the Rutland is
+overvalued and a great short target.
+The book value approach would also help avoid the catastrophic short sale in the second example. Let’s just
+assume the 2-trains won’t run and omit them from the
+book value. The Rutland’s remaining assets are two 3trains ($500), two station markers ($100 when valued at
+$50 each), two treasury shares ($240) and $120 in cash.
+This totals $960, or $192 per share. Even if we assume
+the stock price will drop to $70 in response to the short
+selling, we still have a book value of $860, or $172 per
+share. The company is undervalued at a $120 stock price.
+Rather than short the Rutland, it would be better to buy a
+share and get $192 value for only $120!
+
+11.2 Design & Historical Notes
+1817 was born out of that desire for a very financially
+sophisticated game in the 18xx series. Rather than name
+the game after a 19th century year that had a significant
+railroad milestone like many other 18xx games, 1817 is
+named after the year the New York Stock and Exchange
+opened on 40 Wall Street in New York. 1817 contains
+financial mechanics not available in any other 18xx
+game. These include short selling, market based interest
+rates, corporate liquidations, and hostile takeovers.
+Players will find that the most significant portions of the
+game will be played in the Stock and M&A rounds.
+While the operation rounds are important for determining a company’s income, the financial decisions are the
+most important. Successful players in 1817 will continually monitor the financial situation of the game. Two
+critical factors in 1817 are managing loans and short
+selling.
+Railroad history is full of mergers, acquisitions, and liquidations. Perhaps the most famous liquidation was the
+Rock Island Railroad. The Rock Island was founded in
+1847 and ran profitably for over 100 years. As its glory
+years started to wane in the late 1950’s, the company ran
+into financial difficulties. It had trouble modernizing its
+trains and eventually tried to sell itself to the Union
+Pacific in 1964. The sale was never completed, and in
+1980 the company filed for bankruptcy. The company
+was able to raise sufficient funds in liquidation to fully
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 20
+
+pay all creditors. A similar scenario can occur in 1817
+when a company owns two 4-trains. It will be highly
+profitable for many operating rounds. As the 8-train
+approaches and the 4-trains near their end of life, if the
+company has not saved enough cash to purchase an 8train, it will offer itself for sale. The price might be a little too high, and so no buyer found. Once the 4-trains
+rust, the company may get a high price for its wellplaced station markers. Perhaps the price is even enough
+to fully pay off any loans with some cash left over to be
+divided among the shareholders, just like the Rock Island
+Railroad.
+There were also highly profitable railroads that chose not
+to modernize, and simply disappeared. From 1831 to
+1850 the Chesterfield Railroad was the most profitable
+railroad in the world. The Chesterfield finished building
+its first and only route in June, 1831. The 13-mile muleand-gravity powered line carried coal from the Midlothian coal mines to the James River. When steam powered
+competition arrived in 1850 the Chesterfield closed up
+and abandoned its tracks. This is simulated in 1817 when
+a 2-share company purchases a 2-train for cash and pays
+out until the 2-train is rusted. This 2-share company has
+the potential to be the most profitable company in the
+game during its brief existence. After the 2- train is rusted, the company’s station marker is sold off in
+liquidation, and the company closed down.
+In many classic 18xx games there are a fixed number and
+type of companies that exist from the start to finish of
+the game. In 1817 you have the freedom to follow history, or create your own alternate history by starting,
+closing, merging, and selling railroad companies. Many
+companies will likely start throughout the game with the
+majority of them disappearing before it’s over. The player that can most successfully navigate through this
+financial hurricane will come out the winner.
+
+11.2.1 Company Histories
+The companies of 1817 were chosen for their display of
+creative financing common at the dawn of the United
+States railroad industry when startup failures, mergers,
+hostile takeovers, and painful bankruptcies were frequent.
+Alton and Southern Railway
+The Alton and Southern Railroad was formed in 1910
+and absorbed the Denverside Connecting Railway and
+the Alton and Southern Railway in 1913. It was used to
+serve the Alcoa Bayer process bauxite-to-alumina refinery at Alorton, Illinois. In 1968 the railroad was renamed
+to the Alton and Southern Railway and sold to the Missouri Pacific Railroad. It was sold several more times,
+Version 1.0
+
+and today the Alton and Southern Railway is operated as
+a wholly owned subsidiary of the Union Pacific.
+Arcade and Attica Railroad
+The Arcade and Attica began operations in 1917 after
+three failed attempts. In 1836 the proposed railroad was
+never constructed. In 1852 the railroad foreclosed before
+completion. In 1870 the railroad went bankrupt prior to
+completion. The railroad still transports agricultural
+products and runs a popular tourist excursion.
+Belt Railway of Chicago
+The Belt Railway of Chicago commenced operation in
+1902. It remained in general operation for only one
+month, but continued to handle some small scale business until 1912 when it became necessary to tear out,
+rebuild, and enlarge when twelve railroads leased the
+Belt Railway of Chicago. Due to mergers and bankruptcies, the Belt Railway of Chicago is owned collectively
+by six different railroads today.
+Bessemer and Lake Erie Railroad
+The Pittsburgh, Bessemer and Lake Erie Railroad Company was founded in 1897 by Andrew Carnegie to haul
+iron ore and other products from the port at Conneaut,
+Ohio on the Great Lakes to Carnegie Steel Company
+plants in Pittsburgh. It was transferred to US Steel in
+1901 and finally to Transtar in 1988.
+Boston and Albany Railroad
+The Boston and Worcester Railroad was chartered in
+1831, the Western Railroad in 1833, the Castleton and
+West Stockbridge Railroad in 1834. In 1867 and 1870
+these companies merged along with the Hudson and Boston Railroad to become the Boston and Albany Railroad.
+The New York Central purchased the railroad in 1900.
+Delaware, Lackawanna and Western Railroad
+The Liggett's Gap Railroad was incorporated in 1832,
+but stayed dormant until chartered in 1849. The Delaware and Cobb's Gap Railroad was chartered 1850. In
+1852 both were consolidated into the Delaware, Lackawanna and Western Railroad. The railroad continued to
+expand until 1915. Due to financial restraints, the company was forced to merge with the Erie Railroad in 1960.
+Elgin, Joliet and Eastern Railway
+The Elgin, Joliet and Eastern Railway began operations
+in 1888 through the merger of the Joliet, Aurora &
+Northern Railway and the Elgin, Joliet & Eastern Railway. The railroad expanded by purchasing five other
+railroads. The Railroad continued to expand through
+1899 by acquiring trackage rights and smaller companies. In 1901 the Railroad was sold to US Steel.
+Grand Trunk Western Railroad
+In 1928 the Canadian National Railway created the
+Grand Trunk Western Railroad by consolidating its oper-
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 21
+ating subsidiaries in Michigan, Illinois and Indiana, formerly named Grand Trunk Western Lines and Grand
+Trunk Railway System. The Railroad continues to operate most of its original routes today.
+Housatonic Railroad
+The Housatonic Railroad, originally (mis)spelled as
+'Ousatonic Railroad', was chartered in May 1836 to build
+a line from Bridgeport, Connecticut north to the Massachusetts state line along the Housatonic River and was
+completed in 1850. In 1892 the Railroad was sold to the
+New York, New Haven and Hartford Railroad. In 1983 a
+new Housatonic Railroad was chartered.
+Morristown and Erie Railway
+The Morristown & Erie Railway was incorporated on
+August 28, 1903 as a consolidation of the Whippany
+River Railroad and the Whippany and Passaic River
+Railroad, both owned by the same people, the McEwan
+brothers. The Morristown and Erie was the only railroad
+to be debt free at the start of World War II. The railroad
+is still in operation today.
+New York, Ontario and Western Railway
+The NYO&W inherited the Oswego-New York corridor
+from the New York & Oswego Midland in 1880. The
+railroad continued to build new track through 1890. The
+NYO&W entered bankruptcy in 1937. It operated in
+bankruptcy until final abandonment on 1957.
+New York, Susquehanna and Western Railway
+Several railroads were chartered to build inland routes
+from Pennsylvania mines to New York City. In 1881 six
+of these railroads agreed to consolidate under the name
+"New York, Susquehanna & Western Railroad Company". The Erie Railroad acquired the Susquehanna in
+1898.
+Pittsburg, Shawmut and Northern Railroad
+The Pittsburg, Shawmut and Northern Railroad began in
+1899 as the merger of five small railroads in New York
+and Pennsylvania. The expense of connecting the four
+geographically disparate divisions forced the company to
+declare bankruptcy in 1905. It continued in receivership
+until 1947.
+Pittsburgh and Lake Erie Railroad
+In 1870 William McCreery and ten other people filed
+with the Pennsylvania Secretary of State to form The
+Pittsburgh and Lake Erie Railroad. The group was not
+successful at raising the required funds and in 1877
+replaced many of the directors. The Railroad began oper-
+
+Version 1.0
+
+ations on a poorly built single track line in 1879. It was
+bought out by the New York Central Railroad in 1887.
+Providence and Worcester Railroad
+The P&W was incorporated in Massachusetts as the
+Providence and Worcester Railway in 1844, and as the
+Providence and Worcester Railroad in Rhode Island. The
+two companies merged 1845 as the Providence and
+Worcester Railroad. The Railroad was bought by the
+New York, New Haven and Hartford Railroad in 1892.
+Rutland Railroad
+The Rutland & Burlington Railroad was chartered in
+1843 to build between Rutland and Burlington. It was
+renamed to the Rutland Railroad after mergers in 1867.
+Never a solid financial operation, it entered receivership
+for the first time in 1938. The Rutland continued in and
+out of receivership until it was abandoned in 1963.
+Strasburg Rail Road
+The Strasburg Railroad was incorporated by the Pennsylvania General Assembly in 1832. A horse-drawn railroad
+existed until 1851, when the rails were upgraded to
+accommodate the first steam locomotive, the 4-2-0
+William Penn. Regular passenger traffic ceased in 1901,
+and the Railroad was finally abandoned in 1957.
+Union Railroad
+The Union was created 1896 as a consolidation of various railroads serving Carnegie Steel in the Monongahela
+River valley. When Carnegie Steel merged into United
+States Steel in 1901, the Union expanded to other mills
+in Mon Valley. The Union Railroad continues to transport iron ore today.
+Warren & Trumbull Railroad
+Warren and Trumbull Railroad was formed when the
+Mahoning Valley Economic Development Corporation
+formed EDR-II to buy the ex-B&O line built by the
+Painesville and Youngstown Railroad in 1870 and abandoned by CSX in 1993.
+West Chester Railroad
+West Chester Railroad Company became one of the
+nation's earliest railroads through an act in the Pennsylvania legislature in 1831. It acquired another small
+railroad in 1858. It became part of the Pennsylvania
+Railroad system in 1881, and was known as the "Frazer
+branch". In 2009 a new West Chester Railroad was
+owned and operated by a nonprofit dedicated to historic
+preservation.
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 22
+
+12 Acknowledgments / Credits / Notices
+1817 was designed by Craig Bartell and Tim Flowers. 1817 was play tested extensively by Kansas City 18xx group
+that includes Michael Backman, Vince Badali, Steve Smith, Dale Maxfield, and Dave Aber. Steve Thomas wrote significant portions of the rules and provided feedback to improve components. John Tamplin provided significant
+feedback to improve the game mechanics and components. Dave Berry and Eric Brosius helped parts of the rules,
+providing much needed clarification. Feedback and play reports from people around the world were helpful in refining the game. Production design and physical systems are by John A. Tamplin, who designed the tiles using
+rendering algorithms and tile dictionaries from Marco Rocci.
+References:
+Brian Hollingsworth, The Illustrated Encyclopedia of North American Locomotives, Salamander Books, 1984.
+Brian Hollingsworth, The Illustrated Encyclopedia of the World's Steam Passenger Locomotives, Salamander
+Books, 1982.
+Cover image by gruban and New York Pictures (licensed under Creative Commons, BY-SA).
+http://ny-pictures.com/nyc/photo/picture/39959/flag_hangs_stock_exchange
+http://en.wikipedia.org/wiki/File:New_York_Stock_Exchange_1882.jpg
+http://en.wikipedia.org/wiki/File:Stockexchange.jpg
+http://www.loc.gov/pictures/resource/cph.3c24933/
+http://www.loc.gov/pictures/resource/gsc.5a12096/
+Trademarks:
+1829 is a trademark of Hartland Trefoil Ltd.
+Francis Tresham and Hartland Trefoil Ltd originated the 18xx Rail Tile Game System.
+Use of trademarks without acknowledgment is not intended to disparage or challenge the intellectual property claims
+made by authors or publishers.
+The above enumeration is not intended to be exhaustive. Enumeration of certain individuals or companies is not
+intended to disparage others.
+
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+1817
+
+Page 23
+
+13 Train Manifest / Phase Chart
+Train Type Train Limit Train Price
+
+#
+1
+
+Rust
+
+IPO
+
+Off-Map
+
+-
+
+2
+
+1st
+
+2
+
+4
+
+$100
+
+∞†
+
+2+
+
+4
+
+$100
+
+4
+
+-
+
+2
+
+1st
+
+3
+
+4
+
+$250
+
+12
+
+-
+
+2/5
+
+2nd
+
+4
+
+3
+
+$400
+
+8
+
+2/2+ †2
+
+5
+
+2nd
+
+5
+
+3
+
+$600
+
+5
+
+-
+
+5/10
+
+3rd
+
+6
+
+2
+
+$750
+
+4
+
+3
+
+10
+
+3rd
+
+7
+
+2
+
+$900
+
+3
+
+-
+
+10
+
+4th
+
+8
+
+2
+
+$1100
+
+∞
+
+4
+
+10
+
+4th
+
+†1 Discard all remaining 2-trains when one is exported [2]
+†2 All 2+-trains may not be bought or sold once rusted, but last through the owner's Run Trains step [6.11]
+
+14 Tile Manifest and Upgrade Table
+Note: the counts in this table are what is supplied with the game, but all tiles are to be considered unlimited
+
+Tile
+
+#
+
+Legal Upgrades
+
+Tile
+
+ap
+
+m
+7
+
+30
+
+B
+
+X00
+
+5
+
+60
+
+30
+
+14
+
+7
+
+63
+
+†1
+
+7
+
+54
+
+1
+
+80
+
+7
+
+545
+
+81
+
+7
+
+546
+
+63
+
+40
+
+611
+
+#
+
+Legal Upgrades
+
+40
+
+611
+40
+
+15
+
+Tile
+
+†1
+
+63
+
+8 No further upgrades
+
+448
+
+4 No further upgrades
+
+544
+
+5 No further upgrades
+
+545
+
+5 No further upgrades
+
+546
+
+5 No further upgrades
+
+593
+
+4
+
+611
+
+2 No further upgrades
+
+X30
+
+1 No further upgrades
+
+597
+
+4 No further upgrades
+
+40
+
+448
+
+80
+
+NY
+
+62
+
+B
+
+592
+
+6
+
+7
+40
+
+NY
+
+592
+50
+
+40
+
+60
+
+30
+
+6
+
+57
+
+B
+
+30
+
+20
+
+14
+
+20
+
+ap
+
+20
+
+9
+
+6
+
+Legal Upgrades
+40
+
+30
+
+5
+
+1
+m
+
+B
+
+8
+20
+
+ap
+
+m
+
+20
+
+50
+
+Pittsburgh
+
+#
+
+30
+
+15
+30
+
+14
+
+546
+
+30
+
+619
+30
+
+15
+
+60
+
+619
+
+82
+
+10
+
+544
+
+545
+
+80
+
+B
+
+546
+
+B
+
+597
+
+40
+
+7
+
+5
+
+80
+
+82
+
+83
+
+83
+50
+
+8
+
+20
+
+80
+
+81
+
+82
+
+83
+
+10
+
+592
+
+9
+
+20
+
+82
+30
+
+57
+†1
+
+7
+
+83
+30
+
+619
+
+15
+
+619
+
+80
+
+62
+
+40
+
+8
+1
+
+100
+
+593
+
+63
+NY
+
+NY
+
+14
+
+546
+NY
+
+40
+
+30
+
+545
+
+B
+
+4
+
+30
+
+20
+
+544
+60
+
+B
+
+†1
+611
+
+80
+
+B
+
+100
+
+X30
+
+Must use maximum number of exits (see [6.3.2])
+
+Version 1.0
+
+Copyright © 2012 by Craig Bartell and Tim Flowers
+
+5 March 2012
+
+

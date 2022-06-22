@@ -1,0 +1,2247 @@
+R ULE BOOK
+1.0	
+2.0	
+3.0	
+4.0	
+5.0	
+6.0	
+7.0	
+8.0	
+9.0	
+
+Introduction............................................................. 	2
+Game Map.............................................................. 	2
+Unit Counters.......................................................... 	4
+Victory Points & Ending the Game........................ 	6
+Setting up the Game................................................ 	7
+Pre-war Sequence................................................... 	8
+Sequence of Play..................................................... 	8
+Strategy Cards......................................................... 	9
+Land Movement...................................................... 	11
+
+10.0	 Land Combat.......................................................... 	12
+11.0	 Naval Movement & Lake Control.......................... 	15
+12.0	 Naval Combat......................................................... 	17
+13.0	 Supply..................................................................... 	18
+14.0	 Reinforcements....................................................... 	19
+15.0	 Building & Repair of Naval Units.......................... 	19
+16.0	 Winter Turns........................................................... 	20
+17.0	 Victory Levels/Instant Victory................................ 	21
+Glossary........................................................................... 	22
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+2
+
+Mr. Madison’s War Rule Book
+
+1.0 Introduction
+Mr. Madison’s War (That Incredible War of 1812) is a simulation
+game that depicts the war on the northern frontier of the United
+States and Canada. From the European perspective it was an
+off shoot of the Napoleonic Wars that were waged from 1796
+to 1815. It is a two player game with players taking the forces
+of either the United States or Great Britain.
+
+2.0 Game Map
+The playing surface depicts the provinces of Upper and Lower
+Canada where a great many of the battles of the War of 1812
+took place. The states of New York, Pennsylvania, Ohio and
+Michigan territory where US forces were mustered for the
+invasion of Canada are also depicted.
+
+2.1 Map Spaces
+The squares, here after called “spaces”, depict the various
+hamlets, towns, cities and forts that existed at the time of the
+war. They have been positioned to channel movement based
+on the historical movement of troops and generally follow well
+established routes along water shed basins.
+2.11 Forest Spaces: If the space is green this indicates
+that the area is sparsely settled and mainly forested.
+Forest spaces offer advantages to units defending them,
+but offer disadvantages to units defending or attacking against
+Indians (10.41).
+2.12 Clear Spaces: The light tan spaces represent clear
+areas and offer advantages to British Regular units in
+defense in 1812 & 1813 (10.44).
+2.13 Lakeside Towns: Some town spaces have a
+“water” symbol located in them and this indicates that
+the town is adjacent to a navigable river or lake. Lakeside towns can be the target of an Amphibious Attack detailed
+in 11.5.
+
+2.14 Montreal: Any unit attacking the city automatically incurs a –1 DRM in the first round of combat.
+This is in addition to any other combat modifier that
+may apply.
+2.15 Naval Bases: Naval Bases are located in lakeside
+towns with an “anchor” symbol. Naval Bases are important for ship construction and repair (15.0).
+2.16 Reinforcement Spaces: The spaces marked with
+an “R” are reinforcement spaces where new units are
+introduced onto the map. These are also Supply
+Sources (13.2). The British only have one reinforcement
+space—the city of Quebec. The US have four reinforcement
+spaces—Ft. MacArthur, Mansfield, Pittsburgh and Albany.
+2.17 Winter Quartering Value: Every space on the map has
+a number inside the box that indicates the number of units that
+may winter in that space without penalty (16.2). This number
+is also the Victory Point value of the space (4.13).
+2.18 Territory: All spaces on the map with a blue number are
+in United States territory and those with a red number are in
+British territory. Territories never change sides but spaces in a
+territory can be controlled by enemy forces (4.14).
+
+2.2 Paths
+2.21 Major Roads: The dark black lines on the map
+indicate major arteries of transportation, and units can
+move further and faster on them. It costs 1 Movement Point
+(MP) to move along a Major Road space.
+DESIGN NOTE: Major roads were often located adjacent
+to navigable rivers and troops utilized bateaux or other river
+transportation, especially for baggage.
+2.22 Trails: Trails depicted on the map were particularly subject to weather conditions and were slower than
+regular roads. It costs 2 MP’s to move along Trail spaces.
+DESIGN NOTE: Roads in Upper and Lower Canada were
+still primitive by modern standards. The road network does
+not always represent movement exclusively by roads.
+
+Game Abbreviations
+The following abbreviations are used in these rules:
+CRT: Combat Results Table
+DOW: Declaration of War
+DRM: Die Roll Modifier
+Ft.: Fort
+MP: Movement Point
+NBV: Naval Build Value
+OPV: Operational Point Value
+US: United States
+VP: Victory Point
+WQ: Winter Quartering
+
+“Oswego” for example, is a town located adjacent to Lake
+Ontario, and thus can be reached by naval units. Queenston is
+not a lakeside town and therefore no naval units can move there.
+
+2.23 Major Invasion Routes: These are shown with
+double sided light blue arrows. These represent difficult
+crossings at major rivers and cost 3 MPs to cross. An attacker
+crossing a Major Invasion Route and attacking the space directly on the other side incurs a –1 DRM in the first round of
+combat.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+
+3
+
+2.3 Head of Navigation
+
+2.7 Forts
+
+The head of navigation is indicated by five white diamond
+symbols located on rivers adjacent to the last town that
+naval vessels on the lake could move to. Vessels can only move
+to spaces that are indicated as lakeside towns on the same lake
+or river.
+
+2.71 Defensive Benefits: The forts depicted on the
+map increase the defense value of that space by the
+number indicated in the lower left. Forts can also
+increase the “quality” of defending units by using the
+fort’s rating (A, B, or C class) instead of the unit(s) class during combat (Exception, 2.76). A defending unit’s class is always
+increased by a fort, but is never required to lower its class
+(Exception 10.32 [case 4]). The benefits of defending in a fort
+space lasts for all combat rounds.
+
+EXAMPLE: Ogdensburg is a lakeside town that can be
+reached from Lake Ontario, but no vessel can move east of
+the town as indicated by the Head of Navigation marks.
+Note also that on the Richelieu River the towns of St-Jean
+and Isle aux Noix can be reached from Lake Champlain. The
+Niagara River connecting Lake Ontario to Lake Erie is not
+navigable at all, and is indicated by a Head of Navigation mark
+in the middle of the river. No naval unit on Lake Ontario may
+ever enter Lake Erie or vice versa.
+
+2.4 Lake Control Boxes
+Lake Control Boxes are used to indicate control
+of the lake and the space where all naval battles
+occur. Whichever side controls the box also
+controls the lake. Naval battles can occur only in a Lake Control Box—not in a lakeside town. Control of a lake earns the
+player 2 VPs (11.4).
+
+2.5 Lake Transit Box
+Naval movement between Lake Erie and Lake
+Huron is only possible through the Lake Transit
+Box. Units moving from this box can enter either
+a lakeside town or a Lake Control Box. It costs 2
+MPs to enter the Lake Transit Box. Land and/or
+naval units can never end their turn in the Lake Transit Box.
+
+2.6 Lake Huron and Lake Erie
+For the purpose of the Mutual Fleet Return Phase and for naval
+units that are forced to retreat, Lake Huron and Lake Erie are
+considered the same lake. If a naval vessel or fleet is forced to
+retreat for any reason it can retreat to any lakeside town on Lake
+Erie or Lake Huron. Naval units on Lake Huron must retreat to
+a friendly lakeside town on Lake Huron first if one is available.
+
+Component List
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+
+One 22" x 34" Map
+Two Counter Sheets
+One Combat Results Table Card
+One Reference Card
+Two British Set Up Cards
+Two American Set Up Cards
+110 Strategy Cards
+Two Six-sided Dice
+One Rules Book
+One Play Book
+
+EXAMPLES: A single “B” class unit, defending on a “C”
+class fort, defends with its B” class status. A single “C”
+class militia unit defending on a “B” class fort is considered a “B” class for the entire combat.
+2.72 When attacking a fort, the terrain in the space is ignored,
+but Major Invasion Routes and Amphibious Landing modifiers
+are still are in effect for the first round of combat.
+2.73 Kingston and Sackets Harbour: The forts at
+Kingston and Sackets Harbour do not exist in the first
+half of 1812 and have no effect on play. These forts
+are automatically constructed in the second half of
+1812, and are marked with two green dots as a reminder.
+2.74 Event Card Forts: There are several forts
+that can only be introduced into the game by the
+play of specific Event cards. In addition, these forts
+increase the Winter Quartering Value of the space
+by 4 as specified on the counter. They do not change the Victory Point values of the space.
+2.75 Forts never take a step loss and can never defend without
+land units present. A fort with no friendly units automatically
+falls to any enemy land combat unit (not leader) that occupies
+the space.
+2.76 If only Indian units commence the Action Phase in a fort
+space, the fort’s class and increased value is completely ignored.
+Indians defending with other units do get the benefit of the fort
+even if the other units are eliminated in the same combat round.
+2.77 The “9” result on the Land Combat Results Table specifically applies to the defense of a fort, in which case the combat
+ends and the attacker retreats. If the combat does not occur in
+a fort space, the defender retreats normally (if possible).
+2.78 If an enemy unit captures a fort, the enemy unit has all of
+the defensive benefits of the fort, including the Winter Quartering Value.
+
+© 2012 GMT Games, LLC
+
+4
+
+Mr. Madison’s War Rule Book
+
+3.0 Unit Counters
+The main pieces of the game are the infantry battalions that
+fought in the war. Field artillery in North America was only a
+supplementary arm at that time and not the deciding factor in
+battles. Mounted units were almost unknown on the Canadian
+front but the few that participated have been included.
+
+3.2 Naval Units
+The naval units represent the ships that plied the waters of the
+Great Lakes during the war, and their names are located at the
+bottom centre of the counter.
+3.21 Types: The types of ships included in the game are frigates,
+corvettes, brigantines (brigs), and sloops/schooners. For game
+purposes there is no difference between a sloop and a schooner.
+
+3.1 Land Units
+3.11 Types: Infantry units are classified into three main types—
+Regulars, Militia, and Native American warriors. For game
+purposes we will refer to the latter as “Indians” since that is
+how they were referred to during the war.
+•	 Regulars: For game purposes Regulars can be distinguished by the fact that their class rating is always “A” or
+“B”. Indian units are not considered Regulars.
+•	 Militia: Every militia unit in the game is “C” class except
+the 5th PA (a “B” class unit).
+•	 Indians: See 3.7 for a summary of all rules regarding
+Indians.
+
+3.22 Quality: There are no combat values assigned to ships, it
+is the quality of the vessel and its type that determines its combat prowess. The lake vessels have their class rating indicated
+in the upper right corner of the counter and the type of vessel
+indicated at the top center.
+•	 “A” class represents vessels at the height of efficiency and
+combat readiness.
+•	 “B” class represents vessels that were designed specifically
+for war but are not up to the efficiency of an elite vessel.
+•	 “C” class represents older inefficient vessels or former
+merchant vessels that had been converted for war and were
+not really suitable in a line of battle.
+
+3.12 Class: Land units are also classified by class, with class
+“A” being the highest. Class is used in combat for the Lead
+Unit DRM (10.3). There are only two Regular “C” class units
+in the game, the 2-factor Regular Detachment at Detroit, and
+the 1-factor US Detachment at Fort Mackinaw at the game start.
+
+3.23 Colored Dots: Unlike land units, the colored dots on naval
+units indicate the turn in which they can be constructed. All
+vessels, both British and US, must be constructed no earlier
+than their turn of entry, or later, in order to enter the game.
+
+3.13 Combat Strength: The number in the lower left of the
+counter indicates the Combat Strength and is generally related
+to the number of men in the unit, and its ability to inflict and
+absorb casualties.
+3.14 Detachments: Units with a Combat Strength of 1 or 2 are
+considered Detachments. Detachment size is important for the
+Tecumseh rule (3.53).
+3.15 Colored Dots: The colored dot(s) on a units are used in
+setting up the game and to aid in sorting the various counters.
+A single green dot ( ) indicates a unit arriving in the first half
+of 1812; a yellow dot ( ) indicates 1813 and a red dot ( ) indicates 1814. Double dots (e.g., ) indicate units arriving in the
+second half of the year.
+3.16 Movement Factors: This is not printed on the counters,
+but all land units have a Movement Factor of 6 spaces, except
+the Dragoon units which have a movement of 10 spaces.
+3.17 Reduced Side: Most units are double-sided so that when
+they take casualties they are flipped to their reduced strength
+side. Some units do not have a reduced strength side, and if
+required to take a step loss are eliminated. These are indicated
+by no picture on the back and a single dot used to aid in set up.
+EXAMPLE: Detachments, and Indian units are examples of
+units that cannot be reduced (the Shawnee unit is an exception).
+
+3.24 Naval Movement Factors: The Movement Factor of lake
+vessels and naval leaders is 6.
+
+3.3 Leaders
+Command Value
+Seniority
+Name
+
+Combat Modifier
+Colored Dot
+
+3.31 How to Read Leader Units: Leaders have the following
+values on their counter:
+•	 Command Value: This value represents the minimum
+OPV value of the card played in order to activate him. A
+“1” leader is easier to activate than a “3” leader.
+•	 Combat Modifier: The number added to the die roll
+whenever a leader is attacking. The number is subtracted
+from the die roll whenever a leader is defending.
+•	 Rank: Leader seniority (3.35), and also an indication of
+how many units the leader may move (3.33). A naval leader
+shows an anchor symbol ( ) in lieu of a rank star.
+•	 Colored Dot: See 3.15.
+•	 Name: The leader’s historical last name
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+3.32 Activating Leaders: Activating leaders is a more efficient way of moving units on the map, as opposed to moving
+individual units. See 8.4 and 8.5.
+3.33 Command Limits: The number of stars on a leader counter
+indicates his seniority and how many units he may command.
+The most senior leader has three stars.
+-star leader may command up to 15 units
+
+5
+
+3.37 Arrival of Naval Leaders: For the first half of 1812 there
+are no naval leaders present on the map. Naval leaders arrive
+on the map according to a preset reinforcement schedule. Naval
+leaders are permanently assigned to the lake on which they
+arrive. Perry and Barclay can move vessels on Lake Erie and
+Lake Huron only. All other naval leaders can only move vessels
+on the lake to which they are assigned.
+
+3.4 Replacement Leaders
+
+-star leader may command up to 10 units
+
+3.41 Brock: If Brock is killed by the Event card
+D eath of B rock he is flipped over to the Roger
+Sheaffe side and this commander replaces
+Brock.
+
+-star leader may command up to 5 units
+EXAMPLE: Leader Brock who has a rank of two stars ( )
+is able to move 10 units when activated.
+Naval leaders can command an unlimited number of vessels
+on the lake that they are deployed on.
+3.34 Movement Factors: Land leaders have a Movement Factor of 10. Naval leaders have a Movement Factor of 6.
+3.35 Rank: If two leaders are in the same space, only one
+leader’s combat modifier may be used, and this must be the
+senior leader if present, even if this combat modifier is inferior
+to a junior leader’s. If the leaders are equal in rank, the owning
+player may choose which one to command. In land combat, all
+land leaders outrank a naval leader (Exception, Amphibious Attacks, 11.5). A higher ranked leader is allowed to move a lower
+or equally ranked leader as he moves, but does not activate the
+other leader in the sense that the other leader may activate other
+units and move independently.
+EXAMPLE: In the case of an Amphibious Attack where naval leader Chauncey activated land units, General Brown
+could move with the units for the attack and use his combat
+ability for the attack. This is an exception to the strict seniority rule because it is essentially a naval operation. Chauncey
+activates the naval units that carry the land units and General Brown is attached.
+3.36 Land Leaders in Naval Situations: Land leaders can
+activate naval units for the purpose of naval transport and
+amphibious attacks, but they cannot engage in naval combat
+under any circumstance. Land leaders can activate any number
+of naval vessels that begin in the same space as the leader. This
+is in addition to any land units that this leader could normally
+activate for movement. All leaders, except Tecumseh, can be
+used to activate units for a lake transport or amphibious move.
+EXAMPLE: If General Brown was at Sackets Harbour with
+several naval and land units he could be activated to move
+land units to another lakeside town if the naval units he has
+have the capacity to carry them. The British player cannot
+be in control of the lake in order to be able to do this.
+
+3.42 Perry, Chauncey, Yeo or Barclay Leaders:
+If Perry, Chauncey, Yeo or Barclay is ever captured
+they are immediately flipped over to their “replacement” side and placed at any friendly lakeside
+town. If no friendly lake side town exists they are kept off map
+until one becomes available.
+
+3.5 Leader Tecumseh
+3.51 Tecumseh is subordinate to every British
+leader in the game. If stacked with another British
+leader he cannot use his combat rating (Exception:
+Card #9 Brock and Tecumseh).
+3.52 Tecumseh can only use his combat rating if there is at least
+one Indian unit in the space.
+3.53 Tecumseh can activate and move any number of Indian
+units, however these units still must obey all the rules of regular
+movement. He can also activate and command a single British
+Regular unit of Detachment size (“1” or “2” strength) in battle.
+Exception: He may not command the Dragoon unit.
+3.54 If either the “Tecumseh” or “Shawnee” unit is removed
+from the map, then the other unit is removed regardless of its
+location on the map.
+
+3.6 Special Units
+Some units have special abilities or limitations that override
+normal game rules, or are introduced into the game only through
+the play of a card.
+3.61 The Northwest Company/Indian Unit: This
+unit has the ability to move freely from Ft. Mackinac and Ft. St. Joseph without the use of a naval
+unit to carry them. The unit has a double wavy line
+code on the counter to remind players of this ability. The Northwest Company/Indian unit can only operate on Lake Huron,
+and is only useful to garrison or attack the forts on that particular lake. The unit cannot enter the Lake Control Box and
+therefore cannot be used for lake control.
+
+© 2012 GMT Games, LLC
+
+6
+
+Mr. Madison’s War Rule Book
+
+3.62 Dragoons: These units have a
+Movement Factor of 10. They cannot
+be transported by lake transport, engage in amphibious attacks, nor retreat
+by water. If used in an attack against a fort they are considered
+to be “B” class units. The assumption is the unit fights dismounted. In defense of a fort they can be considered “A” class.
+The Dragoon unit cannot be activated by “Tecumseh”.
+3.63 The Lower Canada Militia Unit: The unit
+is designated LC on the counter. It may never
+voluntarily move further than two spaces from the
+city of Montreal. That is to say, no further west
+than Cornwall, and no further south than Johnson’s. It may not
+enter US territory.
+3.64 As illustrated, some units have a special symbol or code
+to indicate an event is needed for their arrival.
+EXAMPLE: The Mohawk 2B unit has “CE”
+on the unit indicating that its presence in the
+game can only occur through the play of a
+specific card. In this case Card #56 Grand
+River Indians.
+
+4.0 Victory Points & Ending the Game
+4.1 Victory Points
+4.11 General Rule: Each player will attempt to win the game
+by accumulating Victory Points (VPs) through the control of
+enemy spaces, controlling the Great Lakes, and/or through the
+play of historic Event cards.
+4.12 Tracking VPs: VPs are noted and
+tracked at the instant they occur. Players mark their points by moving the
+Victory Point marker on the Victory
+Point Track located on the map map. The British-flag side of
+the marker is used if the British are ahead in points and the US
+side if they are ahead.
+4.13 Awarding VPs: VPs are awarded if friendly
+units occupy and remain in control of enemy towns
+that have a Victory Point value. Note, that some
+cards can cause a town to be destroyed, and as a
+result, become a “0” VP space which last for the entire game.
+4.14 Controlling a Town: In order to control a town, the Combat Factor of the occupying unit(s) must be equal to or greater
+than the VP/WQ value of the town. When a player no longer
+controls the town he instantly loses the VPs for that space. If
+a unit occupying an enemy town is not of sufficient size for
+control, the unit has no effect on the space at all. It does not
+score Victory Points, it does not cut the supply line, it does not
+deny naval construction at the space, nor does it cut off the
+retreat of friendly units.
+4.15 Indian Units and Control: Indian units by themselves
+can only control spaces valued at “1” or less. This supersedes
+the standard definition of “Control” found in 4.14. However,
+Indian units can add their combat value to other units in order
+to fulfill the control requirements.
+4.16 Lake VPs: A player receives 2 VPs for each Lake Control
+Box he controls. This is awarded instantly, in the same way that
+all other VPs are awarded.
+
+3.7 Summary Rules Involving Indians
+•	 If alone, cannot use Forts (2.76)
+•	 Have a Movement Factor of 6 (3.16)
+•	 Cannot be Restored (8.31, case 5)
+•	 Cannot board naval vessels (11.33) or use Naval Retreat
+(9.47)
+•	 Provide a combat modifier when defending or attacking
+Regular or Militia units in woods (10.41)
+•	 If not accompanied by non-Indians, can only block Supply
+Paths in spaces with a VP value of 0 or 1 (13.34)
+
+EXAMPLE: The VP marker was at “0” and the British
+player had scored 2 VPs for taking control of Lake Ontario,
+the marker is flipped to the British side and placed on the
+“2” space. If in a subsequent turn, the American player took
+control of Lake Ontario from the British, the marker would
+move down two spaces to “0”, (because the British player
+had lost control) and the marker is now flipped to the American side and moved to the “2” space.
+DESIGN NOTE: Lake Control effectively results in a four
+point swing when one side takes control from another player.
+One player loses two points and the other player gains two
+points.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+4.17 Event Card VPs: Victory Points are also awarded for
+the play of specific Event cards. Those Event cards that award
+VPs detail the amount of points scored on the card. There is
+a place on the map to place cards that have been utilized for
+VPs. This can be useful as a check to keep the Victory Point
+marker up to date.
+4.18 Yearly VP Check: At the end of each year, the Victory
+Point total should be verified by checking the enemy towns
+that are garrisoned by friendly forces, and checking the points
+awarded for specific cards played.
+
+4.2 Ending the Game
+4.21 Final victory in the game is only assessed after the Treaty
+of Ghent or the Battle of New Orleans card have been played
+as events, or if all cards by both players have been expended
+after the last turn of 1814. (It’s possible that those two special
+cards may not come into play at all.)
+4.22 Treaty of Ghent: When the Treaty of Ghent card is
+played, the game ends immediately, and no further cards can
+be played (Exception: Battle of New Orleans card, 4.23). The
+player who played the card must subtract a number of VPs equal
+to the number of cards remaining in his hand. If it is the last
+card played in a player’s hand, no VPs are lost.
+EXAMPLE: It is the final round in 1814 and the British
+player has 3 cards left including the Treaty of Ghent card.
+If he played the Treaty of Ghent card immediately, the game
+would end, but he would have to subtract 2 VPs since this
+is the number of cards remaining in his hand. A player may
+want to end the war early if he has a comfortable lead in
+VPs.
+4.23 Battle of New Orleans Event: The only card that can be
+played after the Treaty of Ghent, is the Battle of New Orleans
+card. In this case it must either be played as an event, or be
+discarded. If played for the event, the Battle of New Orleans
+is a winter card and must have been held as per rule 7.35. For
+all practical purposes as an event, it is the last card that can
+be played in the game. If the Treaty of Ghent card does not
+appear at all, the US player may still play The Battle of New
+Orleans card as a regular operations card or play it as the event
+under the conditions of rule 7.34. In this instance however it
+must be his last card play of the game.
+DESIGN NOTE: Should the US player be fortunate enough
+to get both Treaty of Ghent and Battle of New Orleans cards
+he has to recognize the limitations and advantages of having
+both cards. Battle of New Orleans cannot be played as an
+operations card after the Treaty of Ghent card is played.
+It can only be played for the event if held, because it is a
+Winter event. The US player would have to think about using
+this card in advance before his play of the Treaty of Ghent.
+
+7
+
+4.3 End of Game VP Penalties
+4.31 General Rule: No additional VPs are earned when the
+game ends, but some VPs can be lost due to supply situations
+as listed below.
+4.32 Out of Supply Units: At the end of the game (only), if a
+unit is cut off from its supply line, no VPs can be awarded for
+that unit. This will discourage a-historical moves from occurring on the last turn of the game.
+4.33 Lake Control: A player will lose the 2 VPs for Lake
+Control if his vessels occupying the box do not have a friendly
+lakeside town that is also in supply to which they could move to.
+4.34 Lake Huron: If at the end of the game the British are
+in control of Lake Huron, US units at Ft. Mackinac or Ft.
+St. Joseph (if the US player had captured it) would be out of
+supply, and thus not eligible to retain the VPs. If neither side
+is in control of Lake Huron both sides are considered to be in
+supply. If the US player is in control of Lake Huron the British
+player is still in supply.
+DESIGN NOTE: This anomalous situation exists because
+by 1814 the British had alternate routes of supply to York via
+the Nottawasaga and/or the Ottawa River.
+
+5.0 Setting up the Game
+5.1 General Rule
+The player taking the US forces sits at the south edge of the
+map and the British player sits at the north edge. Both players
+place their units on the map in accordance with the British and
+American Set Up cards. The Victory Point marker is set at “0”
+and the Turn Record marker is not placed on the map until after
+the Pre-war Sequence (Section 6.0).
+
+5.2 Separate Decks
+The Strategy cards are separated into three individual decks.
+For convenience the backs of the cards are sorted by color.
+After separation, the players should have a green 1812 deck,
+a yellow 1813 deck, and an 1814 red deck. For the first year
+of the war players will only be utilizing the green 1812 deck.
+At the end of each year any remaining cards for that year are
+discarded and the deck of cards for the next year are moved
+to the draw deck.
+EXAMPLE: At the end of 1812 any cards remaining in the
+1812 deck are moved to the discard pile and the cards in the
+1813 deck are moved to the draw pile.
+Players now proceed to the Pre-war Sequence.
+
+© 2012 GMT Games, LLC
+
+8
+
+Mr. Madison’s War Rule Book
+
+6.0 Pre-war Sequence
+6.1 General Rule
+This sequence simulates the early planning and maneuvring
+that each side engaged in prior to the actual Declaration of War.
+The Pre-war Sequence takes place before any Strategy cards
+are drawn for the Spring-Summer turn of 1812.
+
+6.2 Procedure
+STEP 1: To begin, the Declaration of War (DOW) card is
+temporarily removed from the deck and the rest of the 1812
+deck is shuffled. The Turn Record marker is not placed on
+the map.
+STEP 2: Draw 13 cards from the top of the green 1812 deck
+and add the DOW card. Now shuffle these 14 cards, with
+the DOW card included. This 14-card deck will be referred
+to as the Pre-war Deck.
+STEP 3: The US player draws one single Strategy card from
+the top of the Pre-war Deck. The player may now either keep
+the card in his hand or play the card to move forces on the
+game map under the following restrictions:
+•	 No card can be played to score points
+•	 No card can be played for events
+•	 No land forces can move into enemy territory
+•	 No naval units may enter Lake Control Boxes
+STEP 4: After the US player has performed his action, the
+British player does the same—draws one single card from
+the Pre-war Deck and decides to either hold it in his hand,
+or use it to move forces on the map with the same limitations listed above.
+STEP 5: Players continue drawing cards from the Pre-war
+Deck, one at a time, retaining them in their hand or playing
+them in accordance with the restrictions in Step 3 until the
+DOW card is drawn. The act of drawing the DOW card ends
+the Pre-war Sequence.
+STEP 6: Once the DOW card has been revealed and the
+Pre-war Sequence is over, players draw the remaining cards
+from the Pre-war Deck with the player who did not draw the
+DOW card drawing first.
+
+6.3 Draw Up to 7 Cards
+6.31 For the purpose of this sequence, cards already played
+during the Pre-war Sequence count towards the player’s hand
+size. After cards are drawn, neither player’s hand may exceed
+7 cards. The DOW card is included in this 7 card maximum.
+6.32 Should the DOW card be the 14th card drawn and both
+players have no cards in their hand, the Spring-Summer turn
+would be over and players proceed to the Summer-Autumn turn.
+DESIGN NOTE: This event would be rather unlikely as it
+would have meant that both players did not hold any cards
+in case of war but played every card drawn during the Prewar Sequence.
+
+6.33 When the Pre-war Sequence is over, the Turn Record
+marker is now put on the Spring-Summer turn of 1812 and
+play proceeds to the Sequence of Play. The player who did not
+draw the DOW card plays first. All card restrictions from the
+Pre-war Sequence (Step 3) are now lifted.
+
+7.0 Sequence of Play
+Important: Each Winter turn follows a much shorter sequence
+and is detailed in 16.0. The sequence below is used for SpringSummer and Summer-Autumn turns only.
+
+7.1 Reinforcement Phase
+Beginning with the Spring-Summer turn of each year players
+will place all available reinforcements onto the map (there
+are no reinforcements on Turn 1 of the game). As a reminder,
+beginning in 1813 available naval vessels must be constructed
+through the play of NBV points—they do not come on the map
+automatically.
+
+7.2 Deck Preparation
+7.21 Procedure: If players have just completed the Pre-war
+Sequence there is no new card deal, players proceed with the
+cards they have in their hand. In the second half of 1812 and
+non-Winter turns of 1813 and 1814 players are dealt a variable
+number of cards: 7 in the Summer/Autumn turn of 1812, 8 in
+1813 and 9 in 1814. There is a special sequence for dealing
+cards in 1814 (see 7.25).
+7.22 No Reshuffles: There are no “reshuffles” in the game,
+and each card deck is customized to the year of play. If a new
+year has commenced, players deal out cards from the corresponding year.
+7.23 Hand Size: If a player held back cards (7.34) these are
+counted against his new hand of cards.
+7.24 Discard Previous Year Cards: At the end of any game
+year there will be cards remaining in the main deck. These cards
+are discarded and not introduced into the next year’s card deck.
+Cards are never available for play in any other year than the
+one specified on the card.
+7.25 1814 Deck Preparation: The card deck for 1814 must be
+prepared according to the following steps:
+1. The Treaty of Ghent card is temporarily removed from
+the deck and the deck is shuffled.
+2. Deal out 9 cards to each player for the Spring-Summer
+turn of 1814.
+3. Reintroduce the Treaty of Ghent card back into the 1814
+deck and reshuffle.
+4. The deck is now ready for the Summer-Autumn 1814 turn.
+DESIGN NOTE: The reason for the special deck preparation is to make the Treaty of Ghent card only available in
+the second half of 1814.
+
+© 2012 GMT Games, LLC
+
+9
+
+Mr. Madison’s War Rule Book
+
+7.3 Strategy Card Action Phase
+
+7.6 Turn Record Phase
+
+7.31 Free Naval Withdrawal (1) Segment: (see 11.21)
+
+After these actions are completed players move the Turn Record
+marker forward and begin a new turn.
+
+7.32 Action Phase Procedure (Movement and Combat): The
+first player (7.33) plays a single card and performs all actions,
+movement and combat. The second player can interrupt the
+sequence momentarily by the play of a Reaction card which
+may modify the move, or even cancel it. The second player
+then plays a single card and performs his actions in the same
+manner as the first player. The first player could also play a
+Reaction card that could modify or cancel the second players
+move. The Strategy Card Action Phase continues back and forth
+until each player has played all of his cards or has finished his
+turn by holding up to 2 cards.
+7.33 First Player Determination
+•	 First Player in 1812: The American player has the first
+card play in the Summer-Autumn and Winter turns.
+•	 First Player in 1813: At the start of 1813 each player rolls
+one die. The player with the highest die roll will have first
+card play for all turns during the year. The die roll for 1813
+can be modified if one player has positive VPs (i.e., one
+or more VPs). If this is the case, that player modifies the
+roll by the number of VPs he has. If a player has 6 or more
+VPs he automatically has the first play for all of 1813.
+•	 1814: The British player is the first player for the entire year.
+7.34 Holding Cards: Instead of playing a card a player can hold
+one card back by placing it face down in front of him. In such
+a case his play is completed and it is the other player’s turn. A
+player may “hold back” two cards per hand, but only one card
+per play. Holding back a card does count against the number
+of cards the player will be dealt in the next hand.
+7.35 Restrictions on Holding Cards: Cards for a particular
+year may not be held back into the next year. For example, an
+1812 card cannot be held back for play in 1813. A “Winter 18121813” card can be played in the Winter immediately following
+the Autumn of 1812 turn but can never be held back until the
+Winter of 1813-1814. In effect all “Winter” cards must be held
+back if they are to be used as Event cards, the only way they
+can be used during a Winter turn.
+
+7.4 Mutual Fleet Return Phase
+•	 Free Naval Withdrawal (2): During Summer-Autumn turns
+both players mark which lakes they control with a Lake
+Control marker of their side and return all of their naval
+vessels to any lakeside town (usually their main naval base).
+•	 Free Naval Return: During Spring-Summer turns both
+players who have a Lake Control marker in the box has
+the choice of a free naval move to move his naval units
+back into the Lake Control Box.
+
+7.5 Victory Point Check Phase
+Double check the VP score as detailed in 4.18.
+
+8.0 Strategy Cards
+8.1 General Rule
+There are 110 Strategy cards in the game divided into three
+distinct decks sorted by year. 1812, 1813, and 1814. Only one
+deck is used at a time.
+OPV/NBV
+Value
+Card
+Type
+
+Card ID #
+Card
+Deck
+Year
+Card
+Title
+
+Game
+Function
+
+Historical
+Description
+
+8.2 How to Read the Strategy Cards
+8.21 OPV/NBV: Operational Point Value and Naval Build Value
+of a card. Numbers range from 1 to 3. The flag symbol below
+the number indicates which side can use the card for the event.
+Both sides can always use the card for operations
+8.22 Card Type: Indicates the special function that a card has.
+Note that in some cases a card actually can have two modes.
+EXAMPLE: A card that reads “Operations/Battle” can be
+utilized to perform as an operations card but if the action on
+the card is performed a battle bonus is given also.
+8.23 Card Deck Year: The year the event took place and the
+deck the card is assigned to.
+8.24 Card Title: Name of the event or action.
+8.25 Battle/Reaction: Battle cards or Reaction cards will
+have red coloring to denote their special function if not used
+for their OPV/NBV value. Some cards act as dual activation
+and Battle cards.
+8.26 Historical Description: Information of historical interest to flesh out the purpose of the card but not necessary for
+game play.
+8.27 Game Function: Text that describes what the card does if
+played for the event. Card instructions always take precedence
+over any game rule, so it is possible that some card actions
+allow a move that is normally restricted in regular game play.
+8.28 ID. #: Included to aid in identification and email play.
+
+© 2012 GMT Games, LLC
+
+10
+
+Mr. Madison’s War Rule Book
+
+8.3 Strategy Card Uses
+8.31 Eight Different Uses: Depending on the card type, there
+are eight different ways that a Strategy card can be played. A
+player can only perform one of the possible functions of the
+card. The 8 functions are listed below.
+EXAMPLE: The player could not use a “3” card to move
+two units and then use the last point to restore a unit. Only
+one function per card!
+1. Event: The card can be used as an Event card in order to
+fulfill the “historical event” or “action” described on the
+card. Winter events can only be played in a “Winter” turn.
+2. Activate Leader: The card can be used to activate a leader
+if the card value is equal to or greater than the leader’s
+“Command Value”. The leader in turn may then activate
+as many units in his space as he is capable of commanding.
+3. Activate Units: A card of any value can be used to activate units in a single space. The OPV number determines
+how many land and/or naval units can move from that
+space (8.6).
+4. Construct/Repair Naval Units: The card can be used
+for its NBV value in order to construct or repair naval
+vessels (15.0).
+5. Restore Units: A card of any value can be used to restore
+(from its reduced side) British or US Regular army units
+of “A” or “B” quality equal to the value of the card. Units
+being restored do not necessarily have to be in the same
+space. Note that Indian units do not qualify for this ability.
+In order to restore a unit, it must be in an original friendly
+space in their own territory and in supply.
+EXAMPLE: A “2” card could restore two British units in
+an originally supplied space in Upper or Lower Canada.
+6. Create Supply Depot: A card of any value can be used
+to create a Supply Depot in any space in friendly territory
+(13.5).
+7. As a Battle Card: Only one Battle card can be played to
+enhance the chances of victory in a single battle round.
+This advantage takes effect only in the round of battle it
+is played. If the combat happens to last for several rounds
+the advantage is lost, unless specifically exempted in the
+text of the card. Players can play more than one Battle card
+per battle in a space but still only one per battle round.
+8. As a Reaction Card: A Reaction card can be played during the other player’s turn, to either modify his move, or
+in some cases, cancel it. When played, the card is placed
+on the discard pile and does not count as the player’s turn.
+Reaction cards are played during the enemy player’s turn.
+Detailed moves will be found in the playbook.
+
+EXTENDED EXAMPLE: The US player plays a Campaign
+card and declares that he is moving two forces. One force
+under General Wilkinson at Sackets Harbour and another
+under General Hampton at Plattsburg. (When playing a
+Campaign card the forces to be activated must be stated before any force moves) The British player has a Heavy Rains
+Reaction card and decides to play it against Hampton’s
+force. A Heavy Rains card and the Contrary Winds card can
+be used to cancel the move of only one force, not two.
+The US player can move his forces in any order, and
+he decides to move Wilkinson’s force first to French Mills
+and then stops. It is now time to move Hampton’s force if he
+wishes. The effect of the Heavy Rains card is to interdict the
+space that Hampton is in. All units, including leaders, cannot move more than one space from Plattsburg if starting the
+turn in the space or having had moved into the space. In this
+case the US player decides that rather than have Hampton’s
+forces move only one space he elects to have them remain at
+Plattsburg.
+It is now the British player’s turn to play. Play of a Reaction card in your opponent’s turn does not count as your
+turn.
+
+8.4 Leader Activation
+8.41 When a leader is activated, he may move any
+number of units in his space up to his Command
+Limit and Movement Factor.
+8.42 The leader may pick up units along his movement path,
+drop units off, and keep moving as long as he does not exceed
+his Movement Factor of 10 and each individual unit does not
+exceed its Movement Factor of 6.
+8.43 A leader with a higher rank (more stars on his counter)
+can activate a leader of lesser rank, and thus be able to move
+more units from a single space than he would normally be able
+to move. A leader cannot activate another leader of equal rank
+for the purpose of this rule.
+EXAMPLE: “Brock”, rated a two star general, could move
+up to 15 units if he moved to a space where General Proctor
+was located with 5 units. Because Brock is senior to Proctor, he can pick up Proctor who is capable of moving 5 more
+units and thus, if they all moved together, 15 units could
+move to the target space at the limit of Brock’s movement.
+Proctor must move with Brock as a single unit and could not
+move off independently.
+If Brock and Proctor began the turn on the same space
+and the player wanted to have Brock and Proctor move to
+two different spaces a Campaign card would be required. This
+is because a Campaign card is the only card that activates two
+different leaders independently. Although Brock could still
+activate Proctor and drop him and any units he desires along
+his movement path.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+8.44 Picking Up Tecumseh: Any British leader
+who begins in the same space as Tecumseh, or
+passes through his space during movement, may
+pick him up as described in 8.42. The British
+leader in question can also move all Indian units stacked with
+Tecumseh even if this exceeds the leader’s Command Limit.
+The reason for this exception is Tecumseh can activate and
+command an unlimited number of Indian units in his space (see
+3.53).
+
+8.5 Naval Leader Activation
+When a naval leader is activated he can move any
+number of naval vessels that begin stacked with
+him, pick up other vessels, drop vessels off, pick
+up land units, and drop them off. All these activities
+can be accomplished as long as he has not exceeded his Movement Factor of 6. Picking up and dropping off naval units does
+not cost any MPs. Naval leaders may never move land units on
+land or add their combat modifier to a land or amphibious attack—they can only transport land units, or use them in an
+amphibious assault. Naval leaders have a Movement Factor of
+6—not 10 like land leaders.
+DETAILED EXAMPLE OF A NAVAL LEADER ACTIVATION: It is the Autumn turn of 1812. Naval leader Chauncey
+and the vessels Oneida, Conquest and Scourge are at Sackets Harbour NY. The vessels Julia and Hamilton are at Ogdensburg, and the vessels Fair American and Gov. Tompkins
+are at Oswego. Chauncey is activated and takes the two vessels at Sackets Harbour with him and sails to Oswego, costing him 1 MP. He then picks up the two vessels there which
+costs him no Movement Points. He then sails to Ogdensburg
+for another MP and picks up the two vessels there. He now
+moves all vessels into the Lake Control Box for another MP.
+The total cost of the move was only 3 MPs. Note, that had
+there been no naval leader, such a move would be impossible
+no matter what value of card was played.
+
+8.6 Activating Units
+8.61 Movement: When units are activated, they must all be
+located in the same space. Once activated, these units may split
+off and move to different spaces. Single units moving without
+a leader may never pick up other units along the way. A single
+leader could also be moved in this manner by the expenditure
+of a “1” card but in this case the leader would have to move
+alone and not pick up or drop off any units.
+EXAMPLE 1: A “3” card could move two land units from
+one space and a naval unit from the same space. It could
+also do an amphibious move using the naval unit and one
+land unit (if capable of carrying it). This would cost “2” (1
+for the land unit and 1 for the naval). It could then move the
+other land unit if desired.
+
+11
+
+EXAMPLE 2: A “2” card can not be used to move one land
+unit from Albany and another from Pittsburgh—all units
+must be from a single space!
+8.62 Combat: Activated unit(s) are allowed to enter enemy
+occupied spaces and attack. If two or more are activated, they
+are allowed to attack the same space together. Even though
+units from a single space can move independently, they can
+never attack independently the same single space. They could
+attack different spaces independently.
+
+8.7 Campaign Cards
+8.71 General Rule: Cards designated as Campaign cards are
+the only ones that allow the activation of two different leaders
+in the same card play, or allow the activation of one leader and
+one single unit from another space.
+8.72 Procedure: If a player uses a Campaign card to activate
+two leaders in two different spaces he must move one leader
+at a time and perform all movement and combat with the first
+leader before he moves the other leader. The player must
+declare which leader will be activated before any movement
+begins. Units moved by one leader cannot be moved again by
+a second leader. This also holds true if he activates a leader in
+one space and a single unit in another. It is not possible to have
+two different leaders that begin their turn on different spaces to
+move at the same time to a common space and have one single
+combat. It is also not possible to have two different leaders on
+the same space that are activated independently to join together
+and have combat on the same space.
+
+9.0 Land Movement
+9.1 General Rule
+When a unit is activated by a leader (8.4) or individually (8.6)
+it moves from space to space, subtracting the cost to enter each
+space from its total of 6 MPs.
+
+9.2 Terrain (Path) Cost
+Major Roads cost 1 MP, Trails cost 2 MPs and Major Invasion
+Routes cost 3 MPs.
+
+9.3 Entering Enemy-Occupied Spaces
+When entering a space that has an enemy land combat unit in
+it, all units and leaders must stop and move no further (Exception: Retreat Before Combat, 9.4). If the space contains only
+enemy naval units the moving units do not have to stop, but if
+they do the enemy vessels automatically escape or retreat to
+any friendly lakeside town.
+
+9.4 Retreat Before Combat
+9.41 General Rule: When enemy unit(s) enter a space occupied by friendly unit(s), the friendly unit(s) have the option of
+retreating before combat. If the decision to retreat is taken, all
+units must retreat.
+
+© 2012 GMT Games, LLC
+
+12
+
+Mr. Madison’s War Rule Book
+
+9.42 The unit(s) can retreat without any penalty before combat
+to a space that they currently control.
+9.43 If the only space available for retreat is an enemy space
+which they do not control, then the units may still retreat, but
+every unit must be flipped to its reduced side. A unit that is
+already reduced can Retreat Before Combat without further
+loss and is not destroyed. Note: If a unit is flipped, and is also
+out of supply, it is destroyed if it retreats.
+EXAMPLE: A US unit could not retreat without a penalty
+to an original British space unless there was a US unit of
+sufficient size to take temporary control of it. If the unit was
+forced to retreat to that space it could do so, but after retreating, would be flipped to its reduced side.
+9.44 After a unit(s) has retreated, the unit(s) that caused the
+retreat may continue moving until they have expended all of
+their MPs.
+9.45 A series of Retreats Before Combat could occur between
+forces, and the same procedure is followed in each case. The
+only circumstances that can halt this series of retreats is:
+•	 The original moving player halts his movement.
+•	 The retreating player has no space to retreat into, in which
+case a battle occurs.
+•	 The player voluntarily remains in the space, in which a
+battle occurs.
+9.46 In retreating, a unit(s) must always prioritize their retreat
+in order to cause the least amount of step losses. This will often
+be to a space in friendly territory but not always so. For retreat
+priorities (see 10.71).
+9.47 Indian units may never utilize naval retreat since these
+units may never board naval vessels anyway (11.33). Extreme
+caution should be exercised when invading enemy towns adjacent to a lake, as lake control affects their potential retreat.
+
+9.5 Mandatory Retreat Before Combat
+9.51 Any land force that achieves 9:1 odds against an enemy
+land force causes a mandatory Retreat Before Combat against
+the enemy unit(s).
+9.52 The moving land force can still keep moving and cause
+multiple Retreats Before Combat if the odds ratio is maintained.
+Mandatory retreats are handled in the same manner as regular
+DR results on the Combat Results Table.
+
+9.6 Land Units Encountering Naval Units
+9.61 If land units enter a space or end their turn in a space
+containing only enemy naval vessels, those vessels must immediately retreat to any friendly lakeside town on the same lake.
+9.62 If every friendly lakeside town is currently controlled by
+enemy units on the same lake then the naval unit(s) can retreat
+to the Lake Control Box but only if that player already has units
+in it. If this is not possible then the units are destroyed. Note
+the Lake Huron-Lake Erie connection as indicated in rule 2.6.
+
+10.0 Land Combat
+10.1 General Rule
+When a unit(s) enters a space that contains an enemy unit, and
+those enemy units do not Retreat Before Combat (9.4), it must
+immediately end its turn, and in the ensuing combat must attack all enemy units in the space. Combat always results with
+only one player in possession of the space where the combat
+takes place.
+
+10.2 Procedure
+10.21 Add up the combat values of all attacking and defending
+units to determine the odds of the attack, and then consult the
+Land Combat Results Table to determine any die roll modifiers
+due to the odds. For odds calculations fractions are rounded
+down. If the space contains a fort, the defender adds the fort’s
+value to the defending side’s combat value (Exception: Indians,
+see 2.76). Each player then identifies their Lead Unit for the
+combat. Once all modifiers have been calculated (10.4) the
+attacker rolls two dice, applies the modifiers, and consults the
+Land Combat Results Table for the result of the battle.
+10.22 One Attack per Space: A space can only be attacked
+once per card, but there could be multiple rounds in a combat
+(see 10.6 Continue Combat). Players playing a Campaign card
+cannot attack a space with the first force and then move with
+and attack the same space with the second force.
+10.23 Reduced Units and Combat Value: Reduced units can
+enter enemy spaces as part of the attacking force, but their
+combat values are not added to the force’s attack value. The
+combat values of reduced units in the defending force are always
+added to the defensive force’s defense value.
+
+9.53 A leader alone in a space must perform a mandatory retreat
+when any enemy combat unit enters the space.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+
+10.3 Lead Units
+10.31 Each player must identify their Lead Unit for each combat. The classes of Lead Units are compared and a + or – DRM
+is applied based on the “class” differences. Players do not have
+to select their highest classed unit as the Lead Unit, but the
+attacker must identify his Lead Unit before the defender does.
+Players may change their Lead Units for each round of combat.
+10.32 The following rules apply to Lead Units:
+1) If the combat result indicates a step loss, the first loss must
+be taken by the Lead Unit,
+2) A reduced unit cannot be selected as the Lead Unit in any
+combat except for cases (3) and (4) below. If the Lead Unit
+suffered a step loss in the current round it could not be the
+designated Lead Unit in any following round.
+3) If the defender has only reduced units in the first round
+of combat he does not have the option of choosing a Lead
+Unit. In this case, the lowest classed unit must be selected.
+If a player has several units in the lowest class the player
+may choose any of them as the Lead Unit for the purposes
+of assigning step losses.
+4) If the defender has only reduced units in a fort space he
+utilizes the same procedure as case (3) but here the class of
+the unit chosen cannot be higher than the fort’s class.
+EXAMPLE: If a stack of reduced “C” class units were
+defending on a “B” class fort space, their class is considered to be “C” not “B”. If there were at least one full
+strength unit on the first round they would get the benefit
+of the fort and would be considered “B” class.
+5) If defending a fort with a mixture of “B” and “C” class
+units the defender is not required to select his “B” class unit
+as the Lead Unit. He would still get the benefit of the fort
+should he choose a “C” class unit to lead. Note, this is different than case (4) where the defender begins the turn with
+all “C” class units that are flipped.
+
+10.4 Land Combat Modifiers
+10.41 Terrain: Terrain modifiers are shown on the Land Combat Results Table and only count for the first round of combat
+should multiple rounds occur. These modifiers are:
+–1 	 if an Amphibious Attack.
+–1	 if the attack is in a forested space. There are two exceptions to this modifier if Indians are involved:
+–2 	 if Regular or Militia units attack a forested space containing only Indian units.
++1 if Indians (exclusively) attack Regular or Militia units
+in a forested space.
+–1	 if the attack is across a Major Invasion Route.
+–1	 if attacking Montreal across a Major Invasion Route.
+(This would result in a net modifier of –2, one for Montreal and another for the Major Invasion Route)
+
+13
+
+10.42 Commanding Leaders: If the commanding leader of the
+attacking force has a “+” modifier it is added to the die roll. If
+the commanding leader of the defending force has a “+” modifier it is subtracted from the die roll.
+10.43 Battle Cards: Add (for attacker) or subtract (for defender) the modifier for any Battle card played. The attacker
+must decide whether to play a Battle card before the defender.
+Battle cards only apply to the current battle round unless specifically exempted in the text of the card. Players can choose
+to play additional Battle cards on subsequent rounds, but only
+one Battle card can be played per round per player.
+10.44 British Regulars: If the US player attacks
+a British force containing British Regulars, and the
+battle occurs in a clear terrain space, then the US
+player suffers a –1 DRM for all rounds of that
+combat. This modifier is applicable only during 1812 and 1813
+turns. This modifier does not apply if the British are defending
+in a fort or if the British player is attacking.
+10.45 Summary of Land Combat Modifiers:
+•	 Force Ratio (10.21)
+•	 Lead Units (10.3)
+•	 Terrain (10.41)
+•	 Commanding Leaders (10.42)
+•	 Battle Cards (10.43)
+•	 British Regulars (10.44)
+
+10.5 Land Combat Results
+10.51 Explanation of Combat Results
+DR: The defender must retreat one space (10.7).
+AR: The attacker must retreat one space (10.73).
+AR-1: Same as AR, but in addition the attacker must flip the
+Lead Unit to its reduced side.
+AR-2: Same as AR, but in addition the attacker must flip two
+units to their reduced side, with the Lead Unit being flipped
+first. If only reduced units remain the player has the choice
+of which unit to eliminate.
+DR-1: Same as DR, but in addition the defender must flip
+the Lead Unit to its reduced side or another unit if there was
+no Lead Unit.
+DR-2: Same as DR, but in addition the defender must flip
+two units to their reduced side, with the Lead Unit being
+flipped first. If only reduced units remain the player has the
+choice of which unit to eliminate.
+EX: This result causes both the attacker and defender to
+reduce their Lead Units. If the defender does not have a Lead
+Unit he takes the loss from another unit of his choice and
+the rest of the forces must retreat. In the odd case of combat
+where there is only one unit attacking and only one unit
+defending and the exchange would result in the annihilation
+of both sides, treat the result as an AR instead.
+
+© 2012 GMT Games, LLC
+
+14
+
+Mr. Madison’s War Rule Book
+
+10.52 Indicating and Selecting Step Losses: Losses are satisfied by flipping units to their reduced side or removing them if
+they don’t have one. No reduced unit may be selected to satisfy
+a step loss if another non-reduced unit is available, even if this
+means the non-reduced unit would be eliminated instead. Some
+units do not have a second step, see 3.17.
+
+10.6 Continue Combat
+10.61 If the result of a round of combat does not result in the
+attacker or defender having to retreat and both players have
+units remaining that are not reduced, the combat continues
+for a second round. Note that the modifiers will change after
+the first round of combat because terrain no longer enters the
+calculation and the Lead Unit might be different.
+10.62 Battle Cards and Continue Combat: Battle cards can
+be played in later rounds of combat if they occur, but players
+must play a new card in each round. A Battle card can only be
+used in one round of combat unless it specifically states that
+the card can be used in all rounds. The attacker must state his
+intention to use a Battle card first before the defender.
+10.63 Depleted Forces: If, after the first round of combat, the
+attacker has only reduced units remaining, the attack is over, and
+he must retreat. Conversely, if the defender only has “reduced
+units” and the attacker does not, the defender must retreat.
+DESIGN NOTE: To clarify, after any round of combat if
+both players have only reduced units then the defender has
+won the combat and the attacker must retreat.
+
+10.7 Retreats
+10.71 Procedure: If forced to retreat, the defender must move
+his force one space using the restrictions below listed in order
+of priority:
+1)	He must retreat in a manner that causes the least number
+of steps to be lost.
+2)	He must retreat in such a manner as to keep his force in
+supply (if possible).
+3)	Retreat to a space in friendly territory.
+4)	Retreat by water (rule 10.8).
+5)	Retreat to an enemy controlled space.
+10.72 Retreat Restrictions and Penalties: Units that retreat
+must abide by the following restrictions and penalties:
+•	 Defender retreats are never allowed into the space from
+which the attacker moved to initiate his attack.
+•	 Retreat to Enemy Occupied Spaces: Units cannot retreat
+into an enemy controlled space containing enemy units.
+However, units that have to retreat to an enemy occupied
+space that is not controlled by those enemy units, they
+instead bump those units one space and those units suffer
+any ill effects of such a retreat.
+•	 Retreat into Enemy Territory: If the only space available
+to retreat to is an enemy space free of combat units then
+all of his retreating units are flipped to their reduced side.
+
+Units that are already reduced and forced to retreat to an
+enemy controlled space are not destroyed unless they are
+also out of supply in which case they are destroyed.
+•	 Fort Mackinaw and Fort St. Joseph: Land units forced
+to retreat from either Fort Mackinaw or Fort St. Joseph,
+surrender instead and are eliminated unless they have naval
+vessels of sufficient size to allow a retreat by water.
+•	 No Retreat Routes: Units, including leaders, that have no
+retreat route are removed from the map and are considered
+to have surrendered.
+PLAY NOTE: Retreat penalties to uncontrolled spaces are
+severe. It’s always a good idea to secure your rear areas
+before engaging in combat.
+10.73 Attacker Retreats: In most cases this will be the last
+space that he moved from in order to make the attack. The only
+exceptions to this are:
+•	 The unit may retreat to an adjacent space that causes less
+step losses to the attacker.
+•	 Retreat by water (rule 10.8).
+•	 The unit may retreat to a space that puts the unit back in
+supply. This is important and very likely will not occur
+very often.
+EXAMPLE: An American unit occupies Kingston and is cutting the supply of all British units to the west. A British unit
+moves from Smiths Creek to Kingston to attack the American
+unit. The British unit is out of supply for the attack, but if
+repulsed could retreat to Gananoque if that space is unoccupied and puts him back in supply. If it does not put him back
+in supply he cannot retreat to that particular space.
+10.74 The attacker has all of the conditions imposed on his
+forces the same way the defender does. ie: if he had to retreat
+to a space that is in enemy territory, all of his units would have
+to be flipped to their reduced side.
+
+10.8 Retreat by Water
+10.81 A unit performing a retreat, including Retreat Before
+Combat could take advantage of a naval retreat. Keep in mind
+that the first priority of any retreat is to keep losses to zero if
+possible. Therefore, if a legal naval retreat can cause a zero
+loss over a land retreat, the naval retreat priority would be
+implemented over a land retreat that causes a loss.
+10.82 In order to retreat by water the unit(s) must be in a lakeside town with sufficient naval vessels in the same space able
+to carry them. They may retreat to any friendly lakeside town
+or a lakeside town that they currently control.
+10.83 If the opposing player is in control of the lake, retreat
+is not possible.
+10.84 If the player has insufficient transport capacity to carry
+all of the units and they have no other space to retreat to then
+any units in excess of this capacity must surrender and are
+removed from the game.
+
+Mr. Madison’s War Rule Book
+
+10.9 Leader Capture
+If a leader’s forces are destroyed in combat the leader takes an
+automatic DR or AR result as the case may be. If surrounded
+or there is no retreat route available the leader is captured and
+removed from play. Should General Brock be captured, the flip
+side of his counter, General Sheaffe may not enter play.
+
+11.0 Naval Movement & Lake Control
+11.1 Naval Movement
+11.11 Naval units can only be in one of two places on the map—
+either in a lakeside town space or in a Lake Control Box. Ships
+cannot end their turn in a Lake Transit Box. Units that cannot
+fulfill this requirement are destroyed.
+11.12 Land units may never end their turn embarked on naval
+units. If embarking land units, naval units must have enough
+movement points to drop off the land units or they may not
+pick them up at all.
+11.13 Naval units have a Movement Factor of 6 and can be
+moved independently of a leader in exactly the same manner
+as independent land units are activated.
+11.14 In order to move a naval unit of any type from one lakeside town to another or the Lake Control Box, the player must
+play a Strategy card.
+EXAMPLES: A Strategy card with an OPV value of “2”
+could move two naval vessels from one space. A lake transport move without a leader would require a Strategy card
+with a minimum value of “2”— one Operations Point to activate the vessel, and another to activate the land unit it is
+carrying.
+11.15 Naval MP Cost: Naval leaders can only move to/from
+lakeside towns and Lake Control Boxes if accompanied by at
+least one naval vessel. Vessels can move without leaders. Naval
+movement incurs the following MP cost:
+1 MP	
+1 MP	
+
+moving from one lakeside town to another.
+pick up any number of land units (if capacity allows).
+There is no cost to pick up naval units or drop them
+off.
+1 MP	 drop off any amount of land units.
+1 MP	 to enter a Lake Control Box.
+2 MPs	 to move from any lakeside town on Lake Erie or
+Huron to the Lake Transit Box (no units can end
+their turn in the Lake Transit Box).
++1 MP	 an amphibious attack costs 1 extra MP over and
+above the regular cost of 1 MP to disembark land
+units.
+
+15
+
+EXAMPLE: If a player used a “2” Strategy card to activate
+two schooners at Oswego, they could move into the Lake
+Control Box (cost 1 MP), drop one schooner off, (0 MP) and
+the second schooner could continue on to Ft. Niagara (1
+MP) and end its movement there.
+
+11.2 Free Naval Moves
+There are three instances under which a naval move can be
+done at no cost, where the expenditure of a Strategy card is
+not required.
+11.21 Free Naval Withdrawal (1): At the beginning of a
+player’s turn, before he plays or holds any Strategy card he
+may move his naval units from a Lake Control Box to any
+friendly lakeside town that the units could normally move to.
+This free naval move is done before the play of a Strategy card
+and thus cannot be cancelled by the play of a Contrary Winds
+card. Moving naval units onto the lake in the normal course
+of a player’s turn does cost a Strategy card. Those naval units
+that take advantage of the free Naval Withdrawal cannot move
+during that players card play. Therefore you cannot take a free
+Naval Withdrawal and then in your card play move those same
+naval units to another lake side town or back into the control
+box. No move whatsoever is allowed in that card play.
+11.22 Free Naval Withdrawal (2): In the Mutual Fleet Return
+Phase of the Summer-Autumn turn, players who have naval
+vessels in Lake Control Boxes must return them at no cost
+to any lakeside town on the same lake. When a player does
+so, place a Lake Control marker corresponding with his sides
+color in the box.
+11.23 Free Naval Return (3): In the Mutual Fleet Return Phase
+of the Spring-Summer turn the player who has a Lake Control
+marker in the box has the choice of a free naval move once
+again. This time he can place all, some or none of his naval
+units back into the Lake Control Box. In essence the reverse of
+what he did in the Mutual Fleet Return Phase of the SummerAutumn turn. However if the player does not move any naval
+vessels back into the Lake Control Box, lake control is lost,
+and the Victory Point Track must be adjusted.
+
+11.3 Lake Transport
+11.31 Naval units may carry land units from one friendly lakeside town to another friendly lakeside town but only if the lake
+is not controlled by the enemy player.
+11.32 A land combat unit may never end its turn embarked on
+a naval unit. A naval unit must have sufficient MPs to drop off
+a land unit or it may not carry the unit at all.
+11.33 Indian and Dragoon units cannot be carried by naval
+vessels.
+11.34 Naval units cannot end their turn in a Lake Control Box
+when carrying land units.
+
+© 2012 GMT Games, LLC
+
+16
+
+Mr. Madison’s War Rule Book
+
+11.35 Carrying Capacity: Ships have the following capacities:
+•	 schooner/sloop	
+
+1 unit of combat size 1 or 2 (detachments)
+•	 4 schooners/sloops	 1 combat unit of any size
+•	 brig	
+1 single combat unit
+•	 corvette	
+1 single combat unit
+•	 frigate	
+2 combat units
+•	 ship of the line	
+3 combat units
+
+11.36 In order for a land unit to be transported by water, it must
+have been located in a lakeside town before the card used for
+activating the naval unit(s) was utilized. After any land unit,
+including leaders, have been transported and dropped off in a
+lakeside town, they move no further.
+EXAMPLE: The brig Oneida and the 18th Regiment are located at Ft. Niagara NY. The play of a card with an OPV of
+at least “2” allows the Oneida to transport the 18th Regiment to any lakeside town on Lake Ontario. After dropping
+off the land unit, the Oneida could move to the Lake Control
+Box and end its move there. The 18th Regiment could move
+no further.
+11.37 If a land leader activates units in a lakeside town for the
+purpose of lake transport or amphibious attack, the leader must
+have began the turn in the lakeside town. (See the Playbook for
+an example of a land leader activating naval units.)
+
+11.4 Lake Control
+11.41 General Rule: The only units that may ever enter a Lake
+Control Box and remain there are naval leaders and naval units.
+Naval units entering a Lake Control Box must stop and fight a
+naval battle if enemy naval units are present in the box (12.0).
+Only one side can have naval units in the box at the end of a
+turn. Control of a lake is determined only after all movement
+and combat have been resolved.
+DESIGN NOTE: If the side controlling the lake loses the
+battle, it loses 2 VPs and the winning side takes control,
+gaining 2 VPs. Therefore a four point swing is possible when
+one player loses control of the lake, and the other player
+takes control.
+
+11.44 Lake Control Markers: These markers are
+only play aids to remind players who controlled
+the lake before the onset of Winter. It also serves
+to prevent the Victory Point marker from having
+to be moved every Winter since naval units cannot control the
+lake at that time. Players should remember that a Lake Control
+marker does not control the lake. Only naval vessels in the Lake
+Control Box can do that. The Lake Control marker is only a
+mnemonic device to indicate which player had control last
+during the Autumn turn.
+
+11.5 Amphibious Attacks
+11.51 Definition: An Amphibious Attack consists of moving
+land unit(s) carried by naval unit(s) to any lakeside space that
+is not under friendly control.
+EXAMPLE: An American unit carried by a naval unit to
+the Smiths Creek space is carrying out an amphibious move
+even though there may be no British units there and it is a
+zero space. The main point that makes the attack amphibious
+is the fact that the target space is uncontrolled and is enemy
+territory.
+11.52 MP Cost: An amphibious attack costs 1 extra MP over
+and above the regular cost of 1 MP to disembark land units.
+Effectively it cost 2 MPs to make an amphibious attack. Lands
+units participating in an amphibious attack must end their move
+in the space under attack, but the naval units may continue
+moving if they have MPs remaining.
+11.53 Failed Assaults: An amphibious attack that fails always
+results in the attacker retreating by water, since the enemy
+player cannot have been in control of the lake, a condition that
+must be met in order for an amphibious attack to be permitted.
+The attacking player must return all land units that participated
+(including the accompanying naval units) to any friendly
+lakeside town, not necessarily the town they embarked from,
+however all units must retreat to a single lakeside town.
+PLAY NOTE: Extreme caution must be exercised when performing an amphibious attack because you must leave sufficient shipping in the target space to retreat just in case the
+attack fails.
+
+11.42 Effects of Control: Besides earning the controlling player
+2 VPs, lake control prevents the enemy from using the lake as a
+supply line, conducting Amphibious Attacks, conducting Lake
+Transport and Retreats by Water.
+
+11.54 Amphibious attacks follow similar rules to lake transport
+(see 11.3), with the difference that enemy units can be at the
+target lakeside town space, which is not permitted for Lake
+Transport.
+
+11.43 Lake control does not inhibit the movement of enemy
+lake vessels in any other way. Enemy vessels can still conduct
+naval movement from one lakeside town to another or enter the
+Lake Control Box to initiate a battle. Some Event cards may
+override or trump this rule.
+
+11.55 Amphibious Attack DRM: In an amphibious attack a
+DRM of –1 is applied to the first round of combat, in addition
+to any other applicable modifiers.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+
+17
+
+12.4 Explanation of Naval Combat Results
+
+12.0 Naval Combat
+12.1 General Rule
+When a player moves naval vessels into a Lake Control Box
+that contains enemy units a naval battle must occur and the
+moving player is considered the attacker. Unlike land combat
+there is no retreat before battle in naval combat. Naval combat
+can only occur in a Lake Control Box. In no other instance do
+naval units ever engage each other in combat, even if temporarily in the same lakeside town space (which could occur in an
+amphibious invasion).
+
+12.2 Procedure
+When a naval combat occurs a single die is rolled, modifiers
+applied, and the result is implemented from the Naval Combat
+Results Table. There is only one round of naval combat, after
+which one side will have to retreat to a friendly lakeside town
+and the winning side will remain in the Lake Control Box if
+they have undamaged vessels remaining.
+
+12.3 Naval Combat Modifiers
+12.31 Force Ratio: If one player has more vessels than the
+other, that player receives a +1 (attacker) or –1 (defender)
+DRM. If one’s side has twice as many vessels or more, that
+side receives a +2/–2 DRM. Unlike land combat, naval units
+have no printed Combat Factor on the counters.
+12.32 Lead Unit: Each player chooses his
+vessel, which
+will usually be his best quality vessel. The quality of the vessels is compared and for each level of quality over the enemy
+vessel that player would get another +1 DRM. An “A” class
+vessel attacking a “B” class vessel would get a +1 DRM. An
+“A” class vessel attacking a “C” would get a +2 DRM. If the
+defender’s class was better than the attacker’s the modifiers
+would be negative.
+12.33 Naval Leader: If the commanding naval leader of the
+attacking force has a “+” combat modifier it is added to the die
+roll. If the commanding naval leader of the defending force has
+a “+” combat modifier it is subtracted from the die roll.
+
+12.41 Strikes Flag: When a player receives this result his
+vessel, or as the case may be his entire fleet, surrenders and is
+eliminated from the game. The victor of the battle still must
+roll for potential losses. See the Naval Combat Results Table
+12.42 Step Loss: A player must turn his lead vessel over to
+the reduced side and if there are any further losses required he
+may turn over any other vessels of his choice. Flipped vessels
+must return to any lakeside town immediately, which will usually be a naval base where the unit can eventually be repaired.
+Flipped vessels cannot enter a Lake Control Box, perform lake
+transport, amphibious attack, or engage in another combat.
+They can move to another lakeside town. Flipped vessels are
+ignored in combat, and if present suffer all of the results that
+can occur in association with that naval combat.
+
+12.5 Naval Retreats
+12.51 After naval combat is concluded one player’s units will
+usually remain in the Lake Control Box unless both sides were
+damaged to the point where all units must return to a lakeside
+town.
+12.52 When a naval unit is damaged it must immediately
+retreat to any friendly lakeside town on that particular lake at
+the end of the combat. This is true for the victorious player in
+the battle also.
+12.53 If there are no friendly lakeside towns that a player can
+retreat to, the vessels are destroyed instead. Naval units on Lake
+Erie can retreat to Lake Huron and vice versa.
+
+12.6 Naval Leader Casualties
+When a Strikes Flag result is achieved against a naval leader, the
+leader is flipped to its reverse side, and placed in any lakeside
+town on the same lake on which the battle was fought. This
+represents a new leader arriving to replace the captured leader.
+Should a replacement leader also be captured, merely repeat the
+procedure by placing the leader once more in a lakeside town.
+
+12.34 Frigate Bonus: If one side has frigates present and the
+other side does not, a +1 (attacker) or –1 (defender) DRM is
+applied.
+12.35 Small Ships Penalty: If one side’s fleet consists of only
+schooners and sloops, and the other side has at least one brig,
+corvette, frigate or ship of the line, the side with schooners/
+sloops receives a –1 DRM if attacking. If the schooner/sloop
+force is defending, the attacking player would receive a +1
+DRM.
+12.36 Battle Card: Play of a Battle card can also modify the
+combat result by a +1 or a –1 as the case may be.
+
+© 2012 GMT Games, LLC
+
+18
+
+Mr. Madison’s War Rule Book
+
+13.0 Supply
+13.1 Purpose
+All units on the map must be able to trace a line of supply (13.3)
+to a supply source (13.2) or suffer the penalties listed in 13.4
+for being out of supply.
+
+13.2 Supply Sources
+13.21 British: The supply source for the British player is always
+Quebec City, unless he builds a Supply Depot which acts as a
+temporary supply source.
+13.22 American: The supply sources for the American player
+are Albany, Pittsburgh, Mansfield or Ft. MacArthur, unless he
+builds a Supply Depot which acts as a temporary supply source.
+
+13.3 Supply Lines
+13.31 A line of supply exists if a unit can trace supply through
+a series of connected spaces, of any length, from the unit to
+the supply source.
+13.32 A line of supply cannot pass through a space in enemy
+territory unless the space contains a friendly unit of sufficient
+size to control the space.
+13.33 A line of supply can pass through spaces in friendly territory that contain enemy units as long as the enemy units have
+insufficient strength to take control of the spaces.
+EXAMPLE: If an American unit with a Combat Factor of
+“4” occupies the London space the supply line is cut and
+any British units west of London would be Out of Supply unless they had a supply line over Lake Erie. It does not matter
+if he American unit is itself out of supply, the fact that it is of
+sufficient size to control the space cuts off British supply in
+this instance.
+13.34 Indians: These units have the ability to interrupt supply
+lines only in spaces that have a VP value of “0” or “1”.
+13.35 Lakes: The lakes can be used as a line of supply as long
+as the enemy player does not control the lake. In order to use the
+lake as a line of supply, the unit need only be able to trace a line
+to a lakeside town, then over the lake to another lakeside town
+and then to a friendly supply source. A player does not have to
+have naval units on the lake to act as a supply line since supply
+schooners were used, and these are not depicted in the game. For
+purposes of supply, lake control is determined at the end of the
+turn in which a card has been played that enables such control.
+13.36 A unit that begins a card play in supply is still in supply
+if it is attacked in that same card play, but not if it attacks. In
+other words a unit cannot start its turn in supply, move into
+a situation where it is not in supply, and then attack without
+suffering the effects of being out of supply. This is NOT true
+for the defender.
+13.37 A defending unit starting an enemy card play in supply,
+will remain in supply even if it is cut off through the use of an
+enemy Campaign card.
+
+EXAMPLE: The US player utilizes a Campaign card to land
+a force at York. Using the same card, he moves another force
+to attack a British unit at Burlington that has only now been
+put out of supply. For this card play, the British unit is still
+in supply because it began the card play in supply. The effect
+of being out of supply would be in effect during the British
+player’s next turn.
+
+13.4 Out of Supply Effects
+Units that cannot trace a line of supply suffer the following
+penalties:
+•	 Cannot be Restored (8.3, case 5).
+•	 Have their Combat Factors halved (rounded up) for all
+offensive and defensive combat. For the purposes of this
+rule total the strength of all forces in a space, including
+forts, and then take one half. Do not take one half of each
+individual unit.
+•	 Reduced units that are out of supply and retreat into enemy
+territory are eliminated (10.72).
+•	 Reduced units that are out of supply that suffer Winter
+Attrition in enemy territory are eliminated (16.23).
+•	 Map spaces that have no supply line cannot be the construction location of a Supply Depot (13.52).
+
+13.5 Supply Depots
+13.51 Supply Depots can be used to act as a supply
+source for friendly forces in their original territory,
+and increases the Winter Quartering Value of a
+space by 4.
+13.52 Creating Supply Depots: In order to create a Supply
+Depot, a card with an OPV value of at least one must be played,
+and the space chosen for the depot must be in supply in an
+original friendly territory. Supply Depots can never be built
+in enemy territory.
+13.53 A Supply Depot acts as a supply source for the remainder
+of that game year only. All depots are removed at the end of
+each year after Winter Attrition is complete.
+13.54 The counter mix is absolute, and players can only construct three Supply Depots per side, but keep in mind that Supply Depots are destroyed before the Spring turn of every year.
+13.55 A Supply Depot is removed under these conditions:
+•	 During Winter turns after Winter Attrition is complete.
+•	 An enemy unit (naval unit included) occupies the space
+with no friendly units present.
+13.56 A Supply Depot can also supply 4 extra units on the space
+it occupies for the purposes of Winter Attrition.
+13.57 If a friendly town has been destroyed it cannot be used for Winter Quartering unless a Supply
+Depot is built there. In which case up to four units
+could quarter there on the space.
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+
+19
+
+14.35 Reinforcements and Winter Attrition: Units that are
+brought into play as reinforcements, or that can be moved in
+Winter turns, are still subject to Winter Attrition after all placement, movement and combat.
+
+14.0 Reinforcements
+14.1 General Rule
+Land reinforcements arrive at the beginning of the turn and are
+placed simultaneously before the cards are dealt out for the new
+season. It does not cost any MPs to place land or naval units on
+the map. The Set Up Charts show the turn of arrival for each
+unit in the game and where it is placed.
+PLAY NOTE: Most US units arrive at either Ft. MacArthur, Mansfield, Pittsburgh, or Albany. British units arrive at
+Quebec City but in some cases at specific spaces designated
+on the player aid.
+
+14.2 Delayed Reinforcements
+14.21 Reinforcements can be held back voluntarily for one
+game turn (not card play) by placing them on the Turn Record
+Track for the next turn. If they are not brought on at that time
+they are permanently removed from the game.
+14.22 A player can bring some reinforcements on the map and
+delay others, but this delay can still be no longer than one turn.
+
+14.3 Enemy Occupied Reinforcement Spaces
+14.31 If enemy land units are in control of the reinforcement
+space (see 14.33) and if the player wishes to do so, the reinforcements are placed on the space, and must engage in battle
+immediately. The action of placing the units and fighting a
+battle does not consume a Strategy card nor does it count as a
+player’s turn. This action occurs after players have drawn their
+new Strategy cards and in the phase of the player so concerned.
+The player can still use a Strategy card to move other units on
+the map. This is the only instance when a player can fight a
+battle as the attacker without playing a Strategy card.
+14.32 If the reinforcement units do not win the combat and
+force the defender from the space, the reinforcement units are
+lost for the entire game.
+14.33 Enemy units must control the space in order to have any
+effect on reinforcement arrival. If enemy land units are on a
+reinforcement space but do not control the space, then they must
+automatically retreat one space and allow the reinforcing units
+to come onto the map. This could be the case if an enemy unit
+was of insufficient size to control the space. Even the arrival
+of a lone leader causes this retreat. To block anything you must
+control the space.
+14.34 Blocked Leader Reinforcements: In the case where
+a land leader is the only unit that arrives at a reinforcement
+space and that space is controlled by an enemy unit, the leader
+is held off map until the space becomes free once again. This
+can occur after any card play and the leader could be placed in
+the player’s next card play, not necessarily the next game turn.
+
+14.4 Naval Reinforcements
+14.41 The only naval units that appear directly on the map after
+the game begins are the US Navy schooners that are scheduled
+to arrive during the second half of 1812.
+14.42 These units can only be placed on the map if their entry
+space is not controlled by an enemy unit. If there is an enemy
+unit on the space but of insufficient size to control the space,
+see case 14.33 above. If the space is controlled by the enemy
+these schooners are lost permanently and can never be introduced back into the game. Rule 14.2 does not apply in this case.
+14.43 Naval Leaders: For naval leaders, such as Chauncey, if
+the space of their indicated arrival is controlled by enemy units
+then they can come onto the map at any friendly lakeside town
+on the same lake. If none exist then they are not brought onto
+the game until one becomes free (see 14.34).
+
+15.0 Building & Repair of Naval Units
+15.1 Building Naval Units
+15.11 Unlike land units that are introduced “free” onto the
+map, both players must build their naval units in order to be
+able to use them. The only exceptions to this are the American
+schooner units that arrive directly onto the map in the second
+half of 1812 and do not have to be built. Historically, these
+were merchant vessels seized by the US government and hastily converted for war.
+15.12 Building Procedure: In 1813 and 1814, naval units
+become available to both players but they must be constructed
+before they are placed on the map. In order to place them
+on the map, players must play a card using its NBV value to
+determine how many and what type of vessels are placed. A
+single card can be used to build or repair (15.2) at more than
+one base at a time.
+EXAMPLE: The play of a “3” NBV card could be used to
+repair two damaged vessels at Kingston, and build a brig at
+Ft. Malden.
+15.13 Place new vessels directly onto the map at the naval base
+that is capable of constructing that particular vessel.
+NOTE: Ft. Malden is the main British base on Lake Erie
+and should be held as long as possible. The town of York on
+Lake Ontario can repair vessels in addition to Kingston, but
+the only vessel that can be built there is the Corvette Brock.
+See 15.33 Back-up Naval Bases.
+
+© 2012 GMT Games, LLC
+
+20
+
+Mr. Madison’s War Rule Book
+
+15.14 Order of Builds: The vessels can be built in any order the
+player desires but the order of appearance must be respected as
+to the year and the lake. The colored dots on the chart indicate
+the earliest turn and year the vessel can be constructed in.
+EXAMPLE: A vessel slated for 1814 (red dot) cannot be
+constructed in 1813 (yellow dot).
+15.15 A vessel that is available on one lake is not available on
+another. Consult the Ship Production Chart on the map to see
+what vessels are available on each lake.
+15.16 Enemy Occupied Construction Spaces: Should there
+be an enemy unit on the construction space but of insufficient
+size to control the space the ships are still built and the enemy
+unit is ignored. The rationale here is that the enemy units are in
+the vicinity but do not control the town or the naval dock yards.
+15.17 Building Cost: The cost to build vessels is determined
+by vessel type:
+	
+	
+	
+	
+
+NBV	
+1	
+2	
+3	
+
+Vessel Type
+Builds 2 schooners/sloops, or 1 brig, or 1 corvette
+Builds 1 frigate
+Combinations of above
+
+15.2 Repair of Naval Units
+15.21 Free Naval Repair: During each Winter turn players
+can flip any reduced naval vessels to their full strength side if
+they are located in a friendly naval base. This action does not
+require the play of a card.
+15.22 Repair with Strategy Cards: During any non-Winter
+turn players can repair naval vessels in a friendly naval base
+by playing a card for its NBV value.
+15.23 Repair Costs: The cost to repair vessels is determined
+by vessel type:
+	 NBV	 Vessel Type
+	 ½	
+Schooners/Sloops
+	 1	
+all other vessels
+EXAMPLE: The play of a card with a NBV of 2 would allow
+the repair of 1 brig, and 1 frigate or 2 schooners and 1 brig.
+
+15.34 On Lake Ontario the American back-up base is Oswego,
+for the British it is York. On Lake Erie the main American base
+is Buffalo in 1812, and Erie, PA. becomes automatically another
+main base in 1813. For the British, the main base is Ft. Malden
+and the back-up base is Port Dover.
+
+16.0 Winter Turns
+16.1 Winter Turn Sequence of Play
+During Winter turns, no cards are dealt, there is no Reinforcement Phase, and the Action Phase only occurs if players held
+Winter Event cards from the Summer-Autumn turn. The sequence of each Winter turn is as follows:
+1. Action Phase: Players may play one or two Winter Event
+cards they held from the Summer-Autumn turn as events.
+First Player is determined in the same way as the other
+two turns of that year.
+2. Winter Attrition: Land units suffer Winter Attrition
+(16.2).
+3. Free Naval Repair: All damaged naval vessels at friendly
+naval bases are automatically repaired (15.21).
+4. Remove Supply Depots: Remove all Supply Depots from
+the map (13.55).
+
+16.2 Winter Attrition
+16.21 During Winter turns, if the number of land units (not
+Combat Factors), exceeds the Winter Quartering value of the
+space the excess units will suffer a step loss (Exceptions: 16.23).
+Naval units do not suffer any effects of Winter Attrition.
+16.22 The player affected by the loss has the choice of which
+units to lose with the following restriction: a fresh unit must be
+reduced before an already reduced unit is removed from play.
+EXAMPLE 1: It is a Winter turn, and the US player has two
+units at full strength that are in the Cleveland space. Since
+the WQ value of Cleveland is only “1”, the US player must
+flip one of the units to its reduced side.
+
+15.24 You can use a card of any value to build or repair vessels
+but the costs can’t exceed the value of the card.
+
+15.3 Naval Bases
+15.31 All new construction has to take place at a designated
+naval base for the lake.
+15.32 A naval base destroyed through the use of an Event card
+is destroyed permanently. A naval base controlled by an enemy
+unit is not destroyed but is unavailable for use.
+15.33 Back-up Naval Bases: Back-up naval bases only come
+into play if the primary naval base on a lake is occupied or
+destroyed. In addition they only become functional in the next
+game year after a base is lost. Therefore it is very important to
+protect your primary naval base on each lake.
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+16.23 A unit that is already reduced is never removed from
+the game due to Winter Attrition unless both of the conditions
+below exist:
+•	 The unit is in enemy territory and the unit is out of supply
+•	 The unit occupies a space with a Winter Quartering value
+of “0” (16.26)
+EXAMPLE 2: Continuing the previous example, if one of
+the US units was already reduced, no unit would be flipped
+or removed because the units are in friendly territory, and
+the supply situation is irrelevant. The above two cases cited
+above were not met.
+DESIGN NOTE: This means that units that are already reduced are virtually ignored for purposes of Winter Attrition,
+unless both of the cases mentioned exist.
+EXAMPLE 3: The US player has five units in London for
+the winter, three full strength units and two reduced units.
+The WQ value of London is 3. The US player is over quartered by two units. Assume that the US player’s supply line
+is cut because he does not control Oxford, Thamesville or
+Port Talbot. Therefore two units minimum must suffer the
+consequences of Winter Attrition. In this case the two fresh
+units must be flipped because rule 16.2 must still be obeyed.
+That is, you may not remove a reduced unit when a fresh unit
+can take the penalty instead.
+EXAMPLE 4: Continuing the previous example, if the US
+units had a line of supply the procedure would have been exactly the same since fresh units must be reduced over already
+reduced units.
+16.24 If a unit is already reduced it is removed from the map if
+it is out of supply and in enemy territory and there are no other
+fresh units on the space to take the penalty. Note both conditions must apply in order for a unit to be removed permanently.
+EXAMPLE 5: Continuing from example 3, the US player
+has five units in London but this time 4 of them begin the turn
+already flipped. Assume also the US player does not have a
+line of supply. This force still exceeds the WQ value of 3 by
+two units. The US player must penalize at least 2 units and
+still obey all other rules of Winter Attrition. In this case he
+has to flip the single fresh unit to its reduced side and eliminate from play one of his flipped units. This is because the
+flipped units meet the negative requirements of case 16.23.
+
+21
+
+17.0 Final Victory Levels & Instant Victory
+17.1 Final Victory Levels
+The Final Victory Level is achieved by subtracting
+the VPs of the lowest player from the VPs of the
+highest player. This number is then utilized to assess the Victory Level listed below. The VPs are
+tracked as in rule 4.0.
+•	 Decisive Victory: If a player has scored 20 VPs or more
+he has achieved a decisive victory. In historical terms,
+he has met his government’s objectives for fighting the
+war. A decisive victory could lead to significant changes
+in the international border.
+•	 Marginal Victory: If a player has scored 10, but less than
+20 VPs he has achieved a marginal victory. He may have
+met some of the government’s basic objectives for winning the war but its effect on history might be minimal.
+•	 Moral Victory: If a player has scored less than 10 VPs he
+has achieved a moral victory. In historical terms its effect
+on peace negotiations would be negligible. For all intents
+and purposes, he has achieved the historical outcome.
+•	 Stalemate: If the marker is at “0”, the players can congratulate themselves on a game well played. This would
+be stalemate but is a British moral victory.
+
+17.2 Tournament Play
+For tournament purposes, since stalemates are not encouraged,
+the “0” Victory Level is a British moral victory. In historical
+terms the British war aim was to contain US forces and preserve Canada. In game terms related to history this would have
+resulted in the historical Treaty of Status Quo.
+
+17.3 Instant Victory Conditions
+17.31 US Instant Victory: If the US player controls the fortress
+city of Quebec in 1812 or 1813 the game immediately ends.
+The US player wins a decisive victory.
+17.32 British Instant Victory: If the British player controls any
+three of the four spaces of Albany, Pittsburgh, Ft. MacArthur
+and Mansfield the game immediately ends. The British player
+wins a decisive victory.
+DESIGN NOTE: The instant victory conditions are meant
+to show that if one side was that far enough ahead in territorial claims the other side would sue for peace.
+
+16.25 A unit(s) in friendly territory that is already reduced
+before Winter Attrition takes no further losses during this step,
+even if it is out of supply. However a unit without a reduced side
+that is required to take a step loss would be eliminated (3.17).
+16.26 A ‘0’ space cannot sustain any units in winter for either
+side. This includes the three ‘0’ spaces in Upper Canada. Land
+units (not leaders) are destroyed if it has to winter on one of
+those spaces.
+© 2012 GMT Games, LLC
+
+22
+
+Mr. Madison’s War Rule Book
+
+INDEX
+Activating Units...........................................................8.6
+Amphibious Attacks..................................................11.5
+Battle..................... (see Land Combat & Naval Combat)
+Battle Cards....................................8.31(7), 10.43, 10.62
+Building Naval Units.................................................15.1
+British Regulars.......................................................10.44
+Brock (Leader)...........................................................3.41
+Campaign Cards...........................................................8.7
+Class (Quality)..................................................3.12, 3.22
+Clear Spaces...............................................................2.12
+Colored Dots on Units...............................................3.15
+Combat (Land)...........................................................10.0
+Combat (Naval).........................................................12.0
+Commanding Leader...............................................10.42
+Command Limits.......................................................3.33
+Continue Combat.......................................................10.6
+Control of Town.........................................2.4, 4.14, 4.33
+Detachments..............................................................3.14
+Dragoons....................................................................3.62
+End of Game VP Penalties..........................................4.3
+Entering Enemy Occupied Spaces..............................9.3
+Event Card VPs..........................................................4.18
+First Player Determination.........................................7.33
+Forest Spaces.............................................................2.11
+Forts............................................................................2.7
+Attacking Combat Results.....................................2.77
+Building..................................................................2.74
+In Combat...............................................................2.75
+Increased Defense..................................................2.71
+Indians in................................................................2.76
+Kingston & Sackets Harbour Special....................2.73
+Lead Units in with mixed class......................10.32 (v)
+Free Naval Return.............................................7.4, 11.23
+Free Naval Withdrawal..........................7.4, 11.21, 11.22
+Head of Navigation......................................................2.3
+Holding Cards...................................................7.34, 7.35
+Indians..........................................................................3.7
+Instant Victory Conditions.........................................17.3
+Kingston Harbor........................................................2.73
+Lake Control.....................................................4.33, 11.4
+
+Lake Control Box.......................................................2.4
+Combat in...............................................................12.1
+Free Withdrawal from............................................11.2
+Free Return to.......................................................11.23
+Movement cost to enter........................................11.15
+Prohibition from leaving land units.....................11.34
+Restrictions in Pre-war Phase............................ 6.2 (3)
+Lake Huron.........................................................2.6, 4.34
+Lakeside Towns.........................................................2.13
+Lake Transit Box.........................................................2.5
+Lake Transport...........................................................11.3
+Lake VPs....................................................................4.16
+Land Combat...........................................................10.0
+Amphibious attacks................................................11.5
+Ft. Mackinaw/Ft. St. Joseph.................................10.72
+Land Combat Modifiers.........................................10.4
+Land Combat Results.............................................10.5
+Lead Unit in............................................................10.3
+Retreats to space with enemy unit.......................10.72
+Retreats by water....................................................10.8
+Reduced units in...................................................10.23
+Reduced units, compulsory retreat.......................10.63
+Steps in performing combat...................................10.2
+Land Movement.........................................................9.0
+Activation of.................................................8.3 (i) (iii)
+Encountering Naval units.........................................9.3
+Mandatory retreat of.................................................9.5
+Movement allowance of.........................................3.16
+Retreat before Combat.............................................9.5
+Leader Activation........................................................8.4
+Lead Units..................................................................10.3
+Leaders.........................................................................3.3
+Leader Capture...........................................................10.9
+Lower Canadian Milita Unit......................................3.63
+Major Invasion Routes...............................................2.23
+Major Roads...............................................................2.21
+Mandatory Retreat Before Combat.............................9.5
+Map Board..................................................................2.0
+Map Spaces..................................................................2.1
+Militia.........................................................................3.11
+Montreal..........................................................2.14, 10.41
+Movement Factors............................................3.15, 3.34
+Mutual Fleet Return Phase..........................................7.4
+
+© 2012 GMT Games, LLC
+
+Mr. Madison’s War Rule Book
+
+23
+
+INDEX
+Naval Bases......................................................2.15, 15.3
+Backup Naval Bases.............................................15.33
+Building & Repair of ships at.....................15.2, 15.12
+Destruction of.......................................................15.32
+Naval Build Value (NBV)..........................................8.21
+Naval Combat..........................................................12.0
+Combat Results......................................................12.4
+Conditions for.........................................................12.1
+Naval Combat Modifiers........................................12.3
+Resolution of..........................................................12.2
+Striking Flag.........................................................12.41
+Naval Leader Activations............................................8.5
+Naval Movement......................................................11.0
+Lake Transport.......................................................11.3
+Lake Transport Restrictions.................................11.32
+Retreat of Naval Units............................................12.5
+Naval Reinforcements...............................................14.4
+Naval Units.................................................................3.2
+Building.....................................................15.13, 15.17
+Repairing...................................................15.13, 15.21
+Northwest Company Indian Unit..............................3.61
+Operational Point Value (OPV).................................8.21
+Paths......................................................................2.2, 9.2
+Prewar Sequence..........................................................6.0
+Rank...........................................................................3.35
+Reaction Cards......................................................8.13(8)
+Reduced Units..........................................................3.16
+Attacker....................................10.23, 10.32 (2), 10.63
+Defender..............................................10.32 (3), 10.63
+Non-Eligibility to attack.......................................10.23
+Non-Eligibility as Lead Unit..........................10.32 (2)
+Priority for Loss.............................................10.32 (1)
+Winter Attrition for...............................................16.23
+Regulars.....................................................................3.11
+Reinforcements........................................................14.0
+Land Leaders appearance at.................................14.34
+Naval Leaders appearance at...............................14.43
+Reinforcement Spaces............................................2.16
+Reinforcement Spaces...............................................2.16
+Repair of Naval Units................................................15.2
+Replacement Leaders...................................................3.4
+Retreats......................................................................10.7
+Retreats by Water.......................................................10.8
+Retreat Before Combat................................................9.4
+
+Sackets Harbour.........................................................2.73
+Sequence of Play.........................................................7.0
+Setting up the Game....................................................5.0
+Strategy Cards...........................................................8.0
+1812 Deck preparation.............................................7.2
+1814 Deck preparation...........................................7.25
+As Battle Cards................................................8.37 (7)
+As Event Cards..........................................4.17, 8.3 (1)
+As Reaction Cards............................................8.28 (8)
+Battle of New Orleans Card................................4.23
+Campaign Cards................................ 8.31 (EXAMPLE)
+Card Draw................................................................6.2
+Card Deal...............................................................7.21
+Card Explanation......................................................8.1
+Composition of Deck...............................................5.2
+Declaration of War Card.......................................6.2
+Leader Activation with Campaign...........................8.7
+Left Over Cards........................................................5.2
+Naval Build Value............................................8.31 (4)
+Treaty of Ghent....................................4.21, 4.22, 7.25
+Supply.......................................................................13.0
+Supply Depots........................................................13.5
+Supply Lines...........................................................13.3
+Supply Sources.......................................................13.2
+Tecumseh............................................................3.5, 8.44
+Trails..........................................................................2.22
+Victory Levels (Final)................................................17.1
+Victory Points..............................................................4.0
+Victory Point Check.....................................................7.5
+Winter Attrition..........................................................16.2
+Winter Turns..............................................................16.0
+Winter Quartering Value............................................2.17
+
+© 2012 GMT Games, LLC
+
+24
+
+Mr. Madison’s War Rule Book
+
+Credits
+
+Special Thanks
+
+Designer: Gilbert Collins
+Developer: Dave Stiffler
+Researcher: Gilbert Collins
+Art Director, Cover Art and Package Design:
+Rodger B. MacGowan
+Cover Art: Cover paintings by Peter Rindlisbacher
+Map Art: Knut Grünitz
+Counter Art: Charles Kibler & Knut Grünitz
+Other Internal Components’ Graphics: Charles Kibler
+Playtesters: Matthew Collins, Randy Pippus, Larry
+Sisson, Mark Benninger, Ron Jacobsen, David Stiffler,
+Jim Lawler, Rod Coffey, Michel Boucher, Harry Martin,
+Mike Fauteux, Kevin McPartland, Jerry Shile, and
+Brice Feal
+Proofreaders: Hans Korting, Randy Pippus, Michel
+Boucher, Eric Guttag, Freddy Dekker
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy
+Lewis, Gene Billingsley & Mark Simonitch
+
+My thanks to Matt Collins who was responsible for giving
+us the beautiful play test map and to Mark Benninger who
+created the Vassal Module.
+Extra special thanks to marine artist Peter Rindlisbacher
+who graciously allowed us to use some of his fabulous
+paintings for the game box cover art, for Event cards 19,
+20, 31, 39, 94, 97, 106, and throughout the Play Book.
+Special thanks to developer Dave Stiffler, and artists
+Rodger B. MacGowan, Mark Simonitch, Knut Grünitz
+and Charles Kibler.
+Thanks to Dave and Sue Grassly of Floral City Images,
+Monroe Michigan for the photo on Event card 26.
+
+GMT Games, LLC
+
+P.O. Box 1308, Hanford, CA 93232-1308
+© 2012 GMT Games, LLC
+
+

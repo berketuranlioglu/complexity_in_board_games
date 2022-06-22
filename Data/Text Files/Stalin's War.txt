@@ -1,0 +1,2361 @@
+Living Rules
+
+The Eastern Front
+
+1941-45
+
+RULE BOOK
+TABLE OF CONTENTS
+1.0 	 Introduction................................................................... 2
+2.0 	 Components................................................................... 2
+3.0	 Terminology and Abbreviations.................................... 4
+4.0	 Game Set-up.................................................................. 5
+5.0	 Determining Victory...................................................... 6
+6.0	 Sequence of Play........................................................... 6
+7.0	 Strategy Cards............................................................... 7
+8.0	 Zones of Control (ZOC).............................................. 10
+9.0	 Stacking....................................................................... 10
+10.0	Movement.................................................................... 11
+11.0	 Combat........................................................................ 12
+12.0	Exploitation................................................................. 14
+13.0	Supply.......................................................................... 15
+
+14.0	Replacements............................................................... 16
+15.0	Weather........................................................................ 17
+16.0	Special Units................................................................ 17
+17.0	Oil................................................................................ 18
+18.0	Banked OPS................................................................. 18
+19.0	National Restrictions................................................... 19
+20.0	German Mobile Defense.............................................. 19
+21.0	Bidding........................................................................ 19
+22.0	Tournament Scenario................................................... 20
+23.0	Optional Rules............................................................. 20
+24.0	Easily Forgotten Rules................................................. 21
+25.0	Unit Set-up................................................................... 21
+Index.................................................................................... 22
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2010 GMT Games, LLC
+
+2
+
+Stalin’s War Living Rules Manual
+
+RULES OF PLAY
+
+1.0	 INTRODUCTION
+
+2.0	 COMPONENTS
+
+Stalin’s War is a two-player game simulating the course of the Second World War on the eastern front, from the German invasion of
+the Soviet Union on June 22, 1941 to the fall of Berlin in May, 1945.
+These rules are organized into numbered sections, with some
+sections further subdivided into subsections (for example, 2.1
+and 2.2). In a number of places in the rules, you will see references made to rules sections and subsections that are related to
+the one you are reading.
+This is the “Living Rules” document for the game. It includes
+errata and clarifications to the original rules. To aid readability,
+errata and additional rules are indicated in red text, while clarifications are shown in blue text.
+
+Credits
+Designer: Ted Raicer
+Developer: Paul Marjoram
+Art Director: Rodger MacGowan
+Box Art and Design: Rodger MacGowan
+Map & Cards: Charles Kibler
+Game Manuals & Player Aid Card: Charles Kibler
+Counters: Mark Simonitch
+Playtesters: Don Clarke, Paul Horvath, Stefan Mecay,
+David Hoskins, Francois Trebosc, Jeff Kinney, David Aud, Jeff
+Behan, Jesse Escobedo, Jim Lauffenberger, Tim Tow, Michael
+Dauer, Nicolas Pei, Thomas Francois Stanislau
+Proofreading: Jonathan Squibb, J. Peter Rich
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy Lewis, Gene
+Billingsley and Mark Simonitch
+
+Stalin’s War includes the following:
+•	
+•	
+•	
+•	
+
+One 22” by 34” map.
+88 5/8” die cut counters
+280 1/2” die cut counters
+2 player aid cards
+
+2.1	
+
+•	
+•	
+•	
+•	
+
+One rules booklet
+One playbook
+110 Strategy Cards
+Two 6-sided Dice
+
+THE GAME MAP
+
+The game map consists of a pattern of hexes superimposed on
+a map of the terrain over which the 1941-45 campaigns were
+fought. Individual hexes contain various symbols representing different types of terrain. These are shown on the Terrain
+Key printed on the map; their effects are listed in the Terrain
+Effects Chart.
+The game map also contains a number of charts and tracks to
+record various game functions. These include the General Records Track (used to record the accumulation of Replacements
+and Axis Victory Points), Fire Tables (used to resolve combat),
+the Action and Consecutive OPS Tracks, the Eliminated Unit
+Boxes, and the Turn Record Track.
+The map also marks two Axis Logistical Zones: the Paulus
+Zone (Russia, east of the Paulus line), and the Caucasus Zone
+(Russia, south of the Caucasus line). Note that the Paulus Line
+is considered to extend along the Kerch straits; e.g., a unit in
+Novorossiysk is considered to be east of the Paulus Line.
+
+© 2010 GMT Games, LLC
+
+3
+
+Stalin’s War Living Rules Manual
+
+2.2	
+
+THE PLAYING PIECES
+
+2.2.1	 Combat Units
+Combat units come in two different sizes. The 5/8” counters are
+Large Combat Units (LCUs) and the 1/2” counters are Small
+Combat Units (SCUs). LCUs represent Armies and SCUs represent Corps, except for the Soviet Union where LCUs represent
+Fronts and SCUs represent Armies or Corps. SCUs depict forces
+of between 20,000 and 60,000 men. LCUs represent large bodies of troops (up to 300,000 men) supported by heavy artillery,
+air units etc.
+	
+	
+
+Full	
+Strength	
+
+Reduced	
+Strength	
+
+Unit	
+Size	
+
+Single 	
+Step	
+
+No ZOC
+
+2.3	
+
+RO: Romania	
+
+THE STRATEGY CARDS
+
+2.3.1 	 Each player has his own deck of 55 Strategy Cards,
+subdivided into 2 groups: 25 cards labeled Blitzkrieg Cards and
+30 cards labeled Total War Cards. Each player begins the game
+using only his Blitzkrieg Cards.
+2.3.2 	 All Strategy Cards may be played as an Operations
+(OPS) card or a Replacement Point (RP) card. Strategy/Event
+Cards may also be played as an Event Card. Strategy/Combat
+Cards may also be played as Combat cards during combat.
+2.3.3 	 Strategy Cards that have an asterisk (*) following their
+Event Name must be removed from the game immediately following their play as an Event or Combat card.
+
+4
+	 Combat	 Movement	
+Attack	
+Movement	
+	No Rebuild			 Defense		
+ID	
+
+2.2.3 	 Counter Abbreviations
+	 GE: Germany	
+IT: Italy	
+	 SU: Soviet Union	
+HU: Hungary
+
+Unit
+Type
+
+			 RP Values	
+	 OPS	
+GE	
+GE	
+Axis	
+	 Value	
+Infantry	 Armor	 Minor	
+
+Card
+ID #
+
+The numbers printed across the bottom of a Combat Unit are its
+Combat Strength and Movement Allowance. Some Combat Units
+have two numbers across the bottom of the counter, while some
+have three numbers. If there are three numbers the first two are
+the Combat Strength subdivided into Attack and Defense Combat
+Strengths (the left-most and center numbers respectively), used
+depending on whether the unit is attacking or defending.
+
+	 Card
+	 Type
+
+•	 Combat Strength is a measure of a unit’s ability to inflict
+damage in Combat.
+
+	 Event
+	 Name
+
+•	 Movement Allowance (MA) is a measure of a unit’s ability to
+move.
+
+	 Combat
+	 Card
+
+Note that an SCU may be weaker in Combat than an LCU with
+a lower Combat Strength because LCUs perform their Offensive
+or Defensive Fire on a better Combat Fire Table than SCUs.
+Most LCUs and SCUs are printed on both sides of the counter.
+The two sides are called steps. Most Combat Units have two
+steps, although some weak units have only a single step. Single
+step units have a light ‘half-stripe’ over their ID number to enable players to identify them as single-step without having to
+turn them over. For two-step units the front side of the counter
+represents the unit at full strength and the reverse side represents
+the unit at reduced strength. Exception: Partisan counters consist
+of Inactive (front) and Active (back) sides. Note: Many German
+LCUs have four steps, represented on two different counters.
+When the first two steps are eliminated, the unit is replaced on
+the map by its second counter.
+Some Combat Units are marked with an asterisk on the left side
+of the counter. This indicates that this step of the unit may not
+be rebuilt. A unit with an asterisk on all its steps is permanently
+removed from the game when it is eliminated.
+2.2.2 	 Game Markers
+There are several types of Game Markers included in the game.
+Their use is described in the rules.
+
+	
+	
+	
+	
+	
+
+Asterisk
+(remove from
+game when
+played as an
+Event)
+
+	 Event
+	 Text
+
+2.4	 DAMAGED/MISSING
+COMPONENTS OR QUESTIONS?
+If there are any damaged or missing components, please contact
+us at:
+GMT Games
+P.O. Box 1308
+Hanford, CA 93232-1308
+If you have any questions about the rules, we’ll be glad to answer
+them if you send them to the address above with a self-addressed,
+stamped envelope. For faster response, we’re on the Internet at
+www.gmtgames.com, or at www.consimworld.com (where
+you will find discussion forums for both GMT and Stalin’s War).
+
+© 2010 GMT Games, LLC
+
+4
+
+Stalin’s War Living Rules Manual
+General Government: German-annexed Poland
+Germany: Germany is defined as the area marked “Greater
+Germany”, including “General Government”, as well as the
+hex containing Konigsberg. (This is important for placement of
+German units.)
+Guard: Any Soviet unit with a G in its unit ID.
+Hex Control: Players should keep track of who controls the
+following: Towns, Cities, Ports, Fortresses, Oil, and Victory
+Point Hexes. Control of such hexes changes over to the enemy
+at the instant an enemy unit enters it, as well as during the Attrition Phase under particular circumstances (see 13.3.9). Control
+markers are provided to be used where needed.
+
+3.0	 TERMINOLOGY AND
+ABBREVIATIONS
+*: If a Strategy Card with this symbol is played as an Event or
+a Combat Card, it is permanently removed from the game after
+this Action Round. It is not removed from the game if it is used
+as an OPS or RP card.
+Active Player: The player taking an action during his part of
+the Action Round.
+Axis: Collective term for German, Romanian, Hungarian and
+Italian forces, and the German Vlassov unit.
+Design Note: The Vlassov unit was made up of Russian POWs
+armed by the German. In terms of command it was German;
+in terms of quality it was Axis.
+
+Banked OPS: OPS that a player may save for use during OPS
+rounds later in the game turn.
+Combat Card [CC]: A card that is used to influence combat
+resolution. Such cards are indicated by having their OPS value
+in red type and by the notation “CC” to the right of the event
+name. Combat Cards are considered to be Event Cards.
+Combat Strength: The offensive and defensive combat ability
+of a unit, used to resolve combat on the Fire Tables. Some units
+have their Combat Strength subdivided into distinct Attack and
+Defense Strengths.
+Draw Pile: Face down stack of cards from which players draw
+their hands at the end of each turn.
+Event Name: An Event’s Name which is underlined indicates
+that the Event is a prerequisite for another Event. There will be
+a marker for these Events, as well as for other Events with longterm effects. Players may use these markers on the Turn Record
+Track as a reminder that the Event has occurred.
+Festung: Fortresses declared by the Axis player.
+Fortress Supply: A unit that is using a fortress as its supply
+source (see 13.2.4) is in Fortress Supply.
+Full Supply: A unit that can trace supply to a full supply source
+is in full supply.
+
+Logistical Lines: The map is divided by two Logistical Lines:
+the Paulus Line and the Caucasus Line. Axis units in the zones
+defined by these lines may have reduced movement and combat
+ability.
+Loss Number: The result from a Fire Table during Combat.
+Movement Allowance (MA): The maximum number of Movement Points a unit may spend each turn.
+Movement Points (MP): The cost to enter a hex during movement, as indicated on the Terrain Effects Chart. Hexes in Stalin’s
+War cost 1, 2 or 3 MP to enter. Note: Some hexsides cost additional MPs to cross.
+OPS Value: The number of OPS points which a player may
+spend for movement or combat in an Action Round. Each card
+has an OPS value of between 1 and 4.
+OPS Round: Any round in which a player spends OPS for the
+purpose of Movement or Combat.
+Other Fronts box: A box on the mapboard that is used to hold
+units sent away from the East Front by play of Events on Strategy
+Cards. Units that enter the Other Fronts box at reduced strength
+remain at reduced strength if and when they re-enter the game.
+The Axis player chooses which units are sent to the Other Fronts
+box as a result of Soviet Event play.
+Out of Supply (OOS): Units lacking a supply line to a supply
+source.
+Panzer: A term used to denote German armor units.
+Replacement Points (RPs): Points used to rebuild lost combat
+steps.
+Soviet Union: For game purposes, the Soviet Union is considered
+to include all Baltic States hexes.
+Victory Point (VP) Hex: Any hex containing a yellow star.
+When control of any of these hexes changes, the VP marker on
+the General Records Track should be adjusted by 1 in favor of
+the new controlling player.
+Zone of Control (ZOC): The ability of combat units to project
+their influence into adjacent hexes. Not all units have a ZOC
+(see 8.1).
+
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+
+4.0	 GAME SET-UP
+4.1	
+
+see 7.3.2). Players may take any valid Action in his round, except
+that they may not take a Replacement or Reinforcement Action.
+
+MARKER SET-UP
+4.1.1	 Place the Turn Record marker on the June 1941
+space of the Turn Record Track.
+4.1.2	 Place the Victory Point marker on the 7 space
+and the Axis and Soviet Hand Limit markers on the 6
+space of the General Records Track.
+4.1.3	 Place the Replacement Point and
+Banked OPS markers on the 0 space of the
+General Records Track.
+4.1.4	 Place each player’s Consecutive OPS marker
+on the 0 space of their Consecutive OPS track.
+
+4.1.5	
+
+Place all other markers within easy reach.
+
+4.2	
+
+UNIT SET-UP
+
+4.2.1	 Place the units for both the Axis and the Soviet players
+in the hexes listed in section 25.0.
+4.2.2	 Place units that do not start the game in play to one side.
+They may enter play as the game progresses.
+
+4.3	
+
+INITIAL STRATEGY CARDS
+
+4.3.1	 Set aside Soviet cards 1 through 6 for later use (see 7.1.3),
+then shuffle the remaining Soviet Blitzkrieg Cards and deal 6 to
+the Soviet player. Before doing so, the Soviet player is allowed
+to draw one Blitzkrieg card of his choice to add to his hand. This
+card can be any non-reinforcement Blitz deck card, or Soviet
+Reinforcement card number 4 (North Caucasus and Voronezh
+Fronts, plus 62nd and 64th armies). If the Soviet player exercises
+this option, he should only be dealt 5 further Blitzkrieg cards, so
+that his hand size is still 6. Please note that, per rule 4.4.1, neither
+player may take a Reinforcement round during turn 1, so if the
+Soviet player does draw Card number 4 in this way he will have
+to hold on to it until at least turn 2 before using it.
+4.3.2	 Shuffle the Axis Blitzkrieg Cards and deal 6 to the Axis
+player.
+4.3.3	 Set aside the Axis and Soviet Total War cards for later use.
+Note: Unfortunately, Axis Cards 51, 52, and 55 have the wrong labels. They should be labelled Total War, rather than Blitzkrieg, cards.
+Thus, they need to be placed in the Total War deck at the beginning
+of the game (rather than placing them in the Blitzkrieg deck).
+
+4.4	
+
+5
+
+BARBAROSSA SPECIAL RULES
+
+Design Note: The following rules simulate the Soviet unpreparedness for the initial Axis offensive, Operation Barbarossa.
+
+4.4.1	 Turn 1 (June 1941) consists of a single Axis Action
+Round, followed by a single Soviet Action Round. Exception: If
+the Axis player has the Steppe Fox event, and chooses to play it,
+he may immediately play a second card (and this second card determines which type of Round it is for Consecutive OPS purposes;
+
+4.4.2	 Units begin the game in their historical set-up positions.
+Consequently, Axis units may not move on Turn 1. They may
+perform combat, advance after combat, and conduct exploitation
+normally.
+4.4.3	
+
+No units may enter Hungary on Turn 1.
+
+Design Note: Hungary was neutral until July 1941.
+
+4.4.4	 Soviet units may not move or attack into Romania on
+Turn 1.
+Design Note: Soviet forces were initially under orders not to
+enter either Hungary or Romania.
+
+4.4.5	 Attrition is checked as normal this turn (i.e., check Axis
+attrition at the end of the Axis Action Round and Soviet attrition
+at the end of the Soviet Action Round). The remainder of the
+sequence of play for a normal game turn is then followed (Draw
+Strategy Cards and End of Turn Phases), ignoring Replacements.
+4.4.6	 On Turn 1 (June 1941), Exploiting German Panzer
+Corps ignore all non-swamp terrain effects.
+4.4.7 	 On Turns 1 (June 1941) and 2 (Summer 1941), Soviet
+Fronts may not participate in attacks on hexes that contain only
+German Panzer Corps.
+Design Note: The Soviets were simply not prepared in the
+Summer of 1941 to deal with German blitzkrieg operations at
+a level that would allow units the size of fronts to counterattack
+panzer spearheads.
+
+4.4.8	 On Turns 1 (June 1941) and 2 (Summer 1941), Soviet
+Mech Corps in different hexes may not combine in attacks against
+hexes containing only German Panzer Corps. The effects of
+Combat Cards or Events do not override this restriction.
+Design Note: Soviet Mech units in the Summer of 1941 proved
+incapable of this sort of coordination.
+
+4.4.9 During turns 1 to 4 (only), Axis play of cards for Reinforcements and/or Replacements does not reset the Axis Consecutive OPS marker (see 7.3.2).
+
+4.5	
+
+SOVIET MOBILIZATION
+
+4.5.1	
+As an exception to the normal Reinforcement rules (see
+7.5.2) during turn 2 (only), the Soviets may play two cards as reinforcements. Note that these two cards must be played in two separate
+and non-consecutive Action Rounds. Furthermore, the Soviet player
+also receives OPS when playing these two cards on turn 2 (only).
+This allows the player to spend OPS for movement and combat as
+usual, but note that in this instance the reinforcements placed may
+move, but not attack, in the round that they are placed. Reinforcement units are placed at the beginning of the Round, before any
+movement has occurred. As such, normal stacking limits do apply
+(see 9.0). When played in this manner, each of these two reinforcement cards leave the Consecutive OPS count unchanged (see 7.3.2).
+
+© 2010 GMT Games, LLC
+
+6
+
+Stalin’s War Living Rules Manual
+
+4.5.2	 Furthermore, during turns 2 and 3 (only) the Soviet
+player receives 3 RPs automatically. These RPs are spent during the Replacement Phase of that turn, as usual. This does not
+impact the number of RP plays the Soviet player may make that
+turn. (i.e., up to 2 other cards may be played as RPs during those
+turn; see 7.4).
+
+5.0	 DETERMINING VICTORY
+5.1	
+
+GENERAL RULES
+
+5.1.1	 During the course of the game players keep track of the
+VP level. The VP level starts at 7. It increases by 1 whenever the
+Axis gain control of a VP hex, and decreases by 1 whenever the
+Soviet player gains control of a VP hex. Some events also affect
+the VP level.
+
+6.0	 SEQUENCE OF PLAY
+Stalin’s War is played in turns, each of which is subdivided into
+Phases and Segments which must be strictly followed in the
+order listed below.
+
+A. ACTION PHASE
+Each Action Phase is divided into five identical Action Rounds.
+Each Action Round consists of an Axis Action Round followed
+by a Soviet Action Round. The Axis Action Round allows the
+Axis player to take one action; The Soviet Action Round allows
+the Soviet player to take one action.
+
+B. ATTRITION PHASE
+
+•	 If the VP level is 20 or more during the End of Turn Phase of
+any turn
+
+The Axis Attrition Segment takes place immediately upon the
+conclusion of the 5th Axis Action Round. The Soviet Attrition
+Segment takes place immediately upon the conclusion of the 5th
+Soviet Action Round. During the Attrition segments, OOS units
+belonging to the active player are eliminated and OOS friendlycontrolled Cities, Ports, Oil, and Victory Point hexes become
+controlled by the enemy (see 13.3.9).
+
+•	 If the Axis controls all of the Oil hexes on the map for two
+consecutive End of Turn Phases
+
+C. REPLACEMENT PHASE
+
+5.1.2	
+The Axis player wins an Automatic Victory in one of
+four ways:
+
+•	 If the Axis controls Moscow, Leningrad and either Rostov or
+Sevastapol at the end of Turn 4 (Winter 1942)
+•	 If, at the end of Turn 8 (Winter 1943), the Axis controls
+Moscow, Leningrad, Stalingrad and Sevastopol, and has cut
+the supply line to Baku (so that Baku no longer acts as a full
+supply source for the Soviets—see 13.2.3).
+5.1.3	 The Soviet player wins an Automatic Victory in one of
+four ways:
+•	 If the VP level is 0 or less during the End of Turn Phase of any
+turn
+•	 If the Soviets control Berlin, Budapest (both Buda and Pest),
+Bucharest and Konigsberg at the end of any Soviet Action
+Round
+•	 If no supplied Axis unit has moved to the east of the Paulus
+Logistical Line before the end of Turn 4 (Winter 1942)
+•	 If the Soviets control all VP spaces in the Soviet Union at the
+end of any turn between Turns 2 and 12 (inclusive).
+•	 The Soviet Player wins at the end of Turn 10 if the German
+player has 9 or fewer VPs.
+5.1.4	 The Campaign Scenario ends if either player achieves
+an Automatic Victory, or at the end of Turn 18 (Summer 1945).
+If neither player has won an Automatic Victory by the end of the
+Turn 18 Action Phase, the Axis player wins. There are no draws.
+5.1.5	 The Tournament Scenario ends at the completion of Turn
+8 (Winter 1943). Players count the number of VP spaces in the
+Soviet Union which are controlled by the Axis at that point: the
+Axis player wins if the Axis control 9 or more VP spaces; the
+Soviet player wins if 8 or fewer VP spaces are controlled by the
+Axis. See Section 22.0 for more details.
+
+SOVIET SEGMENT: The Soviet player spends any Replacement Points (RPs) accumulated through play of RP Cards this
+turn (see 7.4). Any RPs not spent are lost.
+AXIS SEGMENT: The Axis player spends any Replacement
+Points accumulated through play of Cards for RPs this turn (see
+7.4). Any RPs not spent are lost.
+
+D. DRAW STRATEGY CARD PHASE
+Players may discard any Strategy Cards remaining in their hand
+(see 7.6.2). The Soviet player decides first. Each player then
+draws cards from their Draw Pile to bring their hand to their
+current hand size (see 7.1.3). Each player begins with a hand
+size of 6 cards. Changes in control of Oil hexes and the effects
+of certain Event Cards may change a player’s hand size (see 7.6).
+
+E. END OF TURN PHASE
+•	 The Axis player may remove friendly Trench markers from
+the map
+•	 The Soviet player may remove friendly Trench markers from
+the map
+•	 Any remaining Banked OPS are lost (set the markers for both
+players to zero).
+If the war has not ended due to Automatic Victory or reaching
+Turn 18 (Summer 1945), advance the Turn marker to the next
+space on the Turn Record Track and begin the Sequence of Play
+again with the first Axis Action Round.
+
+© 2010 GMT Games, LLC
+
+7
+
+Stalin’s War Living Rules Manual
+
+7.2.3	 The players continue to alternate taking Actions until
+each player has taken five Actions.
+7.2.4	 As players take Action Rounds they record what type
+of round they have taken using a set of Action Round markers,
+placing them in the on-map Action Round boxes corresponding
+to the action that was taken in that round. These on-map boxes
+are color-coded green if the corresponding action advances the
+Consecutive OPS count, yellow if it leaves it in place, and grey
+if it resets the Consecutive OPS count to 0. Players record the
+number of Consecutive OPS they have spent (see 7.3.2) by placing the Consecutive OPS marker on the on-map Consecutive
+OPS track.
+
+7.0	 STRATEGY CARDS
+7.1	
+
+GENERAL RULES
+
+7.1.1	 In Stalin’s War, the Strategy Cards are the heart of
+the game. The players initiate most actions, including Combat,
+through the play of Strategy Cards.
+7.1.2	 Each player has their own deck of Strategy Cards, subdivided into two groups: Blitzkrieg Cards and Total War Cards.
+Each player begins the game using only their Blitzkrieg Cards.
+The Total War cards are added when Total War is initiated.
+7.1.3	 During the Draw Strategy Card Phase of each turn, the
+players draw cards from the Draw Pile to bring their hand to
+their current hand size. Exception: During turn 1 and turns 3-6,
+the Soviet player receives certain reinforcements automatically,
+from the cards that were placed to one side at the beginning of
+the game (see 4.3.1), and then draws cards from his Draw Pile
+to bring himself up to his current hand limit. Specifically:
+a) During turn 1, automatically draw cards 1 and 2 (so they will
+be available for use on turn 2);
+b) During turn 3, automatically draw card 3;
+c) During turn 4, automatically draw card 4;
+d) During turn 5, automatically draw card 5;
+e) During turn 6, automatically draw card 6.
+7.1.4	 Each Strategy Card may be used in one of three possible ways: Operations (OPS), Replacement Points (RP), or as an
+Event. The same card can be used in the same or a different way
+each time it is played during a game, but each card may only be
+used in one way each time it is played. Exception: Reinforcement plays during Soviet Special Mobilization (see 4.5).
+
+7.2	
+
+ACTION PHASE
+
+7.2.1	 Strategy Cards are played during the Action Phase of
+each turn. There are five Action Rounds per Action Phase. In
+each Action Round, each player is allowed to take one Action.
+7.2.2	 The Axis player conducts the first Action in each Action
+Round.
+
+7.2.5	 Note that, in direct contrast to most other ‘card-driven’
+games that you may be familiar with, most movement does not
+require the expenditure of OPS. More specifically, in any action
+phase in which a player has played a card for OPS, played an
+event that grants OPS, or taken the first of the two Automatic 0
+OPS Round options below, that player is free to move all of his
+units. Note that some movement does require OPS expenditure
+(see 7.3.3). In this latter case movement will be limited by the
+amount of OPS that are available.
+7.2.6	 The action taken in an Action Round depends upon
+whether the player plays a Strategy Card or not:
+If the player has a Strategy Card, he may play one as an OPS
+Round, RP, or Event.
+OR
+If the player has no Strategy Cards in their hand, or chooses
+not to play one, the player may take an Automatic 0 OPS
+Round. No Blitz markers may be placed as a result of combat
+in such a round (combat may still be possible because of OPS
+used from ‘Banked OPS’ (see 18.0)). A player has two options when taking such a round. First, the player may move
+or conduct combat with any units. In this case the consecutive
+OPS marker (see 7.3.2) remains in place (it is not reset to 0)
+and the number of OPS received during this round is not affected by the consecutive OPS marker. Second, a player may
+choose to neither move any units nor activate any spaces for
+combat in a 0 OPS round, in which case the player may reset
+the consecutive OPS count to 0 and is allowed to discard one
+card from his hand and replace it with a card drawn from the
+top of the Draw Pile if desired. Note that there are restrictions
+on the execution of 0 OPS Rounds during a Rasputitsa round
+(see 15.1.1).
+
+7.3	
+
+OPERATIONS
+
+7.3.1	 If a Strategy Card is played as an OPS Card, the player
+is allowed to spend a number of OPS Points equal to the modified
+OPS Value of the card (see 7.3.2).
+7.3.2	 Players receive fewer OPS for Strategy Cards that are
+played for OPS in consecutive rounds. This is tracked using the
+Consecutive OPS counter (one for each player), which begins
+the game in the 0 space on the Consecutive OPS track. If a player
+plays a Strategy Card as an OPS Card, place the Round marker
+
+© 2010 GMT Games, LLC
+
+8
+
+Stalin’s War Living Rules Manual
+
+for that Round in the “OPS Round” box of the on-map Action
+Rounds area. This box is colored green as a reminder that such
+a play advances the Consecutive OPS count. The Consecutive
+OPS count is then immediately increased by 1, and the counter
+on the Consecutive OPS track is moved accordingly. The number
+of OPS received for this card play is then reduced by the number
+indicated in the space currently occupied by the Consecutive OPS
+counter. Broadly speaking, this results in the player receiving one
+less OPS for each consecutive round in which they have played
+cards for OPS. (But note the exceptions for Soviet Mobilization
+(see 4.5.1) and some ‘0 OPS’ plays (see 7.2.6).) These effects are
+cumulative and do carry over from one turn to another. When,
+during their Action Round, a player plays a Strategy Card for
+RPs or an event, or takes a 0 OPS round in which no units move
+or are involved in combat (see 7.2.6), immediately reset the
+consecutive OPS marker to 0. Exception: The Consecutive OPS
+count is never reset during a Rasputitsa Round (see 15.1.1).
+
+7.3.5	 After all Movement is completed, the active player may
+use any remaining OPS to mark hexes with Combat markers.
+These markers may be placed in any hex. Once all such markers have been placed, units in these hexes may initiate Combat.
+The target of attacks need not be specified in advance. Combat
+is always voluntary, and no unit is required to attack. A unit may
+move, including expending an OPS for movement, and still initiate
+Combat if an OPS is spent to place a Combat marker on the hex
+it is in when its movement is complete. Note that hexes can be
+marked for both movement and combat (at a total cost of 2 OPS).
+
+Example: Suppose the Consecutive OPS count is at 0 at the
+end of the previous turn (for example, a card was played for
+RPs during the player’s last Action Round). During Action
+Round 1 the Axis player plays a Strategy Card for 4 OPS.
+The Consecutive OPS marker is placed on the Consecutive
+OPS on-map track on the “1st, Full OPS” box, and the full 4
+OPS are received for activation for movement and combat. If
+the Axis player plays a Strategy Card for OPS during Action
+Round 2 and that card again has a printed OPS value of “4”,
+the Consecutive OPS marker is placed in the “2nd, –1 OPS”
+box and the player receives 4–1=3 OPS. If the Axis player also
+plays a Strategy Card for OPS during Action Round 3 and it
+has a printed OPS value of “4”, the Consecutive OPS marker is
+placed in the “3rd, –2 OPS” box and the card’s value is reduced
+by two and will be worth only 2 OPS. If, in the next round, the
+Axis player plays a card as an event, the consecutive OPS count
+is reset, and the marker is placed in the “0 N/A” box.
+
+7.4.2	 The Soviet player may play a Strategy Card as an RP
+Card twice per turn.
+
+7.3.3	 A player is free to move any and all of his units, subject to
+the restrictions below, during each Action Round in which he either
+plays a card for OPS, or takes a 0 OPS round. Movement requires
+the expenditure of OPS only under the following circumstances:
+•	 It costs 1 OPS for a stack of one or more friendly units in an
+enemy ZOC to completely vacate the hex in which it begins the
+Action Round. However, if at least one unit which started the
+Action Round in a hex remains in it, all other friendly units may
+leave that hex without spending any OPS. Note: Moving units
+into a hex during an Action Round does not allow all the units
+which started in that hex to be moved without expending an OPS.
+Exceptions: Friendly units may leave an enemy ZOC while
+advancing after Combat and during Exploitation movement
+without having to spend OPS.
+•	 Strategic Movement (either rail or sea) costs 1 OPS per unit
+moved. Only SCUs may use Strategic Movement (see 10.2).
+Exception: Axis Naval Evacuation (see 10.2.7).
+Note: Movement during ‘advance after combat’ or exploitation
+never requires OPS expenditure.
+
+7.3.4	 Place a Move marker in each hex where an
+OPS was spent. (This is simply to help you keep track
+of how many OPS have been spent.)
+
+7.4	
+
+REPLACEMENT POINTS
+
+7.4.1	 If a Strategy Card is played as a Replacement (RP)
+Card, the player marks the number of RPs listed in the RP Box
+for each nationality on the General Records Track. The player
+may not conduct any other actions (e.g., movement) besides
+marking the RPs during this Action Round. Exception: Certain
+Strategy Cards specifically allow the player both to mark RPs
+and either conduct the card’s Event or use the card for OPS. This
+is indicated in the text of such cards.
+
+7.4.3	 The Axis player may play a Strategy Card as an RP Card
+once per turn. (Exception: The Axis may play 2 RP cards during
+Spring Turns in 1942 and 1943 only.) The Axis player may also
+play one Strategy Card with an Event that provides RPs as an
+Event each turn.
+7.4.4	 Players may not play a Strategy Card as an RP Card if
+they played a Strategy Card as an RP Card in their previous Action Round this turn. However, players may play an RP card in
+the last Action Round of one turn and in the first Action Round
+of the next turn.
+7.4.5	 RPs are spent during the Replacement Phase of each
+turn (see 14.0).
+
+7.5	
+
+EVENTS
+
+7.5.1	 General Rules
+7.5.1a 	 If a Strategy Card is played as an Event, the instructions
+on the card must be followed. The player may not move units
+unless explicitly permitted by the event.
+7.5.1b 	 A card may be played as an Event even if some or all of
+its effects are not applicable. For example, the Soviet side may
+play the Event Operation Bagration, which as part of its effect
+activates partisans, even if there are no partisans on the board.
+7.5.1c 	 If a Strategy card with an asterisk (*) symbol is played
+as an Event, it is permanently removed from the game at the end
+of the Action Round. The card is not removed from the game if
+is used as an OPS or RP card.
+
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+7.5.2	 Reinforcement Event Cards
+7.5.2a 	 Each player can bring new units (reinforcements) into
+play by using Strategy Cards that give reinforcements as Events.
+Only Events with the word “Reinforcements” in the event name
+are considered to be Reinforcement cards. Only one Reinforcement card may be played per turn by each player.
+Exceptions: 1. Neither player may play a Reinforcement card
+during the June 1941 turn; 2. The Soviet player may play two
+reinforcements during Soviet Mobilization (see 4.5).
+7.5.2b	 If a player cannot place all of the reinforcements listed
+on a card on the map, the card may be played but units not placed
+are permanently removed from the game.
+7.5.2c	 Axis-player reinforcing units are placed in that nation’s
+capital and/or any friendly-controlled Full Supply sources, Cities, or Fortresses in that nation (provided the city/fortress is in
+full supply — judge this as you would for a friendly unit in the
+same hex); the Soviet player places units similarly, but may also
+place reinforcing units in Towns that are in full supply. There are
+several exceptions noted on the Event Cards and below.
+•	 Soviet Total War (TW) Fronts (i.e., Front units received as
+reinforcement on Total War cards) are exchanged on a one for
+one basis for full- or reduced-strength fully supplied on-map
+Soviet Blitzkrieg Fronts. These units are listed in green text as
+a reminder. Place the TW Front in the hex of the Blitz Front
+they are replacing, while the replaced Blitz Front is removed
+from the game. The TW Front enters at full-strength regardless
+of the strength of the removed Front.
+•	 Most Soviet Total War Guard Armies with a “G” designation
+(i.e., “4G” through “11G”) are exchanged on a one for one
+basis for full- or reduced-strength fully supplied on-map
+Soviet Army (only) SCUs. Place the Guard Army in the hex
+of the Soviet Army it is replacing; the replaced Soviet Army
+is permanently removed from the game. These units are listed
+in green text as a reminder. The Guard Army enters at fullstrength regardless of the strength of the removed Soviet Army.
+Design Note: Guards armies 1G-3G were formed directly,
+not from existing armies, and so go onto the map without
+replacing any army.
+
+•	 Soviet Guard Tank Armies (units with a “GT” designation)
+are exchanged on a one for one basis for any full- or reducedstrength fully supplied on-map Soviet Tank Armies. Place the
+Guard Tank Army in the hex of the Tank Army it is replacing; the
+replaced Soviet Army is permanently removed from the game.
+These units are listed in green text as a reminder. The Guard
+Tank Army enters at full-strength regardless of the strength of
+the removed Tank Army. Note: If a Soviet Reinforcement card
+brings on both Guard tank armies and regular tank armies, those
+units can be placed in any order. Consequently, the regular tank
+armies that are placed are eligible to be replaced by the Guard
+tank armies, per the above rules.
+
+9
+
+7.5.3	 Reinforcing units listed inside parentheses () are placed
+on the map with their flipped (weaker) side uppermost.
+7.5.4	 Soviet Invasion Event Card
+The Soviet Black Sea, Black Death card allows the Soviet Marine Army to move from any friendly port on the Black Sea to
+any unoccupied coastal hex. After landing, the Marine Army is
+always in supply in a coastal hex as long as the Soviets control
+one port on the Black Sea.
+7.5.5	 Combat Cards
+7.5.5a 	 Combat Cards are Events that can be played during a
+Combat to influence it. First, the Attacker chooses whether to
+play Combat Cards, and reveals those cards; then the Defender
+does the same. Combat Cards are the only cards which can be
+played during the opponent’s Action Round.
+7.5.5b 	 If a player plays any Combat Cards and wins the Combat, the player places those Combat Cards face up on his side of
+the map. (Exceptions: 1. Combat Cards marked with an asterisk
+(*) are permanently removed from play immediately after use;
+2. Combat Cards that explicitly state they may only be used
+once per turn are immediately dicarded.) The player may, if he
+chooses, use these face up cards to influence Combat in future
+Action Rounds. The cards may be used to influence one other
+Combat per Action Round (not including the current Action
+Round), initiated by either player, in which their conditions apply, for the balance of the turn (however, see 7.5.5c). Note that
+Soviet Combat Cards Operation Uranus and Sturmovik, and Axis
+Combat Cards Sleighride and Führer’s Firemen, are exceptions to
+this rule. They affect all attacks that round, regardless of combat
+results, after which they are discarded.
+7.5.5c 	 If a player loses a Combat and has used any Combat
+Cards, whether played specifically for this Combat or saved from
+a previously won Combat, those Combat Cards are discarded.
+7.5.5d 	 At the end of each Turn, all Combat Cards which were
+played must be discarded even if the player was victorious in
+every battle in which the card was used. Place the cards in the
+player’s Discard Pile.
+7.5.5e 	 A Combat Card can be used a maximum of once per
+Action Round until it is lost due to 7.5.5c or 7.5.5d. (Exceptions:
+Operation Uranus, Sturmovik and Luftwaffe Support; see 7.5.5b.)
+
+•	 Italian units enter at Bucharest and/or Odessa (in each case if
+Axis controlled).
+•	 The capital of Hungary is Buda.
+© 2010 GMT Games, LLC
+
+10
+
+7.6	
+
+Stalin’s War Living Rules Manual
+ZOCs have no effect on Advance After Combat or Exploitation.
+Also recall that moving units into a hex during an Action Round
+does not allow all the units which started in that hex to be moved
+without expending an OPS (see 7.3.3).
+
+HAND SIZE
+
+7.6.1	 General Rules
+The maximum/minimum hand size is as follows:
+•	 No player may ever have a hand size greater than 7.
+•	 No player may ever have a hand size less than 4. Exception: The
+Axis player has no minimum hand size on turns 16 through 18.
+The maximum/minimum hand size may change because of:
+•	 Control of Oil hexes (see 17.1)
+•	 Play of certain Events that reduce hand size
+7.6.2	 Both players have the option to discard any or all of the
+Strategy Cards remaining in their hand before they draw new
+cards. Players may examine the cards that their opponent
+discards.
+7.6.3	 If a player needs to draw a Strategy Card but their draw
+pile is empty, reshuffle the discards to form a new draw pile.
+7.6.4	 Total War is triggered at the beginning of the Card Draw
+Phase if it is turn 6 or later and either of the following conditions
+are satisfied:
+•	 Either player has removed 12 “*” Strategy Cards from the
+game by playing them as Events.
+•	 The players have removed a combined total of 20 “*” Strategy
+Cards from the game by playing them as Events.
+Total War can never be triggered before Turn 6.
+When Total War is triggered, each player adds their Total War
+cards to all their discards and undrawn Blitzkrieg cards and
+reshuffles them to form a new Draw Pile.
+
+9.0	 STACKING
+
+8.0	 ZONES OF CONTROL (ZOC)
+
+9.1	
+
+GENERAL RULES
+
+8.1 	
+The following units have Zones of Control when in full
+supply (see 13.1.2):
+
+9.1.1	
+
+A maximum of four (4) combat units may stack per hex.
+
+9.1.2	
+
+Only one LCU may stack per hex.
+
+•	 All LCUs
+•	 Soviet Mech Corps, Tank Armies, and Guard Armies
+•	 German Panzer Corps
+No other units have ZOC. Units without a ZOC are indicated by
+the presence of a faint white square at the border of their playing
+piece. Units in fortress supply (see 13.2.4) have no ZOC.
+
+9.1.3	 The following unit types do not count for stacking, but
+there may only be one of each type per hex:
+•	
+•	
+•	
+•	
+
+Stalin
+the Bunker
+Soviet Fortified Zone
+Partisans (Active or Inactive).
+
+8.2 	
+ZOCs extend into all adjacent hexes, with the following exceptions: ZOC do not extend across impassable hex-sides
+(i.e., lake and sea hex-sides); ZOCs do not extend into Fortress
+or Festung hexes; Axis ZOCs do not extend into a hex with a
+Soviet Fortified Zone marker.
+
+9.1.4	 Stacking is in effect at all times except during regular
+and strategic movement, exploitation, and retreat (although it
+applies at the end of movement, exploitation, and retreat).
+
+8.3 	
+All units must stop upon entering an enemy ZOC.
+Units in an enemy ZOC may only exit the hex if a friendly unit
+remains in the hex or an OPS is spent to allow the unit(s) to move.
+Units may not move directly from one enemy ZOC to another,
+or retreat or trace supply through an enemy ZOC. (Exception:
+friendly units negate enemy ZOC for retreat and supply only.)
+
+9.2.1	 Hungarian and Romanian units may never stack in the
+same hex.
+
+9.2	
+
+9.2.2	
+
+© 2010 GMT Games, LLC
+
+SPECIAL RULES
+
+Partisans may never stack with any other Soviet units.
+
+Stalin’s War Living Rules Manual
+
+11
+
+10.2.2	 Units may move any distance by rail along rail lines.
+They may begin their move in an enemy ZOC provided the hex
+contains another friendly unit, and provided that unit does not
+itself use Strategic Movement, but they may not thereafter enter
+a hex in an enemy ZOC. Axis units using rail movement may
+ignore one Inactive Partisan unit, but must stop upon entering a
+second such hex in a single rail move.
+10.2.3	 A player may use all rail hexes for rail movement,
+provided they can trace an uninterupted line of rail hexes free
+of enemy units, enemy ZOC, or enemy controlled city/oil/VP/
+Port/Fortress hexes to a friendly supply hex. Exception: Axis
+units may not use rail movement in the USSR during Turns 1-4,
+or in the Baltic Republics (Latvia, Estonia and Lithuania) during
+turns 1-2.
+10.2.4	 Axis units may never use rail movement in the Caucasus
+Zone. Soviet units may never use rail movement in Germany.
+
+10.0	MOVEMENT
+10.1	 GENERAL RULES
+10.1.1	 Clear hexes cost 1 MP to enter regardless of the presence of towns/cites/fortresses/festungs. Movement costs for other
+terrain types are listed on the Terrain Effects Chart.
+10.1.2	 If multiple terrain types exist in a hex, the unit pays the
+greatest of the associated MP costs. For example, it costs 2MPs
+to enter Astrakhan (hex 3032).
+10.1.3	 Movement must be from hex to adjacent hex. Hexes
+may not be skipped.
+10.1.4	 A unit may never spend more Movement Points than its
+Movement Allowance in a single turn. Unused Movement Points
+cannot be accumulated for future turns or transferred to other
+units. Exception: Units may always move a single hex (only),
+even if the cost of that move would ordinarily be greater than
+their MA, provided the movement is legal in every other way.
+(For example, a Soviet shock unit, with a MA of 2, may enter a
+mountain hex.)
+10.1.5	 Supplied Axis units that start their move east of the
+Paulus Logistical Line on Turns 1 to 4 have their Movement
+Allowance reduced by 1.
+10.1.6	 Units may not enter a hex that contains enemy units.
+Exception: Axis units may move through, and stack with, Inactive Soviet Partisans.
+
+10.2	 STRATEGIC MOVEMENT
+10.2.1	 If a Strategy Card is played as an OPS Card, the player
+may also use Strategic Movement to move SCUs. Strategic
+Movement occurs at the same time as regular movement. However, a unit cannot use normal movement or attack on the same
+round that it uses strategic movement. It costs 1 OPS per SCU
+to move by rail or by sea. The German Bunker unit may not
+use Strategic Movement. A player may expend OPS to conduct
+Strategic Movement during the same Action Round that OPS are
+also spent for other movement or attacks.
+
+10.2.5	 The Axis player may use Strategic Movement to Sea
+Move one SCU per turn in the Baltic Sea and one SCU per turn
+in the Black Sea/Sea of Azov. The unit must start and end its
+move in a friendly port, (the presence of enemy ZOC does not
+prevent such a move), and may not move east of a port under
+Soviet control.
+10.2.6	 The Soviet player may use Strategic Movement to
+Sea Move 1 SCU per ACTION ROUND in the Black Sea/Sea
+of Azov only. The unit must start its move in a friendly port,
+but may move to any non-enemy-controlled hex, regardless
+of the presence of enemy ZOC, but never west of an Axiscontrolled port.
+10.2.7	 The Naval Evacuation Event allows the Axis player to
+evacuate any 1 LCU from a port hex to another friendly port hex
+farther west. The LCU is automatically reduced to its last step
+strength.
+
+10.3	 TRENCHES
+10.3.1	 A player may attempt to build a trench in
+a hex containing one of his LCUs by expending 1
+OPS. The LCU may not move, but other units in the
+hex may move freely. After all Movement for the
+Action Round is complete, the player rolls a die for each hex
+which has an LCU attempting to entrench. If the die roll is 1-3
+place a Trench marker in that hex. Only one entrenchment attempt
+can be made per hex per Action Round. Note: The Soviet player
+may attempt to entrench only after play of the People’s Militia
+Event, the Axis only after play of the Hedgehogs Event.
+10.3.2	 Friendly Trenches are removed from the map either
+when the hex becomes enemy controlled or enemy occupied or
+as the player chooses during the End of Turn Phase. The number
+of trench markers provided with the game is an absolute limit.
+10.3.3	 Trenches must be placed in spaces containing an LCU
+even when placed as a consequence of an event (i.e., People’s
+Militia).
+
+© 2010 GMT Games, LLC
+
+12
+
+Stalin’s War Living Rules Manual
+11.1.9	 The Axis player may not attack the Leningrad hex until
+the Nordlicht Event has been played, the Moscow or Gorki
+hexes until the Taifun Event has been played, or the Stalingrad
+hex or any hex in the Caucasus Logistics Zone until the Blau
+Event has been played. They may however move into these
+hexes at any time if they are vacant. Once the appropriate card
+has been played, one or more of the restricted hex(es) has been
+entered, or control of at least one the space(s) has been gained
+due to attrition, the relevant restriction is removed for the rest
+of the game.
+Example: If an Axis unit moves into a vacant Moscow hex, Axis
+units are now free to enter/attack Moscow and Gorki at any time.
+
+11.0	 COMBAT
+
+11.1.10	 Axis units may not attack across any Volga hexside south
+of Saratov unless either Moscow or Stalingrad is Axis-controlled.
+These hexsides are marked on the map with a white, dashed line.
+
+11.1	 GENERAL RULES
+
+11.2	 COMBAT RESOLUTION
+
+11.1.1	 A Combat can be initiated only during an Action Round by combat units in a hex containing a
+Combat marker. Combat is voluntary and not all units
+in a hex have to attack.
+11.1.2	 The active player is called the Attacker and the nonactive player is the Defender.
+11.1.3	 Each Combat may involve only one defending hex,
+and only one attacking LCU. Combat is normally between two
+adjacent hexes. Units in other hexes may attack in combination
+with units from the first attacking hex, as long as there is a Panzer/Tank/Mechanized unit in the additional hex that is attacking
+the defending hex, and provided that hex is also activated for
+Combat. Exception: The Soviet Zhukov event allows the Soviet
+player to ignore the requirement for mechanized units in the
+additional hex of attacks that arise from use of that event.
+Example: If Soviet units attack an Axis unit from three adjacent
+hexes, two of those hexes would have to contain an attacking
+Tank Army or Mechanized Army.
+11.1.4	 A single hex may be attacked only once per Action
+Round. All units in a single hex defend as a whole, except for
+units which have retreated into that hex during that Action Round
+(see 11.4.5). Empty hexes may not be attacked.
+11.1.5	 Units in a single hex do not have to participate in the
+same Combat (or any Combat). They may attack different adjacent hexes.
+11.1.6	 Each unit may participate in only one Combat per Action
+Round. A unit’s Combat Strength may not be divided between
+multiple Combats.
+
+11.2.1	 Each Combat is resolved using the following procedure,
+in the order given:
+1. Designate the Combat: The active player designates which
+units are attacking and which hex they are attacking. Supply
+status of defending units is now determined.
+2. Determine Combat Strengths: Each player totals the
+Combat Strengths of the units involved in the Combat to
+determine his total Combat Strength. This step is conducted
+simultaneously.
+3. Play Combat Cards: The Attacker may play any number
+of Combat Cards whose conditions are met by this Combat.
+In addition, the Attacker may use any Combat Cards that are
+in front of him whose conditions are met by this Combat and
+which have not been used in a previous Combat during this
+Action Round. After the Attacker plays and selects all his
+Combat Cards, the Defender has the opportunity to play and
+select Combat Cards using the same procedure outlined for the
+Attacker. Exception: a player may not use CCs in a combat if
+all his forces in that combat are OOS (see 13.3.4).
+4. Determine Fire Column: Each player determines which
+Fire Table he will use. If the player’s units contain one or more
+LCUs (even if reduced), the player fires on the LCU Table;
+otherwise, the player fires using the SCU Table.
+Exception: If a stack contains three or more Panzer SCUs
+it automatically fires on the LCU Combat table in attack or
+defense. If attacking, these units must attack the same hex in
+order to fire on the LCU column. The units are treated as SCUs
+for all other purposes (e.g., taking losses).
+
+11.1.7	 Active Partisan units may never attack or defend with
+other Soviet units.
+11.1.8	 Only attacking units participating in a Combat may take
+losses or advance. If there are non-participating units in the attacking hex, they are not allowed to take losses or advance, but
+they may be able to Exploit.
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+Each player finds his Combat Strength on the appropriate Fire
+Table. Note that the attacker may shift a number of columns
+depending upon the Terrain Effects of the defending hex to
+determine his Fire Column. Both players may also shift a
+column due to effects of German Mobile Defense (see 20.0).
+Each player will also shift one column to the left if any of his
+units are OOS (see 13.3.5). The Axis player may also shift due
+to the effects of weather (see 15.1.2). Finally, the Axis player
+shifts one column to the left when attacking during turns 1-4
+if the unit or units being attacked in that combat are east of the
+Paulus Line and all attacking units are in full supply. This step
+is conducted simultaneously. All column shifts are cumulative.
+Design Note: The column shift relating to the Paulus Line
+reflects the poor supply chain to easternmost Axis units
+during the early stages of the offensive. As such, it does not
+apply to OOS units, since they will already receive a column
+shift for being out of supply.
+
+Column shifts cannot cause the Fire Column to be off the
+Tables. If the column shifts would take the Fire Column below
+the leftmost column or above the rightmost column, any additional shifts are ignored.
+5. Determine Results: Each player rolls a die and cross references it with his Fire Column to determine his result. This step
+is conducted simultaneously.
+6. Take Losses: Each player must now apply the Combat losses
+required by his opponent’s result, Defender first.
+7. Determine Combat Winner: If one side (only) is completely eliminated, then the other side is considered the winner
+of the combat. Otherwise, the player who inflicts the higher
+Loss Number wins the Combat. Note that neither Combat
+Cards that inflict or remove step losses, nor the extra Soviet
+loss that results from use of the Zhukov event, affect determination of the combat winner. The losing player must discard
+all played and selected Combat Cards. The winning player is
+allowed to keep any played or selected Combat Cards active
+unless the text on the card explicitly prohibits this, or the Event
+name is asterisked (the Combat Cards stay face-up in front of
+the player and can be used in subsequent Action Rounds). If
+both players’ Loss Numbers are the same, or all units of both
+sides are completely eliminated, both are considered to have
+lost and must discard any selected Combat Cards. Exception:
+The attacker wins if all of the following conditions apply:
+•	 The Loss Numbers are the same
+•	 The Attacker has a surviving fully-supplied Mechanized/
+Guard/Tank/Panzer SCU
+•	 The Defender does not have a surviving fully-supplied Mech/
+Guard/Tank/ Panzer SCU
+•	 The defending hex does not contain a Swamp, Trench, Festung,
+or Fortress.
+
+13
+
+8. Defender Retreat: If the requirements are met (see 11.4),
+the defender may have to retreat one or two hexes. The defender may have the option to cancel the retreat by taking an
+additional step loss (see 11.4.3 and the Terrain Effects Chart).
+9. Attacker Advance/Place Blitz markers: If the
+defender retreated or was completely eliminated,
+the attacker has the option to advance with any remaining units into the vacated hex, regardless of ZOC (see
+11.5). If the Attacker has units that are allowed to Exploit, he
+may place a Blitz marker in the vacated hex, as long as at least
+one such unit advances into it and the hex is not forest, rough,
+swamp, mountain, city, Fortress, Festung, across a major
+river or the Kerch crossing (see the Terrain Effects Chart).
+Exception 1: If the Soviets received no Lend-Lease Banked
+OPS at the start of any Turn (see 18.3), no Soviet Blitz markers
+may be played that Turn.
+Design Note: This exception reflects the effects of a lack of
+trucks and spare parts if shipments from the US are cut off.
+
+Exception 2: No Blitz markers may be placed during a 0 OPS
+round (see 7.2.6).
+A player may place no more than 4 Blitz markers in a single
+round. If a Blitz marker is placed, the attacker may advance
+into that hex in excess of stacking limits if desired, but stacking will be checked as usual after exploitation is complete. If
+an attack involves multiple attacking units, some of which are
+crossing river hexsides, a Blitz marker may only be placed if
+the attacker advances an exploitation-capable unit across a
+non-major river hexside into the defender’s vacated hex.
+
+11.3	 TAKING LOSSES
+11.3.1	 The result of each player’s die roll on the fire table is
+their opponent’s Loss Number.
+11.3.2	 Losses are taken by reducing or eliminating combat
+units. Each step removed from a unit counts one towards fulfilling
+the Loss Number. No unit may take a second step loss in a combat
+(including losses from Combat Cards) unless every other combat
+unit of that side has taken a step loss in that combat. Exception:
+the Stalin counter may take a step loss only if all other combat
+units in its hex have been eliminated.
+11.3.3	 Important rule: The first step loss in any attack (not
+defense) must be taken from a panzer, tank or mechanized unit
+if possible.
+11.3.4	 Asterisked results can cause a loss only to an SCU. If
+the affected player only has LCUs involved in the combat, no loss
+is taken (but the original loss number is still used to determine
+the winner of the combat in step 7 of 11.2.1). A player may not
+choose to apply an asterisked result to an LCU.
+11.3.5	 Note that Combat Cards that alter losses (e.g., the Tiger
+Event) take effect after the winner of the battle is determined.
+
+© 2010 GMT Games, LLC
+
+14
+
+Stalin’s War Living Rules Manual
+
+11.3.6	 Eliminated units are available for recreating during the
+Replacement Phase. Place such units in the Eliminated Units box
+where they are available to be be replaced in any subsequent
+Replacement Phase (see 14.0). However, Axis LCUs that are
+eliminated while they are OOS are placed on the turn record
+track three turns later. When the Turn marker advances into a
+space that contains Axis LCUs, they are placed in the Eliminated
+Units box and may now be replaced. Exception: The Soviet
+Southwest Front is represented by two counters. The first time
+that the Soviet Southwest Front is eliminated it is replaced by
+the counter corresponding to its weaker version. Place the replacement SW Front counter in the Eliminated Units box and
+permanently remove the original SW Front unit.
+
+11.4	 RETREATS
+11.4.1	 If the Attacker wins the Combat, any defending units not
+eliminated must retreat unless the defender uses the No Retreat
+option (see 11.4.3). Exception: Defending units in a Festung
+must ignore all retreats and do not lose any additional steps.
+Retreating units may retreat to different hexes.
+11.4.2	 The number of hexes of the retreat depends upon the
+difference in the Loss Numbers. If the difference is zero or one,
+the defender must retreat one hex. Otherwise, the defender must
+retreat two hexes.
+11.4.3	 No Retreat Option: Defending units in Forests, Mountains, Rough, Swamps, Trenches, or Fortresses may chose to
+ignore a retreat by taking one additional step loss. The step loss
+can be from any defending unit, without regard to the restrictions
+of 11.3.2. The one additional loss cancels the retreat, regardless
+of the number of retreat hexes required. At least one defending
+step must remain in the hex after the additional loss or the No
+Retreat option may not be taken.
+11.4.4	 Units which cannot perform a retreat nor use the No
+Retreat option are eliminated. Units that are eliminated for failure
+to retreat, or eliminated while OOS, are treated as if they were
+eliminated due to OOS (see 13.3.8).
+Units which retreat must follow the restrictions below:
+•	 Must retreat a number of hexes exactly equal to that required
+by 11.4.2.
+•	 May not enter a hex containing an enemy unit nor an enemy
+Fortress/Festung.
+•	 May not retreat from a port by sea.
+•	 May not retreat into an un-negated ZOC (see 8.3).
+•	 May not retreat back into the original defending hex if
+retreating two hexes.
+
+Retreats should also obey the following conditions, where possible, where the items are listed in order of priority (from highest
+to lowest priority).
+•	 Must avoid retreating into enemy-controlled cities if possible,
+but may retreat into an empty city if not. They do not gain
+control of enemy controlled hexes they retreat through, but
+they do gain control of the hex in which they end their retreat.
+•	 Must end their retreat in supply if possible.
+•	 Axis units may not retreat into a hex containing an Inactive
+Partisan marker if any other retreat route is available. Axis
+units which are forced to retreat into a hex with an Inactive
+Partisan marker stop their retreat in that hex.
+11.4.5	 If defending units retreat into a hex which is attacked
+later in the same Action Round, the units which already retreated
+do not add their Combat Strength to the Combat against this
+hex. In addition, if any Loss Number, asterisked or otherwise, is
+achieved, the already retreated units are immediately eliminated
+and do not count towards fulfilling the Loss Number.
+11.4.6	 Units with a movement factor of 0 are eliminated if they
+are forced to retreat.
+11.4.7	 Attacking units never retreat.
+
+11.5	 ADVANCE
+11.5.1	 Any remaining attacking units may advance into the
+defending hex, regardless of enemy ZOCs, if the defending units
+retreat or are completely eliminated, provided the following
+restrictions are followed:
+•	 Stacking limits are obeyed.
+•	 The attacking units do not advance into a hex from which they
+cannot trace a line of supply.
+11.5.2	 If the Attacker advances a Soviet Tank or Guard SCU or
+a German Panzer Corps SCU, he may place a Blitz marker in the
+hex provided this is not prohibited by the type of terrain in that
+hex (see 12.1.4 and Terrain Effects Chart). In this case the attacker
+may advance units without regard to stacking limits, since stacking will not be checked here until exploitation is complete (see
+9.1.4). The Attacker must do so before executing the next attack
+or the opportunity to place the Blitz marker is lost. Exception:
+The Axis player may place only one Blitz marker in a hex east of
+the Paulus Line per Action Round during Turns 1-3 (June 1941
+through Fall 1941). (Note that Axis exploitation is prohibited in
+Winter 1942, due to the special effects of that winter turn (see
+15.1.2), and in the Caucasus (see 12.1.3).) Note that no Blitz
+markers may be placed in a 0 OPS round.
+
+•	 May not end their retreat adjacent to the original defending
+hex if retreating two hexes.
+•	 May not end their retreat over-stacked, but may retreat through
+a hex in violation of the stacking limits. In cases where
+the Defender has no other route, they would choose which
+retreating units would be able to stack within limits and which
+will be eliminated.
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+
+15
+
+12.2.3	 During Turns 1-4 (June 1941 through Winter 1942), all
+German Panzer Corps that begin their exploitation in a hex east
+of the Paulus Line will have a movement allowance of 4, due
+to rule 10.1.5; as such, their maximum Exploitation movement
+will be two hexes. (Note that placement of an Axis Blitz marker
+is prohibited during Winter 1942 anyway, due to the effects of
+the Russian Winter – see 15.1.2)
+12.2.4	 Exploiting units may ignore enemy ZOC.
+12.2.5	 Exploiting units must halt upon entering a swamp,
+forest, rough, desert or mountain hex. Exploiting units must
+also stop if they cross the Kerch Strait. Exception: Non-swamp
+terrain has no effect on Axis units Exploiting during Turn 1 (see
+4.4.6). Events may cancel terrain effects for Exploitation. Note
+that units adjacent to a Blitz marker are free to exploit regardless
+of the terrain type of the hex they initially occupy.
+
+12.0	 EXPLOITATION
+12.1	 ELIGIBILITY
+12.1.1	 Soviet Tank, Guard Tank and Guard Cavalry units (but
+not Mechanized units) and German Panzer Corps SCUs are the
+only units which may Exploit. Soviet Mech units may exploit
+after playing the Operation Uranus Event.
+12.1.2	 A unit must be in Full Supply to Exploit (although it
+may move to an out of supply position during exploitation).
+12.1.3	 Axis units in the Caucasus Zone may not Exploit. Neither may Axis units Exploit into the Causasus Zone. Reminder:
+Soviet units may not exploit on turns in which no Lend Lease
+Banked OPS were received.
+Design Note: The Axis logistical capacity was stretched to its
+limits in the vast, relatively undeveloped landmass of the Soviet
+Union. Even after the Germans had improved their logistical
+infrastructure for operations east of the Dnepr after Barbarossa,
+they still lacked the capacity to operate at full effectiveness in
+the Caucasus.
+
+12.1.4	 A unit must occupy, or be adjacent to a hex with a Blitz
+marker in order to Exploit. It need not have been involved in the
+combat that led to the placement of the Blitz marker, nor is it
+required to enter the Blitz-marked hex. It may not have already
+exploited in that round (i.e., only 1 exploitation is allowed per
+unit, per round).
+
+12.2	 PROCEDURE
+12.2.1	 Exploitation takes place after all combats, advances and
+retreats for that Action Round have been completed.
+
+13.0	 SUPPLY
+13.1	 GENERAL RULES
+13.1.1	 Units must be in supply to perform most actions. Supply
+is determined at the following times only:
+•	 For the active player: at the beginning of each Action Round
+and during the Attrition Phase.
+•	 For the non-active player: at the instant of combat. (Supply is
+only checked for those units that are involved in a combat.)
+13.1.2	 Supply Status is measured by the distance a unit is from
+a friendly supply source. To be in full supply, units must trace
+a supply path of four hexes or less to a friendly supply source
+hex, or to a rail line and then along the rail line to a friendly
+supply source hex. Alternately units may trace up to four hexes
+to a friendly port, provided the player controls at least one other
+port on that Sea (Baltic or Black Sea/Sea of Azov only) and a
+line of supply can be traced from that other port (as if it were
+itself a unit). Only one such port-to-port link may be included
+in a supply path for any given unit.
+13.1.3	 Units may never trace supply through enemy units,
+enemy-controlled Fortresses, Festungs, Trenches, Cities, Oil
+hexes or Victory Point hexes, or Active enemy Partisans, unnegated enemy ZOCs, or across impassable hexsides.
+13.1.4	 Note that units using the Soviet Black Sea, Black Death
+Event are always in supply in a coastal hex as long as the Soviets
+control one port on the Black Sea (see 7.5.4).
+
+12.2.2	 Exploiting units may move up to half their Movement
+Allowance in hexes (not Movement Points), rounding up. For
+example, a unit with a MA of 5 would be able to exploit up
+to three hexes.
+
+© 2010 GMT Games, LLC
+
+16
+
+Stalin’s War Living Rules Manual
+
+13.2	 SUPPLY SOURCES
+13.2.1	 The supply sources for German units and for the Vlassov
+unit are the West map edge rail hexes and the USIR (Upper Silesian Industrial Region, marked on the map). The West map edge
+starts at 1316 and runs along the west edge of the board to hex
+1431 (inclusive). Romanian units must trace supply to Bucharest.
+Hungarian and Italian units must trace supply to Buda.
+13.2.2	 The supply sources for Soviet units are the East map
+edge rail hexes.
+13.2.3	 Soviet units may also use Baku as a full supply source
+if at least one other Caspian Sea port is also Soviet controlled
+and can itself trace a line of supply. If no other Caspian Sea port
+satisfies these conditions, Baku provides supply for the purpose
+of defense and attrition only (this also means that other Sovietcontrolled ports, cities, etc. that can trace a supply path to Baku
+will not change control during the Attrition Phase).
+
+14.0	 REPLACEMENTS
+14.1	 GENERAL RULES
+14.1.1	 During the Replacement Phase, each nation
+can spend the number of Replacement Points (RPs)
+recorded on the General Records Track by the nation’s
+RP marker (see 7.4).
+
+13.2.4	 Fortresses/festungs provide fortress supply,
+i.e., supply for purposes of defense and attrition
+(only), to units in the same hex.
+
+13.3	 OUT OF SUPPLY (OOS)
+PENALTIES
+13.3.1	 OOS units have their Movement Allowance
+reduced to 2 (if it was 3 or more).
+13.3.2	 OOS units may not use Strategic Movement (by rail
+or sea).
+13.3.3	 OOS units may not entrench but they do receive the
+benefits of existing trenches in their hex.
+13.3.4	 If all units of one player involved in a combat are
+OOS, those units may not receive the benefit of any Combat
+Event Cards.
+13.3.5	 If any units involved in a combat are OOS, units belonging to that side have their fire shifted one column to the left
+when attacking or defending.
+13.3.6	 OOS units have no Zone of Control.
+13.3.7	 OOS units may not Exploit.
+13.3.8	 Units which are OOS during their side’s Attrition Phase
+are eliminated. Both player’s SCUs and Soviet LCUs that are
+eliminated are placed in the Eliminated Units box and are available to be replaced immediately. Axis LCUs that are eliminated
+are placed on the Turn Record Track three turns later. When the
+Turn marker advances into a space that contains Axis LCUs, they
+are placed in the Eliminated Units box and may now be replaced.
+13.3.9	 During the Attrition Phase, any friendly controlled
+City, Port, Oil, or Victory Point hex which does not contain an
+undestroyed friendly Fortress or Festung, and which if it were
+a friendly combat unit would be eliminated for being OOS,
+becomes enemy controlled.
+
+14.1.2	 RPs can be spent to replace steps for on-map units that
+are not marked OOS, or they may be used to recreate units in
+the Eliminated Units box. The Axis player may also spend RPs
+to replace units currently in the Other Fronts box.
+14.1.3	 It costs 1/2 RP to replace or recreate an SCU step. It
+costs 1 RP to replace or recreate an LCU step.
+14.1.4	 Recreated LCUs and SCUs may be placed in their home
+country as if they were Reinforcements (see 7.5.2).
+14.1.5	 RPs not spent during a Replacement Phase are lost.
+They may not be saved for use in a future turn.
+14.1.6	 Combat unit steps marked with an asterisk on the left
+side of the counter may not be replaced; e.g., German Armies
+may be replaced from 2-3 to 3-3, or 3-3 to 4-3 (in which case the
+unit is replaced by its stronger counter), but may not be replaced
+back to Full strength (i.e., 5-3) since this final step is marked as
+non-replaceable.
+14.1.7	 Axis cards award three types of RP points. “GE”, “PZ”
+and “AX”. GE RPs are used to replace non-PZ GE units (only).
+PZ RPs are used to replace GE PZ units (only). AX RPs are used
+to replace non-German Axis units (only).
+
+14.2	 SPECIAL RULES
+14.2.1	 The Soviet Southwest Front initial unit is replaced by the
+weaker SW Front in the Eliminated Units box when eliminated.
+14.2.2	 The Axis player may not replace German Panzer SCU
+steps if the Upper Silesian Industrial Region (USIR) hex is under
+Soviet control.
+
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+
+17
+
+16.0	 SPECIAL UNITS
+16.1	 PARTISANS
+16.1.1	 Only the Soviet player may place Partisan
+markers. Partisans may only be placed in the Soviet
+Union, (Exception: the Warsaw Uprising Event) and
+may only be placed after the Partisan Formation Event
+has been played. Partisans may not be placed in the Baltic States.
+
+15.0	 WEATHER
+15.1	 GENERAL RULES
+15.1.1	 Rasputitsa. Players may not play cards for OPS, or
+take a 0 OPS round in which units are moved and/or combat is
+conducted, during the first round of Fall turns and the first two
+rounds of Spring Turns. Neither do they receive any OPS that
+they would ordinarily receive from Events, nor may they conduct
+combat if the effects of a card Event would normally allow it
+(i.e., the Soviet Zhukov event). However, players may take a 0
+OPS round in which they discard a card and draw a replacement
+for it, but note that in this instance the Consecutive OPS marker
+is not reset, contrary to the usual rule (see 7.2.6). This means
+that the Consecutive OPS count is never reset during Rasputitsa
+rounds (it remains where it was when Rasputitsa started).
+Design Note: Rasputitsa, or “quagmire season”, occurs biannually as the roads become flooded due to melting snow in
+Spring (the more severe season), and rain in Fall.
+
+15.1.2	 Winter 1942. Unless the Winter Uniforms Event is in
+effect, all Axis units shift 1 column to the left when firing on attack or defense, and receive no terrain benefits on defense apart
+from trenches. No Axis Blitz markers may be placed. In addition
+any Soviet attacks involving Soviet Shock Armies (SCUs) get a
+1 column shift to the right. Note: The Soviet player may still not
+place blitz markers in hexes that would ordinarily be considered
+non-blitz terrain.
+
+16.1.2	 Partisan placement costs 1 OPS. Spending 1 OPS allows the Soviet player to place two Partisan markers. Only 1
+OPS may be used for Partisan placement per game turn. There
+may never be more than six Partisan markers on the board at one
+time, regardless of their Active or Inactive status (see 16.1.6).
+16.1.3	 Partisans may only be placed in forest or swamp hexes.
+The hex either must be one that would be OOS if a Soviet unit
+were currently occupying it, OR the hex must be closer to an Axis
+unit than to a Soviet unit (counting by number of hexes rather than
+movement cost, but without crossing impassable hexsides). The
+hex may not contain an Axis unit. Partisan counters are randomly
+drawn and placed Inactive side up so that neither player initially
+knows their strength.
+16.1.4	 Inactive Partisans affect Axis rail movement (see 10.2.2),
+and retreats (see 11.4). Axis units may stack in a hex with Inactive
+Partisans, ignoring them. Inactive Partisans may not be attacked.
+16.1.5	 Once placed, Inactive Partisans are removed in the following ways:
+•	 By playing the Partisan Sweep Event
+•	 If the Soviets have a supplied unit in the hex
+•	 If the Soviet player chooses to remove them during the End
+of Turn Phase.
+16.1.6	 Inactive Partisan units become Active by playing certain
+Events. Partisans may not be activated in a hex containing a
+German or Axis unit. Active Partisan units are always In Supply, and act as normal Soviet combat units except that they may
+not stack with other Soviet units nor participate in any attack or
+defense with other Soviet units. If they are stacked with Soviet
+units that retreat after combat, and Axis units advance into the
+defender’s hex, the Partisans are eliminated. Once eliminated,
+Active Partisans are permanently eliminated and are removed
+from play (unlike Inactive Partisans, which may freely recycle).
+
+© 2010 GMT Games, LLC
+
+18
+
+Stalin’s War Living Rules Manual
+
+16.2	 FORTRESSES
+16.2.1	 Fortresses may be used only by the player
+who owned them at the beginning of the game.
+
+17.0	 OIL
+17.1	 GENERAL RULES
+17.1.1	 Control of Oil resource hexes affects the hand capacity
+of both the Axis and Soviet players.
+
+16.2.2	 If an enemy unit enters a hex with a Fortress
+symbol, the Fortress is destroyed. Place a Fortress
+Destroyed marker in the hex should this occur. The
+hex is now treated as a City. Destroyed Fortresses
+may not be replaced.
+
+17.1.2	 There are four Oil resource hexes: 1428, 2433, 2835,
+3138.
+
+16.2.3	 The Soviet player may build one fortress during the
+game by playing the Event The Volga Has Only One Bank. It
+cannot be placed in a hex that is OOS.
+
+17.1.4	 If the Axis controls no Oil hexes, the Axis player’s hand
+size is reduced by one.
+
+16.3	 FESTUNGS
+16.3.1	 The Axis player may build Festungs after
+playing the Festung Event. A player cannot have
+more Festungs in play than are provided in the
+counter mix.
+16.3.2	 Festungs are built at a cost of 1 OPS per Festung. When
+building a Festung place it in any non-enemy-controlled, insupply town or city hex which does not already contain a Festung.
+16.3.3	 Once placed a Festung cannot be moved. A Festung is
+eliminated when a Soviet unit enters the hex; return the Festung
+marker to the counter mix for use in future turns.
+16.3.4	 Units that start in or enter a Festung hex may never
+leave the hex unless eliminated.
+16.3.5	 Festungs provide supply for Defense and Attrition
+purposes and cancel all retreats.
+
+16.4	 STALIN
+16.4.1	 Stalin is a normal SCU combat unit with no
+attack or movement factor, or ZOC.
+16.4.2	 Stalin must always be the last step eliminated in combat.
+
+17.1.3	 In order to count as controlled for affecting hand size,
+an Oil hex must be able to trace a supply line as if it were a unit.
+
+17.1.5	 If the Axis player controls three or more Oil hexes, the
+Axis player’s hand size is increased by one.
+17.1.6	 If the Soviets control only 1 Oil hex, the Soviet player’s
+hand size is decreased by one.
+17.1.7	 If the Soviets control no Oil hexes, the Soviet player’s
+hand size is decreased by two.
+
+18.0	 BANKED OPS
+18.1	 GENERAL RULES
+18.1.1	 Banked OPS are Operation Points that a player may
+hold and spend at some point during that turn. Specifically, they
+may be spent in any action round in which the player has played
+a card for OPS, played an event that grants OPS, or has elected
+to take an automatic 0 OPS round in which units may move and/
+or conduct combat.
+18.1.2	 Banked OPS may not be saved from one turn to the
+next. Any Banked OPS not spent by the the End of Turn Phase
+are lost.
+18.1.3	 Banked OPS, once recorded (use the Banked OPS
+marker), are not lost until spent or until the end of the current
+Turn.
+
+16.4.3	 Stalin never retreats due to combat. Defending units
+stacked with him do still retreat if on the losing side, but in such
+a case Stalin must remain in place and Axis units may advance
+into the hex and eliminate Stalin, thereby permanently removing
+the Stalin counter from the game.
+
+18.1.4	 A player may not Bank OPS except as noted below. A
+player cannot choose to bank unspent OPS from the play of an
+Operations Card.
+
+16.4.4	 Stalin does not count for stacking purposes.
+
+18.2.1	 Starting on Turn 2, the Axis player receives 1 Banked
+OPS at the beginning of his first Action Round of each turn.
+
+16.4.5	 Stalin may only be moved out of Moscow by rail Strategic Movement at the usual cost of 1 OPS. Stalin may be moved
+back to a friendly controlled Moscow only by rail Strategic
+Movement at a cost of 1 OPS.
+
+18.2	 AXIS BANKED OPS
+
+18.2.2	 The Axis stops receiving Banked OPS after the Hitler
+Takes Command Event is played.
+
+16.4.6	 Stalin may move only twice during the game; once out
+of Moscow, and once back into Moscow.
+16.4.7	 The Soviet player may receive Banked OPS (see 18.0)
+only if Stalin is currently in Moscow.
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+
+19
+
+18.3	 SOVIET BANKED OPS
+18.3.1	 The Soviet player may receive Banked OPS only if
+Stalin is currently in Moscow.
+18.3.2	 The Soviet player begins receiving Banked OPS on the
+turn following play of the Lend-Lease Event.
+18.3.3	 Once the precondition (Lend-Lease) is met, at the beginning of every turn, the Soviet player receives 2 Banked OPS
+if Archangel is Soviet-controlled and/or 1 Banked OPS if he
+Astrakhan is Soviet-controlled. Note: The Convoy PQ-17 Event
+will temporarily nullify the Banked OPS received via Archangel.
+18.3.4	 When the Stavka Event is played, the Soviet player immediately receives 3 Banked OPS, regardless of the requirements
+in 18.3.2 and 18.3.3.
+
+20.0	GERMAN MOBILE DEFENSE
+20.1.1	 In any combat during non-Winter Turns from Game
+Turn 1 (June 1941) to Game Turn 9 (Spring 1943) (inclusive),
+whenever a German Army LCU unit is defending with one or
+more Panzer SCUs in the hex, the Soviets shift one column to
+the left and the Germans shift one column to the right when
+resolving that combat.
+
+21.0	 BIDDING
+
+19.0	 NATIONAL RESTRICTIONS
+19.1	 ROMANIAN UNITS
+19.1.1	 Romanian units may never enter a hex in Hungary. If
+forced to violate this rule, they are eliminated. No single combat
+may involve both Romanian and Hungarian units.
+
+19.2	 HUNGARIAN UNITS
+
+Players who find the game unbalanced, or who are playing in a
+tournament environment, may elect to bid for the right to play the
+side of their preference. Bids will made in terms of a one-time
+addition of automatic RPs to be spent from Turn 2 onwards by
+the other side (players may receive at most 3 automatic RPs per
+turn). Recall that the standard game includes 3 automatic RPs
+for the Soviets, to be spent on Turns 2 and 3, so automatic RPs
+received from bidding are applied cumulative with that. For
+example, a bid of 2 to play the Axis would result in the Soviets
+receiving their usual 3 RPs on Turns 2 and 3, followed by 2 more
+on Turn 4. Whereas a bid of 8 to play the Soviets would result
+in the Soviets receiving no automatic RPs and the Axis player
+receiving 2 automatic RPs on Turn 2.
+
+19.2.1	 Hungarian units may never enter a hex in Romania. If
+forced to violate this rule, they are eliminated. No single combat
+may involve both Hungarian and Romanian units.
+
+19.3	 SURRENDER
+19.3.1	 Axis minor countries (i.e., Romania and Hungary) surrender if their capital is enemy-occupied at the end of any Turn.
+In such a case remove all units of that minor permanently from
+the game (whether currently in play or not).
+
+© 2010 GMT Games, LLC
+
+20
+
+Stalin’s War Living Rules Manual
+
+23.0	OPTIONAL RULES
+23.1.1	 On Turn 1 (only), before cards are drawn, each player
+may elect to give up 1 VP in order to take any one card of their
+choice from the Blitz deck and place it in their hand. (i.e., if the
+Axis player elects to do this the VP count is lowered by 1, whereas
+if the Soviet player takes this option the VP count is raised by
+1.) The player then shuffles the Blitz deck and draws five other
+cards from that deck as normal in order to complete their hand
+for Turn 1. The Axis player decides first.
+Design Note: Players can use this rule if they would like to
+add a degree of control over the strategic objectives of the
+initial Barbarossa attack.
+
+23.1.2	 Players who prefer to let fate decide the rate at which
+Soviet reinforcements arrive in the early part of the war may
+ignore rule 4.3.1 and instead shuffle the Soviet Blitz reinforcment
+cards (card numbers 1-6) into the Blitz deck before drawing their
+initial hand.
+Design Note: Our experience is that the Soviet position will
+be very poor unless two Reinforcement cards are played on
+turn 2, so players should use this optional rule at their peril. It
+is fun for players who like a wild ride, however!
+
+22.0	TOURNAMENT SCENARIO
+If players wish to play a shorter version of the game, the following tournament scenario is provided. The tournament scenario
+begins on Turn 1 (June 1941) and ends at the completion of Turn
+8 (Winter 1943), and is a good way to learn the game. Set-up is
+identical to the Campaign game (see 25.0). All Automatic Victory
+conditions apply (see 5.1.2 and 5.1.3). In the absence of an Automatic Victory, players count the number of Axis-controlled VP
+spaces in the Soviet Union at the end of Turn 8: the Axis player
+wins if they control 9 or more VP spaces; the Soviet player wins
+if 8 or less VP spaces are controlled by the Axis. If the Soviet
+Union has not played Industrial Evacuation as an event by the
+end of this scenario, adjust the count of VP spaces 2 in favor of
+the Axis. If the Axis have not played Hitler Takes Command as
+an event by the end of this scenario, adjust the VP space count
+2 in favor of the Soviets.
+
+23.1.3	 Players who would like a little more control
+over getting key trenches built may try the following
+rule: a trench can be built in the usual way or, at the
+cost of an additional OPS, the player may subtract
+3 from a trench die-roll. No more than one additional OPS per
+trench attempt.
+23.1.4	 Some playtesters felt that it would be more realistic
+to allow the Phasing player to check the supply status of OOS
+units at the end of each of the player’s rounds, thereby allowing
+those units to be placed back in supply if appropriate. Players
+who agree with this view can choose to add a supply check for
+OOS units only, for units belonging to the phasing player at the
+end of their part of the Action Round
+
+Design Note: This represents a substantially better than
+historical performance by the Axis. It reflects our belief that
+the Axis player can exceed historical performance given the
+knowledge that the ‘game’ will end at the end of 1942.
+
+© 2010 GMT Games, LLC
+
+21
+
+Stalin’s War Living Rules Manual
+
+25.0	UNIT SET-UP
+24.0	EASILY FORGOTTEN RULES
+
+25.1	 SOVIETS
+
+This section contains a reminder of rules that we found were
+most easily forgotten during playtesting.
+
+Southwest Front* [1724] * Stronger 5-3 unit
+16M Corps [1625]	
+West Front [1721]
+28R Corps [1722]	
+4M Corps [1723]
+8M Corps [1624]	
+South Front [1726]
+6M Corps [1821]	
+5R Corps [1823]
+15M Corps [1824]	
+5M Corps [1826]
+18M Corps [1827]	
+Maritime Army [1829]
+12M Corps [1918]	
+Northwest Front [2118]
+3M Corps [1920]	
+22M Corps [1924]
+13R Army [2022]	
+Central Front [2123]
+21R Army [2123]	
+22R Army [2320]
+Leningrad Front [2517]	
+10M Corps [2517]
+Trans-Caucasus Front [2532]	
+Reserve Front [2722]
+7M Corps [2722]	
+20R Army [2722]
+Stalin [2722]
+
+•	 Rasputitsa occurs on first round of Fall Turns and first two
+rounds of Spring turns. Consecutive OPS count is never reset
+during Rasputitsa rounds (see 15.1.1).
+•	 All Axis units units have –1 MP East of the Paulus Line during
+Turns 1-4 (see 10.1.5), as well as a 1 column shift left when
+attacking if fully supplied, and only 1 exploitation is allowed
+(which can be at most 2 hexes long) (see 11.2.1).
+•	 No Blitzing is allowed in a 0 OPS round (see 11.5.2).
+•	 Soviet units may not blitz if no Lend Lease received that turn
+(see 11.2.1).
+•	 First loss on offense must be taken by mechanized unit (see
+11.3.3).
+•	 If three or more Panzers are stacked together and participating
+in the same combat, they automatically fire on the LCU column
+(see 11.2.1).
+•	 If all of a player’s units in a combat are OOS, that player may
+not play a CC in that combat (see 13.3.4).
+•	 German Mobile Defense (see 20.0) applies up to Spring 1943
+inclusive, but does not apply during Winter turns.
+•	 Only one LCU may be involved in each combat for each player
+(see 11.1.3).
+•	 VPs are decreased by one at the end of each Spring and Summer
+turn if the Axis event Hitler Takes Command has not been
+played (see text of that card).
+•	 Axis can play two replacement cards in Spring 1942 and 1943
+only (see 7.4.3).
+•	 Soviet units may not operate in Hungary or Romania in June
+1941 (see 4.4.3 and 4.4.4).
+•	 The Axis player may not replace German Panzer SCU steps
+if the USIR is under Soviet control (see 14.2.2).
+
+25.2	 AXIS
+German Units
+49 Mtn Corps [1424]	
+17th Army [1523]	
+46 Pz Corps [1622]	
+47 Pz Corps [1622]	
+6th Army [1623]	
+3Pz Corps [1623]	
+9th Army [1720]	
+57 Pz Corps [1720].	
+16th Army [1820]	
+41 Pz Corps [1820]
+
+11th Army [1527]
+4th Army [1621]
+24 Pz Corps [1622]
+43 Corps [1622]
+48 Pz Corps [1623]
+14 Pz Corps [1623]
+39 Pz Corps [1720]
+18th Army [1819]
+56 Pz Corps [1820]
+
+Hungarian Units
+3rd Army [1025]
+Romanian Units
+3rd Army [1627]	
+
+© 2010 GMT Games, LLC
+
+4th Army [1629]
+
+22
+
+Stalin’s War Living Rules Manual
+
+INDEX
+0
+
+E
+
+0 Ops round. 7.2.6
+
+Easily Forgotten Rules. 24.0
+Events. 7.5
+
+A
+
+Exploitation. 12.0
+
+Action phase. 7.2
+
+	 Barbarossa effects. 4.4.6
+
+Action round. 7.2.1
+
+	 OOS restrictions. 13.3.7
+
+Advance. 11.5
+
+	 Procedure. 12.2
+
+Attrition
+
+	 Winter 1942 restrictions. 15.1.2
+
+	 OOS effects. 13.3.8
+
+F
+
+Automatic victory. 5.1.2, 5.1.3
+
+Festungs. 11.4.1, 16.3
+
+B
+
+	 Movement effects. 16.3.4
+
+Baku
+
+	 Supply effects. 16.3.5
+
+	 Supply. 13.2.3
+
+Fortress supply. 13.2.4
+
+Banked OPS. 18.0
+
+Fortified Zone. 8.2, 9.1.3
+
+	 Hitler Takes Command effects. 18.2.2
+
+Fortresses. 16.2
+
+	 Lend Lease effects. 18.3.2
+
+Full supply. 13.1.2
+
+	 Stalin effects. 18.3.1
+
+G
+
+	 Stavka. 18.3.4
+Barbarossa. 4.4
+
+Game markers. 2.2.2
+
+Bidding. 21.0
+
+German mobile defense. 20.0
+
+Blitz. 11.2.1 (step 9), 11.5.2, 12.1.4 (also see Exploitation)
+
+C
+
+H
+Hand size. 7.6
+
+Caucasus Zone. 12.1.3
+
+	 Oil effects. 17.0
+
+Combat. 11.0
+
+Hex control. 3.0, 13.3.9
+
+	 Combined attacks. 11.1.3
+
+Hungarian units. 19.2
+
+	 Geographic restrictions. 11.1.9
+	 Losses. 11.3
+	 Resolution. 11.2
+	 Winter 1942 effects. 15.1.2
+Combat Cards (CCs). 7.5.5
+	 OOS restrictions. 13.3.4
+Combat markers. 7.3.5
+Combat resolution
+	 OOS effects. 13.3.5
+Consecutive OPS. 7.3.2
+
+D
+Discards. 7.6.2
+
+I
+Initial hand size. 4.3
+Invasions. 7.5.4
+
+L
+Lend Lease. 18.3.2
+	 Effects on blitz. 11.2.1 (step 9)
+
+M
+Map zones. 2.1
+Move markers. 7.3.4
+Movement. 10.0
+	 Nationality restrictions. 19.0
+	 OPS cost. 7.3.3
+
+© 2010 GMT Games, LLC
+
+Stalin’s War Living Rules Manual
+
+N
+
+S
+
+National restrictions. 19.0
+
+Sea movement
+
+Naval evacuation. 10.2.7
+
+	 Soviet. 10.2.6
+
+No retreat option. 11.4.3
+
+Southwest Front. 11.3.6, 14.2.1
+
+O
+Oil. 17.0
+Operations (OPS). 7.3
+Ops
+	 0 Ops round. 7.2.6
+	 Banked. 18.0
+	 Consecutive. 7.3.2
+	 Other Fronts box. 3.0
+Out of Supply (OOS) penalties. 13.3
+
+P
+Partisans. 10.1.6, 11.1.7, 16.1
+	 Activating. 16.1.6
+	 Elimination. 16.1.6
+	 Removal. 16.1.5
+Paulus Logistical Line
+	 Combat effects. 11.2.1 (step 4)
+	 Exploitation effects. 11.5.2, 12.2.3
+	 Movement effects. 10.1.5
+
+R
+Rail movement. 10.2.2, 10.2.4
+	 Partisan effects. 10.2.2
+Rasputitsa. 15.1.1
+Reinforcements. 7.5.2
+Replacement
+	 Eliminated units. 11.3.6
+Replacement points (RPs). 7.4
+
+Soviet attack restrictions. 4.4.7, 4.4.8
+Soviet Mobilization. 4.5
+Spring Thaw. See Rasputitsa
+Stacking. 9.0
+Stalin. 16.4
+Stavka. 18.3.4
+Strategic movement. 10.2
+	 OOS restrictions. 13.3.2
+	 Stalin. 16.4.5
+Strategy cards. 2.3, 7.0
+Supply. 13.0
+	 Path. 13.1.2, 13.1.3
+	 Wources. 13.2
+	 When to determine. 13.1.1
+
+T
+Total War. 7.6.4
+Tournament scenario. 22.0
+Trenches. 10.3
+	 OOS restrictions. 13.3.3
+
+U
+Units
+	 LCU. 2.2.1
+	 Non-replaceable. 2.2.1
+	 SCU. 2.2.1
+Upper Silesean Industrial Region (USIR). 14.2.2
+
+V
+
+Replacements. 14.0
+
+Victory determination. 5.0
+
+	 German Spring 1942 and 1943. 7.4.3
+
+Volga crossing restrictions. 11.1.10
+
+	 Special rules. 14.2
+Retreat. 11.4
+	 Failure to retreat. 11.4.4
+	 Length of. 11.4.2
+	 No retreat option. 11.4.3
+	 Retreat path. 11.4.4
+Romanian units. 19.1
+
+W
+Weather. 15.0
+Winter 1942. 15.1.2
+
+Z
+Zones of Control (ZOC). 8.0
+
+© 2010 GMT Games, LLC
+
+23
+
+24
+
+Stalin’s War Living Rules Manual
+
+Card Clarifications
+Soviet Cards:
+
+Axis Cards:
+
+#3 Soviet Reinforcements: This card refers
+to the 1G, 2G and 3G Cavalry Corps. These
+units have the following IDs: 1GC, 2GC and
+3GC.
+
+#9 Guderian: This affects any units that exploit
+as a result of that combat, not just those that
+actually attacked. (i.e., other adjacent exploitcapable units may also benefit from the effects
+of the card.)
+
+#9 Zhukov: This card can be used in the
+round in which it is played, and every subsequent OPS round that turn. It allows you
+to activate two adjacent hexes for a single
+attack (subject to taking one extra step loss
+each time).
+#10 Black Sea, Black Death: The port restriction applies only to ports in the Black Sea
+and Sea of Azov (i.e., not the Baltic).
+#24 Katukov’s Tanks: The unit that takes the
+loss is determined by the Soviet player.
+#20 Airborne Corps: The placement of the
+partisan does not have to obey the normal
+partisan placement requirements. (e.g., the
+unit can be placed outside the Soviet Union).
+Errata: Furthermore, this partisan unit must
+be placed in a clear hex.
+#48 Maskirovka: The units may leave an enemy ZOC without paying an OPS (since this
+is not happening in a movement phase). The
+units may not end up over-stacked.
+
+#11 Kampfgruppe: The last SCU step in the
+hex has to be eliminated by the attack for the
+effects of the card to take place.
+#13 Dora: Playing Dora does not make it possible for the Axis to place a Blitz-marker in the
+defending hex. If there is also a trench in the
+hex, the Axis still get the benefits of that trench.
+#19 Winter Uniforms: This card does not
+negate the Soviet shock troop right shift when
+attacking during Winter 1942.
+#54 Naval Evacuation: Yes, the ports do have
+to be on the same sea.
+#26 German Reinforcements: The ABT. is not
+a separate unit (i.e., there are three reinforcing
+units in total). There should be no comma following “ABT”.
+#33 Backhand Blow: The Axis player must
+attack at least one of the Soviet units that advanced that round (i.e., he does not have too
+attack all of them).
+#50 Sleighride: After Axis units retreat, since
+the attack is canceled, the attackers may not
+advance.
+
+© 2010 GMT Games, LLC
+
+25
+
+Stalin’s War Living Rules Manual
+
+Sequence of Play (6.0)
+A. ACTION PHASE
+
+D. DRAW STRATEGY CARD PHASE
+
+Each Action Phase is divided into five identical Action
+Rounds. Each Action Round consists of an Axis Action
+Round followed by a Soviet Action Round. The Axis
+Action Round allows the Axis player to take one action;
+The Soviet Action Round allows the Soviet player to
+take one action.
+
+Players may discard any Strategy Cards remaining in
+their hand (see 7.6.2). The Soviet player decides first.
+Each player then draws cards from their Draw Pile to
+bring their hand to their current hand size (see 7.1.3).
+Each player begins with a hand size of 6 cards. Changes
+in control of Oil hexes and the effects of certain Event
+Cards may change a player’s hand size.
+
+B. ATTRITION PHASE
+
+E. END OF TURN PHASE
+
+The Axis Attrition Segment takes place immediately
+upon the conclusion of the 5th Axis Action Round. The
+Soviet Attrition Segment takes place immediately upon
+the conclusion of the 5th Soviet Action Round. During
+the Attrition segments OOS units belonging to the active player are eliminated and OOS friendly-controlled
+Cities, Ports, Oil, and Victory Point hexes become
+controlled by the enemy (see 13.3.9).
+
+•	 The Axis player may remove friendly Trench markers
+from the map
+•	 The Soviet player may remove friendly Trench
+markers from the map
+•	 Any remaining Banked OPS are lost (set the markers
+for both players to zero).
+If the war has not ended due to Automatic Victory or
+reaching Turn 18 (Summer 1945), advance the Turn
+marker to the next space on the Turn Record Track and
+begin the Sequence of Play again with the first Axis
+Action Round.
+
+C. REPLACEMENT PHASE
+SOVIET SEGMENT: The Soviet player spends any
+Replacement Points (RPs) accumulated through play of
+RP Cards this turn (see 7.4). Any RPs not spent are lost.
+AXIS SEGMENT: The Axis player spends any Replacement Points accumulated through play of Cards
+for RPs this turn (see 7.4). Any RPs not spent are lost.
+
+Unit Counter Symbology
+
+	
+	
+
+Corps	
+XXX	
+
+Size:
+Army	
+XXXX	
+
+Front
+XXXXX
+
+	
+
+	
+
+	
+	 CSIR	
+	
+
+Type:
+Infantry	
+Mech	
+
+Armor	
+
+	
+
+© 2010 GMT Games, LLC
+
+	
+
+	
+
+Shock Inf.	 Maritime	
+	
+
+Cavalry
+
+	
+
+Partisan	
+	
+
+Mountain
+
+

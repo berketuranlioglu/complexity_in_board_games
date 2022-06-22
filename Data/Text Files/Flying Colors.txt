@@ -1,0 +1,2652 @@
+Flying Colors — ver. 3.1
+
+by
+Mike Nagel
+
+RULE BOOK
+Version 3.1 2014
+
+TAB LE O F C O N T E N T S
+Glossary........................................................................	 2
+1. 	 Introduction............................................................	 3
+2. 	 Components........................................................... 	 3
+3. 	 Core Rules............................................................. 	 5
+	
+3.1 Sequence of Play..............................................	 5
+	
+3.2 Wind Adjustment Segment.............................. 	 5
+	
+3.3 Command Determination.................................	 5
+	
+3.4 Determine Initiative.........................................	 6
+	
+3.5 Command Activation.......................................	 6
+	
+3.6 Movement........................................................ 	 7
+	
+3.7 Fire Combat.....................................................	11
+	
+3.8 Victory Determination.....................................	15
+
+4.0	 Optional Rules.......................................................	17
+	
+4.1 End of the World..............................................	17
+	
+4.2 Anchoring........................................................	17
+	
+4.3 Grounding........................................................	17
+	
+4.4 Towing.............................................................	17
+	
+4.5 Defensive Fire.................................................. 	18
+	
+4.6 Shore Batteries.................................................	18
+	
+4.7 Awash Ships.....................................................	18
+	
+4.8 Initiative Cards................................................. 	18
+5.0	 Ship Duels..............................................................	 21
+6.0	 Scenario Alternatives.............................................	 22
+Index............................................................................. 	 23
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2014 GMT Games, LLC
+
+
+
+
+
+Flying Colors — ver. 3.1
+
+Glossary
+Actual Rate: The historical rating for a ship
+
+Gunboat: A small ship with a ‘T’ Relative Rate.
+
+Audacity: A relative measure of the historical aggressiveness
+displayed by both sides in a particular scenario. Higher numbers
+positively modify many battle-related die rolls.
+
+In Irons: A ship that is pointing directly into the wind and making no headway
+
+Admiral: See Commanders
+
+Backing Sails: A maneuver that allows a ship to expend movement points while remaining in its current hex
+Beating: Sailing into a wind that is ahead of and off to one side
+of your ship
+
+Carronades: Introduced in 1779, their large caliber and lower
+muzzle velocity increased a ship’s destructive power at close
+range. In game terms, they positively modify a ship’s Firepower
+number.
+Chase Guns: Small guns, usually no larger than 18 pounders, used
+to target an enemy’s rigging and force it to accept battle
+
+Command Range: The value used to determine how far out a
+commander’s influence extends from his location
+Command Quality: The measure of a commander’s effectiveness in battle.
+Commanders: Counters with portraits on them, used to command groups of ships
+
+Damage Capacity: The number of hull hits that will cause a
+ship to flip to its Damaged side, or to lose its firing capability if
+already Damaged.
+Damaged: A ship that has been flipped over to its back side. This
+side has a stripe along the top of the counter.
+
+Drifting: Ships that have no movement points owing to being
+grappled, fouled, struck, dismasted. They will move one hex with
+the wind during the Drifting segment.
+
+Duel: Scenarios with only one or two ships on both sides that
+use the Ship Duel map
+Firepower: The number used to determine which column a ship
+rolls on when using the Hit Results Table
+Flagship: The ship that carries the fleet admiral
+
+Fleet Admiral: The commander in overall charge of a fleet. His
+death or capture will negatively modify a fleet’s break check.
+Floating Battery: An anchored ship without masts. Cannot move
+and ignores rigging hits, but otherwise treated as a ship.
+
+Formation Command: A group of ships that are all facing the
+same direction and are all within four hexes of at least one other
+ship in the command
+
+Fouled: Two or more ships tangled by collision. Neither can move
+(except by drifting) until unfouled.
+Full Broadside: Fire from a broadside that has a clear line of sight
+from both the bow and stern of the firing ship’s counter
+Galley: An oar powered ship
+
+Group command: A group of ships activated by using a commander’s Command Range
+
+Gun-Brig: A small ship with a ‘G’ Relative Rate.
+
+Large Ships: Ship counters that take up two hexes on the map
+
+Marine Value: The measure of a ship’s ability to send and repel
+boarders
+Markers: Informational pieces used to track the status of individual ships
+Melee: Hand-to-hand combat that occurs after the Activation
+Cycle between ships that are grappled together
+
+Oared Vessels: Ships with a gray circle printed underneath their
+Relative Rate
+Out of Command: A ship that does not qualify to be included in
+either a group or formation command
+
+Partial broadside: Fire from a broadside that has a blocked line
+of sight from either the bow or stern of the firing ship’s counter
+Port: The left-hand side of a ship as one faces forward
+
+Rake: Fire from an enemy ship that occupies a hex in the target’s
+Rake Line
+
+Rake Line: The line of hexes originating at the bow and stern of
+a ship and extending outward fore and aft, respectively
+
+Rank: The value used to determine seniority for commanders. 3
+= highest, 1 = lowest.
+
+Reaching: Sailing with the wind behind and off to one side of
+your ship
+Relative Rate: The value used to determine a ship’s Firepower
+number. 1 = highest, T = lowest.
+Running: Sailing with the wind directly behind your ship
+
+Shore Battery: A fixed gun position on shore. Hull hits can
+destroy it.
+Side Slipping: A maneuver that allows a ship to alter its course
+without turning
+
+Small Ships: Ship counters that occupy only one hex on the
+map
+Starboard: The right-hand side of a ship as one faces forward
+
+Sternway: A maneuver that must be performed by a stationary,
+non-Drifting ship before it can resume forward motion
+
+Struck: A ship that has surrendered, is no longer an enemy target
+and cannot sink
+
+Swivel/Pivot Guns: Guns that are mounted so as to be able to
+fire outside the normal broadside arc
+Tack: A turn that involves moving the bow of the ship through
+the wind
+Taken Aback: Another term for ‘In Irons’
+
+Wear: In game terms, any turn a ship makes that is not a tack
+
+© 2014 GMT Games, LLC
+
+
+
+Flying Colors — ver. 3.1
+
+rection as the compass number indicates (e.g. Direction 1 faces
+toward the ‘xx01’ edge of a Fleet map).
+A Fleet map is configured in a manner specified in the scenario
+setup. Generally speaking, the long edges of the map sections
+are mated together so that the lighter areas (indicating shallows,
+shoals or solid ground in some scenarios) match properly. It’s a
+general rule that Map A mates with Map B, B with C, C with D
+and so on. Each map does, however, incorporate a blank edge,
+allowing players to freely create their own configurations for
+custom scenarios.
+
+1.0 Introduction
+
+2.1.2 The Duel Map: The Duel map is only used for the smallest
+of engagements. The map is defined by a large hexagon. Darker
+“entry areas” are printed adjacent to each side of the hexagon
+and numbered for setup purposes. The use of these entry areas
+is defined in the rules section on Duels (5.0). At the center of the
+map is a directional compass. Like the Fleet maps, this compass
+is used during setup to indicate starting wind direction. NOTE:
+The Duel Map is available with Serpents of the Seas (Flying
+Colors, Vol. II).
+
+This version of the Flying Colors rules (version 2.00) represents
+a split of the game rules from accompanying scenarios, allowing
+the rules manual to be updated and corrected without an impact
+upon the scenarios included in each series game. These rules
+should be used with all games in the Flying Colors series and
+replace all previous versions. Changes in the game mechanics
+from the previous versions are indicated in the section heading by
+using a star (H) symbol. Players familiar with previous rules versions are still encouraged to read through the entire rulebook.
+
+2.2 Playing Pieces
+
+Flying Colors is a simulation of naval warfare in the period dating
+roughly from 1750 to 1825. Unlike most other games depicting
+this topic, this game simulates large fleet actions as well as individual ship duels, without the minutiae of shipboard operations.
+This allows players to compare the qualities of the forces and
+their commanders. The game is intended to play quickly, with
+minimal rules referencing.
+
+There are three types of playing pieces used during a Flying
+Colors scenario: Ships (of which there are both large and small
+types), Commanders and Markers. Any number of Commanders
+and Markers may be stacked on a single Ship. The specifications
+of each are provided below.
+Front
+Relative Rate
+
+2.0 Components
+
+Each game in the Flying Colors series contains a set number of
+components. The actual quantities and identification of these
+components may vary from game to game and expansion to
+expansion. For an exact component list, please refer to the
+Play Book provided with each (or the rules manual in the
+original Flying Colors for the content of that volume). The
+types of components that may be included in each game or expansion are as follows:
+
+Back
+(Damaged Side)
+
+Ship’s Name
+Marines
+
+Damage
+Capacity
+Gunnery and
+Actual Rate
+
+VP value
+
+2.1 Game Maps
+
+2.2.1 Ships: These units represent the vessels involved in a battle
+or duel. Ships are categorized according to the number of guns
+carried, with a ‘1st Rate’ ship being the largest and carrying 100
+guns or more. 1st through 4th Rate ships are considered ‘Ships of
+the Line’ and are represented with 1 x 1/2-inch pieces. Smaller
+ships (5th, 6th, Gun Brigs and Gun Boats) are represented by 1/2
+x 1/2-inch pieces. Ships are two-sided, with the reverse used to
+depict a ‘damaged’ ship (a color bar is printed on the back for
+easy reference during play). Each ship is printed with its name
+and the following measures used during play:
+
+2.1.1 The Fleet Map: One or more of these maps are used to depict the body of water upon which a naval engagement is fought.
+Each of these maps includes a letter identifier in the upper-right
+corner, along with a directional compass.
+
+2.2.1.1 Relative Rate: this is an indication of the weight of a
+ship’s broadside (its firepower or how much iron it throws out).
+Possible values are 1, 2, 3, 4, 5, 6, Gun-Brig (G) and Gun-Boat
+(T). This value is further modified during the Fire Resolution
+Process (3.7.7) if the ship has a symbol printed underneath its
+Relative Rate. A yellow symbol indicates that the ship is an overgunned 1st Rate (120 guns or more). A white symbol indicates
+that a ship is relatively heavily armed for its Rate. A black symbol indicates that it is relatively lightly armed for its Rate. A red
+
+There are two types of maps used with Flying Colors. The first is
+a “Fleet” map used for fleet actions. The second is a “Duel” map
+used when playing with only one or two ships on a side. This latter
+map depicts a much smaller playing area, thus allowing the game
+tables to be conveniently placed upon the same sheet. Each map
+is printed with a hexagonal grid used to regulate movement.
+
+The compass is used to orient ships during set up and to indicate
+initial wind direction. A ship or the wind faces in the same di-
+
+© 2014 GMT Games, LLC
+
+
+
+Flying Colors — ver. 3.1
+
+symbol indicates that a ship is primarily armed with carronades
+only and is therefore limited to firing inside carronade range (5
+hexes). A hexagonal symbol indicates that a ship carries a substantial carronade battery in addition to its long gun armament. A
+square symbol indicates that this supplemental carronade battery
+is exceptionally heavy (such as the U.S.S. Constitution and her
+equivalents). These colors and symbols are used in conjunction,
+so a ship with a relative Rate value bounded by a white hexagon
+would have a heavier broadside than is usual for its rate together
+with a substantial battery of carronades.
+NOTE: Some lighter vessels do not have a Relative Rate value
+on their damaged (flipped) side. Once damaged, these ships
+cannot attack in any way.
+2.2.1.2 Damage Capacity: This value is an indication of how
+many hits the ship’s hull can sustain, and still be an effective
+firing platform. When the number of hits a ship has taken equals
+or exceeds this value, it is flipped over to its “damaged” side,
+carrying over any excess and applying it to the Damage Capacity printed on a ship’s reverse. Some ships have their Damage
+Capacity bounded by a grey circle. These ships are oared vessels (galleys, xebecs, etc) and do not rely on the wind to move
+(see 3.6.3).
+2.2.1.3 Marines: This value indicates a ship’s ability to send
+and repel boarding parties. A ship whose Marine value has been
+reduced to one may only attempt to board an enemy vessel whose
+original or reduced Marine value is also one (unless specified
+otherwise through Special Rule).
+2.2.1.4 Victory Points: This value indicates the worth of the
+vessel when determining the victor after a battle as well as when
+creating custom battles. Note that many of the smallest ships
+do not carry a Victory Point value. They are pests that are often
+easily swept aside, but dangerous if ignored.
+2.2.1.5 Gunnery and Actual Rate: These values indicate the
+actual number of guns carried by a ship and its real, defined Rate.
+These values do not affect play and are provided as information
+only.
+2.2.1.6 Ship Color: The color of a ship piece indicates its
+nationality. On the larger ships, the nation’s naval jack is also
+included. Check the Play Book included in the game for a list
+of nationalities included in that game.
+Rank
+
+Name
+
+Front
+
+Command
+Range
+Command
+Quality
+
+Back
+
+VP value
+
+2.2.2 Commanders: These half-inch pieces represent the fleet
+commanders available during each Fleet action. The commanders
+are the heart of the game’s command and control system, as they
+allow a fleet to act in unison. Commanders are not used in Duels.
+The reverse of a Commander unit indicates his ‘wounded’ status
+(with decreased values). Like Ship units, Commander units are
+
+colored to indicate nationality and marked with several measures
+used during play:
+2.2.2.1 Rank: The small number in the piece’s upper left corner
+indicates a Commander’s Rank. The higher this number is, the
+greater the Commander’s Rank. Generally speaking, a ‘3’ is a
+fleet admiral, a ‘2’ a divisional admiral and a ‘1’ is a commodore. If a fleet includes two or more admirals tied for the highest
+rank, the scenario setup indicates which is the fleet admiral (an
+important distinction for victory determination).
+2.2.2.2 Command Range: The upper number to the right of the
+Commander portrait represents the distance at which he can issue
+orders. All ships falling within this radius may be considered
+‘in command’ (per the Command rules under 3.3.3). The higher
+this number, the more effective a Commander is in keeping his
+fleet under control.
+2.2.2.3 Command Quality: This value represents the experience and effectiveness of a Commander. This value is used to
+modify actions of the ship he occupies, but is primarily used in
+determining a fleet’s initiative.
+2.2.2.4 Victory Points: On the reverse of a Commander unit is
+an indication of how many Victory Points he is worth if captured
+or killed during the action.
+2.2.2.5 Audacity Rating: In addition to the statistics noted on the
+individual units, each nationality in a scenario is given an ‘Audacity’ rating. This value is a reflection of how the side behaved
+historically in battle, and is an indication of the overall quality
+and flexibility of the fleet and the tenacity of its commanders.
+2.2.3 Markers: A large number of markers are included in the
+game to track the status of each ship. The use of each type of
+
+Hull
+Hit
+
+Rigging
+Hit
+
+Dismasted!
+
+In Irons!
+
+Battery
+
+Captured!
+
+Anchored
+
+Full
+Sails
+
+On Fire
+
+Aground
+
+Adrift
+
+Fouled
+
+Struck!
+
+Fired
+Starboard
+
+Fired
+Port
+
+Fired
+Both
+
+© 2014 GMT Games, LLC
+
+Out of
+Vulnerable Command
+Command
+Split
+
+Flying Colors — ver. 3.1
+marker is covered within the rules that require their use. The
+number of markers provided is not a game limit. If additional
+markers are required, players may create their own, or use similar
+markers from other games.
+
+2.3 Status Sheets
+
+If players want to avoid using a lot of markers to indicate ship
+status, status may be tracked on paper using status sheets available for download on www.gmtgames.com. Write each ship down
+prior to play and cross off each extraneous damage box above
+the initial values tracked. As the ships take damage, cross off
+damage boxes as necessary. The status sheets can also be used
+to track fired and moved status. Ship status sheets are open to
+examination by all players.
+
+2.4 Turn Track
+
+Only the Duel map includes a track to mark the current Turn
+number. For Fleet actions, use a hex column along an edge of
+the map out of the way of the action. Use hex xx01 to mark the
+first turn, xx02 to mark the second and so on.
+
+2.5 Game Dice
+
+One 10-sided die is used. Treat a roll of ‘0’ as a zero (not a
+ten).
+
+2.6 Game Scale
+
+The hexes on the map are roughly 100 meters across and each
+game turn represents five to ten minutes of time.
+
+	
+	
+	
+	
+
+B.	
+C.	
+D.	
+E.	
+
+
+
+Activate Ship(s)
+Move (and Fire) Ship(s)
+Disengage Ship(s)
+Select another Command or a single Out-of-Command
+Ship (players alternate activating commands or Out-ofCommand ships until all have been activated)
+
+V.	 Melee Combat
+
+VI.	 Ship Status Check
+	 A.	 Ship Fires
+	 B.	 Drifting
+	 C.	 Striking
+	 D.	 Sinking
+	 E.	 Remove Broadside markers
+VII.	Victory Determination
+
+General Overview of Play: After checking for any wind change
+each player determines which ships are in/out of command and
+who commands each formation. A roll of the die determines
+which player determines who will be the first active player. The
+active player chooses a formation or single out-of-command ship
+and moves/fires each ship individually. After all the activated
+ships have completed their actions, play shifts to the other side
+to activate a formation or single out-of-command ship. Players
+alternate activations until all ships have been activated. After all
+ships have moved, any melees are resolved. Lastly, each ship’s
+status is checked, victory conditions are checked and markers
+removed as necessary.
+
+3.2 Wind Adjustment Segment
+
+3.0 Core Rules
+
+Flying Colors is, for all intents, two games in one. The ‘Fleet’
+game allows the recreation of major naval actions with dozens
+of ships on a side. Owing to the number of ships involved, much
+of the minutiae of shipboard activities are swept away in favor of
+quick play. The ‘Duel’ game only involves one or two ships per
+side, and so the focus is returned to tactical ship handling decisions (otherwise, Duels would be little more than an exercise).
+The Core Rules covers all of the basic mechanics of movement
+and combat used for the Fleet game. Further rules sections on
+Initiative Card use (4.8) and the Duel Rules (5.0) supersede the
+rules in this section. Any mechanics not referenced in these additional sections use the Core Rules as written.
+
+3.1 Sequence of Play
+
+The sequence of play is the order in which you perform the game
+functions the rules provide. The sequence of play is repeated for
+a number of turns noted in each scenario.
+I.	 Wind Adjustment Segment (not on turn 1)
+II.	 Command Determination
+III.	 Initiative Determination
+IV.	 Activation Cycle
+	 A.	 Select Command or a single Out-of-Command Ship
+
+Beginning on turn 2, roll a die during the Wind Adjustment
+Segment. If the roll is a 0, roll another die and check the Wind
+Adjustment Table.
+PLAY NOTE: The Wind Change table is designed for northern
+hemisphere scenarios. For those players creating their own
+scenarios, invert the terms ‘clockwise’ and ‘counter clockwise’
+as necessary when fighting south of the equator.
+
+3.3 Command Determination
+
+Victory or defeat at sea during this period was often dependent
+upon the fleet commander’s flexibility, and his ability to provide
+clear and concise commands. During the Command Determination phase, players indicate which ships are under or out of
+command.
+3.3.1 Commanders: Each fleet is usually assigned one fleet
+admiral and one or more subordinate commanders, depending on
+the scenario. Commander units represent these individuals, and
+are placed with ship units. Commander units are marked with
+a Rank value next to their names. The higher this number, the
+greater the rank. More than one commander can be stacked on
+a single ship (although for the fleet’s sake, you probably don’t
+want to do this).
+
+© 2014 GMT Games, LLC
+
+
+
+Flying Colors — ver. 3.1
+
+3.3.2 Flagships: The ship that holds a fleet admiral at the beginning of the scenario is considered the flagship. Conversely, a ship
+designated as the flagship at the beginning of a scenario holds
+the fleet admiral (for those instances where more than one leader
+share the same highest rank). An admiral may not leave a ship
+unless it is on its damaged side, dismasted, or on fire.
+3.3.3 Commands: Groups of ships are called commands. All
+ships that are part of a single command are activated together
+and must all move before any enemy ships are allowed to move.
+Commands are formed by either of two methods:
+1) Group Commands: All ships that are within the Command
+Range of a Commander may be part of that individual’s command. Command Range is calculated by counting the number of
+hexes between either the bow or stern hex of the commander’s
+ship to either the bow or stern hex of a ship in question. When
+counting the hexes in this range, do not include the commander’s
+ship. Hexes containing enemy vessels may not be counted, but
+players may count around them. If a ship is within range of more
+than one commander the owning player chooses which formation
+the ship will activate with.
+DESIGN NOTE: The Command Range concept is not merely the
+ability to broadcast commands to ships via signal flags. Rather,
+it takes into account the ability of a fleet commander to issue
+pre-engagement plans and orders in such a manner as to allow
+a fleet to maintain its cohesion once the fleets engage.
+2) Formation Commands: Ships may be set up on the map in
+such a way that they are in a formation. To be in a formation:
+
+•	 Each ship in the formation must be within 4 hexes of at least
+one other ship in the same formation. No enemy vessel may
+occupy one of these hexes, but the hexes may be counted
+around an enemy vessel.
+•	 All the ships in the formation must be facing in the same
+direction, and
+•	 One of the ships within the formation must include a
+commander.
+There is no limit to the number of ships that may be included in a
+Formation Command. When activating a Formation Command,
+each ship may be activated in any order.
+
+3) Out of Command: Ships not conforming to either of these
+conditions are considered ‘Out Of Command’ (see 3.5.1). Commands are determined at the beginning of each turn, so a ship may
+fall out of command during a turn, but is still considered part of
+a command until the end of the turn. All ships are considered “in
+command” during the first turn of any scenario and are part of
+the nearest Formation command. Exception: Ships of a side that
+begins a scenario without commanders are all Out Of Command
+for the duration of the scenario (unless specified otherwise by
+the scenario’s rules).
+3.3.4 Determining Commands: Players must determine which
+ships are in which commands, and if any ships are out of command. Starting with the player who lost the initiative in the previous turn (or the fleet with the lowest Audacity for the first turn),
+
+indicate a number of ships that make up a specific command, per
+the command definition rules noted above. The other player then
+indicates the ships in a specific command. The players continue
+to define commands using this back and forth process until all
+commands have been defined. After one player has indicated
+his final command, the other player may divide his remaining
+ships into more than one command if desired and possible. If
+necessary, use the Command Split markers to indicate where
+one command ends and another begins. These markers serve no
+other purpose than to help players keep track of commands. Any
+ships that cannot be included in a command are marked with an
+‘Out Of Command marker.’ A ship holding a commander unit
+is always in command.
+
+3.4 Determine Initiative
+
+After commands have been determined, each player rolls a die
+to determine initiative. Players add the current command quality
+of their fleet admiral to the die roll (or the fleet’s Audacity if the
+fleet admiral is dead or captured). The player with the higher
+modified die roll wins the initiative for that turn. In the case of a
+tie, the winner is that side with the higher Audacity rating.
+
+3.5 Command Activation
+
+The player who won the initiative for the turn then either selects
+a command or a single out of command ship to be activated, or
+passes the initial activation to his opponent. The players then
+alternate activating commands or single out of command ships
+until all ships have been activated. If one player still has ships
+to activate after his opponent has activated all of his own ships,
+he must make several activations in a row until all ships have
+been activated. Each command and out of command ship may
+be activated once per turn.
+3.5.1 Out of Command Ships: Ships that are out of command
+may be limited in what they can do when activated. When each
+out of command ship is selected, a die is rolled and compared
+to the fleet’s Audacity rating (deducting the fleet admiral’s
+Command Quality if he is not dead or captured). If the result is
+less than or equal to the Audacity, the ship may function as if
+it were in command. If the command check fails, the ship may
+not end its move adjacent to an enemy ship (if possible) or fire
+when activated unless it starts (is activated when) adjacent to
+an enemy ship.
+3.5.2 Out of Command Activation Exception: Generally a
+player must always activate something when it is their turn. The
+only exception to this is a player may “pass” on activation if his
+opponent just activated an Out of Command ship. A player may
+continue to pass after each Out of Command activation, but must
+activate one of his own commands or Out of Command ships as
+soon as his opponent has either activated a full command or has
+run out of activations.
+
+3.6 Movement
+
+When a ship is activated as part of a command activation or when
+a single out of command ship is chosen, the ship is moved through
+the map grid from one hexagon, through one or more adjacent
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+hexagons, depending on the ship’s Movement Rate. Hexes may
+not be skipped over while moving.
+3.6.1 Facing: When placed on the
+map, a ship occupies one or two
+hexes, depending upon its size. The
+front of a ship unit must always face
+a hex side, not a vertex. If facing
+comes into question, the opposing
+player selects the appropriate facing.
+Surrounding the ship unit are several
+hex sides. The front most hex side
+is the ship’s bow hex side. The rear
+hex side is its stern hex side. For a
+small ship, both hex sides to its left
+and right are its port and starboard
+hex sides, respectively. For a large
+ship, the hex sides bordering the
+middle hex on both sides are its port and starboard hex sides,
+respectively. The accompanying diagram identifies port and
+starboard hexes for game purposes.
+3.6.2 Movement Rates: Depending upon its relationship to Wind
+Direction, a ship will have a number of Movement Points (MPs)
+that it must expend in that turn (Exception: collisions, anchoring,
+grappling and running aground). MPs may not be saved for later
+turns. A ship’s position relative to the wind direction is described
+by the following nautical terms:
+•	 Running: the ship is pointing in the same direction as the wind
+(4 MPs).
+
+•	 Reaching: the ship is pointing 60 degrees to the left or right
+of the wind direction (5 MPs).
+
+•	 Beating: the ship is pointing 120 degrees to the left or right of
+the wind direction (2 MPs).
+•	 Taken Aback: the ship is pointing directly into the wind
+direction (0 MPs). Also called ‘In Irons!’
+
+
+
+•	 Small Ship Speed Enhancement: Ships with an Actual Rate
+of 5 or 6 (not G or T) on their undamaged side may optionally
+add one MP to their allotment upon activation, provided that
+they are not dismasted. Once declared, this enhancement may
+not be retracted. This enhancement is not considered a bonus
+and is applied prior to reducing the movement rate owing to
+rigging damage. Ships that are in irons or that have 0 MPs may
+not use the small ship speed enhancement
+•	 Full Sails: A ship may drop or raise Full Sails at the end of its
+movement if desired. A ship may also begin a scenario at Full
+Sails if desired. Ships operating at Full Sails can move further
+during a turn, but are more susceptible to rigging damage in
+combat. A ship that has suffered six rigging hits or is damaged
+may not raise Full Sails and loses them if currently raised.
+When a ship is attacked while under full sails, add two (2) to
+the result die roll when rigging is targeted. When using Full
+Sails, increase the movement values of a ship by the following
+amounts, depending upon their position relative to the wind:
+Beating +1; Running +2; Reaching +3.
+•	 Weather Effects: Some scenarios may include a Weather
+Condition option, either ‘Breezy’ or ‘Calm.’ When Breezy,
+increase a ship’s MPs by one (provided it already has at least
+1 MP) and add one to the Weather Change die roll. When
+Calm, decrease a ship’s MPs by one and deduct one from the
+Weather Change die roll. In addition, Drifting movement (see
+3.6.8) occurs only on even numbered turns when Calm.
+
+•	 Oared Ships: A gray circle bounding a Damage rating
+indicates a ship equipped with oars (galleys, xebecs, etc).
+These ships may always expend up to 2 MP regardless of their
+position relative to the wind or the status of their rigging. They
+never receive a Small Ship Bonus for movement and may
+never raise Full Sails. When activated, they may opt to take
+their full movement allowance and act as a normally rigged
+vessel, or they may opt to take only two movement points
+and act as an oared vessel. Ships acting as oared vessels may
+rotate one hex-side freely prior to movement and/or per hex
+entered. Moving into a bow hex costs 1 MP. Moving into a
+stern hex costs 2 MP. An oared vessel may also rotate to face
+any direction in its starting hex at a cost of 2 MP.
+DESIGN NOTE: Some players may wonder why all ships share
+the same speed ratings, and why the MPs are static. The answer
+is: that level of detail is beyond the scope of this game design.
+Ultimately, this design is about fleet action, not individual ship
+design and capability.
+3.6.4 Moving a Ship: A ship is
+moved by advancing it directly
+across its bow hex side, into the
+hex in front of its bow. Doing so
+expends one of its MPs.
+
+3.6.3 Movement Rate Modifiers: There are several ways in
+which a ship’s basic movement rates may be modified:
+
+3.6.5 Wearing: Wearing is the
+process of turning a ship without moving its bow through the
+wind. It is a relatively easy maneuver, but one that can be time
+
+© 2014 GMT Games, LLC
+
+
+
+Flying Colors — ver. 3.1
+Tacking during the same turn. Place an ‘In Irons!’ marker on any
+ship that does not complete a tack. Ships that are ‘In Irons’ are
+considered adrift for Grappling (3.6.16) purposes.
+3.6.7 Side Slipping: Ships that find themselves in a Reaching
+position at any point during their move may execute a Side Slip
+at a cost of 2 MP. A ship that Side Slips moves one hex to leeward (with the wind) and forward, without turning (it maintains
+a Reaching position). A ship may continue to Side Slip so long
+at it has sufficient MP to do so. A Side Slipping ship may never
+enter a hex occupied by another ship (exception to 3.6.11).
+
+consuming when trying to move a ship up-wind. After expending
+a MP, a ship may rotate its stern left or right into an adjacent
+hex. A ship may only rotate its stern one direction in each hex it
+moves into (it cannot wear twice in the same hex during the same
+activation). Unless ‘Tacking’ (see below), a ship may never turn
+its bow directly into the wind while turning. Turning may or may
+not consume MPs, depending upon the direction turned relative
+to the wind (double these costs if at Full Sail, 3.6.3):
+•	 Reaching to Running:	1 MP
+•	 Reaching to Beating:	
+
+2 MP
+
+Any other changes in direction do not cost MPs. A ship with only
+1 MP (due to rigging damage) may wear in place from Reaching
+to Running. It may not wear from Reaching to Beating.
+
+3.6.8 Drifting: Ships that are Grappled (3.6.16), fouled (3.6.15),
+dismasted (3.7.11), or struck (3.7.11) have no MPs (exception:
+oared vessels may still move when dismasted, 3.6.3). In these
+cases, move those ships one hex with the wind during the Drift
+segment of the Ship Status Check phase. If the wind state is
+‘Calm,’ Drifting movement occurs only on even numbered turns.
+Place an ‘Adrift’ marker on ships with zero MPs when activated
+to indicate this status. A drifting ship may never cause a collision.
+If a drifting ship will move a ship into a hex already occupied
+by another ship, the drifting ship is left in place.
+3.6.9 Sternway: When attempting to move a non-Drifting ship
+that has no movement points owing to being ‘In Irons’ or having
+sufficient rigging hits as to lower its MPs temporarily to zero, roll
+a die (deducting the Command Quality of a commander stacked
+with the ship). If the result is greater than four (4), the ship must
+move with the wind one hex and then at the player’s option may
+be rotated on its bow hex 60 degrees to the left or right. If the
+result is less than or equal to four, the player has the option to
+
+PLAY NOTE: Moving into a quicker position relative to the wind
+will not gain any movement points until the next game turn. Moving into a slower position relative to the wind will not lose any
+movement points until the next game turn.
+3.6.6 Tacking: Tacking is the process of turning a ship by moving
+its bow through the wind. This is a more efficient way of moving
+up-wind, but it is also a risky maneuver, particularly in combat.
+Failure to Tack successfully may leave a ship ‘In Irons’ and unable to move! Only ships that begin their move while Beating
+may perform a Tack (i.e. it cannot be done mid-turn). To Tack a
+ship, follow this procedure:
+1) Declare a Tacking maneuver for a Beating ship by rotating the
+ship on its stern to face directly into the wind. Note that this is
+the opposite of Wearing! Small ships rotate in place.
+2) Roll a die and check the modified result on the Tacking Table.
+The table indicates if the ship ends up ‘In Irons’ or is able to
+continue the Tacking maneuver.
+3) If the result from the Tacking Table is anything other than
+‘In Irons,’ continue to rotate the ship through the wind so that it
+is now Beating on the opposite side of the wind. If the Tacking
+table indicates the receipt of any MP, the ship must continue to
+maneuver normally until all are expended. Since a ship can only
+Tack at the beginning of its turn, it cannot perform any additional
+
+TACKING EXAMPLE: The example above shows how a
+ship might move two hexes into the wind using Tacking. The
+process takes two turns to complete (unlike Wearing, which
+takes several turns to achieve the same result). To initiate its
+first Tack, the ship rotates its bow into the wind. A die is then
+rolled and the result checked on the Tacking table. In this
+example, two MPs result. The first action (requiring no MPs)
+is to rotate the ship’s bow away from the wind. The two MPs
+are then used to advance straight ahead. In its second turn,
+the ship attempts another tack, but in the opposite direction.
+The resulting maneuver places the ship two hexes closer to
+the wind.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+rotate the ship to the left or right without moving it backwards or
+may still allow the ship to drift one hex before it is rotated. Moving backward as part of Sternway does not cause collisions (treat
+it as Drifting, 3.6.8). Dismasted ships may not use Sternway. A
+ship making Sternway may never turn into Irons.
+3.6.10 Backing Sails: A ship may ‘reduce’ its movement rate by
+‘backing sails.’ When doing so, a ship expends 1 MP in a hex
+without moving forward. Only 1 MP may be expended in a hex
+to back sails. Expending a MP to back sails counts towards the
+turning requirement (i.e. a ship may Wear in place). A ship may
+not back sails prior to Tacking, but may do so after a successful
+Tacking result. The maximum number of MPs a ship may use
+to back sails is one half of their initial movement rate, rounded
+down (i.e. a ship with 1 MP cannot back sails).
+
+
+
+ship may change facing while its bow hex overlaps one of the
+hexes of the enemy counter, but where this will result in the active ship turning on to the inactive ship’s Rake Line (3.7.7.6),
+this constitutes a Pass-Along (3.6.14) and certain restrictions
+apply. Where the active ship enters the enemy ship’s hex from
+the bow or stern hex in the Facing diagram, this also constitutes
+a Pass-Along.
+3.6.13 Small Ship Pass-Through: The process of passing through
+a small ship works the same as a large ship (above), with the
+following enhancement: When entering a small ship’s hex from
+either side, the active player declares which end (bow or stern) of
+the inactive ship is being crossed. The inactive player may oppose
+this movement by rolling on the Evasion table. If successful, the
+inactive player decides which end the active ship crosses.
+
+EXAMPLE: A ship begins its turn reaching, and (for whatever
+reason) has a movement rate of six (6). The ship may expend up
+to three (3) MPs to back sails. It expends its first MP to back sails
+and turns into a beating position (at a cost of 2 MP). It expends
+its fourth MP to advance one hex. It expends its fifth MP to back
+sails. It expends its sixth and final MP to advance one hex. The
+ship has spent six MPs but only advanced two hexes.
+3.6.11 Stacking Ships: Ships may pass through hexes occupied
+by other ships, provided that they do not end their move occupying the same hex as another ship. If it is impossible to end an
+activation without having one ship stacked upon another, then the
+active ship is moved back to the last position it occupied before
+entering an occupied hex and it must check for Collision (3.6.15).
+Players must make every effort to avoid Collision by turning,
+backing sails etc. If doing so results in the active ship being forced
+into a less than optimal position, then that is unfortunate.
+3.6.12 Large Ship Pass-Through: If an active ship has enough
+MPs to clear a large enemy ship, it may pass directly through
+that ship counter from either side. Once the bow hex of the active
+ship moves clear of the enemy ship, then the active ship may
+turn (where it has sufficient MPs) without restriction. An active
+
+EXAMPLE: The Fortitude can pass right through the small ship’s
+hex, passing across the bow or stern of the ship.
+H 3.6.14 Pass-Along: When a ship enters a hex occupied by
+another ship from the bow or stern hex, the active player declares
+which side of the inactive vessel the active ship wishes to pass
+along. If the inactive ship is an enemy and is not Dismasted,
+Grappled, Fouled, Anchored, or Grounded, the inactive player
+may oppose this movement by rolling on the Evasion table. If
+successful, the inactive player decides which side the active ship
+actually passes along. Where the active ship wishes to turn onto
+the inactive ship’s Rake Line having entered from either side,
+the active player first resolves any Fire Combat (3.7) before
+declaring which side the active ship wishes to pass along. If the
+active ship conducted an attack from the Rake Line, then it must
+pass along the inactive ship’s far side i.e. with the active ship’s
+fired broadside facing the inactive ship. DESIGN NOTE: This
+avoids a ship “doubling back” unrealistically to be able to fire
+both broadsides in a single pass.
+If the active ship did not conduct an attack from the Rake Line,
+then the inactive player may oppose the active player’s choice
+by rolling on the Evasion table unless either of the following
+exceptions applies:
+
+EXAMPLE: The Fortitude can pass through the Superbe. Once
+its bow reaches hex B it can turn to port or starboard without
+restrictions. The Fortitude can also turn to starboard when its
+bow reaches hex A. If it turns to port in hex A, then this consitutes a Pass-Along and certain restrictions apply (3.6.14).
+
+a) If the active ship decides to pass along the near side of the
+inactive ship without conducting an attack from the Rake Line,
+the inactive player cannot oppose this. DESIGN NOTE: Where
+an active ship approaching from the port or starboard beam
+decides to hold its distance, the inactive ship would not be able
+to force the active ship onto the opposite beam.
+
+© 2014 GMT Games, LLC
+
+10
+
+Flying Colors — ver. 3.1
+
+b) If the active ship turned onto the Rake Line having entered
+from the middle hex of the port or starboard side of the inactive
+ship (i.e. the hex containing the word ‘port’ or ‘starboard’ in the
+Facing diagram (3.6.1), then it must pass along the near side of
+the inactive ship. DESIGN NOTE: This avoids the active ship
+in effect cutting the other ship in half. A moving ship is either
+making a turn around an inactive ship’s bow or stern.
+
+3.6.15 Collisions: If it is impossible to avoid ending one ship’s
+move in a hex occupied by another ship, the ships may collide
+and become fouled together. A drifting ship may never cause a
+collision. Whether or not a collision occurs, the moving ship ends
+its turn in the position prior to overlap. Ships may not collide on
+purpose! If any movement is possible through the creative use
+of wearing and/or backing sails that would allow the avoidance
+of a collision, that move must be taken. In addition, if it seems a
+collision check is unavoidable, the moving ship must back sails
+as often as possible in order to burn the maximum number of MPs
+prior to impact. To check for a collision, roll a die and reference
+the result on the Collision table. Deduct the Command Qualities
+of any commanders available on the moving and ‘target’ ships.
+Increase the die roll for the moving and target ship’s Relative
+Rate (+1, +2 or +3 each), if the moving or target ship is damaged
+(+1 each) and the number of MPs the moving ship was unable to
+expend. If the modified result is greater than 9, the moving ship
+becomes fouled with the first ship it could not move through.
+Place a ‘Fouled’ marker across both ships to indicate this status.
+Fouled ships are ‘adrift.’
+H 3.6.16 Grappling: In order to board an enemy ship to capture
+it, the enemy ship must be grappled. An active ship may attempt
+to grapple if it is on a parallel course (facing the same or opposite
+direction) with an enemy ship that is Adrift, In Irons, Dismasted,
+Anchored, or Fouled, and it either a) occupies one of the enemy
+ship’s port or starboard hexes (see diagram in 3.6.1), OR b) is
+conducting a pass-along of the enemy ship (see 3.6.14). Ships
+that are fouled may attempt to grapple the ship(s) with which
+they are fouled.
+
+In “A” the Hercules enters the opposing ship’s hex directly
+astern. The active player declares which side he will try to
+pass along and then the opposing player tries to oppose this
+by rolling on the Evasion Table.
+In “B” the Fortitude turns in hex B onto the opposing ship’s
+rake line. If the Fortitude fires her starboard broadside before
+turning then the Fortitude must pass along the Superbe’s port
+side (B-1). If the Fortitude does not fire it may pass along either
+side but the opposing player can only oppose the movement
+if the Fortitude chooses the far side (i.e. passing along the
+port side of Superbe). It can not oppose the pass along on the
+near side (B-2).
+At “C” the Fortitude moves onto an enemy rake line from
+abeam and turns to starboard in hex C. Once the Fortitude
+reaches hex C, she must pass aong the near side of the Superbe.
+The Fortitude will only be able to fire its port broadside during
+the pass-along.
+
+In either case, the moving ship may attempt to Grapple once
+during its activation. If the enemy ship is not already Grappled,
+Fouled, Anchored, or Grounded, it may attempt to evade by
+rolling on the Evasion table and applying appropriate modifiers.
+If the target ship successfully evades, the moving ship must
+continue its movement. Otherwise, the moving ship may attempt
+to grapple by rolling on the Grappling table. If successful, the
+Grappling ship ends its movement at that point. If the moving
+ship is conducting a pass-along, place it in one of the port or
+starboard hexes of the immobile ship instead (whichever side
+it is passing along). If that hex is already occupied by another
+ship, the Grapple attempt automatically fails and the active ship
+must continue moving.
+If a Grapple attempt succeeds, place a Grappled marker astride
+each ship. Firing is allowed defensively against grappling attempts. Only the defending ship may fire. The moving vessel
+may fire (assuming it hasn’t already) simultaneously with the
+grappling attempt. This and defensive fire are considered simultaneous, as if the ships were already grappled together. This fire
+is considered Point-Blank (3.7.9)..
+H 3.6.17 Fouled/Grappled Effects: Ships that are Fouled and/
+or Grappled may not move when activated. Instead, they may
+attempt to disengage when activated. Ships that remain Fouled
+and/or Grappled at the end of the turn will drift during the Drifting
+segment of the Ship Status Check phase. Fouled/Grappled ships
+may not target each other’s rigging, and they gain no benefit from
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+wind direction when firing at the hull.
+3.6.18 Disengaging: When activated, a Grappled and/or Fouled
+ship may attempt to cut free from any one enemy ship. Ships desiring to disengage must roll a die and refer to the Disengagement
+table. If successful, remove all Fouled and/or Grappled markers
+from the disengaging ship and the ship to which it was attached.
+3.6.19 Anchoring: Anchoring is allowed only by scenario special
+rules. In such cases, a ship may start a scenario at anchor, or may
+drop anchor during the course of play. Anchoring is the only way
+to purposely halt movement. An anchored ship that fires applies
+a +2 die roll modifier on the Hit Results Table.
+Dropping Anchor: A ship that wishes to anchor must declare
+this action at the start of its activation. Only ships that are not at
+full sails may anchor. The ship rolls on the Sternway table instead
+of undertaking normal movement. Normal modifiers apply, but
+anchoring ships do not rotate after making this roll. On a modified
+roll of 4 or less, the ship may either anchor in place or choose to
+drift 1 hex before doing so. On a roll of 5 or more, the ship must
+drift 1 hex before dropping anchor. Place the anchor marker on
+either the bow or stern hex for large ships, and directly on the
+ship counter for small ships. A ship may fire as normal during
+this process, but the +2 bonus does not take effect until after the
+anchor marker is placed.
+Rotating at Anchor: Anchored ships may rotate one hexside per
+turn beginning on the turn after they drop anchor. (Exception –
+Oared ships may rotate any number of hexsides.) When activated, a
+large ship may rotate around either its bow or stern hex (whichever
+is anchored). Small ships rotate in place. Any ship that fires and
+rotates during the same activation resolves its fire with a Relative
+Rate one greater than that listed on the firing ship’s unit.
+Slipping Anchor: A ship that wishes to slip anchor must declare
+this action at the start of its activation. The anchored marker is
+removed and the +2 bonus is immediately lost (i.e. before any
+firing). The ship receives Movement Points equal to half those
+shown on the Movement Table (round fractions down to a
+minimum of 1MP) and may not use Full Sails or Anchor during
+this activation. On the turn following the ship may maneuver
+normally. Ships that are In Irons when slipping anchor must roll
+for Sternway (3.6.9) and apply the results as their only movement
+for the turn. On the next turn they receive half Movement Points
+with the restrictions described above. On the turn following they
+may maneuver normally.
+
+11
+
+3)	When firing either offensively or defensively, the firer determines the amount of firepower available that can be hurled at
+the target.
+
+4)	The firer then selects the shot target (Rigging or Hull). If there is
+the possibility of a Rake, the firer determines if the shot is a Rake.
+5) The firer rolls a die to determine the result of the shot.
+
+6)	Any damage resulting from the shot is applied against the target
+ship and the firing vessel marked with the appropriate Broadside
+Fired marker.
+
+7)	The active vessel, after applying any damage from defensive
+fire may then return fire against the originally selected target, 	
+or may withhold the declared attack.
+8)	The active vessel then continues its move (and may possibly 	
+fire again at another target).
+3.7.1 Fire Limitations: A ship may fire twice per turn, once from
+each side of the ship. Ships may only fire EITHER after they
+have expended at least one MP (unless the ship has remained immobile owing to it being Grappled, Fouled, at Anchor, or Adrift)
+OR at any point after declaring a Tacking or Sternway maneuver.
+Note that Backing Sails expends a MP, therefore fulfilling the
+MP expenditure requirement. A ship may fire its guns before or
+after it has completed a free turn (wearing into a better position
+relative to the wind) after expending a MP. A ship may fire both
+broadsides simultaneously, or at different times during its move.
+Each broadside is resolved separately.
+Masked Broadsides: Ships that sail close to other friendly ships
+may lose their ability to fire due to obscured lines of sight. If
+at any point during the Activation Cycle, a ship has a friendly
+vessel in one of its port or starboard hexes, or in its own hex
+during a Pass-Along, that ship must mark as fired the broadside
+facing the friendly ship. This occurs for both active and inactive
+ships. In the case of a Pass-Along, the broadsides to be marked
+as fired will depend on which side the active ship passes along
+the inactive one.
+
+3.7 Fire Combat
+
+The goal of Fire Combat is to damage an enemy vessel in such
+a manner as to either slow it down (through Rigging damage)
+or to sink it or cause it to ‘strike its colors’ (e.g. surrender). The
+Fire Combat mechanics follow this process:
+
+1)	An active (moving) ship selects a target that is within both range
+and line of sight (e.g. there’s at least a chance of hitting it).
+2)	The enemy may conduct Defensive Fire against the active ship,
+either by the target vessel or another friendly vessel within range
+and line of sight of the moving ship.
+
+LINE OF SIGHT EXAMPLE: The darkened ships are Line
+of Sight obstacles (enemy or friendly ships). Ships A through
+D are enemy ships. The St. Albans has a clear Line of Sight
+to A, a partial LOS to B and D, and no LOS to C. Note that
+the LOS follows a hexspine in the case of D.
+
+© 2014 GMT Games, LLC
+
+12
+
+Flying Colors — ver. 3.1
+
+3.7.2 Mixed Fleets: Generally, smaller ships (5th Rate and smaller)
+were not part of ‘the Line’ and therefore did not partake directly in
+the larger naval actions. Instead, they were used as scouts, flankers,
+and message ships. It was not considered prudent (or gentlemanly)
+for a ship of the line to fire upon smaller ships. These smaller ships
+were, however, known to engage larger ships if there was a reasonable chance of survival and the acquisition of a grand prize. When
+smaller (half-inch) ships are in play with full-sized ships, the latter
+may not fire upon the former (even defensively) until the smaller
+ship has fired upon and inflicted damage to a ship of the line (4th
+Rate or larger). Small ships may engage each other freely.
+
+3.7.5.1 Swivel/Pivot Guns: Gunboats (having an undamaged
+Relative Rate of ‘T’), oared vessels (gray circle bounding the Hull
+rating) and vessels noted as being pivot armed in the Scenario
+instructions may fire at any target outside of their broadside arc
+and not on the Rake Line with a –1 modifier to the Hit Results
+Die Roll. Firing at a target wholly or partially on the Rake Line
+incurs a –3 modifier. Such fire expends the broadside attack
+of the side of the firing ship nearest to the target. Swivel/Pivot
+armed ships never suffer from Partial Broadsides due to firing
+arc reasons. Where the target lies on the Rake Line, the firing
+player may choose which broadside is expended.
+
+3.7.3 Line of Sight: In order to fire at an enemy ship, a clear line
+of sight must be available between the attacking and target ships.
+The hexes occupied by friendly and enemy ships (not just the unit
+counters or ship outlines) block line of sight. To determine if line
+of sight is available, draw imaginary lines between the centers of
+both of the attacking ship’s bow and stern hexes or from the center
+of a small ship unit’s hex to both of the bow and stern hexes of
+the target ship or the center of a small ship’s hex. If any of these
+lines cross over a hex occupied by a different ship, line of sight
+is blocked along that direction. Note that line of sight may be
+drawn between two hexes (along the hex spine) so long as one
+of the two hexes is unoccupied. If it is not possible to draw lines
+of sight between all of the attacking and defending ship hexes,
+but at least one clear line of sight is available, an attack is still
+possible. These instances are treated as ‘partial broadsides’ (see
+3.7.7.4). A firing ship always has a full line of sight to a ship that
+it is stacked on or under (fully or partially).
+
+3.7.5.2 Chase Guns (optional): Vessels with undamaged Relative Rates of ‘G’ or higher may only fire outside of their broadside
+arc at targets that lie on the Rake Line (bow and stern chasers).
+Fire Chasers by rolling a single die and comparing the result to
+the range between the two vessels. If the result is greater than or
+equal to the range, then one Rigging hit is scored. The die roll is
+modified by Audacity of the firing ship and any Firing modifiers
+due to Initiative cards (4.8) currently in play. No other modifiers
+apply to chase guns. If the range is five hexes or less and an
+unmodified ‘9’ is rolled, then another Rigging hit is scored. Firing chase guns does not expend a broadside, but bow and stern
+chasers may only be fired during a ship’s activation, they may
+not be used for defensive fire.
+
+3.7.4 Arc of Fire: A ship may only fire at targets that lie fully or
+partially within the firing (or, ‘broadside’) arc of their cannon
+(exception: Chase Guns, 3.7.5.2). A ship’s arc of fire starts from
+the center of its bow and stern hexes (or the center of its sole
+hex, in the case of small ships) and extends outward through all
+hex sides to either side of the ship. All of the hexes that lie fully
+or partially within this arc are subject to attack. The Broadside
+diagram below indicates a ship’s firing arcs.
+
+DESIGN NOTE: The armament of Gunboats was often mounted
+on pivots or swivels which, when combined with the maneuverability of such vessels under oars, meant that most of their firepower could be brought to bear in almost any direction. Larger
+vessels (Gun-brigs and above) generally mounted a few cannon at
+the bow and stern in order to target the Rigging of enemy vessels
+being chased or to escape a pursuer. The rule for Swivel/Pivot
+Guns is mandatory when vessels of the relevant type are involved
+in a scenario, the rule for Chase Guns may be used optionally
+for any scenario if both players agree.
+H 3.7.6 Wind Effects: Wind affects both a ship’s movement rate
+as well as its ability to fire. With respect to the latter, a ship is
+firing ‘with the wind’ (‘leeward’) if: a) it is reaching or beating,
+and b) the firing broadside is on the opposite side of the ship
+from which the wind is blowing. A ship is firing ‘into the wind’
+(‘windward’) if: a) it is reaching or beating, and b) the firing
+broadside is on the same side of the ship from which the wind
+is blowing. Similarly, ships that are grappled or fouled gain no
+benefit from wind direction, regardless of their actual position
+relative to it.
+EXAMPLE: A ship is sailing in Direction 1. The wind is blowing
+in Direction 2, so the ship is Reaching. Its starboard broadside
+will be firing with the wind and its port broadside will be firing
+into the wind. The same would be true if the wind was blowing
+in Direction 3, in which case the ship would be Beating.
+
+3.7.5 Targets Outside Arc of Fire: Ships may only fire at targets
+outside their broadside arc of fire as described below. Firing in
+accordance with this section can trigger defensive fire or be used
+as defensive fire in response to an incoming attack as normal.
+
+3.7.7 Fire Resolution Process: As indicated, Fire resolution
+is a multi-step process. All fire combat should follow the steps
+outlined below.
+1) Target Selection: After expending at least one MP (unless
+otherwise immobile, 3.7.1), the active ship selects a Target vessel.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+The Target vessel must be within Range and (at least partially)
+within Line of Sight. If a ship is grappled or fouled with a ship
+within one of its broadside arcs (even partially) it may only target
+that vessel when firing through that specific broadside arc.
+2) Defensive Fire Interruption: As soon as an activated ship has
+selected a target, but before its firepower is determined, any one
+opposing ship within Range and Line of Sight of the activated
+ship may fire defensively at it. The opposing ship may be in or
+out of command (Exception: Grappled Fire, 3.7.9). Defensive fire
+may only come from a ship that has not fired from its appropriate
+broadside. The fire procedure for Defensive Fire follows the same
+steps as normal fire (Exception: Rakes, 3.7.7.6). After Defensive
+Fire has been resolved, the activated ship may opt to hold its fire.
+If the activated ship holds its fire, and attacks later in its turn, it
+is subject to additional Defensive Fire interruptions.
+3) Range Determination: The maximum distance at which an
+enemy ship can be attacked is ten hexes (exception: ships with
+a Relative Rate value bound by a red symbol have a maximum
+range of 5 hexes). This limit includes the target hex but does
+not include either the bow or stern hexes of the firing ship. It is
+possible that the range between the attacking and the target ship
+will be different, depending on whether you are tracing range
+from (or to) a ship’s bow or stern hex. When this situation arises,
+use the shortest of the possible range values.
+4) Attack Type Determination: A ship may make one of two
+types of attacks, depending on its position relative to the target.
+The Attack Type must be determined before firing:
+
+•	 Partial Broadside: If only one of a larger (two-hex) target
+ship’s hexes lay within the firing ship’s arc of fire, that attacking
+ship fires with a Relative Rate one greater than that listed on
+the firing ship’s unit. Partial Lines of Sight may also cause
+partial broadsides.
+
+•	 Full Broadside: If all the target’s hexes lie within the attacking
+ship’s line of sight and arc of fire, the attack is conducted
+without modifying the attacker’s Relative Rate.
+5) Target Type Selection: Prior to firing, the attacking player
+must determine if he is firing at the target ship’s hull or rigging.
+This selection indicates which target table should be used during
+the fire resolution process. Inflicting damage on a ship’s hull will
+reduce its capacity to fire as well as cause it to eventually sink.
+Inflicting damage on a ship’s rigging reduces its movement and
+is more likely to start fires. A ship that is grappled or fouled may
+only target an enemy’s hull.
+6) Rake: The row of hexes that extends along the length of a
+ship is called its “Rake Line.” The rake line is further defined as
+bow- and stern-Rake Lines that end at both the bow and stern
+hexes of the ship in question. Whenever any hex of an active
+ship occupies this line (even when crossing through an enemy
+ship), it may attempt to acquire an additional Rake benefit when
+firing at the target. The likelihood of a Rake occurring depends
+upon the distance to the target, the part of the Rake Line crossed
+(bow or stern), and the quality of the ship firing.
+
+13
+
+Rake Roll: A Rake roll, if possible, is made immediately after
+selecting a Target Type. A Rake results from a modified die roll
+of four (4) or less. Modifications to the die roll are as follows:
+–?:	 Fleet Audacity
+–?:	 Available Commander Quality
++?:	 Range in hexes to the target ship
+–2:	 If the firing ship is crossing the stern rake line
+Rake Effects: All Hull damage resulting from a rake is increased.
+Stern rakes double Hull damage. Bow rakes increase Hull damage
+by 50% (dropping fractions).
+Partial Rakes: If, owing to blocking ships, a line of sight cannot
+be drawn from both hexes of the firing ship to the closest hex of
+the target ship, the Rake is considered “partial” and firepower is
+determined as if the firing ship’s Relative Rate were one value
+higher (i.e., a relative rate of ‘3’ uses the ‘4’ row on the Firepower
+Determination table).
+Defensive Fire vs. Rakes: Only a moving vessel may perform
+a rake. A vessel defending from a rake may fire a full broadside
+if both hexes of an attacking vessel fall within the defender’s
+broadside arc. Otherwise, a partial broadside is fired. An active
+ship crossing over another ship is assumed to be on the “approach” side of the inactive vessel (the first side of the inactive
+ship crossed) for the purpose of firing defensively.
+Rake Limits: If a ship successfully performs a rake, it must
+completely exit the target’s rake line and then re-enter it in
+order to rake the same target again during the same activation.
+Exiting is defined as moving both the bow and stern off of the
+enemy’s rake line.
+7) Firepower Determination: The ability of a ship to project
+force is referred to as its Firepower. A ship’s Firepower is determined by cross-referencing its Relative Rate with the range to
+the target on the Firepower Determination Table. Follow these
+steps to determine a ship’s Firepower:
+a) Determine Rate Row: Use the (1) row if the active ship’s
+Relative Rate is bound by a yellow symbol, otherwise use the
+row corresponding to the ship’s current Relative Rate (1-6, G
+or T). Once the correct row is found, shift up one or more rows,
+depending upon the following modifiers:
+•	 shift up by one if the attack is a Partial Broadside or Partial
+Rake.
+•	 shift up by one for each six points of Hull Damage on the firing
+ship.
+•	 shift up by one when firing during a Tack.
+•	 shift up by one when firing with Full Sails.
+•	 shift up by one when firing while Dismasted.
+•	 shift up by one when firing while On Fire.
+
+EXAMPLE: A ship with a Relative Rate of 3 with 14 Hull Hits
+(two shifts) making a partial Broadside (one shift) would have
+a modified Relative Rate of 6.
+
+© 2014 GMT Games, LLC
+
+14
+
+Flying Colors — ver. 3.1
+
+NOTE: If the cumulative shifts result in a Relative Rate falling
+off the table (i.e. more than ‘T’), the attack has no effect and the
+ship’s broadside is marked as fired.
+b) Determine Base Firepower: Cross-reference the Rate row value with the range to the target to find the base firepower value.
+c) Determine Actual Firepower: Modify the base firepower
+value by the following cumulative factors:
+
++1	 If the firing ship’s Relative Rate value is bound by a white 	
+symbol and the unmodified firepower rating on the Firepower Determination table is shaded
+–1	 If the firing ship’s Relative Rate value is bound by a black 	
+circle (on the counter) and the unmodified firepower rating
+on the Firepower Determination table is shaded
++?	 Firing ship’s fleet Audacity rating
++2	 Point-Blank fire (3.7.9)
+
++2	 (Optional) if broadside is being fired for the first time. (This
+rule requires some extra record-keeping.)
++#	 Cumulative carronade bonus
+
+	 –1	 if firing outside broadside arc and not down own Rake
+Line.
+	 –3	 if firing down own Rake Line.
+
+Cross-reference the modified die roll with the previously determined firepower value. Use the appropriate target type columnrigging or hull. The result indicates what type of damage is done
+to the target ship (if any). An ‘H’ result indicates a Hull hit. An
+‘R’ result indicates a Rigging hit. A number to the left of a letter code indicates a number of hits of that type (example: 2HR
+translates as two Hull hits, and one Rigging hit). An asterisk (*)
+noted as part of the damage results indicates the chance of a fire
+breaking out on the target ship (3.7.11). Use the Hull and Rigging
+hit markers to keep track of a ship’s damage.
+3.7.8 Excess Damage: If the modified die roll is greater than
+12, apply the remainder as if it were an additional die roll on the
+unselected target type (Ex: If a modified die roll of 14 against
+a Hull target would result in the application of a die roll of 2
+against Rigging).
+3.7.9 Damage Limits and Modifications: Circumstances may
+call for a limitation on damage or damage may be enhanced.
+•	 Point-Blank Fire: A ship may fire while passing through a
+hex occupied by an enemy ship. Fire by both ships involved
+receives a +2 firepower modifier against the target. Fire of this
+type is a Full Broadside. When moving across an enemy ship
+the active player may check for Rake.
+
+EXAMPLE: The two ships (above) are both firing at a target that
+is three hexes away. Both ships are firing a full broadside and both
+have less than 6 Hull hits-so their Relative Rate is unmodified.
+Britannia’s firepower value (at a range of 3 hexes) is 12, which
+is decreased by one to 11 because of the black circle. Ajax’s firepower value of 8 is increased to 9 because of its white circle.
+d) Determine Hit Results: After determining firepower, consult
+the firing ship size-specific (large or small ship) Hit Results Table
+and roll a 10-sided die. Modify the die roll for the following
+reasons (to a maximum modification of +5):
+•	
+	
+	
+	
+	
+	
+•	
+	
+	
+	
+
+If the Target Type is the Rigging:
++1	 if French ship firing
++1	 if firing to windward
+–1	 if firing to leeward
++2	 target at Full Sail
+–2	 during Calm conditions
+If the Target Type is the Hull:
++1	 if British ship firing
++1	 if firing to leeward
+–1	 if firing to windward
+
+•	 Other Modifiers
+	 +2	 if firing while anchored
+	 +2	 battery firing
+
+•	 Grappled/Fouled Fire: If a ship fires upon a vessel to which
+it is grappled and/or fouled and the opposing vessel can return
+fire, the opposing grappled vessel is the only vessel that may
+return fire. In these cases, fire from both ships is considered
+simultaneous (apply the results of combat after both ships have
+fired) and benefits from the +2 Firepower bonus of point-blank
+fire (see above). When firing at a grappled or fouled opponent
+only the hull may be targeted. Grappled/fouled ships gain no
+benefit from wind direction, regardless of their actual position
+relative to it. Note that grappled/fouled ships may only fire if
+allowed by their individual arcs of fire. It is possible that the
+position in which ships are grappled/fouled may only allow
+partial broadsides or rakes. If a ship is fouled or grappled in a
+position to rake or be raked, the attempt is automatic.
+3.7.10 Carronades: Carronades were shorter, large bore guns
+fired at close range, first used by the British in 1779. Depending
+on the year in which a scenario takes place, ships may be armed
+with a variety of carronades. These provide cumulative Firepower
+increases on the Firepower Determination table. Use the table
+below to determine these modifiers.
+Type of Fire	
+
+British fire, range 3 or less	
+British fire, range 1 or less	
+American fire, range 3 or less	
+American fire, range 1 or less	
+French/Dutch fire, range 3 or less	
+Spanish fire, range 1 or less	
+© 2014 GMT Games, LLC
+
+1779-1786	
++1	
++1	
+n/a	
++1	
+n/a	
+n/a	
+
+1787-1826
++1
++1
++1
++1
++1
++1
+
+Flying Colors — ver. 3.1
+H Russian/Turkish fire, range 1 or less	
+Hexagonal Rate, range of 3 or less	
+Square Rate, range 3 or less	
+
+n/a	
++1	
++2	
+
++1
++1
++2
+
+EXAMPLE: A British ship with a hexagonal Relative Rate value firing at a range of one hex would increase their Firepower by +3.
+3.7.11 Damage Effects: As ships sustain Rigging and/or Hull
+damage, the effects of the damage mounts and begin to degrade
+a ship’s ability to maneuver and fight.
+
+H Rigging Damage: For every three Rigging hits (ignore remainders) reduce a ship’s movement rate by one and apply a -1
+modifier toward Tacking rolls. These penalties take effect the next
+time the ship is activated, unless the ship has sustained 15 rigging
+hits in which case it is Dismasted. A Dismasted ship comes to an
+immediate halt (even if in the middle of a move) and may only
+drift for the remainder of the game. During the Drift segment
+of the Ship Status Check phase, every immobile ship drifts one
+hex with the wind, so long as the drift will not cause a collision.
+Drifting ships never cause collisions, although they may be collided with. As long as a drifting ship has not had its Hull damage
+capacity reduced to zero, it may still be activated to fire.
+Hull Damage: Ships have two possible states, damaged and
+undamaged. Ship units begin the game displaying their undamaged side (unless special scenario rules dictate otherwise). When
+a ship unit has sustained enough hull hits to equal or exceed its
+damage capacity, flip over the unit to its damaged side (carrying
+over any excess hull damage.). Example: A ship with a damage
+capacity of four on its undamaged side sustains six points of hull
+damage. Flip the ship over to its damaged side, carrying over
+two damage points. Any Rigging damage is carried over in full.
+The damaged side indicates reduced attributes (Relative Rate,
+Marines, etc.). Every six Hull hits (ignore remainders) increase
+a ship’s Relative Rate by one (meaning the number of available
+guns is actually decreased). A damaged ship that has only three or
+fewer Hull hits remaining is marked with a ‘Vulnerable’ marker
+to indicate it may strike its colors.
+Striking: A ship is vulnerable to strike under two conditions. If
+either condition is met during the Striking segment of the Ship
+Status Check phase, the ship must roll on the Strike Table:
+•	 It is damaged and has three or fewer hull hits remaining.
+
+•	 It is both dismasted and within five hexes of an enemy ship or
+shore battery which is closer to the dismasted ship than any
+friendly ship or shore battery. The friendly ship/shore battery
+must have at least one hull hit remaining and may not have
+struck.
+
+If vulnerable due to hull damage, a ship strikes on a modified
+die roll of ‘4’ or more. If vulnerable due to being dismasted, a
+ship strikes on a modified roll of ‘6’ or more. If a ship meets both
+conditions, it strikes on a modified die roll of ‘2’ or more.
+For all striking rolls, reduce the die roll by the fleet’s Audacity rating and the Command Quality of the highest ranking commander
+on board. Ships that have struck may not move or fire. They will
+drift one hex during the Drift segment of the ships Status Check
+
+15
+
+phase. A struck ship cannot evade a grappling attempt and does
+not melee. Struck ships that have been grappled are automatically captured during the Melee Combat phase. Struck ships will
+not sink. Struck ships may not be part of a formation, nor may
+commanders on them create formations.
+Sinking: A ship is vulnerable to sink when it has no hull hits
+remaining. A ship sinks upon a die roll equal to or less than its
+original rate (or a 7 for G and T ships). Add one to the die roll if
+the rate is bounded by a black dot. Deduct one or two from the
+die roll if the rate is bounded by a white or yellow dot, respectively. A ship may no longer fire if its Hull damage capacity is
+reduced to zero. When a ship sinks, any commanders aboard are
+eliminated. Also, any ships currently fouled (but not grappled)
+with the sinking ship are dismasted. Note: This rule does not
+mean the ship has gone to the bottom; rather it has become so
+awash as to be completely unreliable as a vessel.
+
+Fires: During fire combat, any result that includes an asterisk (*)
+indicates that a fire may have started on the target ship. Roll a
+die. If the result is less than or equal to the number of hull and/or
+rigging hits sustained by that attack, the ship has caught fire. A
+fire never ignites when a ‘9’ is rolled, regardless of the amount
+of damage taken. During the Ship Fires segment of the Ship
+Status Check phase, check the status of the fire by rolling on the
+Fire table. The fire may be extinguished, cause further damage,
+or even spread to fouled and grappled ships nearby. If the result
+is a 5-9, regardless of whether the fire is able to spread to other
+ships, roll another die. A roll of ‘9’ results in the burning ship
+exploding and sinking! Remove the exploded ship and any ships
+fouled or grappled to it from the game. Note: this differs from a
+ship simply sinking, which does not affect ships grappled to it.
+Commander Transfer: When a ship is dismasted, on its damaged side or is on fire, any non-wounded commander on that
+ship may attempt to transfer to another ship. If there is more than
+one commander on a ship, each must transfer individually. Successfully transferred commanders move to the nearest, friendly,
+undamaged ship that is not on fire. If two or more ships are
+equidistant, the owning player may choose which one receives
+the commander unit. Transfers may be attempted only when a
+ship holding a commander is activated (e.g. before the ship is
+moved or fired). In order to transfer, roll a die and add the fleet’s
+Audacity Rating. If the result is greater than or equal to seven
+(7), the commander may leave the ship.
+
+Commander Casualties: Whenever a ship carrying one or more
+commanders suffers damage (including Melee losses 3.7.12.d
+and fire control, 3.7.11, but excluding Chaser fire, 3.7.5.2), roll a
+die for each commander on board. A roll of ‘9’ results in a commander being wounded. Flip the commander to his ‘wounded’
+side. A wounded commander has his command Range and his
+Quality reduced. When receiving a wound, roll another die. If
+this die is less than or equal to that side’s Audacity Rating, the
+commander has been killed and is removed from the game. A
+commander may be wounded more than once, but there is no
+further effect. When this occurs, simply roll again to see if the
+commander is killed (in other words, a ‘9’ must be rolled before
+there is a chance for death).
+
+© 2014 GMT Games, LLC
+
+16
+
+Flying Colors — ver. 3.1
+
+Commander Capture: A commander is automatically and irretrievably eliminated if a ship on which he is located is sunk or
+captured. A commander on a ship that strikes must be captured
+before the leader is eliminated. Until a struck ship is captured, any
+commander aboard may attempt to transfer his flag normally.
+
+3.8 Melee Combat
+
+Opposing forces may capture enemy ships by boarding them. A
+captured ship is generally worth more victory points than one
+that is sunk.
+3.8.1 Melee Process: After all ships have been activated, Melee
+Combat may take place between ships that are grappled together.
+Only ships that are grappled to enemy ships (or friendly captured
+ships) may engage in melee combat. The player who won the
+initiative at the beginning of the turn selects the order in which
+melee combats are resolved. After selecting a group of two or more
+grappled ships, the initiative player indicates whether he will attack and how Marine points will be allocated (if necessary). If the
+initiative player declines to attack, the non-initiative player has the
+option to attack and allocate Marine points. If the non-initiative
+player declines to attack, no melee combat takes place.
+
+attacker cannot muster at least as many Melee Combat points as
+the defender, no attack may take place. Regardless of the number
+of Melee Combat points the attacker can muster, no more than
+four dice may be rolled (a maximum ratio of 4:1).
+MELEE COMBAT VALUE EXAMPLE: The attacker has a total
+Melee Combat value of 11 to the defender’s value of 4. Assuming that the attacker is storming a ship that has a better Relative
+Rate, the ratio would be 2 to 1. If the attacker had better Relative
+Rate, the ratio would be 3 to 1.
+H d) Melee Combat Resolution: To resolve Melee Combat, each
+player rolls a number of dice equal to his ratio value. The values
+of each side’s dice should be summed together and compared.
+One of the following will occur:
+•	 Defender’s roll is equal to or higher than Attacker’s: The
+defender has repulsed the attacker’s assault. There are no
+effects to any ships involved in the Melee, though they do
+remain grappled.
+•	 Attacker’s roll is higher: The attacker’s assault has succeeded
+and the defender’s ship has been captured. Place a Captured
+marker on the defender’s ship.
+
+a) Melee Rate Limitation: Regardless of the background color
+of an attacking or defending ship in melee, the current relative
+rate of a defending ship may not be more than two points larger
+than the current relative rate of the attacking ship (i.e. a 4th Rate
+ship may not attack a ship greater than a 2nd Rate; a 1st Rate may
+only be captured by a 2nd or 3rd Rate; etc.). Gunbrigs (G) and
+Gunboats (T) are considered rates 8 and 9, respectively.
+
+3.8.2 Nelson’s Patent Bridge: If a captured ship is fouled with
+another enemy ship, the capturing side may immediately try to
+grapple the second ship and attempt to capture it with any remaining Marines through the Melee Combat process. Continual
+attacks may be attempted against additional fouled enemy ships,
+so long as each melee attack is successful and the attacker has
+sufficient Marines to initiate an assault.
+
+b) Determining Melee Combat Value: Prior to engaging in
+melee combat, the melee combat value of each ship needs to be
+determined. To find this value, check the Marine value of a ship
+and add the command quality of all commanders on board. If the
+attacker has a ship grappled to one or more enemy ships, he may
+divide the ship’s Melee Combat value as desired between each
+enemy ship (example: If a ship whose Melee Combat value is 5
+is grappled to two ships, it may use three points against one of
+the ships and two against the other). At least one point must be
+assigned to each attack or the enemy automatically captures the
+attacking ship. If two or more attacking ships are grappled to a
+single defending ship, all of the attacking ships’ Melee Combat
+values are totaled into a single value. If two or more attacking
+ships are grappled to two or more defending ships (two on two,
+three on four, etc.), the attacker indicates how he will allocate
+his Marine points. Marine points on defending ships are not allocated-they remain with the ship to repulse any attack.
+
+HISTORICAL NOTE: This was how Nelson gained fame at
+the Battle of Cape St. Vincent. The San Nicolas had collided
+and fouled with the San Jose. Nelson boarded and captured
+the former and before the crew of the San Jose could rally, he
+captured her as well!
+
+c) Melee Combat Ratio: Once the Melee Combat values of
+both the attacking and defending ships have been determined,
+compare the attacking value to the defending value in terms of
+a ratio, rounding to the nearest whole value in favor of the side
+with the lower Relative Rate (increased by one for each six hull
+hits sustained) or the defender if tied. This ratio indicates the
+number of dice rolled by each side in determining the victor in
+Melee Combat. The defender always has one Melee Combat die,
+regardless of the number of Melee Combat points available. If the
+
+H 3.8.3 Captured Ships: Captured ships may not fire offensively
+or defensively, nor may they initiate Melee Combat. They may be
+part of a command for the purposes of activation and movement.
+Captured ships that are not part of a command must attempt to
+move away from the nearest enemy ships if possible. Captured
+ships may be recaptured if they are boarded and lose the ensuing
+Melee Combat. A captured ship has an inherent Marine value of
+one, regardless of what is printed on the ship unit itself. Captured
+ships are attacked in the same manner as non-captured ships. If a
+ship is recaptured, the Captured marker is removed but the ship
+still retains a Marine value of 1 regardless of the printed value on
+the counter (players may need to make a note of this). Recaptured
+ships share the same attributes as captured ships if enemy forces
+attack them again. Recaptured ships may conduct fire attacks
+normally (their crews have been released). Captured ships never
+check for Sinking if they have no Hull hits remaining.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+
+3.9 Victory Determination
+
+A game ends when the scenario’s listed number of turns is
+completed (at which stage victory points are tallied for ships
+captured, sunk, and damaged), or as soon as one of the opposing
+fleets breaks (3.8.3).
+3.9.1 Victory Points: The values of ships at the end of a game
+are tallied thus:
+•	 Captured enemy ships: 2x Victory Point Value
+•	 Sunk enemy ships: Victory Point Value
+•	 Damaged or Dismasted enemy ships: 1/2 x Victory Point Value
+(retain fractions)
+•	 Killed commander: Victory Point Value
+
+Undamaged ships sailing off a map edge are considered damaged
+and score victory points only for the side with the lower audacity.
+(DESIGN NOTE: The side with the higher Audacity is the aggressor, who will lose victory points if his ships sail off the map).
+Damaged ships sailing off the map edge are scored normally. A
+ship is only worth its maximum value (so a damaged, captured
+ship is only worth the value of a sunk ship). Surviving undamaged ships that were not captured are not worth any points, nor
+are ships that were recaptured during play (although the latter
+denies points to an opponent).
+3.9.2 Victory Levels: A battle that lasts through the last turn
+without one side breaking is a normal victory for the side with
+the higher victory point total. If the totals are tied, the side with
+the lower Audacity rating gains a marginal victory.
+3.9.3 Break Check: On the first turn that a side loses a vessel
+(sunk, struck, captured or sailed off the map edge) and each turn
+thereafter, make a die roll on the Break-off Table during the
+Victory Determination Segment. Do not include T-Rated vessels
+unless at least one of the fleets involved in a battle is entirely
+composed of T-Rated vessels. If the result is less than or equal
+to zero (0) that fleet has decided to cut and run. The non-running
+fleet wins a substantial victory. It is possible that both sides may
+withdraw simultaneously. In these cases, use the accumulated
+victory points to determine a winner of a marginal victory. A
+fleet that loses all of its commanders automatically breaks. A roll
+should still be made for the opposing fleet if there is a chance of
+it breaking as well (thus, possibly giving a normal or marginal
+victory to a retreating fleet).
+a) Break-off Modifiers: The following modifiers are used to
+make a Break-off more or less likely:
+
+•	 Reduce the die roll by one if there are more undamaged ships in
+the opposing fleet, or by two if the ratio of undamaged enemy
+ships to the rolling side is two-to-one or greater. Do not count
+T-Rated vessels unless at least one of the fleets involved in a
+battle is entirely composed of T-Rated vessels.
+•	 Increase the die roll by the rolling side’s Audacity.
+•	 Deduct the command quality of the fleet’s admiral if he is
+captured or has been killed in combat.
+H Reduce the die roll by two if rolling for the Turks
+
+17
+
+b) Combined Fleet Break-off: In the event that one or both sides
+have a multi-national fleet, each nationality within the fleet rolls
+separately using its own Audacity rating (but uses the noted fleet
+admiral and the combined lost ship ratio regardless of nationality). If either nationality breaks, the entire fleet breaks as well,
+unless specified otherwise in the scenario rules.
+
+4.0 Optional Rules
+
+The following rules may be used to add more realism and tension
+to a game, but at the expense of longer playtime. When in use,
+these rules supersede those provided in the Core Rules (3.0)
+
+4.1 End Of The World
+
+This rule may be used to “extend” the play area beyond the
+extents of the map. If a ship cannot help sailing off the edge of
+the map, all other ships should be shifted to allow additional
+space. If the ships cannot be shifted without pushing other vessels off the map, the moving vessel must exit the play area and
+is considered damaged and scores victory points for the fleet
+with the lower Audacity rating only. Any vessel that sails off the
+map in this fashion is considered lost when rolling for a fleet’s
+Break Check.
+
+4.2 Anchoring Limits
+
+Ships may only anchor twice during each scenario. Where a ship
+starts a scenario anchored this counts as one of the permitted anchorings. After anchoring, ships may rotate a maximum of three
+hexsides in either direction (i.e., a ship cannot rotate more than
+180 degrees from its original anchored direction). Players may
+wish to keep the anchor marker facing the original direction in
+order to keep track of how many hexsides a ship has rotated.
+
+4.3 Grounding
+
+Certain scenarios have parts of the map defined as ‘shoals’ or
+‘shallows.’ Ships that move through shallows (either on purpose
+or because they have no choice) may run aground. Whenever any
+part of a ship unit moves into a shoal hex, roll on the Grounding
+table. Modify the die roll by the depth value of the shallows,
+the ship’s Relative Rate, and the Command Quality of any commander stacked with the moving ship. Grounded ships may no
+longer move for the duration of the game, but may still fire their
+guns (if an enemy ship moves close enough). Place an ‘Aground’
+marker on grounded ships to indicate this status.
+
+4.4 Towing
+
+Gun-Brigs and Gunboats may begin a scenario towed by larger
+ships. Only ships with a Relative Rate of 1-6 may tow. To indicate that a ship is being towed, place its piece atop the unit
+towing it (in the stern hex of a large ship), orienting both to face
+in the same direction. Ships under tow are automatically part
+of the same command (if any) of the towing ship. Ships that
+are towing may not raise Full Sails, nor may they fire Chasers
+down their stern Rake Line. Ships that are being towed may not
+fire Chasers down their bow Rake Line. Ships being towed may
+
+© 2014 GMT Games, LLC
+
+18
+
+Flying Colors — ver. 3.1
+
+be activated to fire and may be targeted independently of the
+ships towing them. Determine the target of a Rake by the type
+of Rake (bow or stern). The towing ship receives a bow Rake,
+while the towed ship receives a stern Rake. A tow may be broken
+during the Ship Status Check at the end of the turn. A ship may
+not break a tow and raise Full Sails during the same turn. Tows
+may not be established during a scenario (ships may only begin
+a scenario being towed).
+
+4.5 Defensive Fire
+
+The non-moving player may choose to fire any one broadside at
+the activated ship after it has expended a MP (including MPs expended while turning), or at any point during a Tack or Sternway
+maneuver. When using the optional Defensive Fire rules, treat
+a ship using defensive fire as if it were moving for the purpose
+of determining Rakes. A ship using defensive fire may attempt
+a Rake whenever it occupies a moving ship’s Rake Line. Use of
+this option does not negate the Core defensive fire mechanics.
+Both are used and treated as separate defensive fire mechanics
+(i.e. a ship using standard defensive fire may not Rake, but a ship
+using the optional mechanic may do so).
+
+4.6.3 Battery Audacity: The scenario indicates the Audacity
+rating for the batteries if it is different from their friendly fleet.
+All batteries share the same Audacity. The battery Audacity is
+only used as a firepower modifier during combat and affects no
+die rolls.
+
+4.7 Awash Ships
+
+Rather than remove vessels that have ‘sunk,’ players may leave
+them in place to act as movement obstacles. Awash ships, of
+course, cannot move, fire or be captured. Awash ships are subject
+to drifting (3.6.9) and while they may not cause collisions can
+be collided with.
+
+4.8 Initiative Cards
+
+The decks of Initiative Cards are an optional method of determining the order in which commands and out-of-command ships are
+activated. NOTE: These cards are available with Serpents of the
+Seas (Flying Colors, Vol. II).
+
+Out of Command Exception: When firing upon a moving OOC
+ship, the fire is considered offensive and thus, the OOC ship
+may return fire defensively (fires and applies damage before the
+non-moving player fires). In addition, when using the optional
+Defensive Fire mechanics, an OOC ship must make an unmodified Command check to fire at an active ship. A failed roll means
+the OOC ship cannot fire defensively at the active ship for the
+duration of its activation.
+
+4.6 Shore Batteries
+
+Certain scenarios indicate one or more hexes containing shore
+batteries. For game purposes, these are collections of guns that
+harass any enemy ships that come into range. Shore batteries
+are activated as an individual command (or commands if there
+is more than one) and are always in command. Shore batteries
+may fire twice per game turn (offensively and/or defensively)
+in any direction. Use Fired Port and Fired Starboard markers to
+indicate fired status.
+H 4.6.1 Battery Characteristics: The scenario rules indicate
+the battery’s ‘Rate’ and how much damage it can sustain. When
+firing upon a battery, only the Hull column is used. The only
+DRMs that are used on the Hit Results Table are for firing while
+anchored and firing outside the broadside arc. Any non-hull
+damage results are ignored. Batteries are not subject to rakes.
+Batteries may fire through friendly ships without effect. Batteries
+neither benefit from nor are penalized by wind effects and do not
+receive carronade bonuses. All batteries also gain an automatic
++2 die roll modifier on the Hit Results table (the equivalent of
+being anchored).
+4.6.2 Floating Batteries: Floating batteries (those anchored in
+navigable areas) do not move. They may be fouled, but never
+boarded. They sink immediately if they absorb their damage
+capacity. Any ships fouled with a floating battery that sinks are
+dismasted.
+
+4.8.1 Alternate Sequence of Play: Using the Initiative Cards
+replaces the Initiative Determination and Command Activation processes and uses a revised sequence of play as indicated
+below.
+a) Initial (First Turn Only) Command Determination: After setting up the game, players alternate in determining their
+commands. The player with the lower Audacity selects the first
+command. Regardless of this initial determination, all ships are
+considered to be in command. Those ships not part of a group
+or formation command are not required to roll for full command
+status when activated. After initial commands have been determined, play begins with the dealing of the Initiative cards.
+b) Revised Sequence of Play: The following sequence of play
+is used each turn; in lieu of the Core sequence (3.1).
+I.	 Wind Adjustment Segment (not on turn 1)
+II.	 Determine Commands
+III.	Deal Initiative Cards
+	
+	
+
+A.	 Discard unused cards as desired.
+B.	 Deal cards up to Hand Size.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+IV. Activation Phase
+	
+
+A.	 Both players select an Initiative Card.
+
+	
+
+B.	 Both players reveal their selected cards.
+
+	
+	
+	
+
+C.	 The player with the lower value card determines which
+player goes first (is active) during the current activation.
+D.	 The active player determines command status.
+
+E.	 First player activates a command or out-of-command ship
+(roll for command status if able/necessary).
+
+		1. The active ship’s movement points are determined.
+		 2. The active ship’s maneuver direction is determined.
+		 3. The active ship is moved.
+	
+	
+	
+
+F. 	 Second player determines command status.
+
+G. 	Second player activates a command or out-of-command	
+ship (roll for command status if able/necessary), as in
+steps E1-3.
+H. 	Return to Step A until only one player has inactivated commands and/or out-of-command ships. This player continues to play Initiative Cards to activate commands and
+out-of-command ships until all have been activated.
+
+V. Melee Combat
+
+VI.	Ship Status Check
+	
+	
+	
+	
+	
+
+19
+
+ing. Examples: A fleet with an Audacity of ‘2’, a Fleet Admiral
+with a Quality of ‘4’ and two additional subordinate commanders
+would have a hand size of 8 cards. A single ship with no commander and an Audacity rating of ‘2’ has a hand size of 5.
+b) Initiative Card Use: At the start of each Activation phase,
+each player secretly selects an Initiative card. Both are revealed
+simultaneously. The player with the lower Initiative value then
+selects if he will go first or second during the activation. In case
+of ties, the player with higher Audacity wins.
+Once all of a player’s ships have been activated for that Activation phase, the Initiative card is discarded.
+If one player still holds Initiative Cards and the other player does
+not, the player holding cards automatically wins the initiative
+when playing a card and retains the initiative throughout the
+remainder of the turn.
+c) Command Status: The player moving first during the activation determines his command status by:
+•	 Selecting a command or single out-of-command ship to use
+with the card played.
+
+•	 Selecting a single out-of-command ship and withdraws the
+card played back into his hand in exchange for the “out-of
+-command” option.
+
+A.	 Ship Fires
+
+After any ships have been activated per the choice made, the
+second player makes a similar choice:
+
+C.	 Striking
+
+•	 Selects a command or single out-of-command ship to use with
+the card played.
+
+B.	 Drifting
+
+•	 Selects a single out-of-command ship and withdraws the card
+back into his hand in exchange for the “out-of-command”
+option.
+
+D.	 Sinking
+
+E.	 Remove Broadside Markers
+
+VII. Victory Determination
+
+4.8.2 Initiative Decks: There are two Initiative Decks, one for
+each player, each containing 27 cards. In the upper left corner
+of each card is a number (its Initiative value) ranging from “1”
+to “27.” In addition to each card’s Initiative Value in the upper
+left corner, each card also has a list of Initiative Effects and an
+Event. Cards are played either as Initiative Cards (to determine
+player order and the effects on maneuvering and combat) or as
+an Event, never both. A player may only play a single Initiative
+card per command or out-of-command Activation, but may play
+as many Event cards as he wishes (unless limited by the Event
+cards played).
+a) Dealing Initiative Cards: After commands have been determined, each player may discard any number of their remaining
+Initiative cards. They then deal a number of cards out of their
+own Initiative deck until each has a number of cards (including
+cards retained from the previous turn) equal to their hand size. A
+player’s hand size is equal to his side’s Audacity rating, plus the
+Fleet Admiral’s current Quality rating, plus a number of cards
+equal to the total number of subordinate commanders in the fleet.
+A hand size is never less than three, plus the side’s Audacity rat-
+
+•	 If (and only if) his opponent just selected the “out-ofcommand” option, withdraws the card played back into his
+hand and does nothing.
+A player who cannot play a card must select the “out-of-command” option, regardless of what his opponent may have
+done.
+
+d) Initiative Effects: Once a command or out-of-command ship
+has been selected, all of the Initiative Effects noted on the card
+are applied to all ships in the chosen command or the single outof-command ship for the duration of that Activation phase. Once
+a player has completed movement and combat for all selected
+ships during that Activation, the Initiative card no longer has any
+affect and may be discarded. Initiative Effects have no effect on
+Defensive Fire. Four of five possible modifiers are listed on each
+card. The possible Initiative Effects are:
+•	 Wear Requirement: The number of movement points that
+must be expended before every hex-side turn (not side-slip) a
+ship executes.
+
+•	 Tacking Modifier: An additional modifier applied to a Tacking
+die roll.
+
+© 2014 GMT Games, LLC
+
+20
+
+Flying Colors — ver. 3.1
+
+•	 Speed Adjustment: A number of movement points that may
+be added to or deducted from a ship’s initial speed prior to
+moving the ship. When using the Maneuver Option (below),
+Speed Adjustments must be determined prior to setting a
+maneuver direction.
+•	 Firing Modifier: An additional die roll modifier used on the
+Fire Results table.
+
+•	 Out of Command: An additional modification to the die roll
+used to determine if an out-of-command ship behaves as if it
+were in command.
+e) Out-of-Command Option: If a player cannot play a card
+or opts for the Out of Command option, any ships selected are
+subject to the following restrictions:
+•	 The ship is considered out of command in all respects and may
+not roll to be treated in command.
+
+•	 Other Maneuvers: A ship may attempt to maneuver in a
+direction not indicated by the card’s icon by making a die
+roll less than or equal to ‘3.’ A successful roll allows a ship to
+maneuver to an adjacent direction (port or starboard to forward;
+forward to port or starboard) as if that direction was indicated
+as part of the maneuver icon. The die roll is modified by any
+maneuver modifier indicated on the icon (absence of a modifier
+indicates no modification) and further reduced by the ship’s
+Audacity rating and the Command Quality of a commander
+present on the ship. A ship successfully making this roll must
+move in the new direction as if it were the only maneuver
+icon indicated on the card. Exception: a ship playing a port- or
+starboard-only maneuver card that successfully rolls to move
+forward must make an additional maneuver roll in order to
+move to starboard or port (respectively). If this roll fails, the
+ship must move forward.
+EXAMPLE: A ship with an Audacity rating of ‘2’ plays a port-only
+maneuver card, but wants to move
+to starboard. The maneuver icon
+indicates a ‘–1’ modifier. The die
+roll is a ‘5,’ reduced to a ‘2,’ which
+is successful. The player makes a
+second roll of a ‘7,’ reduced to a
+‘4,’ which is not successful. The
+ship must move forward during its
+activation.
+
+•	 The ship incurs a 2-hex Wear requirement.
+•	 The ship incurs a +3 Tacking modifier.
+•	 The ship incurs a –3 Firing modifier.
+
+•	 If using the Maneuver Option (below), the ship must use a
+forward maneuver by default, but may roll to change that order
+with a +3 modifier.
+An additional “Out-of-Command Option” card is available for
+use when this option is selected.
+
+f) Maneuver Option: Each Initiative card includes a maneuver
+icon. The use of this icon is optional, but recommended when
+playing scenarios with only a few ships per side. The icon indicates the direction a ship (or ships in formation) must move
+when activated. These icons indicate one, two or three allowable
+directions. When an initiative card is played, a direction indicated
+on the card must be selected. A ship may try to alter direction to
+one not indicated by the card by making a modified die roll less
+than or equal ‘3’ (see ‘Other Maneuvers’ below) Ships that are
+making Sternway ignore the maneuver order.
+•	 Forward: An arrow pointing upwards toward the top of the
+card indicates that a ship may not wear or tack (it may only
+move forward, sideslip or back sails).
+
+•	 Port: An arrow pointing to the left (marked with a ‘P’ for
+‘Port’) indicates that the ship must wear or tack to the left
+before any other turn may be made, and at least one wear or
+tack in that direction is required.
+
+•	 Starboard: An arrow pointing to the right (marked with a ‘S’
+for ‘Starboard’) indicates that the ship must wear or tack to
+the right before any other turn may be made, and at least one
+wear or tack in that direction is required.
+•	 Multiple Directions: An icon that includes more than one
+possible direction indicates that a ship may chose any direction
+indicated. The choice must be selected prior to the vessel
+beginning its move, and must follow the rules of the selected
+maneuver as if it was the only maneuver indicated on the
+card.
+
+g) Event Cards: The bottom portion of the Initiative cards describes the card’s Event. During an activation a single ship may
+only be affected by one event card per player, whether the event
+is played on a single ship or the formation to which it belongs.
+h) Load Cards: Roughly a third of the Initiative cards are also
+marked with a Load type: Double or Chain Shot. These cards
+are played on single ships at any time (including defensive fire)
+prior to determining combat results. Both of these cards can be
+played on a ship, but a single broadside may only fire one type
+of load. The fire effects of these cards are as follows:
+•	 Double Shot: No fire is allowed beyond a range of five hexes.
+Provided at least one Hull hit is sustained by a target, add
++2H at a range of one hex or less or +1H at a range of two
+hexes or greater (prior to determining Rake effects, if any). An
+unmodified die roll of ‘0’ results in two Hull hits on the firing
+vessel. An unmodified roll of ‘1-2’ results in one Hull hit on
+the firing vessel.
+•	 Chain Shot: When firing at Rigging, add +1 to the fire results
+die roll at a range of 2-3 hexes, +2 at a range of one hex or
++3 at point blank range. Reduce the die roll by –2 if firing at
+a ship’s hull.
+i) Deck Reshuffling: The Initiative Decks are only reshuffled
+when the last card from a deck is drawn or at the beginning of a
+turn following the play of the “Blind Eye to Danger” event.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+
+5.0 Ship Duels
+
+Ship Duels comprise those Flying Colors scenarios where there
+are no more than two ships per side and no commanders are
+used. These scenarios use a different map and a somewhat different set of rules than a Fleet scenario owing to the removal of
+the command system used in larger scenarios. The Core rules
+are used for the most part, with any differences indicated within
+this section.
+
+5.1 Duel Map
+
+Ship Duels use a special, hexagonal map. On the fringes of
+each side of the map are shaded areas labeled A-F or with a Star
+symbol. There is also a bounded three hex area labeled “Chase.”
+These areas are used for scenario setups and for randomly
+generating duels. The entry point with the Star is the setup area
+for the scenario ‘Attacker.’ The ‘Defender’ starts in one of the
+other areas. Also included around the borders of the map are
+ship-tracking charts. Players should use these charts to keep
+track of the status of ships in play. Use Hull 1 and 2 Hit markers to identify the ships in play (these would be the only “hit”
+markers on the map).
+
+5.2 Duel Types
+
+There are two types of Duel scenarios: Meeting Engagements
+and Chases. Meeting Engagements are those where each side
+attempts to sink or capture his opponent. Chases are those where
+a ship attempts to escape from the other or, failing this, sink or
+capture the chaser.
+5.2.1 Meeting Engagements: Victory Points determine the
+winner of Meeting Engagements. There is no maximum number
+of turns, unless specified by scenario rule. If a ship moves out
+of the engagement area, it scores points (as if sunk) only to the
+defender.
+5.2.2 Chases: In a Chase, the winner is determined per a Meeting
+Engagement (5.2.1) or the defender wins immediately if he can
+exit the play area, per End of the World (4.1).
+
+5.3 Initiative Cards
+
+The Initiative Card decks must be used in Duel scenarios and
+all aspects of the cards are in use (including the Maneuver option). Where a player only has a single card in their hand and
+an inactive ship in play, the card must be played as an Initiative Card to activate the ship or immediately used as an Event
+(and only if applicable). If an Initiative card cannot be played
+
+21
+
+to activate a ship, that ship is considered out-of-command and
+suffers the same limitations as defined by 4.8.2.e. A player may
+not purposely define a ship as out-of-command when playing an
+Initiative Card (i.e., there is no “out-of-command option” when
+playing a Duel scenario).
+
+5.4 Duel Sequence of Play
+
+Since there are no commanders in a Duel game, the entire command system used in Fleet scenarios is abandoned. This requires
+the use of a special sequence of play for Duel scenarios:
+I.	 Deal Initiative Cards
+	
+	
+
+A.	 Discard unused cards as desired.
+B.	 Deal cards up to Hand Size.
+
+II.	 Wind Adjustment Segment (not on turn 1)
+III.	Activation Cycle
+	
+
+A.	 Both players select an Initiative Card.
+
+	
+
+C.	 The player with the lower value card determines which 		
+player activates a ship.
+
+	
+
+	
+
+B.	 Both players reveal their selected cards.
+
+D.	 First player activates a ship.
+
+		1.	The active ship’s movement points are determined.
+		
+		
+	
+	
+
+2.	The active ship’s maneuver direction is determined.
+3.	The active ship is moved.
+
+E.	 Second player activates a ship per steps D1-3.
+
+F.	 Return to Step A until only one player has inactive ships.
+This player continues to play Initiative Cards to activate
+ships until all have been activated.
+
+IV. Melee Combat
+
+V.	 Ship Status Check
+	
+
+A.	 Ship Fires
+
+	
+
+C.	 Striking
+
+	
+	
+	
+
+B.	 Drifting
+D.	 Sinking
+
+E.	 Remove Broadside markers
+
+VI. Victory Determination
+
+5.5 Fire Combat
+
+The combat mechanics described in the Core rules are used
+unchanged with one addition: the Defensive Fire optional rule
+(4.5) must be used.
+
+© 2014 GMT Games, LLC
+
+22
+
+Flying Colors — ver. 3.1
+
+6.0 Scenario Alternatives
+
+The scenarios included in the Play Book of each Flying Colors
+series game are used to recreate historical actions fought (or
+which may have been fought) during the time period and focus
+covered by each game. Although many, many scenarios have
+been set up, players may want to create their own or modify those
+included for the sake of playtime. These options are described
+within this section.
+
+6.1 Design Your Own
+
+If you want to try something a little different, or want to design a
+scenario for tournament use, you can use the Victory Point values
+of the ships to create balanced engagements. First determine the
+number of points each player has to spend.
+6.1.1 Fleet Actions: When purchasing fleets, ships and commanders are worth their Victory Point values in points. A fleet
+must start with at least one commander. Use one map for smaller
+scenarios, two for mid-sized and three for large scenarios. Before
+building the fleets, the players should determine the length of
+the game in turns, if any shoals will be used and if any optional
+rules will be in play. After the fleets have been built, each player
+rolls a die and adds the number of any unspent build-points to
+the roll. The high roller gains one Audacity point. In case of a
+tie, roll again and compare unmodified die rolls until a winner is
+determined. The winner starts with an Audacity of 1 (Player A)
+and the loser an Audacity of 0 (Player B). Player B sets his fleet
+up near the center of the board as desired. Side A then selects a
+side of the board where his fleet will enter in formation. After
+these steps have been completed, roll to determine wind direction.
+On a 1-6, position the wind marker to point in that direction. On
+a 7-0, roll again until a wind direction has been determined. Play
+begins with Player A automatically having the initiative (regardless of card play, if the Initiative Cards are in use).
+6.1.2 Ship Duels: When selecting ships for Ship Duels, the
+Victory Point values of the opposing sides should be equivalent.
+To determine sides, roll a die. The high roller is considered the
+Attacker. Before placing ships, determine the initial wind direction by rolling a die. A result of 1-6 indicates the initial wind
+direction. On a roll of 7-0, re-roll.
+•	 Meeting Engagements: The Attacker places his ship(s)
+anywhere within the setup area indicated with the star and
+oriented as desired. The defender rolls a die to determine his
+setup area. The setup areas lettered A-E are indicated with a die
+
+roll result. Rolling a die selects the defender’s setup area. The
+defender sets up his ship(s) in the determined area, oriented as
+desired.
+
+•	 Chases: The Defender places his ship(s) anywhere within the
+Chase setup area, oriented as desired. The Attacker then places
+his ship(s) anywhere within the setup area indicated with the
+star, oriented as desired.
+
+6.2 Tournament Play
+
+Players who want to use Flying Colors for tournament play will
+find it well suited. Ship Duel Meeting engagements are best suited
+for tournament play owing to their relatively short playing time
+and head-to-head nature. Chases are doable, as well as Fleet
+Actions when slightly modified to shorten play.
+6.2.1 Ship Duels: Meeting Engagements are the ideal way to
+play Flying Colors competitively, although referees may want to
+use a time limit. At the completion of a battle, tally victory points
+to determine the winner. In the case of a tie, the player with the
+higher Audacity rating loses. Chase scenarios are not suggested
+for tournament play unless time limits are not used (as their use
+penalizes the defender from the outset). If Ship Duels are used
+in a tournament setting, players should bid Victory Points to play
+the side with higher Audacity. Bids come in half victory point
+increments and are applied to the lower Audacity player’s score
+at the conclusion of the battle.
+6.2.2 Fleet Actions: The historical scenarios all have an inherent
+bias toward one side or the other in the form of the Audacity rating. The side with the higher Audacity is expected to win most of
+the time. This is by design, but it makes for boring tournament
+play! For those wanting to play fleet actions competitively, these
+options are suggested:
+•	 The Break Check rolls are triggered as soon as an enemy ship
+is damaged (as opposed to sunk, struck or captured). This will
+drastically shorten each game.
+
+•	 Players should secretly bid positive die-roll modifiers to the
+Break Check roll to play the side with the higher Audacity. For
+example, if one player bids two points to play the historically
+superior side, the other player may add two (+2) to their Break
+Check die rolls. Tied bids should be bid again no more than
+three times. If bids are still tied after the third bid, roll a die. The
+high roller wins the bid to play the superior fleet. Alternatively,
+each player rolls a die with the high roller making the first bid.
+Players up their ante until one player declines. This option
+favors a lucky roller, but it’ll avoid tied bids.
+
+© 2014 GMT Games, LLC
+
+Flying Colors — ver. 3.1
+
+Index
+
+Actual Rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.1.5
+Anchoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.19
+Arc of Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.4
+Audacity Rating  . . . . . . . . . . . . . . . . . . . . . . . . 2.2.2.5
+Awash Ships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.7
+Backing Sails  . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.10
+Batterys/Shore Batteries  . . . . . . . . . . . . . . . . . . . . . 4.6
+Beating  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.2
+Break Check . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.8.3
+Broadside  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.74
+Calm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.3
+Captured Ships  . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.14
+Carronades  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.10
+Chases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2.2
+Chase Guns . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.5.2
+Collisions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.15
+Command Range . . . . . . . . . . . . . . . . . . . . . . . . 2.2.2.2
+Command Quality . . . . . . . . . . . . . . . . . . . . . . . 2.2.2.3
+Commands  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3.3
+Commander Casualties . . . . . . . . . . . . . . . . . . . 3.7.11
+Commander Transfer  . . . . . . . . . . . . . . . . . . . . 3.7.11
+Commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3.1
+Carronades  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.10
+Damage Capacity  . . . . . . . . . . . . . . . . . . . . . . . 2.2.1.2
+Damage Limits/Modifications  . . . . . . . . . . . . . . 3.7.9
+Defensive Fire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.5
+Design Your Own . . . . . . . . . . . . . . . . . . . . . . . . . . 6.1
+Disengaging  . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.18
+Dismasted . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+Drifting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.8
+Duel Map  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.1
+Duel Sequence of Play  . . . . . . . . . . . . . . . . . . . . . . 5.4
+End of the World . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.1
+Excess Damage . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.8
+Evasion, Evasion Table . . . . . . . . . . . . . . . . . . . 3.6.16
+Facing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.1
+Fire Combat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7
+Fire Resolution Process . . . . . . . . . . . . . . . . . . . . 3.7.7
+Fires (Ships on fire) . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+Firepower  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.7
+Flagships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3.2
+Fleet Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6.2.2
+Fleet Admiral (Rank)  . . . . . . . . . . . . . . . . . . . . 2.2.2.1
+Fleet Commanders  . . . . . . . . . . . . . . . . . . . . . . . 2.2.2
+Fouled . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3.6.16-18
+Full Broadside . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.7
+Full Sails . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.3
+Grappling  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.16
+Grounding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.3
+Hit Results Determination . . . . . . . . . . . . . . . . . . 3.7.7
+Hull Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+
+In Irons! (Taken Aback)  . . . . . . . . . . . . . . . . . . . 3.6.2
+Initiative  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.4
+Initiative Cards . . . . . . . . . . . . . . . . . . . . . . . . 4.8, 5.3
+Initiative Decks . . . . . . . . . . . . . . . . . . . . . . . . . . 4.8.2
+Line of Sight . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.3
+Marines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.1.3
+Mixed Fleets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.2
+Meeting Engagements . . . . . . . . . . . . . . . . . . . . . 5.2.1
+Melee Combat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.8
+Movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6
+Nelson’s Patent Bridge . . . . . . . . . . . . . . . . . . . 3.7.13
+Out of Command . . . . . . . . . . . . . . . . . . . . 3.3.3, 3.5.1
+Oared Ship  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.3
+Partial Broadside . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.7
+Pass-Along  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.14
+Pass-Through  . . . . . . . . . . . . . . . . . . . . . . .  3.6.12-13
+Point-Blank Fire . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.9
+Port Broadside . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.4
+Rake  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.7
+Range  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.7
+Rank  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.2.1
+Rate (Ship Size)  . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.1
+Reaching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.2
+Relative Rate . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.1.1
+Rigging Damage . . . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+Running . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.2
+Scale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.5
+Sequence of Play . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1
+Ship Duels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.0
+Shore Batteries  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.6
+Side Slipping . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.7
+Sinking  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+Small Ship Speed Enhancement . . . . . . . . . . . . . . 3.6.3
+Stacking Ships . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.11
+Starboard Hex . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.1
+Status Sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.3
+Sternway . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.9
+Striking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.11
+Subordinate Commanders . . . . . . . . . . . . . . . . . . 3.3.1
+Swivel/Pivot Guns  . . . . . . . . . . . . . . . . . . . . . . 3.7.5.1
+Tacking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.6
+Taken Aback . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.2
+Tournament Play . . . . . . . . . . . . . . . . . . . . . . . . . . . 6.2
+Towing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.4
+Victory Determination  . . . . . . . . . . . . . . . . . . . . . . 3.9
+Victory Points . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2.1.4
+Vulnerable (Hull Damage) . . . . . . . . . . . . . . . . 3.7.11
+Wearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.5
+Weather Effects . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6.3
+Wind Effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.7.6
+
+© 2014 GMT Games, LLC
+
+23
+
+24
+
+Flying Colors — ver. 3.1
+
+Strike Table
+
+Collision Table
+	 Die Roll	
+	 0-9	
+	10 or more	
+
+When a damaged ship has 3 or less hull hits remaining:
+	 Die Roll	
+Result
+	 3 or less	
+No Effect
+	 4-9	
+Ship strikes its colors
+
+Result
+No Collision
+Fouled!
+
+Modifiers
+	 –?	 per Commander Quality
+	 +1	 per ship Rate 3 or 4
+	 +2	 per ship Rate 1 or 2
+	 +3	 per ship Rate (1)
+	 +1	 per damaged ship
+	 +?	 MPs the moving ship cannot expend
+
+Modifiers:
+–? Hull hits remaining,
+–? Commander Quality
+
+When a ship is both dismasted and within five hexes of an
+enemy ship or shore battery which is closer to the dismasted ship than any friendly ship or shore battery:
+
+Note: Apply modifiers for both the moving and non-moving ships.
+
+	 Die Roll	
+	 5 or less	
+	 6-9	
+
+Evasion Table
+	 Die Roll	
+
+	 0-6	
+	7 or more	
+
+Result
+
+Evasion Successful
+Roll for Grapple
+
+Result
+No Effect
+Ship strikes its colors
+
+Modifiers: –? Fleet Audacity Rating, –? Commander Quality
+
+Modifiers (Rate modifiers based on ship’s undamaged
+Relative Rate)
+	 –?	 Evading Commander Quality
+	 +1	 Evading ship Rate 3 or 4
+	 +2	 Evading ship Rate 1 or 2
+	 +3	 Evading ship Rate (1)
+	 +1	 Evading ship damaged
+
+When a ship has 3 or fewer hull hits remaining AND is dismasted while within 5 hexes of an enemy ship or shore battery
+which is closer to the dismasted ship than any friendly ship or
+shore battery:
+	 Die Roll	
+Result
+	1 or less	
+No Effect
+	 2-9	
+Ship strikes its colors
+Modifiers: –? Hull hits remaining; –? Fleet Audacity Rating;
+–? Commander Quality
+
+Grappling Table
+	 Die Roll	
+	 0-4	
+	5 or more	
+
+–? Fleet Audacity Rating
+
+Result
+Grappled	
+Failed
+
+Disengagement Table
+
+Modifiers
+	+/–	 Marine difference
+	 –1	 if target has struck its colors
+	 –2	 if Fouled
+
+Break Off Table (15.2)
+
+Die Roll		
+Result			
+0 or less		
+Fleet Breaks!			
+1-9		
+Remain and Fight!		
+
+Modifiers	
+	
+	
+	
+	
+	 –1	 Opposing fleet has more undamaged ships
+	 –2	 Opposing fleet has double undamaged ships
+	 +?	 Audacity Rating				
+	 –?	 Fleet Admiral Quality if dead or captured
+	 –2	 If rolling for the Turks
+
+Die Roll	
+	 0-4	
+	5 or more	
+
+Result
+Disengaged
+Failed
+
+Modifiers
+	 –?	 Commander Quality
+	 +1	 Fouled
+	 +2	 Grappled and Fouled
+
+Command Transfer Table	
+	 Die Roll	
+	 6 or less	
+	 7-9	
+
+Result
+No Transfer
+Command Transfer
+
+Modifiers
+	 +?	 Audacity Rating
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2014 GMT Games, LLC
+
+

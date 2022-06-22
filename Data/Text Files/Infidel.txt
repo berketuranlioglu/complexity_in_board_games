@@ -1,0 +1,1801 @@
+R ULE BOOK
+
+~ The Supremacy of Cavalry in the Crusader Era ~
+11th-12th Century
+
+Table of Contents
+1.0 	 Introduction............................................................. 	2
+2.0 	 The Components..................................................... 	2
+3.0 	 Victory.................................................................... 	4
+4.0	 Sequence of Play..................................................... 	4
+5.0	Leaders.................................................................... 	4
+6.0	 Activation and Continuity....................................... 	5
+7.0	Movement............................................................... 	6
+8.0	Facing..................................................................... 	7
+9.0	 Zones of Control (ZOC)......................................... 	7
+
+10.0	Stacking.................................................................. 	7
+11.0	 Missile Fire............................................................. 	8
+12.0	Shock...................................................................... 	9
+13.0	Charging................................................................. 	11
+14.0	 Combat Results....................................................... 	13
+15.0	 Rallying Units......................................................... 	14
+16.0	 Knights and Other Special Unit Types................... 	14
+17.0 Index........................................................................ 	16
+Example of Combat......................................................... 	17
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+Rules Version 1.2 (1.1 changes in red, 1.2 in blue)
+
+Infidel Rules Manual
+
+2
+
+1.0 Introduction
+Men of Iron is a play-oriented series of games covering the wide
+spectrum of land battles from, roughly, the era just prior to the
+first Crusades to the arrival of gunpowder.
+
+There are several different types of combat units, divided into
+two groups: mounted units (cavalry) and units on foot (infantry).
+The reverse side of each combat unit is its “Disordered” side. If
+there is no reverse side, the unit cannot be Disordered (and is,
+instead, Retired).
+
+The second volume in the series, Infidel, focuses on the major
+battles of the early Crusades era between the Christians and the
+Muslims (although there were battles with some of each on both
+sides). This is a period that saw cavalry reign supreme, and pitted the European heavy cavalry—armored “knights”—systems
+against the Eastern/Turkish light cavalry tactics.
+The purpose of the Men of Iron series is to provide gamers with
+accessible, fast-playing, fun games of low complexity. To that
+end, much detail has been either omitted or factored in to overall
+mechanics. We have tried to provide as much period flavor and
+historical accuracy as we can, within that stated focus.
+
+Sample Combat Unit (Medium Cavalry/Archer)
+Front
+Unit ID Number
+Nationality
+
+Unit Type
+
+Command Stripe
+
+Movement Allowance
+
+Back (Disordered side)
+Disordered Shock
+Defense DRM
+
+Disordered Symbol
+
+	
+
+Getting into the game: Veteran gamers will find most of the
+rules quite familiar, as they use concepts basic to almost all
+simulation games. The sections on Continuity and some of the
+combat mechanics are not quite so familiar. Gamers new to the
+hobby should read once through the rules so they know the basic
+premises, pick out a scenario, and play a few player turns to see
+how everything works.
+
+–1 Fire DRM
+Reminder
+
+Disordered Movement
+Allowance
+
+Other Combat Units
+Knights
+(KN)
+
+Heavy Cavalry (HC)
+
+	
+Medium Cavalry
+(MC)
+
+Each game includes:
+•	
+•	
+•	
+•	
+•	
+•	
+•	
+
+Shock Defense DRM
+
+Medium Cavalry –
+Archers (MC\A)
+
+	
+Two 22" x 32" game-maps, backprinted
+560 counters on two sheets
+Two identical 11" x 17" Player Aid Cards
+One 8.5" x 11" Player Aid Card
+One Rules Manual
+One Battle Book
+Two ten-sided dice
+
+Light Cavalry –
+Archers (LC\A)
+
+Archers
+(A)
+
+	
+Crossbowmen
+(CB)
+
+Archers with Flails
+(AF)
+
+Men-at-Arms
+(MA)
+
+Pike Infantry
+(PK)
+
+Pike Infantry
+Javelineers
+(PKJ)
+
+Camp Followers
+(CF)
+
+	
+
+2.0 THE COMPONENTS
+
+	
+
+2.1 The Maps
+The game maps cover the area over which the battles (supposedly) were fought. Each map is overlaid with a grid of hexagons—
+hexes—that are used to regulate movement and fire. Any terrain
+peculiarities are discussed in the rules for the individual battles.
+
+	
+
+Wagons
+
+Carrocio
+
+	
+
+2.2 The Counters
+
+Markers
+
+We have four types of counters: leaders, combat units, Standards,
+and status markers (Retired, etc.).
+Sample Leader
+Name &
+Command Stripe
+
+	
+Activation Rating
+Command Range
+
+Nationality
+
+	
+
+	
+
+	
+
+	Charge	 Counter-Charge	 Retired	
+Continued	
+		Used		
+Attack –1
+
+Shock
+
+Movement Allowance
+
+Overall Commander
+Crusader Charisma
+
+	
+	 Out of	
+	Command	
+		
+
+	
+
+	
+Number of	
+Successful	
+Continuations
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+	
+Flight	
+Points	
+
+	
+Victory	
+Standard
+Points			
+
+Infidel Rules Manual
+
+Unit Types of Infidel
+A: Archers
+AF: Archers with Flails
+CB: Crossbowmen
+HC: Heavy Cavalry
+K: Knights
+LC\A: Light Cavalry Archers
+MA: Men-at-Arms
+MC: Medium Cavalry
+MC\A: Medium Cavalry Archers
+PK: Pike Infantry
+PKJ: Pike Infantry Javelineers
+
+3
+
+FP (Flight Points): See section 3.0 Victory.
+Free Activation: A non-continuity/non-seized Activation. It is
+a Free Activation if your opponent Passes, your opponent fails
+a Continuity roll, fails a Seizure roll, or is the first Activation
+of the game.
+Leader Casualty Check: The DR to determine if a leader dies
+in combat. See section 5.5.
+Loss Check: The die roll to see if you lose the game. See section 3.0.
+Missile Unit: All Archer, Archers with Flails, Crossbowmen,
+Light Cavalry Archer, Medium Cavalry Archer, and Pike Infantry
+Javelineer units are missile units.
+Mounted Unit: Heavy Cavalry, Light Cavalry Archers, Medium
+Cavalry, and Medium Cavalry Archers are mounted units.
+
+2.3 The Die
+The game uses a ten-sided die to resolve combat and
+other factors for which performance will vary. A ‘0’ is a
+“zero”, not a “ten”.
+
+2.4 Definitions & Abbreviations
+It might help to be familiar with the following game terms, some
+of which are found in individual battles only:
+
+Non-Active: All units that do not belong to the Active Command.
+OC (Overall Commander): The army Commander. See section 5.1.
+Seizure: The game mechanic wherein one player tries to take
+away the other player’s Activation.
+Shock: A term for hand-to-hand combat.
+
+Activation: All of the Moving, Firing, and Attacks of one Command, during which some of the opponents units may react.
+
+Standard: The rallying point for units of a Command or army.
+See section 15.2.
+
+Activation Rating: The number on a leader used for Continuation and some other game functions. It ranges from 1 to 5; most
+leaders have a value of 2 or 3.
+
+Surrounded: When all hexes/hexsides adjacent to a unit are occupied by enemy units, impassable terrain (to it), or map edges.
+
+Active: The leader and all units of the Command which is Activated (see Activation above).
+
+VP (Victory Points): The battle of Arsuf uses Victory Points
+to determine the winner, rather than the standard Flight Points.
+
+Active player: The player who is currently Activating his Commands.
+
+ZOC (Zone of Control): Used to delineate the hexes to the front
+of a unit into which that unit exerts its influence. Some units do
+not exert a ZOC.
+
+Blocking Terrain: Terrain in a hex which blocks LOS, see 11.4
+for a complete list.
+
+2.5 Unit Types & Military Terms
+
+Charisma: The ability of a Crusader leader to inspire Knights
+in combat. See section 5.4.
+Command: Term used to describe which units may move and
+fight. Commands can be identified easily by the color stripe on
+the counters. Commands are led by leaders.
+Command leader: A leader of a specific group of combat units.
+See section 5.1.
+Command Range: A number on a leader representing the
+number of hexes over which that leader can command his units.
+See section 5.2.
+Continuity/Continuation: The mechanic used to determine
+which player goes next.
+Disordered: The state of a unit that has lost cohesion due to
+combat. See section 14.2.
+DR, DRM: Abbreviations for “die roll” and “die roll modifier,”
+the latter being a plus or minus number used to adjust the die roll.
+Foot Unit: All Archer, Archers with Flails, Camp Followers,
+Crossbowmen, Men-at-Arms, Pike Infantry, Pike Infantry Javelineers, and Wagons are foot units.
+
+Knights and Heavy Cavalry: Heavily (mail) armored, elite,
+cavalry units. Lance and sword were the main weapons. The
+Knights were usually mounted on destriers, combat horses distinguished from usual riding horses, and especially their Eastern
+counterparts, by their strength, musculature and training, rather
+than their size. Both types of soldier were usually equally armed/
+armored, but the Christian Knights had the psychological benefit
+(and sometimes detriment) of the chivalric code, which prized
+aggressive, individual combat and the honor it brought above
+anything else. They were thus often difficult to command as a
+group, especially in an era when Frankish battlefield tactics had
+to be cautious.
+Medium Cavalry: Charge/shock oriented troops, but not as
+heavily armored. They tended more to lances than swords, although the Seljuks of Rum were sword users. The term “medium”
+is a game one, but it indicates lighter cavalry that still used shock
+combat, but not Charge.
+Light Cavalry: Mounted archers, the backbone of Eastern
+armies. They excelled in fire and retreat, constant mobility and
+flanking maneuvers, which means they need large, open areas to
+function best. They were not suited to shock combat.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+4
+
+Infantry: The pike-armed footmen of the Crusades era was not
+a major factor in most battles. Frank infantry, somewhat better
+armed and protected than their Eastern counterparts, often included knights that had lost their horses (termed Men-at-Arms
+in the game), a constant problem, and these tended to give the
+Frank infantry a bit of solidity. But most Saracen/Fatimid infantry
+was there for “show” and to increase the size of the army, and
+thus extend its flanks.
+Missile Units: Eastern armies—especially those we call Saracens—were based on the tactics of mounted archers. While the
+Fatimid archers were all foot, the rest of the East mounted theirs.
+Frank archers were invariably on foot, and their bows were somewhat bigger than the Eastern bows, which were built for mounted
+fire. Saracen (or Turk) mounted cavalry was highly trained in
+constant and rapid fire; they were the main attack force, albeit
+from a distance. Frank missile units, including crossbowmen,
+were more like skirmishers. Most missiles could penetrate the
+mail armor of the day, although only at close ranges.
+
+2.6 The Scale
+
+EXAMPLES: A Retired Heavy Cavalry is eliminated, 2 more FP
+are added to the track (3 – 1). A Retired Pike unit is eliminated,
+0 FP are added to the track (1 – 1).
+You may keep track of an army’s Flight
+Points on the Flight Point Track.
+DESIGN NOTE: The DR adds uncertainty to an army’s breaking
+point, something which—while it probably will annoy some player,
+somewhere—adds some tension and flavor to the contretemps. This
+represents waxing and waning morale, fog of war, and other battlefield
+uncertainties.
+
+4.0 SEQUENCE OF PLAY
+There are no game-turns in the Men of Iron series. The game
+simply starts and keeps going until one player wins. To do this,
+the system uses a Continuation Activation mechanic; see 6.0.
+
+When One of Your Commands is Activated
+
+The map scale is about 250 yards per hex.
+•	 Each pike infantry unit contains about 600 men.
+•	 Each missile infantry unit contains about 300 men
+•	 Each mounted unit contains about 150 men
+(All of the above is quite loose, and we treat numbers here as
+relative, not absolute).
+There is no time scale, as there are no turns, in the usual historical game sense. Most battles didn’t last more than a few hours
+…some even less. In most cases, it will take longer to play one
+of the battles than the battle lasted.
+
+3.0 VICTORY
+Victory is primarily achieved by eliminating enemy
+units and named leaders. At the end of each Free Activation each player determines their Flight Points and
+makes a Loss Check. Each player rolls one die and
+adds the player’s Flight Point total (see below). If the DR plus
+Flight Points are greater than the Flight Level of that player in
+this battle, he loses. If both players’ totals exceed their Flight
+Level the battle is a draw. For much of the early parts of the
+game, Loss Checks will be unnecessary as players will be unable
+to exceed their Flight Level with the roll of one die.
+
+When Activated, a Command’s units may Move and/or Fire, and,
+after all movement/fire is completed, they may engage in combat.
+
+When an Activation is Finished
+When a Command has finished, that player selects another of
+his Commands (but not the Command that just went), giving
+his opponent the opportunity to Seize Continuity (see 6.0), and
+rolls the die:
+1.	 If the DR is the same as or lower than the selected Command
+leader’s Activation Rating, that Command is Activated.
+2. 	If the DR is higher than that rating, “play” passes to his
+opponent, who now has a Free Activation that he may use
+to Activate any one Command he wishes, no DR necessary.
+Play continues in this manner until one or both players fail their
+Loss Check (see 3.0).
+
+Commands
+Commands for each battle are identified by the color stripe
+across the counter top, corresponding to that of the (sometimes
+named) leader.
+
+Who Starts the Game
+Each battle in the Scenario Booklet indicates which player goes
+first.
+
+The following Flight Points (FP) are added to the DR:
+•	 5 FP for losing your Overall Commander.
+•	 3 FP for each Eliminated Knight (KN) or Heavy Cavalry
+(HC).
+•	 2 FP for each other type mounted unit or named leader.
+•	 1 FP for each eliminated Foot unit or Retired unit regardless
+of type. (If a unit is rallied out of Retired status, adjust the
+Flight Point Track accordingly.)
+
+5.0 LEADERS
+Every unit in the game belongs to a Command listed specifically
+in the Deployment instructions, and as identified by its color
+stripes, which correspond to that of the leader. When a Command is Activated, all units and leaders in that Command may
+move and fight. Leaders are not considered units and the rules
+for units do not apply to them.
+
+When a Retired unit is eliminated, add the difference between
+the eliminated value and the retired value.
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+5
+
+5.1 Types of Leaders
+
+5.5 Leader Casualties
+
+There are two types of leaders; see 2.2 sample leader counter.
+
+Leaders can get killed. (In game terms, that encompasses being
+captured and other not-so-hot events).
+
+Overall
+Commander
+
+	
+
+	
+
+		
+
+	
+
+Overall Commander	 Command Leader
+
+•	 Overall Commanders. These command the entire army.
+Most OC’s are also leaders (as evidenced by their Command
+Stripe and Activation Rating). Others are just OCs and do
+not lead Commands; individual scenarios will have rules for
+these. Some armies do not have an OC.
+•	 Command Leaders. These are the leaders for the units (in
+their Command).
+
+5.2 Command Range
+A leader’s Command Range is traced in hexes, not Movement
+Points, from the leader to the combat unit, this does not need to
+be a straight line. Command status is determined at the start of
+Activation and stays with the unit throughout that Activation. You
+cannot trace Command range through an enemy unit, an enemy
+ZOC (9.0) hex not occupied by a friendly unit, or a hex(side)
+impassable to all unit types.
+
+•	 By Fire: Anytime an adjusted Fire DR of 9 or more occurs,
+and there is a leader in the target hex, roll the die. If the DR is
+an ‘8’ or ‘9’ the leader is killed. Otherwise, there is no effect
+on the leader. If the combat unit the leader is stacked with
+is Retired or Eliminated by missile fire the owning player
+places the leader with the nearest unit from his Command,
+unless he is surrounded in which case he is killed.
+•	 By Shock or Charge: Any time a leader is stacked with
+a unit that receives a Disordered, Retired (including a
+Retire result that is converted to a retreat by a Knight), or
+Eliminated result, roll the die for the leader subtracting his
+Activation Rating. If the adjusted DR is 3 or higher that
+leader has been “killed”. If he survives, but the combat unit
+is Retired or eliminated, there is no effect on the leader, the
+owning player places him with the nearest unit from his
+Command, unless he is surrounded in which case he is killed.
+•	 By Capture: If an enemy unit moves into a hex with only
+a leader(s), move that leader and place him with the nearest
+unit from his Command (see 5.3 if there are no more units
+in his Command). If he is surrounded—by enemy units and/
+or ZOC—he is, instead captured, thrown to the ground, and
+hacked to ribbons …no DR necessary.
+
+A combat unit not actually within Command Range but adjacent
+to a unit that is (or one that is considered in Command by virtue
+of this specific rule) is considered to be in Command (in a chain
+effect).
+
+Killed/captured named leaders (not replacements) count towards
+the Flight Point total.
+
+5.3 Restrictions & Abilities
+
+5.6 Replacement Leaders
+
+A combat unit that is within its leader’s Command Range may
+do anything and everything allowed by the rules.
+
+When a leader is killed/captured, at the start of that
+player’s next Activation—but after the Command for
+that Activation has been chosen and rolled for (if
+necessary)—flip the dead leader to its Replacement
+leader side and place with any combat unit from that Command.
+Replacement leaders are returned as often as necessary.
+
+Units that begin Activation outside their leader’s Command
+Range (Out of Command) may not:
+•	 Move adjacent to or Charge to an enemy unit.
+•	 Move into a hex with an enemy Standard or enemy leader.
+•	 In addition, foot units that start in an enemy ZOC hex may
+not move.
+Leaders that are within Command Range of their Overall Commander have their Activation Rating increased by one for Continuation (6.2) and Seizure (6.3) rolls. This does not apply to the
+Overall Commander himself.
+Leaders grant an attacking Heavy Cavalry or Knight unit a plus
+one (+1) DRM when stacked with the attacking unit.
+A Command leader that has had his entire Command eliminated
+is removed from play without penalty, as long as he would not
+qualify for the capture rule (5.5) in his current hex. He rides off
+into the sunset to fight again another day.
+
+5.4 Crusader Charisma
+Some of the Crusader leaders have an additional rating: Charisma. This is a DRM you use when any Knights stacked with
+that leader are attacking in any way.
+
+Replacements for Overall Commanders never count as Overall
+Commanders, only Command leaders.
+
+6.0 ACTIVATION & CONTINUITY
+6.1 Activation
+When a Command is Activated, all units and leaders in that Command may move and/or fire. After all movement/fire has been
+completed, units eligible to do so may Shock attack or Charge.
+When the player designates a Command for Activation, the player
+may use some or all of that Command’s units, regardless where
+they are on the map. Units that start the Activation outside the
+Command Range of their leader have certain restrictions (see
+5.3).
+A player may always “Pass”, instead of Activating or attempting to Activate a Command. If he does that, it is treated as if he
+failed a Continuation DR.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+6
+
+After his first successful Continuation DR, a player
+adds one (+1) to his Continuation DR for each new
+such attempt. This penalty resets when he fails a Continuation DR, his opponent attempts to Seize Continuity (successfully or not), or he passes.
+EXAMPLE: Giuseppe has rolled successfully for Leader A’s
+Continuation. He now seeks to roll for Leader B; he must add
+one (+1) to that DR. If he also succeeds there, he now adds two
+(+2) to the next such DR.
+
+6.2 Continuity
+After the Active player has undertaken actions with his chosen
+Command, he may attempt to continue his “turn” by selecting
+another of his Commands to Activate. He cannot select the
+Command that was just Activated, unless the player has only
+one Command remaining. After selecting the Command, his
+opponent has the opportunity to Seize Continuity (see 6.3), if his
+opponent declines, he notes the Activation Rating of the Command’s leader and rolls the die:
+1.	 If the (adjusted) DR is the same as or lower than the selected
+Command leader’s Activation Rating, that Command is
+Activated.
+2.	 If the (adjusted) DR is higher than that rating, “play” passes
+to his opponent, who now gets a Free Activation (2.4).
+
+6.3 Seizing Continuity
+If a player is about to DR for Continuity, his opponent may
+attempt to Seize the Continuity before the former rolls the die.
+Instead, the non-Active player announces with which Command,
+of his, he will attempt the Seizure, rolls the die, and consults the
+Activation Rating of that Command’s leader,
+•	 If the DR is the same as or lower than that rating, that
+Command may undertake actions, and that player is now
+the Active player.
+•	 If the DR is higher, there is no Seizure; In addition, the
+originally Active player gets a Free Activation (2.4) and may
+use that Activation to Activate any one Command even the
+one that just went!
+PLAY NOTE: You cannot Seize a Seizure or Free Activation.
+EXAMPLE: Ascalon. The Crusader player goes. He selects
+Robert’s Command to Activate. After that Activation, he selects
+Raymond’s Command for an attempt at Continuity. The Fatimid
+player, however, decides it would be better if that didn’t happen
+and announces, before the DR, that he is going to attempt to
+Seize Continuity with his Bedouin Cavalry Command. He rolls
+the die, getting a ‘6’ which is higher than al-Afdal’s Command
+Rating. The Crusader, with a free choice, now decides to Activate
+Robert’s Command once again. If the Fatimid player had rolled
+a ‘1’, he would have Seized Continuity.
+
+7.0 MOVEMENT
+7.1 Movement Procedures
+Units and leaders Move and/or Fire in the Move/Fire Phase. Individual units from the Activated Command may move in whatever
+order the player wishes; each unit, and any stacked leader moving
+with it, must complete its Move and/or Fire before another may
+begin its movement. See 11.0 for when missile units may Fire.
+Each unit and leader has a Movement Allowance, representing
+the number of Movement Points (MP) it may expend in one
+Activation. The costs to enter the various types of hexes and
+cross certain types of hex sides are listed on the Terrain Effects
+Chart for the individual battle..
+Units move from one hex to another contiguous hex. Units usually cannot move into a hex occupied by another combat unit,
+enemy or friendly, and they have to stop when they enter a hex
+in an enemy ZOC (except mounted missile units).
+A leader stacked with a unit at the start of the units Activation
+may move with that unit, even if the leader belongs to a different
+Command than the unit. If a leader begins to move with a unit, it
+must continue to do so throughout the unit’s movement and stop
+moving when the unit stops. A leader moving on his own uses
+the Movement Allowance printed on his counter and uses the
+most advantageous column of the Terrain Effects Chart for each
+hex entered or hex side crossed. A leader moving alone cannot
+enter a hex occupied by an enemy leader, unit, or Standard; in
+addition he may not enter a hex in an enemy ZOC (unless that
+hex contains a friendly unit). A leader stacked with a unit must
+Charge, Counter-Charge, Advance, or Retreat with that unit.
+
+Terrain
+Most battlefields feature terrain of varying kinds, all of which
+are listed, with their movement effects (in terms of Movement
+Points expended; “NA” means entry Not Allowed)) on the Terrain Effects Chart for each scenario/battle. Some hexsides are
+uncrossable: no unit may move across these.
+
+7.2 Movement Restrictions
+Units may not move off the map (unless allowed by the rules for
+the individual battle). If forced to retreat off the map, they are
+Eliminated. See the restrictions of Zones of Control, 9.0.
+A unit may not move into a hex where enemy reinforcements
+enter the map.
+
+7.3 What is Movement, What is Not
+There is a difference between moving counters around the map
+versus the game mechanic of Movement.
+Movement, as a mechanic, is any action that requires the expenditure of Movement Points. Actions that move a unit (e.g.,
+retreat, changing facing, Charge, etc.)—but do not require an
+expenditure of Movement Points—are not Movement in terms
+of a game mechanic.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+7
+
+7.4 Reinforcements
+All reinforcing units and leaders are considered to begin in an
+off-map area adjacent to every reinforcement entry hex for their
+Command (as defined for this battle in the battle book). Their first
+MP spent moves them into any reinforcement entry hex for their
+Command; there are no additional costs for other units that may
+have entered into the same hex from off map. Every reinforcing
+unit and leader can spend its full MA the turn it enters the map.
+A reinforcing unit is considered to be in Command and can
+Fire Missiles, Shock attack, or Charge the Activation it enters
+the map. A reinforcing leader must enter the map with his units.
+
+8.0 FACING
+Facing refers to how a unit sits within a hex. A unit must be faced
+so that the top of the unit faces one of the hex’s vertices, not the
+
+9.0 ZONES OF CONTROL (ZOC)
+All mounted combat units and missile armed infantry, but not
+other infantry, exert a ZOC into their frontal hexes. Zones of
+Control do not extend into or across hexes or hexsides that a unit
+is prohibited from entering or crossing.
+DESIGN NOTE: ZOC’s represent a unit’s ability to exert its presence—
+usually through fire or mobility—into the space to its front.
+
+If a unit begins its Activation in the ZOC of an enemy unit it may
+move to another hex. A unit that begins its move in or enters the
+ZOC of an enemy unit during movement may not enter or reenter a hex in the ZOC of the same enemy unit during a single
+Activation. This means a unit may move from one enemy unit’s
+ZOC to another enemy unit’s ZOC, but not enter or re-enter a hex
+in the same enemy unit’s ZOC. A moving unit (except mounted
+missile units) must stop if it enters an enemy ZOC.
+side of the hex. A unit may ignore this facing when moving, but
+once it stops movement or conducts missile fire it must be faced
+in a specific direction. The two hexes to each side of the vertex
+the unit is facing are Frontal, the two at the other end, the Rear;
+the side, Flank.
+Facing determines a unit’s Zone of Control, at whom missile units
+may fire, and in what direction cavalry may Charge. In general,
+this applies to only their (two) frontal hex/hex sides.
+Facing does not matter when determining movement direction
+(except for Charging cavalry), and units are free to change facing as much as they want during movement, at no cost, unless
+they are in an enemy ZOC (see 9.0). However, they may do so
+only when Activated.
+Exception: Units in an enemy ZOC can only change facing one
+vertex, if they stay in the hex. If they are moving out of that hex,
+they can change facing any number of vertices.
+Changing facing is not considered movement for purposes of
+“Fire or Movement”, as it does not expend Movement Points.
+
+•	 +2 MP for a foot unit to exit a hex in the ZOC of an enemy
+mounted unit.
+•	 +1 MP for any unit to exit a hex in the ZOC of an enemy missile unit. (cumulative with the modifier above).
+A mounted missile unit, and any leader stacked with it, may
+enter and then exit a hex in an enemy ZOC, regardless of the
+unit type exerting the ZOC, in the same turn by paying an additional 1 MP to leave, see 11.0. The prohibition of entering or
+re-entering a hex in the ZOC of the same unit during the same
+Activation still applies.
+Developer Note: the above rather large change clarifies wording and
+intent. It does not change the rules.
+
+10.0 STACKING
+Combat units may not stack (be together in the same hex) at any
+time, even during movement. Leaders, markers, and Standards
+stack freely with any unit.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+8
+
+11.0 MISSILE FIRE
+11.1 Missile Units
+Missile units—archers (both on foot and mounted), Crossbowmen, and Javelin armed Pike Infantry—are capable of firing at
+enemy units (not lone leaders). The Maximum Range—the maximum number of hexes over which that unit may fire is 2 hexes.
+You count the target hex, but not the firing hex. Missile units
+may fire through their frontal and flank hex sides (8.0), although
+when using Reaction fire, that is limited to Frontal hex fire. A LOS
+that passes down a hex spine between Flank and Rear counts as
+Rear for missile fire, this means that a missile unit may not fire
+down those hex spines or use Return Fire if it is fired at down
+those hex spines. Archers may fire over other units (see 11.4).
+
+archers firing). The luck of the LC/A is poor and it rolls a 2. A
+1 (DR of 2 with a –1 DRM) on the Target Mounted Disordered
+column of the Fire Results table equals “No Result.” It then
+moves to 3320, spending another 2 MP (1 MP for clear terrain
++ 1 MP to leave the ZOC of the Knight in hex 3519). Finally,
+the Turcoman moves back to its starting hex 3220, spending its
+last 2 MP (1 MP for clear terrain +1 MP to leave the ZOC of
+the Knight in hex 3421).
+
+DESIGN NOTE: Realistically, the maximum range of regular bows
+and crossbows—maybe about 350-400 yards—was not much past what
+we have as one hex here. However, for play purposes, we have enabled
+them to so fire, albeit at minimal effectiveness.
+HISTORICAL NOTE: Crossbows—and here we are dealing with the
+wooden variety—and both longbows and composite bows, the smaller
+but exceptionally sturdy bow of the steppes and East—have about the
+same maximum range, with perhaps a slight advantage to bows. The
+Crossbows have greater penetration power, especially at short distances,
+but the Long/ Composite Bows have a far greater rate of fire, at least
+3 to 1, maybe more.
+
+11.2 When Units May Fire
+There are three opportunities for Missile Fire, each one available depending on the unit type: Active Fire, Return Fire and
+Reaction Fire.
+Archers (mounted or on foot) May Fire:
+•	 Active Fire, Foot Archers: when they are Activated. A unit
+may fire once when its Command is Activated at any time
+during Movement. However, once they fire, their movement
+for that Activation is finished. Thus, if they fire before
+moving they cannot then move.
+•	 Active Fire, Mounted Archers: Mounted archers may fire
+during their Movement. If in a hex in an enemy ZOC when
+they fire, it costs 1 MP to fire, otherwise firing costs 0 MP.
+Mounted archers may leave a hex in an enemy ZOC they
+have entered in the same Activation, paying an additional
+1MP cost to do so. They may not enter another hex in the
+same enemy units ZOC during that Activation. Mounted
+archers may continue to move before/after firing. A mounted
+archer may only fire once in its Activation.
+EXAMPLE: The Turcoman LC/A beginning in hex 3220 wants
+to fire at the Disordered Knight in the rear of the Crusader
+formation. It spends 1 MP moving to hex 3319. It then spends
+2 MP to move to hex 3420 (1 MP for clear terrain + 1 MP to
+leave the ZOC of the Knight in hex 3419). The LC/A fires at the
+Disordered Knight, spending 1 MP because the Knight in hex
+3519 exerts a ZOC into 3420, even when Disordered. The Knight
+is not forced to Counter-Charge because it is Disordered. From
+the Fire/Range DRM Chart, the DRM for the missile fire is a net
+–1 (+1 for range, –1 for firing at Knights, and –1 for mounted
+
+HISTORICAL NOTE: The capability of mounted archers (our Light
+Cavalry) to do this is part of their harass and disperse tactics, riding
+close to the enemy lines, firing quickly, and then riding away, all in a
+continual series of squadrons. The Franks learned how to deal with this
+by using their fairly mobile heavy cavalry and Counter-Charge tactics,
+plus the awareness that Moslem tactics depended greatly on having lots
+of area to maneuver, especially around flanks.
+
+•	 Return Fire (Non-Active Only): When fired at by an enemy
+Missile unit, if the latter is within Range. The Return Fire
+and the Active Fire are resolved simultaneously, before any
+results are applied. Archers may not use Return Fire if fired
+at through a Rear hex.
+•	 Reaction Fire (Non-Active Only): When any enemy unit
+moves or Charges into its adjacent frontal hexes. This applies
+to each enemy unit that does so and it is resolved the instant
+the frontal hex is entered. This does not apply to retreat,
+Advance After Combat, or Continued Attack.
+PLAY NOTE: Archer units using Reaction or Return Fire may
+fire at each enemy unit that becomes “eligible”, as per the above,
+any number of times per Activation.
+Crossbow and Javelin Units may fire:
+•	 Active Fire: When they are Activated. A unit may fire
+once when its Command is Activated at any time during
+Movement. However, once they fire, their movement for
+that Activation is finished. Thus, if they fire before moving
+they cannot then move.
+•	 Reaction Fire (Non-Active Only): When any enemy unit
+moves or Charges into its adjacent frontal hexes. This applies
+to only one enemy unit that does so in a given Activation
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+and it is resolved the instant the frontal hex is entered. They
+may use Reaction Fire only once during a given enemy
+Activation. This does not apply to retreat, Advance After
+Combat, or Continued Attack.
+•	 They may not use Return Fire.
+PLAY NOTE: The differences between Crossbows, Javelins,
+and Composite bows, noted above, are factored into their Missile
+DRM and the above mechanic.
+
+9
+
+12.0 SHOCK
+DESIGN NOTE: Units’ weapon systems, armor and morale are represented by a combination of the System Matrix and the unit Defensive DRM.
+
+12.1 The Shock Phase
+
+To Fire, check the range and consult the Fire/Range DRM Chart.
+The chart gives any DRM for the firing unit at that Range. Now
+roll one die, noting whether the target is Disordered or in normal
+status. The DRM for Missile Fire Table lists all of the circumstances (as DRM) that provide additions to (or subtractions from)
+the DR. Compare the adjusted DR to the Fire Results Table to
+get the result, as defined in 14.0.
+
+In the Shock Phase, all (eligible) Activated units
+listed as Attacker on the Weapon System Matrix may
+(not must) Shock attack. However, if they choose to
+do so, they must Shock any/all enemy units that are in
+their frontal hexes, unless those units are being attacked by
+other friendly units. Any declared attacks must be completed,
+there is no ability to “call off” a declared attack. Units not listed
+in the “Attacker” row may never Shock attack (or Charge). They
+do defend, though. A unit can only participate in one attack per
+Activation (Exception: Continued Attack result; 14.6). This attack
+can be with or without other units against a single defender or
+by itself against two defenders in its frontal hexes.
+
+EXAMPLE: An archer firing at a range of 1 hex gets a DRM of
++1. But if he is firing at Knights or Heavy Cavalry, that incurs
+an additional DRM of –1, for an accumulated DRM of ‘0’.
+
+EXAMPLE: Three units attack two defending units. The attacker
+must choose to attack one defender with two units and the other with
+1 unit, the middle unit cannot split its attack against both defenders.
+
+During Reaction Fire, if multiple units react to a single unit, the
+firing player chooses the order of fire resolution and results are
+applied immediately, as they occur. The instant the unit is no
+longer in the hex that caused the Reaction Fire (due to retreat,
+Retire, or Elimination), Reaction Fire ends.
+
+12.2 Retreat Before Combat
+
+11.3 Resolving Fire
+
+Angle of Fire: Missile Fire aimed at Medium or Light Cavalry
+through the latter’s Flank hexsides earns the firing unit a +1 DRM.
+Fire that passes down a hex spine does not count as Flank. This
+reflects firing at the easier-to-hit, unprotected flanks of the horses.
+HISTORICAL NOTE: Missiles, especially crossbow shafts, could
+pierce the mailed armor and shields of the better-protected enemy, although the latter were better off than the lesser armored men. However,
+this ability dissipated greatly with distance (as well as angle of fire), so
+the distance factor. The ability of knights to close quickly against missile
+fire became part of the tactics.
+
+11.4 Line Of Sight (LOS)
+A unit must be able to see a unit to fire at it. To do so, the player
+must be able to trace an unblocked LOS from the center of the
+firing hex to the center of the target hex. LOS is blocked
+•	 by Woods, Garden, Drumlin, and City hexes. You may fire
+into these hexes, but not through one.
+•	 if the LOS passes through any intervening slope which is
+higher—of greater elevation—than both the firing and target
+hex. It may be necessary to use a string to measure between
+hexes to determine this LOS case.
+•	 Crossbowmen may not fire through other units. Archers may.
+(They’re actually firing over them.)
+If a hex contains terrain considered blocking terrain, then the
+entire hex is treated as blocking, not just the graphic feature
+inside the hex.
+However, a LOS may be traced along a hexside if only one of the
+hexes adjoining the hexside contains blocking terrain.
+
+Mounted units that are not Disordered may Retreat Before
+Combat if attacked solely by foot units, by moving one hex
+away from all attacking units. The Retreating unit must be able
+to end its Retreat one hex away from all attacking units or it
+may not Retreat. They may not enter a hex in an enemy ZOC,
+the path of a Charge, or an occupied hex, but they may change
+facing at will. One attacker may advance into the vacated hex, if
+the player so wishes, but may not then Shock or change facing.
+If one attacker is attacking two defenders and both defenders
+Retreat Before Combat, the attacker may pick which hex to
+advance into as above. If only one defender retreats, resolve the
+attack on the other.
+DESIGN NOTE: There is no penalty for mounted units retreating before
+shock against dismounted units, unlike in Men of Iron Vol I. This reflects
+the superiority of cavalry in this era.
+
+Light Cavalry, that are not Disordered, may Retreat Before Shock
+or Charge if attacked by Knights, Heavy Cavalry, or Medium
+Cavalry by moving one hex away from the attacking unit and
+then rolling the die, adjusting the DR by the Retreating unit’s
+Defensive DRM rating.
+•	 If the adjusted DR is 5 or less, the Retreat has no negative
+effect.
+•	 If the adjusted DR is 6 or more, the unit retreats but is
+Disordered.
+However, if such attack is a Counter-Charge (see 13.6) the above
+DR results change to:
+•	 If the adjusted DR is 3 or less, the Retreat has no negative
+effect.
+•	 If the adjusted DR is 4-7 or more, the unit Retreats but is
+Disordered.
+•	 If the adjusted DR is an 8 or more, there is no Retreat
+allowed, move the unit back to its original hex and resolve
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+10
+the Charge.
+
+All of the restrictions on Retreat Before Combat, and the ability
+of an attacking unit to Advance, listed in the first paragraph also
+apply to Light Cavalry Retreat Before Combat.
+
+1. Strength Advantage: The player with the higher number of
+units receives the differential between the number of units as a
+DRM.
+
+Retreat Before Combat applies to any attack, including a
+Continued Attack.
+
+EXAMPLE: One Heavy Cavalry unit attacks two infantry units.
+There is a –1 Strength (Dis-)Advantage DRM to the Shock resolution for each infantry unit.
+
+12.3 Shock Resolution
+
+The Strength Advantage, or Disadvantage, that the defense may
+have is applied (as a DRM) to each separate DR.
+
+DESIGN NOTE: Shock resolution uses a mechanic somewhat different
+from most games of this type. Shock/Charge is resolved against each
+defending unit individually, regardless of how many units are attacking
+and/or how many units are being attacked.
+
+PLAY NOTE: If one unit is attacking two units, the attacker
+will roll twice, each with a –1 DRM …and undergo possible
+adverse results twice.
+
+Order of Shock Resolution
+Shock is resolved after all Movement is finished, in the following order:
+1. 	The Active player designates which of his units are attacking
+which defending units, including Charges.
+2. 	One at a time, the Active player moves each Charging
+unit adjacent to its target. Any Reaction fire caused by this
+move is resolved. If required, the Charging unit makes a
+Charge Reluctance roll. Any Retreat Before Combat by the
+defender is resolved at this time. The defender attempts any
+Counter-Charges of which he is capable.
+3. 	The Active player resolves all his Shock and Charge attacks,
+in any order he wishes. The Charge Table is used as long as
+at least half of the units in an individual attack succeeded
+in Charging (not Disordered by reaction fire, not Reluctant,
+not Counter-Charged); otherwise the Shock Table is used.
+Advances are taken and Continued Attack markers are
+placed.
+PLAY NOTE: Attacks by a single attacker against multiple
+defenders are resolved at the same time, and they are considered to be going on simultaneously, with results (which
+can be cumulative) applied after both attacks are resolved.
+4. 	All Continued Attacks are now resolved. Begin again
+at Step 1, except that all units marked with a Continued
+Attack marker (only those units) must attack; Charging and
+Counter-Charging is not allowed.
+All of the below are cumulative; “+” DRMs favor the Attacker;
+“–” DRMs favor the Defender.
+
+Die Roll Modifiers for Resolving Shock
+To resolve Shock, roll the die, then apply any DRM that apply
+from the following situations.
+1. Strength Advantage
+2. Position Advantage
+3. The Defender’s Shock Defense DRM
+4. Leader Presence
+5. Unit type (Weapons System Matrix)
+6. Attacker Status (Disorder/Charging unit moved)
+7. Defender’s Status (Retired)
+8. Continued Attack
+
+EXAMPLE: A Knight unit Shock attacks two LC. In resolving
+each defender separately, the Knight gets a Continue Attack
+against the first, but is Disordered in the second combat. The
+Knight must then Continue Attacking, but is Disordered.
+2. Position Advantage: There are 2 types of position advantage:
+A. Angle of Attack: This reflects the advantage of attacking
+from an angle other than (only) frontally (only one applies):
+•	 If any Shock/Charge attacking units are attacking through
+a Defender’s Flank, there is a +2 DRM
+•	 If any Shock/Charge attacking units are attacking through
+a Defender’s Rear, there is a +3 DRM
+•	 If the attackers are attacking through two or more sides
+(Front, Rear, Left Flank, or Right Flank) of a unit there is
+a +4 DRM
+B. Terrain: See the Terrain Charts for the individual battles
+for the effects of terrain on combat. The row for the defender’s
+terrain is used with the column for the attacker’s unit type
+(i.e. Mounted or Foot) to find the modifier for each attack. If
+more than one unit is being attacked, the terrain of each individual defending unit is what matters. If there is more than
+one attacker with different terrain considerations (e.g., one is
+attacking across a river, the other isn’t) then the terrain DRM
+most favorable to the defender is used.
+3. Shock Defense DRM: The defending unit’s—not the attacker’s—individual Shock Defense DRM is added.
+EXAMPLE: A Templar Knight is attacked by two Ayyubid Medium Cavalry from the front. The Knight’s Shock Defense Rating
+is –3, which is added to the strength advantage the Ayyubid have.
+This makes the cumulative modifier 1+ (–3) = –2!
+4. Leader Presence. Knights and Heavy Cavalry units stacked
+with their Command leader or the Overall Commander gain a +
+1 DRM when attacking. A Crusader leader with Charisma also
+adds their Charisma rating as a DRM to the attack. This only
+applies once, no matter how many leaders a unit is stacked with.
+5. Weapons/Armor Comparison. The Attacker uses the Weapons System Matrix to compare his Attacking unit Type to that of
+the Defender. The matrix provides the appropriate DRM. If an
+attacker is doing so with two units, each of a different type, he
+may use the DRM with the best benefit for the Attacker.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+EXAMPLE: A Fatimid Pike Infantry (0) and a Sudanese Archer
+with Flails (+1) are attacking a Crusader Pike Infantry. The +1
+DRM would be used.
+Play Note: Use the MC column for MC/A units.
+6. Attacker Status: 2 attacker statuses can affect an attack:
+•	 Disorder: If any Attacker is Disordered, there is a –2 DRM.
+(Defenders’ Disorder status is covered by the chart itself.)
+•	 Move before Charge: If any Charging Attacker moved
+during its Activation, there is a -1 DRM.
+7. Defender Retired. If the Defender is Retired (14.4) add two
+(+2) to the Attacker’s DR, and use the Disordered portion of the
+Combat Resolution Table.
+8. Continued Attack. Units undertaking Continued Attacks
+(see 14.6) earn a cumulative –1 DRM for each such attack it
+undertakes in that Activation.
+To resolve the Shock, roll the die for each defending unit, apply
+the DRMs and consult the appropriate Combat Results Table. If
+at least half of the attacking units are Charging, use the Charge
+Table, otherwise use the Shock Table. Look under the column
+appropriate to the defending unit’s status (Normal or Disordered)
+to find the result.
+
+11
+
+13.0 CHARGING
+Charging is a method of Shock attack in which the attacking units
+use their weight and momentum to obtain a more favorable result.
+It is thus available solely to (some) mounted units.
+PLAY NOTE: Experience, from previous designs using this system, has shown us that this is the one section of rules that causes
+some confusion, mostly because of the number of possibilities
+it raises. We’ve tried to cover as many of these as possible, but
+if we have failed to do so, and you are stumped beyond repair,
+try to visualize what is happening and the rules are attempting
+to portray. That’s what we do when we write them.
+It helps to remember that Charge is just another form of Shock
+that uses a different Combat Results Table.
+
+13.1 Which Units May Charge
+Only Knights and Heavy Cavalry can Charge. Charge is not
+Movement; it is part of Combat.
+•	 Knights and Heavy Cavalry that start their Activation
+adjacent to an enemy unit may not Charge during Activation.
+•	 Disordered Knights and Heavy Cavalry may not Charge;
+they may still Shock without a Charge.
+
+12.4 Advance After Combat
+
+13.2 Charge Procedure
+
+Advance is part of combat resolution and is undertaken after a unit has finished all of its attacks, if a
+defender vacates a hex as a result of a Shock or Charge
+attack. The attacker must, if possible, Advance one of
+his eligible attacking units into that hex. A unit is ineligible to
+Advance if:
+
+To Charge, a Knight or Heavy Cavalry unit must start the Shock
+Phase with a LOS (see 11.4) and either one or two hexes between
+it and the target unit. The path to the target must be through the
+unit’s frontal hexes and it may only change facing one vertex to
+reach the target which must end in the Charging unit’s frontal
+hexes. A Charge is a special form of Shock that targets only one
+unit, an exception to 12.1. If a Charging unit is Disordered during
+its Charge, the attack is resolved as a Shock attack against the
+original target of the Charge, the Disordered unit is not required
+to attack all units in its frontal hexes.
+
+•	 It is Disordered or a Foot unit, and not marked with a
+Continued Attack marker (14.7).
+•	 It would have to cross or enter terrain that it is prohibited
+from moving across or into.
+If more than one unit attacked follow the priorities below to
+determine which unit must Advance.
+1.	A Charging unit
+2.	A Mounted unit
+3.	A non-Disordered unit
+If a unit attacked more than one defender and both hexes are
+vacated, the attacker chooses which hex to Advance into. The
+advancing unit may change its facing as it wishes after such
+advance (unless a Continued Attack resulted, in which case no
+facing change is allowed).
+PLAY NOTE: Remember that Disordered units and infantry
+only Advance due to Continued Attack results.
+PLAY NOTE: A Continued Attack result always forces the unit
+obtaining it to Advance and attack, regardless of any other combat
+results that unit incurs, including retreat.
+
+All Charges are designated prior to actually resolving
+any one Charge, along with other Shock attacks in Step
+1 of the Shock Phase. Charges are resolved by moving
+the Charging unit adjacent to the target, in Step 2 of
+the Shock Phase. (Remember, this is not actual game Movement,
+so there is no use of Movement Points.)
+
+13.3 Charge Restrictions
+Knights and Heavy Cavalry may not Charge across rivers or steep
+slope hexsides, nor may they Charge a unit in a Woods, Marsh,
+City or Rough hex. Knights and Heavy Cavalry may not Charge
+into or across terrain which they are prohibited from moving into.
+They may Shock into/across those hexes/sides without a Charge
+(see 12.0 SHOCK), as long as there is not an NA in the Shock/
+Charge column of the TEC for mounted units. A Charge may
+not cross a hex in an enemy ZOC, but may end in a ZOC hex.
+The Charging unit must have a path free of friendly or enemy
+combat units to the target at the time the Charge is declared.
+The path cannot be shared with other Charging units and must
+include the hex, adjacent to the target, the Charging unit will
+end its Charge in.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+12
+
+13.4 Benefits and Results of a Charge
+Charging Knights and Heavy Cavalry resolve their attack using
+the Charge Table (not the Shock Table).
+Any Charging unit that has moved (used Movement Points) in
+that Activation, prior to the Combat portion of its Activation
+subtracts one (–1 DRM) from its Charge Resolution DR.
+A unit that has Charged and attained a “Continue Attack” result
+is no longer Charging when it resolves the Continued Attack. The
+“Continued Attack” is resolved as regular Shock.
+
+13.5 Charge Reluctance
+Horses do not like to “Charge” a heavily defended line of Pike
+Infantry (showing much more common sense than their riders).
+To reflect this, whenever Heavy Cavalry (but not Knights!!) are
+Charging a Pike Infantry or Men-at-Arms unit through its frontal
+hex, the Charging player rolls the die, adjusting that DR by the
+Charging unit’s Shock Defense DRM.
+•	 If the adjusted DR is 6 or less, the attacking unit successfully
+Charges
+•	 If the DR is a 7 or more, the Charge is blunted by the
+reluctance of the horses to close, and the unit must attack
+using the Shock Table, not the Charge Table.
+EXAMPLE: A Saracen Heavy Cavalry with a Defender DRM
+of –1 rolls a ‘7’ when checking for Reluctance. The DRM of –1
+adjusts that to a ‘6’, so he completes his Charge. If he had rolled
+an ‘8’, he would have to use the Shock Table, instead.
+A unit which passes a Counter-Charge DR does not roll for
+Charge Reluctance.
+
+Charge or Shock, but may not change facing during the CounterCharge. The Counter-Charge path must be through its frontal
+hexes and the target(s) must end in the unit’s frontal hexes.
+If a unit is attacked by enemy units using both Shock and Charge
+combat, the owner may choose Counter-Charge either the Shocking Attackers or the Charging Attackers (but not both). A unit
+may Counter-Charge more than one unit, but all Counter-Charged
+units must end in the Counter-Charging unit’s frontal hexes.
+
+13.7 Counter-Charge Against Cavalry Charge
+Counter-Charge against an enemy Cavalry Charge attack reflects
+the ability of Knights and Heavy Cavalry to negate the momentum of any such enemy attack by launching its own Charge.
+To Counter-Charge, the defender rolls the die before the enemy
+Charge against the Heavy Cavalry or Knight is resolved;
+•	 add the Counter-Charging unit’s Defense DRM;
+•	 if the Counter-Charging unit must change facing to effect
+the Counter-Charge add one (+1) to the DR.
+If the adjusted DR is 3 or less, the unit has successfully Counter-Charged and the Charge of that Attacker has been negated and the Charge marker replaced with a Shock marker.
+If the adjusted Counter-Charge Attempt DR is 4 or more the
+Counter-Charge fails and the unit does not change facing if it
+was attempting to do so as part of the Counter-Charge.
+After Counter-Charging have been resolved, if at least half the
+Attackers are marked with a Charge marker, the Charge table is
+still used when resolving the attack. Otherwise, the Shock Table
+must be used when resolving the attack.
+
+PLAY NOTE: As you can see, Knights do not undergo Charge
+Reluctance. They and their superbly trained warhorses never
+showed any reluctance to do so, regardless of the situation.
+
+13.8 Counter-Charge Against Shock
+
+DESIGN NOTE: Yes, the die rolls are different from MoI Vol I. This
+reflects the superiority of cavalry in this era.
+
+Counter-Charge against an enemy Shock attack (by infantry or
+cavalry) reflects the ability of Knights and Heavy Cavalry to
+negate the force of any such enemy attack by launching a Charge.
+
+13.6 Counter-Charge
+
+To Counter-Charge, the defender rolls the die before the Shock
+is resolved;
+
+Heavy Cavalry and Knights may attempt to Counter-Charge when
+Charged, Shock attacked, or they suffer missile fire through their
+front or flank hexsides. Disordered Heavy Cavalry and Knights
+or Heavy Cavalry and Knights units that began the Activation
+in the ZOC of another enemy unit may not attempt to CounterCharge. Unlike a Charge, a Heavy Cavalry or Knight unit can
+Counter-Charge a unit in an adjacent hex. Counter-Charges must
+meet all restrictions in 13.3.
+PLAY NOTE: If a Knight or Heavy Cavalry begins an Activation in the ZOC of a unit, place a Counter-Charge Used marker
+on it for reference.
+Only the non-Active player’s units may CounterCharge. Only one Counter-Charge per Activation is
+allowed. Once a unit has attempted to Counter-Charge
+place a Counter-Charge Used marker on it as a reminder. A defending Heavy Cavalry or Knight unit may change
+facing one vertex if it succeeds in Counter-Charging Against
+
+•	 Add the Counter-Charging unit’s Defense DRM;
+•	 If the Counter-Charging unit must change facing to effect
+the Counter-Charge add one (+1) to the DR.
+If the adjusted DR is 4 or less, the unit has successfully CounterCharged. The original Attacker is still the Attacker, but now he
+must subtract two (–2) from his DR when resolving the attack.
+This applies even if the attack includes Charging units and will
+be resolved on the Charge Table. In cases where one Attacker
+is attacking two defending units, a successful Counter-Charge
+by one Defender applies the Counter-Charge modifier only to
+the resolution of the attack against the Counter-Charging unit.
+If the adjusted Counter-Charge Attempt DR is 5 or more the
+Counter-Charge fails and the unit does not change facing if it
+was attempting to do so as part of the Counter-Charge.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+13
+
+13.9 Counter-Charge Against Fire
+
+14.1 The Combat Results Tables
+
+Enemy Missile Fire may induce targeted Knights and Heavy
+Cavalry to Charge the firing units.
+
+Missile Weapons use the fire Charts and Tables. Charging Knights
+and Heavy Cavalry use the Charge Table. All other Shock attacks
+use the Shock Table.
+
+•	 For Knights, this inducement is automatic—they must
+Counter-Charge when fired at if they are not Disordered or
+already in a hex in an enemy ZOC.
+•	 For Heavy Cavalry, it is voluntary.
+For Heavy Cavalry: The process and the DR is the same as for
+Counter-Charge against Shock, except that the Counter-Charge
+DR is made before the Fire is resolved, the missile fire is resolved,
+and then if the Counter-Charge DR was successful the CounterCharge takes place, with the Heavy Cavalry moved adjacent
+to the firing /missile unit and then performing a Charge attack
+(If the Counter-Charge DR failed the unit stays where it is and
+does not change facing, its Counter-Charge being unsuccessful).
+For Knights: A Knight unit must Counter-Charge an enemy unit
+that is firing at it, unless there is no clear Charge Path, in which
+case there is no possibility of Counter-Charge. If the Knight
+Counter-Charges, the procedure is the same as Heavy Cavalry
+above. If the player does not want his Knight to Counter-Charge
+and its Command leader is in Command Range (see 5.2), he must
+roll one die, from which he subtracts the Command leader’s
+Activation Rating.
+•	 If the adjusted DR is 3 or less, no Counter-Charge takes place
+•	 If the adjusted DR is 4 or more, the Knight Counter-Charges.
+
+Shock and Charge combat results depend on whether the defending unit is Normal or Disordered. Missile Fire results depend
+on whether the target is mounted or infantry and Normal or
+Disordered. There are separate results columns for each status.
+PLAY NOTE: Remember, Shock/Charge is resolved separated
+for each, individual defending unit.
+
+14.2 Disorder
+When a unit is Disordered, flip the counter to its “Disordered”
+side. If there is no Disordered side, the units is, instead, Retired.
+The effects of being Disordered are:
+•	 –1 to its Movement Allowance (as noted on the counter),
+this penalty does not apply until the units next Activation if
+the Disorder result occurred during movement.
+•	 –1 if firing missiles while Disordered (as noted on the
+counter).
+•	 Reduced Defender DRM Rating when Shock attacked/
+Charged (as noted on the counter).
+•	 Shock attacks made by Disordered units incur a –2 DRM.
+•	 A Disordered unit may not Charge or Counter-Charge.
+•	 A Disordered unit may not Retreat Before Combat.
+
+PLAY NOTE: Remember, restraining those impetuous Knights
+is voluntary on the part of the player. Also remember that Light
+Cavalry Archers have that Retreat Before Combat ability, which
+is the main part of their tactics against Knights.
+
+Additional Disorder results have no further effect on a unit which
+is already Disordered.
+
+If the successfully Counter-Charging unit is Disordered by the
+fire which initiated the Counter-Charge (as above), the CounterCharge is still undertaken, but is resolved as a normal Shock
+attack. Any Light Cavalry Retreat Before Combat still rolls on
+the Light Cavalry Retreat Before Counter-Charge Table.
+
+A unit that must Retreat must move one hex away from the unit(s)
+inflicting the result. It must end its retreat one hex from every unit
+which participated in the attack that caused the retreat. It may
+not Stack, and it may not move into a hex occupied by an enemy
+unit, but may move into a hex occupied solely by an enemy
+leader (see 5.5) or Standard. It may move into an enemy ZOC,
+and it may change facing. If its retreat is blocked by a friendly
+foot-archer/crossbowmen unit, it may retreat through that unit an
+extra hex. If it does so, the Missile unit is Disordered; if already
+Disordered, it is Retired. Any leader stacked with the Retired
+missile unit must make a Leader Casualty Check (5.5) as if the
+unit suffered the Retire result from Shock combat.
+
+Any Counter-Charge attack is resolved immediately (as stated
+above). The Counter-Charge ends the movement of the missile
+unit, even if it would still otherwise be eligible to move after firing (mounted archers). Any Continued Attacks that result from
+a Counter-Charge Against Fire should be resolved immediately.
+Treat this as a mini-Shock Phase for just this unit. The Continuing unit must attack all units in its frontal hexes, those units can
+Retreat Before Combat, and there can be more Advances and/
+or Continued Attacks.
+
+14.0 COMBAT RESULTS
+SUGGESTION: Please refer to the Fire, Shock, and Charge
+Combat Results Tables located on the Infidel Player Aid Card
+while reading this section.
+
+14.3 Retreat
+
+If it cannot retreat, satisfying the above conditions, it is eliminated. Any leader stacked with the unit must make a Leader
+Casualty Check (5.5) as if the unit suffered the Eliminated result
+from Shock combat.
+Note: If the unit and leader are totally surrounded, the leader
+will be eliminated also, per 5.5.
+
+14.4 Retire
+Pick up the unit and place it as close to its Standard as
+you can, including in the Standard hex—place a “Retired” marker on top of it—unless that unit is unable
+to trace a route to the Standard not blocked by enemy
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+14
+
+Infidel Rules Manual
+
+units and impassable terrain (but not ZOC), in which case it is
+Eliminated. The hex chosen must not be adjacent to the enemy
+units that caused the Retire result, if this is not possible, it is
+Eliminated. Retired units are counted towards that army’s Flight
+Level (see 3.0).
+Retired units have a Movement Allowance of 1 hex per Activation, and may (if they need to) move only towards their Standard.
+If a Retired unit is attacked or fired upon, treat it as Disordered,
+but add two (+2) to the Shock Resolution DR. Any Retreat,
+Disorder, or Retire result results in that unit being Eliminated.
+If a Command or army’s Standard has been captured, a Retired
+result becomes an Eliminated result.
+PLAY NOTE: Retired units are Activated along with other units
+in their Command.
+
+14.5 Eliminated
+The unit is no longer effective as a fighting force and is finished
+for the day. Remove it from the board. Eliminated units are
+counted towards that army’s Flight Level (3.0).
+PLAY NOTE: Eliminated does not mean that all men in the unit
+have been killed. It represents the loss of men and/or catastrophic
+loss of morale past the point the unit can remain effective.
+
+14.6 Continued Attack
+After all combats are resolved, another Shock Phase
+is conducted for all units marked with a Continued
+Attack marker. During this Shock Phase these units
+must Shock attack, no Charges or Counter-Charges
+are allowed, otherwise it is resolved identically to 12.0. After all
+Continued Attacks that resulted from the initial Shock Phase are
+resolved, those marked Continued Attack –1, remove the Continued Attack markers from any units that did not earn another
+Continued Attack result. If any unit that has a Continued Attack
+marker on it obtains another Continued Attack result, increment
+the Continued Attack marker (i.e., flip a Continued Attack –1 to
+Continued Attack –2 or add another Continued Attack –1
+marker to the unit) and conduct another Shock Phase for all of
+those units still marked with Continued Attack markers. Continue this procedure until no unit is marked with a Continued
+Attack marker.
+When resolving a Continued Attack, subtract one (–1) from the
+Resolution DR for each previous Attack undertaken by that unit in
+that Activation, this will be denoted by the sum of the Continued
+Attack markers on the unit.
+PLAY NOTE: The DRM reflects the ongoing loss of formation
+and impetus such attacks are subject to.
+PLAY NOTE: There is no limit to the number of times a unit
+can obtain a Continued Attack result. If you run out of Continued Attack markers, add some other marker to designate the
+additional modifiers.
+
+15.0 RALLYING UNITS
+15.1 Rally
+Disordered units may cure their Disorder status by spending their
+entire Activation doing nothing. Flip the Disordered unit to its
+normal side, if they are not adjacent to an enemy unit after all
+combat has concluded and they have neither moved, changed
+facing, fired missiles, attacked, or been attacked that Activation. Note: The unit may have started the Activation adjacent
+to an enemy unit, but can still rally if there are no enemy units
+adjacent after combat.
+Retired units that are in or within one hex of their Standard may
+be Rallied if that Standard is Activated; see 6.0. When Activated,
+remove the Retired marker from every eligible unit and make
+sure the units are in Disordered status.
+Units may not Rally if adjacent to an enemy unit. Units may Rally
+if within range of an enemy Missile unit or Out of Command.
+
+15.2 Standards
+The Standards of the armies were the rallying point
+for units. Any unit that is Retired and is within one
+hex of its Standard when the Standard is Activated has
+its status changed from Retired to Disordered.
+Standards may be Activated only in a Free Activation; they may
+not be Activated by DR. A Standard is Activated instead of a
+Command. When a Standard is Activated, the player may either
+move the Standard (and just the Standard, not any units near it)
+or Rally Retired units.
+A Standard may be moved to any hex on the game-map. However, when doing so, any Retired units that are within 1 hex of
+the Standard prior to its being moved must check to see what
+effect this has on them. Roll one die; add the unit’s Disordered
+Shock Defense DRM. If the adjusted DR is a ‘5’ or higher, that
+Retired unit is now Eliminated.
+Standards may be captured by the enemy, if an enemy combat
+unit enters a hex occupied solely by the Standard. When a Command (or Army if there is only one Standard) loses its Standard,
+Eliminate all currently Retired units; thereafter all Retired results
+become Eliminated for that Command (or Army). Standards may
+not Retreat Before Combat.
+
+16.0 KNIGHTS AND OTHER
+SPECIAL UNIT TYPES
+16.1 Knights
+Knights have special rules which reflect their aggressive (sometimes overly), independent spirit:
+•	 Knights are never Out of Command, regardless where their
+Command leader is, except for purposes of Charge Reaction
+to enemy missile fire.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+•	 No Charge Reluctance for Knights.
+•	 Charge Reaction to Missile Fire is automatic, unless
+restrained by their Command leader (see 13.9).
+•	 Knights never Retire (see 14.4). Whenever a Knight suffers
+a Retire result it is Retreated (14.3) instead.
+
+16.2 Sudanese Archers
+The Fatimid and Ayyubid Armies contained large
+numbers of Sudanese (or Ethiopians; the names are
+intermixed in the various sources …some sources call
+them “azoparts”, an old word apparently derived from
+a French word for Ethiopians. Now there’s a piece of worthless
+trivia). The Sudanese were archers with a kick: they carried flails,
+maces on chains, which they could swing with great effect. They
+also knelt when firing.
+The Sudanese Archers with Flails may fire as regular Archers.
+Unlike regular Archers, they may also use (and defend, like other
+Archers, against) Shock attack, using the AF column/row on the
+Weapons Matrix. However,
+•	 If they Fire when Activated, they may not Shock attack,
+and vice versa.
+•	 If they use Reaction Fire, they must defend against Shock
+attacks against them in that Activation as Archers, not as
+Archers with Flails.
+
+16.3 Bedouin Pike Infantry Javelineers
+The Bedouin Pike Infantry Javelineers may move,
+throw their javelins and attack/defend as Pike Infantry
+all in the same Activation. See the Javelineer row on
+the Missile Fire/Range DRM Chart.
+
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+15
+
+16
+
+17.0 Index
+A
+
+Infidel Rules Manual
+Retreat Before Combat 9
+
+S
+
+B
+
+Seizure/Seizing Continuity 3,  6
+Sequence of Play 4,  18
+Shock 3,  9
+Stacking 7
+Standard(s) 3,  14
+Sudanese Archers 15
+
+Bedouin Pike Infantry Javelineers 15
+
+T
+
+C
+
+Terrain 6,  9, 10
+
+Activation 3,  4,  5, 6
+Advance After Combat 11
+Angle of Attack 10
+Angle of Fire 9
+
+Charge 11
+Charge Reluctance 12
+Charisma 3,  5, 10
+Combat Results 13
+Command 3,  4
+Command Range 3,  5
+Continuation/Continuity 3,  5,  6
+Continued Attack 14
+Counter-Charge 12, 13
+
+V
+Victory 4
+Victory Points 3
+
+W
+Weapon System Matrix 10
+
+Z
+Zone of Control 3,  7
+
+D
+Disordered 3,  13
+
+E
+Eliminated 14
+
+F
+Facing 7
+Flight Points 3,  4
+Free Activation 3
+
+K
+Knights 3,  11,  12,  13, 14
+
+L
+Leaders
+Command leader 3,  4, 5
+Leader Casualty Check 3,  5
+Overall Commander 3,  4, 5
+Presence (combat) 10
+Replacement Leaders 5
+Line Of Sight 9
+Loss Check 3,  4
+
+M
+Missile Fire
+Active Fire 8,  9
+Reaction Fire 8, 9
+Return Fire 8, 9
+Movement 6, 7
+
+O
+Out of Command 5
+
+R
+Rally 14
+Reinforcements 7
+Retired 11, 13
+Retreat 13
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+Example of Combat
+This example begins after the movement phase of a Crusader Activation.
+Norman KN 2 and Norman KN 3 moved during the Activation to reach
+their respective hexes.
+
+Shock Phase Step 1: Declaration of Attacks
+
+Norman PK 1 will Shock attack Bedouin MC 1. Norman KN 1 will Charge
+Bedouin MC 2. Norman MA 1 will attack Seljuk PK 1 and Seljuk PK
+2. Norman KN 2 will Charge Seljuk PK 3. Norman KN 3 will Charge
+Mamluk HC 3.
+Note: Norman KN 1 could have charged Bedouin MC 1 and attacked
+together with Norman PK 1, rather than Charging Bedouin MC 2. The
+Knights would not have to attack Bedouin MC 2, as a Charge targets one
+defender, per 13.2. This would prevent Bedouin MC 1 from Retreating
+Before Combat (see 12.2) in Step 2. This attack would have been resolved
+on the Charge table, as at least half of the attackers would be marked
+with a Charge marker.
+
+17
+
+From the Weapons System Matrix, a MA attacking a PK has a +1 DRM.
+The defender’s Shock Defense DRM is +1 (from the counter). The attacking
+MA is at a strength disadvantage of 1:2, so a –1 DRM applies. No other
+DRMs apply. Total DRM +1 +1 –1 = +1. The combat will be resolved on
+the Shock Combat Results table using the Defending Unit’s Status Normal
+column. The Crusader player rolls a 0 + 1 DRM for a total of 1, a result
+of Attacker Disordered, Retreat 1 Hex.
+
+Norman MA 1’s Attack on Seljuk PK 2
+
+From the Weapons System Matrix, a MA attacking a PK has a +1 DRM.
+The defender’s Shock Defense DRM is +1 (from the counter). The attacking
+MA is at a strength disadvantage of 1:2, so a –1 DRM applies. No other
+DRMs apply. Total DRM +1 +1 –1 = +1. The combat will be resolved on the
+Shock Combat Results table using the Defending Unit’s Status Disordered
+column. The Crusader player rolls a 6 + 1 DRM for a total of 7, a result
+of Defender Retired. Seljuk PK 2 is placed near its Standard (see 14.4),
+and the Fatimid Flight points are increased by 1 (see 3.0).
+Combat results are now applied to Norman MA 1. From the attack on
+Seljuk PK 1 it is flipped to its Disordered side, then it must Retreat 1 hex;
+the Crusader player chooses hex 2521. There are no results from the attack
+on Seljuk PK 2, as Advance After Combat only applies for cavalry without
+a Continued Attack result. Even had Norman MA 1 been cavalry instead
+of infantry, the Disordered result would have prevented it from Advancing. Had the Crusader player rolled a 7 during the attack on Seljuk PK 2,
+the total would have been 8 resulting in a result of Defender Eliminated,
+Continue Attack. In this case, the MA would first be Disordered, then would
+be forced to advance into hex 2722, and finally marked with a Continued
+Attack –1 marker.
+
+Norman KN 2’s Attack on Seljuk PK 3
+
+Shock Phase Step 2: Before Resolution
+
+The counter for Norman KN 1 is placed adjacent to Bedouin MC 2 in hex
+2620. The counter for Norman KN 2 is placed adjacent to Seljuk PK 3
+in hex 2624. The counter for Norman KN 3 is place adjacent to Mamluk
+HC 3 in hex 2625.
+The Fatimid player decides that Bedouin MC 1 Retreats Before Combat,
+the counter is placed in hex 2820. The Crusader player decides not to
+advance Norman PK 1 into hex 2719. Mamluk HC 3 declares a CounterCharge (see 13.7) against Norman KN 3. Consulting the Counter-Charge
+vs Cavalry Charge table, the HC’s Shock Defense DRM (–1) is added to a
+die roll to determine the effectiveness of the Counter-Charge. The Fatimid
+player rolls a 2 –1 DRM = 1. The Mamluk HC’s Counter-Charge is successful and Norman KN 3’s Charge marker is replaced with a Shock marker.
+
+Shock Phase Step 3: Attack Resolution
+
+The Crusader player decides to resolve his attacks in order from left to
+right. Since all combat is simultaneous the order of resolution only matters
+for advance and retreat decisions.
+
+From the Weapons System Matrix, a KN attacking a PK has a +2 DRM. The
+defender’s Shock Defense DRM is +1 (from the counter). The KN moved
+in the Activation prior to Charging –1 DRM. No other DRMs apply. Total
+DRM +2 +1 –1 = +2. The combat will be resolved on the Charge Combat
+Results table using the Defending Unit’s Status Disordered column. The
+Crusader player rolls a 3 + 2 DRM for a total of 5, a result of Defender
+Eliminated, Continue Attack. Seljuk PK3 is removed from the map, the
+Fatimid Flight points are increased by 1 (see 3.0), Norman KN 2 advances
+into hex 2723, and is marked with a Continued Attack –1 marker.
+
+Norman KN 3’s Attack on Mamluk HC 3
+
+From the Weapons System Matrix, a KN attacking a HC has a +1 DRM.
+The defender’s Shock Defense DRM is –1 (from the counter). No other
+DRMs apply. Total DRM +1 –1 = 0. The combat will be resolved on the
+Shock Combat Results table using the Defending Unit’s Status Normal
+column. The Crusader player rolls a 3 +0 DRM for a total of 3, a result
+of Attacker Disordered. Norman KN 3 is flipped to its Disordered side.
+
+Shock Phase Step 4: Continued Attack resolution
+
+All units marked with a Continued Attack marker must now begin again
+at Shock Phase Step 1, declaring attacks against all enemy units in their
+Frontal hexes (see 14.6). In this example, only Norman KN 1 has an enemy
+in its Frontal hexes. It declares a Shock attack targeting Bedouin MC 1.
+As Norman KN 2 will not attack, its Continued Attack marker is removed.
+
+Norman KN 1’s Attack on Bedouin MC 2
+
+From the Weapons System Matrix, a KN attacking a MC has a +2 DRM.
+The defender’s Shock Defense DRM is +1 (from the counter). No other
+DRMs apply. Total DRM +2 +1 = +3. The combat will be resolved on the
+Charge Combat Results table using the Defending Unit’s Status Disordered
+column. The Crusader player rolls a 3 + 3 DRM for a total of 6, a result of
+Defender Eliminated, Continue Attack. Bedouin MC 2 is removed from the
+map, the Fatimid Flight Points are increased by 2 (see 3.0), Norman KN 1
+advances into hex 2720, and is marked with a Continued Attack –1 marker.
+
+Norman MA 1’s Attack on Seljuk PK 1
+This attack and the attack on Seljuk PK 2 must both be resolved before
+applying results to the attacker.
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+Infidel Rules Manual
+
+18
+
+Infidel Extended Sequence of Play
+A.	 Activation Phase: Choose a Command (6.1), Standard (15.2), or Pass.
+•	 If a Standard is Activated skip to Phase D or move the Standard (15.2).
+•	 Place any replacement leaders (5.6) at the end of the Activation Phase.
+
+B.	 Move/Fire Phase: Move (7.0) and/or Fire (11.0) with any or all of the units and leaders in the Activated Command.
+•	
+•	
+•	
+•	
+•	
+•	
+
+Before moving any units check Command status for all Activated units.
+A mounted missile unit may fire at any point during its move.
+A foot missile unit may fire only at the end of its move.
+A unit may fire without moving.
+Each unit or leader must finish its movement/firing before another unit may begin to move/fire.
+The Non-Active player’s units may qualify for Reaction/Return fire (11.2) or Counter-Charge (13.6) depending on the
+Active player’s actions.
+
+C.	 Shock Phase: After all movement/firing for the activated Command is complete, Shock combat (12.0) and
+Charges (13.0) may be initiated.
+1.	 The Active Player designates which of his units are attacking which defending units, including Charges.
+2.	 One at a time, the Active player moves each Charging unit adjacent to its target. Any Reaction fire caused by this
+move is resolved. If required, the Charging unit makes a Charge Reluctance roll. Any Retreat Before Combat by
+the defender is resolved at this time. The defender attempts any Counter-Charges of which he is capable.
+3.	 The Active player resolves all his Shock and Charge attacks, in any order he wishes. The Charge table is used as
+long as at least half of the units in an individual attack succeeded in Charging (not Disordered by Reaction fire,
+not Reluctant, not Counter-Charged), otherwise the Shock Table is used. Advances are taken and Continued Attack
+markers are placed.
+Play Note: Attacks by a single attacker against multiple defenders are resolved at the same time, and they are
+considered to be going on simultaneously, with results (which can be cumulative) applied after both attacks are
+resolved.
+4.	 All Continued Attacks are now resolved. Begin again at Step 1, except that only units marked with Continued
+Attack markers Shock and they must Shock; Charging and Counter-Charging are not allowed.
+
+D.	 Rally Phase: During the Activation of a Command, Rally (15.0) any Disordered units that did nothing for the
+entire Activation and that are currently not adjacent to an enemy unit. If a Standard was Activated, Rally (15.0) any
+Retired unit within one hex of the Activated Standard.
+E.	 Continuation Phase: If the completed Activation was a Free Activation, both players make a Loss Check (3.0).
+If the game does not end due to Loss Check, Pass or choose to Continue with a Command.
+•	 This cannot be the Command that just Activated, unless the Active Player has only one Command.
+•	 The Non-Active player may attempt to Seize Continuity (6.3). If so, he chooses one of his leaders to Activate and rolls the
+die adding any modifiers and compares it to his leader’s Activation Rating. If successful, he Activates that Command and
+proceeds from Phase B. If not, the Active player gets a Free Activation, proceed to Phase A, this Free Activation may even
+be used to Activate the Command that just completed Activation.
+•	 If no Seizure attempt occurs, roll the die adding any modifiers and compare it to the chosen leader’s Activation Rating. If
+successful, Activate that Command and proceed from Phase B. If not, the Non-Active player gets a Free Activation and
+proceeds to Phase A.
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2011 GMT Games, LLC Living Rules Version 1.2 05/11/2013
+
+

@@ -1,0 +1,314 @@
+A Game by Reiner Knizia
+For 3 to 6 Players Aged 8 and Up
+
+GMT
+GAMES
+
+Overview
+The objective of the game is to maneuver your two-car team to the Constructors’
+Championship, by scoring the most points during a predetermined number
+of races.
+The cars change position in relationship to each other (no track is necessary).
+Cars are maneuvered by playing cards. Each card directly affects one or two
+cars—though not necessarily yours—either by moving them forward or backward in position.
+
+Components
+12	Plastic cars (two each in six colors)
+6	 Team pit crew cards (one in each of the six colors)
+54	Action cards
+1	 12-sided die
+1	 Rulebook
+1	 Folding Racetrack Section
+
+How to Win
+Before beginning the first race, the players should decide how many races they
+wish to run for their season. Three races can be completed in about an hour
+and is a good starting point.
+Points are awarded at the end of each race to the cars in first through sixth
+positions as follows:
+First	 10 points
+Second	 6 points
+Third	 4 points
+Fourth	 3 points
+Fifth	
+2 points
+Sixth	 1 point
+A player scores points for all of his cars in the top six positions. Uncontrolled
+teams also score points (and can win the game). Update the overall championship standings by adding the points earned in the current race to the total points
+earned previously for each player (or uncontrolled team).
+
+
+
+Formula Motor Racing
+
+At the end of the last race of the season, the team with the most total points is
+the winner. If tied, then the winner is the team tied for most total points which
+controlled the higher-placing car in the final race.
+
+How to Set up
+1. Each player selects a team of two cars of the same color and is assigned the
+pit crew card of the corresponding color. If there are only three players, each
+player selects two teams. The cars are used to keep track of car positions during the race. All twelve cars are used in every race regardless of the number
+of players involved. With four or five players the remaining colors represent
+uncontrolled teams participating in the race.
+2. One player takes all of the team pit crew cards into his hand and draws them
+randomly. The cars of the first color he draws start in first and twelfth place; the
+cars of the second color start in second and eleventh place; and so on. The cars of
+the last color drawn start in sixth and seventh place. (An optional folding track
+section is provided for placing cars.) Then, place the team pit crew cards in front
+of their players to remind everyone which color(s) represent which players.
+3. One player shuffles the action cards and deals five cards to each player. Place
+the remainder face down as a Draw Pile.
+
+How to Play
+The player whose car is in the pole position (first place) takes the first turn of the
+game. When his turn is complete, play proceeds clockwise around the table.
+Each player in his turn must play one action card face up onto a Discard Pile next
+to the Draw Pile. The player who plays the action card is the one who chooses
+which car it effects (within the limits of the card chosen). After resolving the
+effects of the action card, the player draws one action card from the Draw Pile
+for his hand. A player must play an action card and draw an action card during
+his turn even if all of his cars are out of the race.
+Play continues until the last action card is drawn. Each player then gets one
+more turn to play an action card (without drawing a replacement card). Thus,
+the race ends when each player has four action cards remaining in his hand.
+Copyright © 2007 GMT Games, LLC
+
+
+
+Effects of the Action Cards
+Most action cards affect the position of cars in the race; some remove cars completely! Because of the constant movement (and removal) of the cars during a
+race, gaps will appear in the line. These gaps should be closed to keep the line
+looking neat and tidy. Cars that are out of the race are set aside in a separate line,
+with the first cars knocked out placed at the end of the line, while cars removed
+later are added to the front of the line. At the end of the race, the removed cars
+finish in this order, coming after all the cars that are still running.
+Here are the procedures to follow with each card [the number in parentheses
+shows the number of each card type included in the deck]:
+Overtake +2 [6], Overtake +3 [12], Overtake +4 [6]. Choose one car of the appropriate color and the car directly behind it (in
+its slipstream), and move them forward the number
+of places indicated. Therefore, unless you are moving the last place car, two cars will always move
+when you play an Overtake card. If the chosen car
+reaches first place, ignore any additional places it would have gained. You
+may select the car in first place when you play an Overtake card, in which
+case no movement would take place. If both cars of the indicated color are
+out of the race, the card has no effect.
+Wrong Line –1 [3], Off Circuit –2 [3], Lose Control –3 [3]. Choose any car and
+move it back the number of places shown.
+
+Tailender Turbo [4]. Choose one of the last three cars still in the
+race, and move it forward three places. The car behind it does not
+move forward with it.
+
+
+
+Formula Motor Racing
+
+Pit Stop [8]. Choose one car of the indicated color and roll the die:
+Roll:	
+1-6	
+7-12	
+
+Effect:
+The chosen car moves back the number of places equal
+to the die roll. If the car reaches last place, ignore any
+additional places it would have lost.
+The chosen car does not pit and remains in its current position.
+
+If both cars of the indicated color are out of the race, the card has no effect.
+If the card is a beige Pit Stop card, the player can choose any car.
+Charge (Lose Gears) [3] and Charge (Engine Blows) [3]. Choose any
+car and roll the die:
+Roll:	
+1-9	
+10-12	
+
+Effect:
+The chosen car (alone) moves forward one place.
+If the card is Charge (Lose Gears), the chosen car moves
+to last place.
+If the card is Charge (Engine Blows), the chosen car has
+blown its engine and is out of the race! Set it aside.
+
+If the player chose a car of his own team, he may continue to roll the die and
+move forward the same car again. He can stop at any time after rolling at
+least once. He must stop when rolling a 10-12. If the player selects the car
+of a different team, he may only roll the die once.
+Spin Out [1] or Spin Last [1]. The player rolls the die to determine
+which car is affected. The number is the place of the car which is
+affected by the spin. If the player does not like the result of the first
+die roll, he may re-roll the die once. If the player chooses to re-roll,
+the result of the re-roll must be accepted and determines the car
+which has spun. He may not switch to the result of the original
+roll if he dislikes the re-roll.
+The spun car is out of the race, if Spin Out was played, or is placed
+in last place, if Spin Last was played. It is possible for the player to knock
+out one of his own cars when playing this card. If the position rolled is not
+in the race due to other cars previously having been knocked out of the race,
+then the card has no effect.
+
+Copyright © 2007 GMT Games, LLC
+
+
+
+Crash [1]. The player rolls the die to determine which car is affected. The number is the place of the car which has crashed. This car is out of the race. In
+addition, the car immediately in front of or behind the car which crashed is
+also knocked out of the race by the crash. The player who played the
+card selects which other car is involved (unless the first or last place
+crashed, in which case the player must choose the car behind or in
+front of the crashed car, respectively). Both cars involved in the crash
+are placed in the front of the line of removed cars, finishing the race in
+the same relative position to each other that they were prior to the crash.
+It is possible for the player to knock out one or two (!) of his own cars when
+playing this card. If the position rolled is not in the race due to other cars
+previously having been knocked out of the race, the card has no effect.
+
+End of the Race
+When the race ends, the points are awarded for first through sixth place as
+explained above. Uncontrolled teams also score.
+If it is not the last race of the season, leave the cars in the order they finished.
+Behind the last finishing car add the separate line of cars that had been knocked
+out during the race, with the first removed car thus finishing in twelfth place.
+This is how the cars will start the next race.
+One player collects all the action cards, shuffles them, and deals five new action cards to each player. The players do not retain any action cards from the
+previous race in their hands. The next race is ready to begin, with the player
+controlling the first place car making the first play.
+
+play options
+Shorter Races. For those players who want each race to be shorter so that
+more races can be completed in a session, we offer the following suggestion.
+Randomly discard six cards face down from the shuffled deck before each race
+begins. Players can agree in advance to vary the length of specific races from
+others to simulate a season of races at different tracks.
+Drivers’ Championship. If you want to play for the Drivers’ Championship
+
+
+
+Formula Motor Racing
+
+as well, mark your team cars with different numbers (and driver names), and
+record their points individually on the scoresheet. The car (driver) with the most
+total points at the end of the season wins the Drivers’ Championship. Ties are
+broken by highest position in the last race.
+Complete Season. The Formula One season is 17 races. For those diehard fans
+who wish to run a complete season over multiple playing sessions, record the
+position of all the cars at the end of a session. This is then used as the starting
+point for the next session.
+
+Credits
+
+Design: Reiner Knizia
+Project Coordination: Andy Lewis
+Art Director: Rodger B. MacGowan
+Cover and Card Illustrations: Rodger B. MacGowan
+Card Design: Mark Simonitch
+Packaging Design: Rodger B. MacGowan
+Rulebook Formatting: Mark Simonitch
+Production Coordination: Tony Curtis
+
+Card summary
+GMT Games
+P.O. Box 1308
+Hanford, CA 93232-1308
+www.gmtgames.com
+(800) 523-6111
+© 2007 GMT Games
+
+Copyright © 2007 GMT Games, LLC
+
+ADVANCES 		
+	
+Overtake	
+24
+	
+Charge	
+6
+	Tailender Turbo	
+4
+
+34
+
+Trouble		
+	
+Wrong Line	
+3
+	
+Off Circuit	
+3
+	
+Lose Control	
+3
+	
+Pit Stop	
+8
+	
+Spin	
+2
+	
+Crash	
+1
+
+20
+
+
+
+You may photocopy this form for personal use.
+
+
+
+Formula Motor Racing
+
+Points:
+
+Points:
+
+Team:
+
+Cumulative Totals
+(Opt) Cars:
+
+Race #
+
+Team:
+
+Cumulative Totals
+(Opt) Cars:
+
+Race #
+
+Team:
+
+Cumulative Totals
+(Opt) Cars:
+
+Points:
+
+___	 ___	
+
+(Opt) Car #	
+
+Race #
+
+Blue		
+
+Team Color	
+___	 ___	
+
+Green	
+___	 ___	
+
+Yellow	
+
+Scoresheet
+___	 ___	
+
+Orange 	
+___	 ___	
+
+Red		
+
+___	 ___
+
+Purple
+
+
