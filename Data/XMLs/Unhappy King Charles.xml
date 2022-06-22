@@ -1,0 +1,4445 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="18748">
+         <thumbnail>https://cf.geekdo-images.com/THnnB9SIT0gN5s8tp-Hy_g__thumb/img/2BJfdXsj-GvOiIfiA0d9ahs4NXM=/fit-in/200x150/filters:strip_icc()/pic407727.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/THnnB9SIT0gN5s8tp-Hy_g__original/img/wKwixgsVgHvhtjaNkpnida-4nfg=/0x0/filters:format(jpeg)/pic407727.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Unhappy King Charles!" />
+				<rulebook>UNHAPPY KING CHARLES!
+
+1
+
+© 2008 GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308, USA
+www.GMTGames.com
+
+© GMT Games LLC, 2008
+
+v1.0 October 2008
+#0814
+
+2
+
+UNHAPPY KING CHARLES!
+
+CONTENTS
+1.0
+
+INTRODUCTION
+
+3
+
+10.0 BATTLES
+
+18
+
+Game Summary
+
+3
+
+2.0
+
+GAME COMPONENTS
+
+4
+
+2.1
+2.2
+
+The Map
+The Playing Pieces
+
+4
+5
+
+3.0
+
+GLOSSARY
+
+5
+
+4.0
+
+SETTING UP THE GAME
+
+6
+
+4.1
+4.2
+4.3
+4.4
+
+Deck Assembly
+Unit Set-Up
+Political Control Markers
+Remaining Setup
+
+6
+6
+7
+7
+
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+10.8
+
+18
+19
+19
+19
+19
+19
+19
+19
+
+5.0
+
+SEQUENCE OF PLAY
+
+7
+
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+
+Housekeeping Phase
+Political Control Phase
+Recruitment Phase
+Draw Strategy Cards Phase
+Campaign Phase
+Blockade Phase
+Desertion and Supply Attrition Phase
+Power Base Phase
+Turn End Phase
+
+7
+7
+7
+7
+7
+8
+8
+8
+8
+
+6.0
+
+STRATEGY CARDS
+
+8
+
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+
+Operations Strategy Cards
+Major Armies
+Card procedure
+Event Strategy Cards
+Mandatory Event Strategy Cards
+Individual Special Event Cards
+Adding to the Original Draw Deck
+Adding to the Second Draw Deck
+
+8
+9
+9
+9
+10
+11
+12
+13
+
+7.0
+
+RECRUITMENT
+
+7.1
+7.2
+7.3
+
+Evasion and Dispersal
+Resolving Battles
+Retreat
+Surrender
+Spoils of Victory
+Turncoats
+Major and Decisive Victories
+Nesting
+
+11.0 POLITICAL CONTROL
+
+20
+
+11.1 Placing PC Markers in the Campaign Phase
+11.2 The Political Control Phase
+11.3 Political Isolation
+
+20
+20
+20
+
+12.0 DESERTION & THE HORRORS OF WAR
+
+20
+
+12.1
+12.2
+12.3
+12.4
+
+20
+20
+21
+21
+
+Desertion Limitation
+Desertion Selection Process
+Supply Attrition
+Desertion Example
+
+13.0 LOCAL NOTABLES
+
+21
+
+14.0 FORTRESSES
+
+22
+
+14.1
+14.2
+14.3
+14.4
+14.5
+14.6
+
+22
+22
+23
+23
+23
+24
+
+Occupying Fortresses
+Besieging
+Bombardment
+Siege Surrender
+Assaults and Immediate Assaults
+Battles in Siege Areas
+
+15.0 NAVAL RULES
+
+24
+
+15.1 Diplomatic Strength
+15.2 The Queen
+15.3 Effects
+
+24
+24
+24
+
+13
+
+16.0 FOG OF WAR
+
+25
+
+Common Recruitment Rules
+The Recruitment Phase
+Recruitment Cards
+
+13
+14
+14
+
+17.0 WINNING THE GAME
+
+25
+
+8.0
+
+GENERALS
+
+15
+
+17.1 Automatic Victory
+17.2 Power Base Victory
+17.3 Winning at the End of the Game
+
+25
+25
+25
+
+8.1
+8.2
+8.3
+8.4
+
+Bringing Generals Into Play
+Lone Generals
+Leaving, Transferring & Picking Up Brigades
+Army Size Limits
+
+15
+15
+15
+15
+
+18.0 OPTIONAL RULES
+
+26
+
+9.0
+
+MOVEMENT AND INTERCEPTION
+
+15
+
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+9.7
+
+Operations Strategy Cards
+Movement Procedures
+Movement Lines
+Battle and Movement
+Subordinate Armies
+Changing PC Marker Control
+Interception
+
+15
+15
+16
+16
+16
+17
+17
+
+18.1
+18.2
+18.3
+18.4
+18.5
+
+26
+26
+26
+26
+26
+
+Stout Cornish Men
+Random Desertion Order
+Manchester
+The Laughter of the Court
+Lostwithiel
+
+CREDITS
+
+26
+
+Bibliography
+
+26
+
+INDEX
+
+26
+
+SEQUENCE OF PLAY
+
+28
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+
+1.0
+
+INTRODUCTION
+
+In the autumn of 1642 the long foreshadowed clash between
+Parliament and the supporters of the Royal Prerogative
+was brought to a head. At Nottingham before a generally
+uninterested audience the King raised the Royal Standard
+indicating all who took the field against him were traitors and
+rebels. Parliament sought to defeat the King militarily (or
+rather the King’s evil counselors for they believed themselves
+His Majesty’s most faithful servants) so as to overturn the
+Royal Prerogative in matters of tax and defense. In so doing
+Parliament had the support of by far the majority of the
+aristocracy, the merchant class and the anti-papists. The
+King’s aim was to defeat Parliament and establish his control
+of funding so as to permit the full flowering of what he
+conceived as his divinely sanctioned powers. Into this heady
+brew came Papists (seeking freedom of religion), Protestant
+sectaries, rebellious Irish nobles, Scots Presbyterians (fresh
+from victory over England in the Bishops Wars) and many
+other parties. Fortunately for England the great nations of
+Europe were otherwise engaged.
+Unhappy King Charles! allows two players to decide whether
+Commons or Cavalier shall rule in England. Both seek
+to establish control over the country and of its economic
+structures. They seek not only to defeat their opponents in
+battle but also to seize control of the local government of
+England and Wales.
+NB: In these rules any comments or explanations given in
+italics do not form part of the rules themselves. Any references
+to other rules are given with the numbered rule in parenthesis
+(e.g. 7.0).
+
+Game Summary
+New players please read the Play Book first
+Unhappy King Charles! is played over eleven turns, each
+representing about four months. Brigades of troops combine
+to form Armies (as defined in 3.0) or garrisons of Fortresses
+(see 14.0). Only unled Brigades are on the map; the others
+are placed on the box of their General on the Command
+Displays. General counters move on the maps.
+Movement and other activities require Activation using an
+Operations Strategy Card (6.0); each Operations Card bears
+a number showing that card’s Operations Points value. The
+value of the Operations card must be greater than or equal
+to the General’s Strategy Rating (2.2). Armies of five or more
+Brigades must use a 3 value Operations Card (6.2). Campaign
+Cards can be used to Activate multiple Generals with Armies
+of any size. The other cards are Event Strategy Cards, and
+these cards permit the player to do a number of things—take
+control of Areas, transfer Brigades, receive new cards, etc.
+(6.4)—that reflect actual events. The event described on each
+Event Card may usually be played by either the Royalist or the
+Parliament player (the card graphics make the distinction),
+although some cards may be played by either player. If a
+player holds a card with an Event that does not pertain to
+him, he may discard it for minor activities (6.4).
+
+3
+
+The Cards are drawn each turn. There are six decks of cards;
+three are turn-based in their introduction.
+(1) Alt-Hist cards
+(2) Core Cards (Both players receive two Core Cards each
+turn, guaranteeing a minimum level of activity)
+(3) Early War cards
+(4) Mid-War cards
+(5) Late War cards
+(6) Mandatory cards
+You can store one or more cards in certain circumstances to
+constitute a reserve (5.5).
+Each player must make at least six card plays per turn if he has
+that many cards available. See rule 5.5 for details. Usually, the
+Royalist player plays first for the opening turns of the game
+and the Parliament player plays first in the later turns. See 5.5
+for this as well.
+Each Mandatory card must be played for its Event during the
+Turn in which it is drawn (6.5). The war does not actually
+begin until the “Raising the Royal Standard” Mandatory card
+is played, though limited activity can occur before this.
+Leader counters (8.0) are either Generals (with a Strategy and
+Battle Rating) or Local Notables (governors of Fortresses).
+Generals can be Field Generals who operate everywhere,
+or Regional Generals who can suffer disadvantages when
+outside their Region. Generals cannot transfer Brigades to
+other Generals unless Event Cards permit; Brigades remain
+with their original General until elimination, Dispersal or
+Desertion takes them. Local Notables can transfer Brigades
+to friendly Generals.
+Brigades come in two types: Veterans (Combat Value 2)
+and Militia (Combat Value 1). Usually, Militia units must
+be Recruited before Veterans of that Region. Each Region’s
+Areas and Brigades share the same color. Recruitment is
+usually limited to the Region of origin. Brigades lost in
+combat are not available for Recruitment (though some
+Event Cards can bring them back).
+Control of the map is an important part of the game, with
+Political Control (PC) markers placed on Areas to denote
+control of that Area. Each Area is either neutral (no PC
+marker) or controlled (checkered Royalist PC marker or
+orange Parliament PC marker). These markers are placed:
+• before the game begins,
+• in the Housekeeping Phase of the game,
+• by means of Event or Operations Cards,
+• by placement of Local Notable markers,
+• by conversion as Armies move across the map,
+• by winning Battles, or
+• by occupation in the Political Control Phase.
+Fortress Areas can be converted only by Event Cards and by
+Surrender resulting from Sieges.
+You can lose the game by not having enough Areas under
+control (17.2). Control of Areas can be lost if they are Isolated
+(11.3).
+
+© GMT Games LLC, 2008
+
+4
+
+UNHAPPY KING CHARLES!
+
+Fresh Brigades are received by Recruitment (7.0). In the
+Recruitment Phase a number of Brigades are received based
+on historical levels (subject to availability) at Recruitment
+Areas or with Local Notables. Control of these Areas is
+vital. Only units from the correct Region can be Recruited
+in a Recruitment Area (7.2). Additionally, the use of one
+Operations Card or one Discarded Event Card per turn
+permits extra Recruitment (7.3). Royalist Recruitment outside
+the Recruitment phase is limited to Regional Generals only,
+though with the bonus that the Brigades can be Recruited
+straight into the General’s Army rather than at a Recruitment
+Area (7.3.1). Some Event Cards also raise Brigades (6.4). The
+number of Brigades Recruited each turn reduces during the
+War. Some of the Brigades which Disperse rather than fight
+can return during Recruitment (7.1.7).
+Armies are usually limited to four Brigades except for a
+few Generals who can command up to nine Brigades (8.4).
+Armies can be Subordinated to other Armies (i.e., the Armies
+combine into one larger Army) if the commanding General
+has a higher Subordinating Level (9.5). Armies with Generals
+of the same Level cannot combine. When Armies combine,
+Brigades still remain with their original General.
+Movement is based on Army size. The smaller the Army the
+faster it can move (9.2). Movement across the map is by means
+of Areas joined by movement lines. There are three kinds of
+movement lines (9.3). Control of Areas can change during
+movement if Movement Points are spent (9.6). Non-moving
+Armies can attempt Interception (9.7), placing themselves in
+the path of the moving Army to cause Battle.
+Battles are resolved using the Combat Value of the Brigades,
+the General’s Battle Ratings, and (when played) Combat
+Cards. But before any Battle is fought one side can try to
+Evade (leave the Area) or Disperse (remove itself before
+combat)—see 10.1. Losses in combat are not available
+for Recruitment, although certain cards allow them to be
+brought back into the game. Drawn and Decisive Victories
+kill Veteran Brigades (if there are any) first. The loser must
+Retreat and can suffer further losses if he Retreats through
+enemy PC markers. Major and Decisive Victories earn extra
+Strategy Cards.
+Each turn Desertion occurs based on a pre-determined level
+that causes Armies to reduce in strength over the game.
+Desertion is performed according to criteria that ensure that
+losses usually occur in the largest armies which are nearest
+to the enemy (12.0). Armies of 5 or more Brigades will also
+suffer Supply Attrition losses.
+Fortresses cover a wide range of locations. They are ranked by
+class and their ability to withstand Bombardment. Surrender
+occurs by Siege or Event Card. Siege requires the attention
+of an Army for some time (most Fortresses will require more
+than one Activation to capture). If attacked during that time
+the Besieger can be forced to abandon the Siege (14.6).
+Assaults (14.5) can be attempted (at a cost in losses).
+Naval rules use the draw of a chit once a year to determine the
+aggregate degree of naval support for each side (15.0). Naval
+status can affect Sieges and Recruiting.
+The game can be won by an Automatic Victory, by one side
+failing to control enough Areas, or at the end of the eleventh
+turn (17.0).
+
+2.0
+
+GAME COMPONENTS
+
+Unhappy King Charles! is comprised of:
+One map
+One sheet of 5/8” counters
+One sheet of 1/2” counters
+Two 8.5” x 11” Player Reference Cards
+One Rules Book
+One Playbook
+110 Strategy Cards
+
+2.1
+
+The Map
+
+The game map consists of Areas that are connected to one
+another by lines. Areas are:
+• Circular: Standard Area
+• Diamond-shaped: Local Notable Set-up Area
+• Pentagonal: Limited Fortress
+• Hexagonal: Supply Fortress
+
+All Areas have their border in the color of their Region. The
+regions are also separated by a dotted border line.
+An Area that is also a Port has an anchor symbol
+(for example London). Ports are used only for some
+Events and affect Bombardment (never for regular
+movement).
+Areas with a pink wash under them are Economic
+Infrastructures—see the Victory rules.
+The connecting lines between Areas can be Road (solid
+green line), Mountain (double brown line), or Maritime
+(dotted blue line) (see Movement, below). Two Areas that are
+connected by a line are considered adjacent to each other.
+
+Some Areas are printed with a blue fill and an icon of a
+Royalist PC marker; others have an orange fill and an icon
+of a Parliament PC marker—these graphical indicators show
+Areas of initial support to aid in setting up the game. Political
+Control Markers in the relevant color are placed on these
+Areas.
+Recruitment Areas have a drummer icon in the
+Region color, and a flag denoting which side may
+use that Area for Recruitment. A Recruitment Area
+can be outside its own Region.
+Example: London is a Recruitment Area for Parliament South
+and East, and Shrewsbury a Royalist Recruitment Area for Wales
+(even though not in Wales).
+Fortress Areas have two numbers, firstly the Fortress Class,
+secondly the Surrender Value.
+Example: London is listed as 3/11, a Class 3 Fortress requiring a
+Bombardment Value of 11 to Surrender.
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+
+2.2
+
+The Playing Pieces
+
+BRIGADES
+Each combat unit (which has an illustration of soldiers
+printed on it) represents about 3,000 men (ration strength).
+Some Brigades are portrayed as Cavalry and some as Infantry,
+but this has no effect on combat. Each Brigade is worth the
+Combat Value printed on it (one or two), and its name will be
+printed in the color of a Region. The names of the Brigades
+are mostly for historical ambiance, although some Brigades
+are named specifically in the rules.
+
+Each unit has a number and a letter. The number is its
+Combat Value. The letter is its Region of Recruitment, also
+indicated by text color matching the border color of all Areas
+in that Region:
+S = South (blue)
+
+The factors on General counters are the Strategy Rating on
+the left and the Battle Rating on the Right. A 2/3* General
+has a Strategy Rating of 2 for Activation (6.1) and 3 for all
+other purposes (for example Evasion and Interception).
+Historical Note: As administrators these Generals were no worse
+than other Generals, but less swift in maneuver.
+POLITICAL CONTROL MARKERS
+Control of an Area is marked with Political Control Markers—
+abbreviated in these rules to “PC markers”.
+
+OTHER MARKERS
+Other markers are used to indicate various game statuses,
+such as the current turn, the naval status, major armies and
+other game conditions.
+
+3.0
+
+E = East (green)
+W = Wales (orange)
+
+5
+
+GLOSSARY
+
+N = North (red)
+
+Any capitalized terms in the rules have a specific meaning.
+The following terms are used in the game.
+
+M = Midlands (purple)
+
+1d6: One six-sided die. (2d6 refers to two six-sided dice.)
+
+The color band indicates the unit’s affiliation:
+Green band (and Cross of St Andrew) is Covenanter,
+Purple band is Lorrainer,
+Orange band is Parliament and
+Blue band is Royalist.
+A counter with a little St George’s flag is a Royalist unit from
+the army in Ireland (henceforth “Irish”).
+GENERALS
+Generals come in two varieties: Field Generals and Regional
+Generals. Local Notables have some limited command
+abilities but are not Generals (13.0).
+
+Army: An Army consists of a General (8.0), and one or
+more friendly Brigades (which are placed on his Command
+Display). An Army can also include Subordinate Generals and
+the Brigades on the Command Display of the Subordinate
+General (9.5). Brigades without a General, or Brigades with
+only a Local Notable, are never an Army. References to
+Brigades in the rules include Brigades in Armies.
+Assault: After Bombardment, a Besieging Army can attempt
+to force a Fortress to Surrender by launching an Assault
+(14.5). An Assault is permitted only where a Bombardment
+value of 5 or more has been amassed. Local Notables can
+never be subject to an Assault.
+Bombardment: Besieging Armies may Bombard Fortresses to
+attempt to force them to Surrender (14.3). The Surrender
+Value of a Fortress is the number of Bombardment Points the
+Besieging army must accrue in order to force the Surrender.
+Combat Cards: Cards bearing the notation “Combat Card” are
+used in order to affect the Battle in which they are played.
+
+•
+
+Command Display: The player reference cards have Command
+Displays printed on them. These Displays have boxes for each
+General or Local Notable in the game. All Brigades on a
+General’s Command Display and on the Command Displays
+of any Subordinates are “under command” of the General on
+the map.
+
+Field Generals have their factors in black.
+Example: Prince Rupert is a Field General.
+
+•
+
+Regional Generals have their name in
+white on a background printed in their
+Region Color and their Region or Regions’
+identifying letter(s) next to the portrait.
+Example: Newcastle is a Regional General from the North. Waller
+is a Regional General in both the South and the Midlands.
+
+•
+
+Local Notables have no factors. Their name
+is printed in their Region color on a white
+background and their Region identifying
+letter is next to the portrait.
+
+Core Cards: The two Operations Strategy Cards (worth 1
+Operation and 2 Operations respectively) available to each
+player every turn. When played, the Core Cards remain away
+from the Discard pile so that they can be easily returned
+to the players’ hands during the next Draw Strategy Cards
+Phase. Core Cards may not be retained as Ace-in-the-Hole
+cards (see 6.0).
+
+Example: Massey is a Local Notable.
+© GMT Games LLC, 2008
+
+6
+
+UNHAPPY KING CHARLES!
+
+Event Strategy Card: An Event Strategy Card (often abbreviated
+to “Event Card”) is a Card that is NOT an Operations Card
+(see above). It is a Strategy Card that represents a historical
+(or counterfactual) event that can be triggered by a player
+playing the card during a Campaign Round.
+
+4.0
+
+Friendly Area: An Area is friendly if it is marked with a
+friendly PC marker.
+
+At the start of play, do the following:
+
+Immediate Assault: An Immediate Assault is a variant of
+Assault that does not require an Army to Bombard a Fortress
+(14.5). Only certain Generals can Immediate Assault.
+
+4.1
+1.
+
+SETTING UP THE
+GAME
+Deck Assembly
+
+Divide the Strategy cards into the following decks:
+a. The four Core Cards.
+b. The “Early War” Cards,
+
+Militia Brigade: Any Brigade with a Combat Value of 1. Usually,
+all Militia Brigades belonging to a specific Region must be
+Recruited before any Veteran Brigades of that Region.
+
+c. The three “Mandatory” Cards,
+
+Operations Strategy Card: An Operations Strategy Card
+(often abbreviated to “Operations Card” or “Ops Card”) is a
+Strategy Card that has 1, 2 or 3 Operations marked as its title
+OR is a Minor or Major Campaign Card.
+
+f. The “Alt-Hist” Cards.
+2.
+
+Put decks (d), (e), and (f) aside for later.
+
+3.
+
+Political Control: A player has political control of an Area
+when one of his PC markers is in that Area. The presence of
+enemy Armies or Brigades in an Area does not immediately
+affect Political Control.
+
+Give the two Royalist Core Cards to the Royalist player
+and the two Parliament Core Cards to the Parliament
+player.
+
+4.
+
+Locate the “Raising of The Standard” Mandatory Card
+and place the other two Mandatory Cards aside for later.
+
+5.
+
+Shuffle the “Early War” Cards and draw the top nine
+cards, add the “Raising of The Standard” Mandatory
+Card to these nine cards and shuffle again, deal five
+cards to each player. The remainder of the Early War
+cards comprise the Draw Deck.
+
+Response Cards: Cards bearing the notation “Response”—
+these are played during the other player’s Activation
+(although one of them, Turnham Green, may be played
+instead as a standard Event Strategy Card).
+Region: Each Area on the map is in one of five Regions
+(North, Midlands, East, South and Wales) each of which has
+a distinctive color (respectively Red, Purple, Green, Blue and
+Orange). The color of an Area’s border shows the Region to
+which it belongs.
+Siege: Brigades and Armies inside Fortresses cannot be forced
+into Battle. However, enemy Armies may Besiege them, either
+Assaulting or Bombarding them into Surrender (14.0).
+Strategy Card: Generic name for both Operations Strategy
+Card and Event Strategy Card.
+Subordinates: Armies that have been taken under command
+by another General (9.5). The Subordinate General’s counter
+is placed on the Command Display of the commanding
+General to show Subordination. Subordinates act as part of
+the Army of the commanding General (though no transfers
+of Brigades between Command Displays can occur) until
+such time as their Subordinated General Activates separately
+and leaves or the Subordinate is left behind. Subordinates
+cannot undertake any activity other than Activating to move
+out of the Army to which they are Subordinated.
+Veteran Brigade: Any Brigade with a Combat Value of 2. In
+both Drawn Battles and Decisive Victories, Veteran Brigades
+(if involved in the Battle) are lost before Militia Brigades.
+
+d. The “Mid War” Cards,
+e. The “Late War” Cards, and
+
+4.2
+
+Unit Set-Up
+
+Set up the units as listed below. Set-up is in the format:
+Area Name, Area Region, General (if any), Brigade name
+(Region letter and strength in brackets) or name of Local
+Notable.
+Units with a General are placed in his Command Display box
+on the Player Reference Card, not on the map.
+PARLIAMENT SET UP
+Wakefield (North): Lord Fairfax [Cloth Towns’ Militias
+(N1)]
+London (East): Essex [Eastern Association (E1), Eastern
+Association (E1), Fiennes (M1) and Assheton (M1)]
+London (East): London Trained Bands (E1) inside London
+(place under the PC marker)
+Exeter (South): Bedford [Hesilrigg’s Lobsters (S1) and
+Pophams’s (S1)]
+Portsmouth (South): Waller [Western Association (S1)]
+Gloucester (Midlands): Massey Local Notable*
+Macclesfield (Midlands): Brereton Local Notable*
+Peterborough (East): Willoughby Local Notable
+Parliament Reinforcements Box: Empty
+* Be sure to use the Local Notable counters for Massey and
+Brereton, not the Regional General counters.
+ROYALIST SET UP
+York (North): King Charles [King’s Lifeguard (M2) and
+Rupert’s Lifeguard (S2)]
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+Newcastle (North): Newcastle [Whitecoats (N2)]
+
+7
+
+placement. If there is no available Area for a player, the
+player skips his placement.
+
+Historical Note: William Cavendish held several titles during his
+lifetime. He was created Earl of Newcastle in 1628, Marquis of
+Newcastle in 1643 and Duke of Newcastle in 1665.
+
+Designer’s Note: The placement of a PC marker here represents
+the action of local committees spreading each faction’s influence
+far away from the armies.
+
+St Austell (South): Hopton [Grenvile’s Cornish (S2)]
+
+Preston (Midlands): Earl of Derby Local Notable
+
+Then, if this is Late 1642 (i.e., Game Turn 1), Late 1643,
+Late 1644 or Late 1645, the Parliament Player draws a
+Naval Chit and adjusts the Naval Status (stack the Naval
+Chits with the Naval Status Marker on the Naval Status
+Chart). See 15.0 for more details on Naval Status.
+
+Royalist Reinforcements Box: Byron, Prince Rupert and
+Prince Maurice
+
+Play Note: The turns where a naval chit is drawn are marked
+with an anchor on the turn chart.
+
+Shrewsbury (Midlands): [Lord Herbert’s (W1), Wilmot’s
+(M1) and Northern Levies (W1)]
+
+3.
+
+Cardiff (Wales): Lord Herbert Local Notable
+
+To help with set-up, the General, Brigade, and Local Notable
+counters have their starting Areas or Command Display box
+setup locations printed on the reverse. Generals placed on
+the Turn Record Track (see 4.4) have the turn of their arrival
+printed on the reverse.
+
+5.2
+
+Political Control Phase
+
+(There is no Political Control Phase on the first Turn.)
+In the Political Control Phase:
+1.
+
+Place the correct PC marker in each Area marked with a
+PC marker icon on the map (for example, Oxford for the
+Royalists and London for the Parliamentarians). Each such
+Area is also printed with the appropriate color fill.
+
+Both players place PC markers in all non-Fortress Areas
+that are occupied by one of their Armies or Local
+Notables (11.2), if one of their PC markers is not already
+there, and
+
+2.
+
+The players remove markers to reflect Political Isolation
+(11.3).
+
+4.4
+
+5.3
+
+4.3
+
+Political Control Markers
+
+Remaining Setup
+
+1.
+
+Place the five naval status markers in an opaque
+container.
+
+2.
+
+Place the Game Turn Marker on Turn 1 of the Turn
+Record Track.
+
+3.
+
+Place Generals named on the Turn Record Track in the
+correct space, ready for arrival.
+
+4.
+
+Place all other unused Generals in their boxes on the
+Command Display.
+
+5.
+
+Sort your Brigades by Region, placing 2 Value Brigades
+(Veterans) at the bottom of each stack as a reminder that
+all 1 Value Brigades (Militia) must usually be Recruited if
+available (7.4).
+
+5.0
+
+SEQUENCE OF PLAY
+
+Unhappy King Charles! is played in Game Turns, each of which
+covers four historical months. Each turn is played in the
+following phases in the order given below.
+
+5.1
+
+Housekeeping Phase
+
+In the Housekeeping Phase:
+1.
+
+2.
+
+Recruitment Phase
+
+Beginning with the Parliament player, each side places
+Recruited Brigades (7.0) and, if desired, Blockade & Siege
+Markers (14.2).
+
+5.4
+
+Draw Strategy Cards Phase
+
+(There is no Draw Strategy Cards Phase on the first Turn.)
+This phase creates each player’s “hand” of cards for use in
+the Campaign Phase of this Game Turn. First, each player
+recovers his two Core Cards. The Parliament player then
+deals four Strategy Cards from the Draw Deck to each player
+one at a time, starting with the Royalist player. Each player’s
+hand for the Game Turn will therefore consist of at least six
+cards: four from the Draw Deck and the two Core Cards. “Ace
+in the Hole” cards (5.5 and 6.2) are also part of the player’s
+arsenal.
+If there are insufficient cards to deal four to each player,
+deal both players the same number of cards, with the
+Royalist player getting the last card in case of an odd number
+remaining. Instructions for adding further cards are at 6.7
+and 6.8.
+Play Note: Running out of cards in the deck is rare, and occurs
+when there are an exceptional number of major/decisive Battles.
+Note, however, that adding the Late War cards (6.8) occurs only
+when all the Early and Mid War cards have been drawn.
+
+Each player transfers all of his Generals from the
+Unemployed Generals Box to the Reinforcements Box.
+Any Generals on the Turn Record Track for the current
+turn are moved into the Reinforcements Box as well.
+
+5.5
+
+Then each Player must place a PC marker in one neutral
+Area (Parliament player first). The Area must be adjacent
+to a friendly PC marker, but not adjacent to an enemy PC
+marker, Local Notable or Army, and its change of control
+must not be such as will cause Political Isolation (11.3)
+for any other PC markers. Unled Brigades do not prevent
+
+The players alternately play or discard Strategy Cards one at
+a time until both players have passed. A player can pass at
+any time after they have played (including discarding) six
+cards—combat cards and other response cards are included
+in this total. They are forced to pass only when they have no
+cards remaining.
+
+© GMT Games LLC, 2008
+
+Campaign Phase
+
+8
+
+UNHAPPY KING CHARLES!
+
+EXCEPTIONS
+• Forced removals of cards do not count toward the six
+card plays required except for Mandatory Cards.
+•
+
+The play of cards arising from victories does not count
+toward the six card plays required.
+
+•
+
+If one player passes the other player can continue playing
+and discarding until they also pass. Once a player has
+passed, they cannot play or discard another card in that
+Phase. A player who holds a Mandatory Strategy Card
+(6.5) cannot pass until it is played. If a player runs out of
+cards before playing six (due to Events), he simply passes
+once his hand is empty.
+Play Note: If you find it hard to track how many cards you have
+played, keep them face up in front of you until the end of the
+turn and then place them in the discard pile. However, if the
+Parliament player is allowed a draw from the discard pile (10.7),
+make sure to add all the cards to it.
+
+GOING FIRST
+The Royalist Player chooses who plays the first card in a turn
+until the New Model Army Event (6.5) has been played. At
+that point the choice passes to the Parliament Player.
+
+•
+
+The game ends automatically in the Turn End Phase of
+the winter 1645 Turn. Victory Points are then counted
+according to 17.3 and a winner is declared.
+
+6.0
+
+STRATEGY CARDS
+
+In Unhappy King Charles! the two players move, fight, Bombard
+Fortresses, place PC markers, Recruit Brigades and cause
+events to occur all by playing Strategy Cards. Each turn each
+Player is dealt four Strategy cards from the top of the Draw
+Deck; the Parliament player deals them out one at a time,
+with the top card going to the Royalist player, the second to
+the Parliament player, and so on. A further two Core Cards
+are available to each player each turn. There are two types of
+Strategy Cards:
+•
+
+Operations Strategy Cards (including Campaign Strategy
+Cards) and,
+
+•
+
+Event Strategy Cards.
+
+Exception: Where the player selected to go second does
+not wish to do so, they can insist on going first if they have
+a “Major Campaign” or “Minor Campaign” card, which must
+then be their first card play.
+ACE IN THE HOLE
+All unplayed cards at the end of a Campaign Phase are placed
+aside (face down) and can be played in later turns (see 6.0).
+These are known as “Ace in the Hole” cards.
+
+5.6
+
+Blockade Phase
+
+Armies with a “Blockade & Siege” marker (not just a Siege
+marker) can now Bombard the Fortress on which the Marker
+is placed (no Operations Card is required). See 14.2 and 14.3
+for details.
+
+5.7
+
+Desertion and Supply
+Attrition Phase
+
+Check the Game- Turn track and inflict the number of
+Desertions required (12.0). Then remove Brigades that are
+subject to Supply Attrition (12.3). Deserting Brigades and
+those lost to Supply Attrition are available for Recruitment
+next Game Turn.
+
+5.8
+
+Power Base Phase
+
+Check for victory (17.0).
+
+5.9
+
+Operations Card (left) and Event Card (right)
+Some Event Strategy Cards can cause Strategy Cards to be lost
+(both players are permitted to see them) or extra Strategy
+Cards to be drawn from the Draw Deck (only the Owner sees
+these).
+ACE IN THE HOLE
+Each player starts the game with seven cards but only six plays
+a turn are required. Remaining cards can be stored for later.
+These stored cards are considered part of the player’s hand
+and can be played normally, except that they are kept facedown beside the map in plain view until played, and they may
+not be removed by the opponent’s play of an Event Card. You
+cannot put Core Cards or Combat Cards in the store. The
+stored cards can never be used in the Winter 1645 turn.
+Play Note: “Ace in the Hole” cards are kept outside of the normal
+hand so the opponent can confirm that no illegal cards were kept.
+In addition, it serves as a reminder that these cards are immune
+to removal.
+
+6.1
+
+Tu r n E n d P h a s e
+
+If the game has not ended, recover the Core Cards for each
+player (they are part of the players’ hands for the next turn),
+place any Strategy Cards used for Recruits into the discard
+pile, and advance the Turn Marker one box on the Turn
+Record Track. There are three ways in which the game can
+end:
+•
+
+The game ends immediately if either player achieves an
+Automatic Victory during the Power Base Phase.
+
+•
+
+The game ends immediately if King Charles Surrenders
+as the result of a Siege (8.2 and 14.4) or a Battle (10.4)
+
+Operations Strategy Cards
+
+An Operations Strategy Card allows a player to undertake one
+of the following things:
+1.
+
+Bring Recruits into play (7.0). The procedures used by
+the Royalist and Parliament players are different. Only
+one such card can be played each Turn by each player.
+
+2.
+
+Bombard a Fortress (14.2) in the same Area as a friendly
+General with an Army having sufficient Brigades for
+Besieging that Fortress AND whose Strategy Rating is less
+than or equal to the number printed on the Operations
+Strategy Card (but see Major Armies below).
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+3.
+
+Activate for Raiding a number of Local Notables equal
+to the number printed on the Operations Strategy Card
+(13.0).
+
+4.
+
+Activate for movement (9.0) a General whose Strategy
+Rating is less than or equal to the number printed
+on the Operations Strategy Card (but see 6.2 below).
+This General can be brought onto the map from the
+Reinforcements Box (8.1):
+a.
+
+A “1” Operations Strategy Card can only Activate
+a General with a Strategy Rating of 1.
+
+b.
+
+A “2” Operations Strategy Card can Activate a
+General with a Strategy Rating of 1 or 2, or a
+“(2/3*)” leader.
+
+c.
+
+A “3” card can Activate any General, and is
+required to Activate a Major Army (6.2).
+
+5.
+
+Perform multiple instances of items 2-4 above by playing
+a Minor or Major Campaign Card (see immediately
+below this list for details).
+
+6.
+
+Place a number of PC markers on the map equal to the
+value of the card (11.1).
+
+MINOR AND MAJOR CAMPAIGN CARDS
+Campaign cards allow the number of Generals specified
+on the card—irrespective of Strategy Rating—to move or
+Bombard. For any or all of the Activations allowed by the
+card, a Local Notable may be Activated in place of a General
+(13.0). Generals move and fight one at a time—there is no
+simultaneous or coordinated movement.
+
+9
+
+of the Subordinates and moving them away, leaving less than
+five Brigades with the former Major Army. The five-Brigade
+restriction applies to the Army Activating and includes any
+Brigades or Subordinates to be picked up while Activated
+(if Activated with anything less than a 3 Operations Card, a
+General may not pick up Brigades that would raise its total
+to 5 or higher during that Activation). Place a Major Army
+counter to indicate these stacks. Only the Generals noted in
+rule 8.4 may command Major Armies; all other Generals are
+restricted to four Brigades. Brigades in Subordinated Armies
+do count when determining Major Army status.
+
+6.3
+
+Card procedure
+
+When a Strategy Card of either kind is played or discarded,
+read its text and then place it on the discard pile. Core Cards
+once played are not discarded but instead placed to the side
+to be recovered next turn. When an Operations Strategy
+Card is used to bring Recruits into the game, it is instead
+placed face-up in the appropriate Royalist or Parliament
+Recruitment Card Box. The latter cards are cleared at the end
+of each turn to the discard pile.
+
+6.4
+
+Event Strategy Cards
+
+The play of an Event Strategy Card causes a specific event
+to occur. Each of the Event Strategy Cards has instructions
+that state the specific effect. These must be followed exactly
+(conditioned by the following paragraphs). Where a player
+receives a card that does not benefit him—the cards are
+graphically coded to denote which player benefits—and is
+not one of the three Mandatory Event Strategy Cards (6.5)
+then he can discard it (placing it face-up in the discard
+pile)—and note that discards may be used for specific actions
+(see “Discarded Event Strategy Cards below).
+Designer’s Note: A discarded event will still have occurred, but it
+clearly had less effect than it did historically.
+
+Minor and Major Campaign Cards
+Note that the same Brigades can never be moved by more
+than one General by a single card play, and each General can
+only be Activated once per card. Campaign cards also allow
+the player not scheduled to go first that turn to become the
+first player instead (5.5).
+Play Note: A player can Activate any mix of Armies and Local
+Notables, in any combination or order, and can mix Bombardment
+and Movement Activations freely. If Bombardment is chosen the
+stack must still meet the conditions of Bombardment.
+
+6.2
+
+Major Armies
+
+Armies of five or more Brigades require a
+3 Operations Card or a Campaign Card to
+Activate them for movement or Bombardment
+irrespective of the General’s Strategy Ratings. A
+Major Army can be broken up during Activation
+in two ways and only if it has Subordinates: firstly, by Activating
+the Army with a 3 Operations Card or Campaign Card but
+leaving behind sufficient Subordinates to drop the Army
+below five Brigades (9.5). Secondly, by Activating one or more
+
+RESPONSE CARDS
+Two Event Strategy cards bear the label “Response Card”.
+Response Cards are played during the other player’s
+Activation, halting that Activation until the event on the card
+is enacted, after which the Activating player continues. One
+of the Response Cards—Turnham Green (see 6.6)—may be
+played either as a normal Event Card or as a Response Card.
+PLACING OF PC MARKERS
+Where an Event Strategy Card calls for PC markers to be
+placed, the player can place his own markers anywhere and,
+unless the card states that the PC markers must be placed
+in “Open Areas”, can replace enemy PCs with his own (11.1
+but see the next paragraph). A card specifying “Open Areas”
+means Areas that do not currently have PC markers.
+REMOVAL OF PC MARKERS
+An enemy PC marker cannot be removed from a Fortress
+Area unless specifically noted on the card (or in the rules), or
+from an Area occupied by an enemy Army, Brigade or Local
+Notable.
+PLACING BRIGADES
+All Brigades placed as instructed by an Event Card must
+be from the Region in which they are placed. As with
+Recruitment, Militia must be placed if available (7.4), unless
+
+© GMT Games LLC, 2008
+
+10
+
+UNHAPPY KING CHARLES!
+
+the card specifies Veteran Brigades. If no qualifying Brigades
+are available, those permanently lost in combat (10.2) can
+be used. If none of these are available, the shortfall is lost.
+Brigades must be placed with any friendly Army, Local
+Notable or PC marker, but not with a garrison under Siege. If
+there is no such legal placement, the Brigades are lost. This is
+different from the normal Recruitment process.
+REMOVAL OF BRIGADES
+Where an Event Strategy Card calls for the removal of Brigades
+from the map the Player suffering the loss chooses these at
+his own discretion from Brigades in the specified Region.
+Unless otherwise indicated the losses are not permanent and
+Brigades are available for Recruitment immediately.
+REMOVAL OF STRATEGY CARDS
+Where an event calls for one or more Strategy Cards to be
+removed from a player’s hand, the player who played the
+event randomly chooses which cards are removed. Any cards
+stored from a previous turn are immune from removal.
+Any card that is removed from a player’s hand in this way is
+discarded after being examined by both players. Exception:
+If a Mandatory Event Strategy Card is drawn it must be
+immediately played (see below), and is considered to have
+been played by the player from whose hand it was drawn.
+DISCARDING EVENT STRATEGY CARDS
+Players can discard any Strategy Card (other than a
+Mandatory Event Strategy Card). A discarded Event Card can
+be used as a Limited 1 Operations Card: it may not be used to
+Activate Field Generals or Regional Generals for movement
+or Bombardment, but it may be used to place a PC marker,
+Activate one Raiding Local Notable or for Recruitment, just
+as for other Operations Cards).
+COMBAT CARDS
+Combat cards must be played or discarded on the turn they
+are drawn. They may never be saved as an “Ace in the Hole”.
+As with all other events, however, a discarded Combat Card
+can be used as a Limited 1 Operations Card (see paragraph
+above). Note that a Combat Card, even if played for the
+purpose of Battle, does count as one of the player’s six played
+cards in that turn.
+
+of the play of an Event Card, the Mandatory Event takes place
+immediately, and is considered to have been played by the
+player from whose hand it was removed.
+Once a Mandatory Event Strategy Card is played it is removed
+from the game permanently, put aside and not shuffled into
+the pack.
+There are three Mandatory Event Strategy Cards, with effects
+as follows:
+RAISING OF THE STANDARD
+Before this card is played Armies cannot enter Areas
+containing enemy Brigades, Intercept enemy Armies or
+attempt to Bombard or Assault enemy Fortresses.
+Both sides can place PC markers, move, play Event Cards
+(these cards are not limited even if the Royal Standard has
+not been played, so they can take enemy PC markers) and
+Recruit. Local Notables can Raid. Neither side can remove
+enemy PC markers during movement. Sir William Waller
+cannot move. Once the card is played, all these restrictions
+are lifted.
+Play Note: Waller is besieging Portsmouth at game start. There
+is no need for a Siege marker, since it is already marked for
+Parliament (it falls when the Standard is played).
+If the Parliament Player plays this card or it is played by being
+removed from his hand by a Royalist Event Card, treat it as
+also being an additional Parliament Recruitment; he may
+place one Brigade in a location permitted in the Recruitment
+Phase.
+ARMY OF THE SOLEMN LEAGUE AND COVENANT
+The Parliament Player places the five Covenanter Brigades
+in Leven’s Command Box and then (irrespective of who
+played the card), immediately Activates Leven for movement
+upon placement of these Brigades. Leven starts in Carlisle or
+Berwick (choice of the Parliament Player). This placement is
+considered normal movement (although the placement itself
+costs no Movement Points), so it can trigger Interception
+(9.7) or Battle. If Leven fights a Battle and loses or draws,
+his Activation is over as normal and he is kept off the map.
+He may attempt entry again on a later Activation in the same
+way.
+Additionally, in Late 1644 the Parliament Player can Activate
+Callander and two Covenanter Brigades (he places the
+Brigades on Callander’s General Display). Callander starts
+in Carlisle or Berwick upon Activation in the same way as
+Leven. Both Callander and Leven may command Parliament
+Brigades, but no Parliament General may command
+Covenanter Brigades or Subordinate Covenanter Generals.
+
+6.5
+
+Mandatory Event Strategy
+Cards
+
+The player to whom Mandatory Event Strategy Cards are
+dealt must play them in the Game Turn in which they are
+dealt. They cannot be discarded or retained. This can mean
+that the player might suffer a disadvantage by the playing—he
+cannot avoid this. His only choice is when in the Turn the
+Card is played. If the card is selected for removal as the result
+
+Covenanter Armies may not Disperse, but they may move off
+the game map (withdrawing into Scotland) by being at Carlisle
+or Berwick and spending one further move. Once moved off
+they do not return, and any cards mandating Covenanter
+withdrawal or arrival is disregarded in that respect.
+If this card is played by the Royalist Player or it is played
+by being removed from his hand by a Parliament Event
+Card, after the Parliament Player has completed Leven’s
+Activation, the Royalist Player gets an immediate (additional)
+Recruitment, as in the Recruitment Phase, with a value of 2
+Brigades (but neither can be Northern Brigades).
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+
+11
+
+NEW MODEL ARMY
+When the New Model Army card is played the Parliament
+Player follows this procedure:
+
+(5) Now place the Poyntz General counter with any
+Parliament stack (or keep him in the Reinforcements
+Box).
+
+(1) Remove the counters for Willoughby, Essex, Manchester,
+Waller and Lord Fairfax from the map or the player cards
+for the rest of the game and place their Brigades and any
+Subordinate Armies in the Area the Generals occupied
+before removal.
+
+(6) Any Parliament Brigades left without a General as the
+result of the New Model Army changes, or Brigades which
+will otherwise cause a new Major Army (6.2) to exist, and
+any Siege Train can be moved up to three Areas (but
+never through or into Areas containing enemy Armies
+or Brigades) at the choice of the Parliament player.
+Parliament Generals may now pick up any Brigades (or
+the Siege Train) that are in their Areas.
+
+(2) Then remove from play for the rest of the game four
+Parliament Brigades (these may bear any Region
+designation). These must be Veteran (2 value) Brigades.
+Where insufficient Veteran Brigades exist use Militia
+Brigades to make up the number of Brigades (NOT
+the Combat Value) removed. Where there are not four
+Parliament Brigades on the map then remove such
+Brigades as there are and then any un-recruited Veteran
+Parliament Brigades to come to a total of four. If there are
+not enough Brigades to come to four then any shortfall
+need not be met.
+Historical Note: These pieces are removed due to The SelfDenying Ordinance: “Be it ordained by the Lords and
+Commons assembled in Parliament, that all and every of
+the members of either House of Parliament shall be, and by
+authority of this Ordinance are discharged at the end of forty
+days after the passing of this Ordinance, of and from all and
+every office or command military or civil, granted or conferred
+by both or either of the said Houses of this present Parliament,
+or by any authority derived from both or either of them since the
+20th day of November, 1640.”
+(3) Exchange Tom Fairfax’s Northern counter (whether it
+is on or off the map) for his Lord General counter (see
+next paragraph for how the Lord General comes onto
+the map). Then exchange Massey’s and Brereton’s Local
+Notable counters for their Regional General Markers if
+these counters are still in play. If Lord Herbert is still in
+play exchange his Local Notable counter for Gerard. If
+any replaced Local Notable was under Siege, the new
+General must immediately fight a Battle or Disperse
+(order of Battles is selected by the Parliament player).
+These Generals are not removed simply because they lack
+Brigades until the end of the NMA procedure (unled
+Brigades may be able to join them, see (6) below), nor
+is the Siege Train removed simply because it is no longer
+with a friendly Army.
+(4) Now place Cromwell in London together with two
+New Model Army Brigades on his Command Display.
+If London is Besieged or Masked then place them in
+another East Region Area with a Parliament PC marker.
+If there is no such Area is available then place the stack
+on any Area with a Parliament PC marker. The other
+three New Model Army Brigades are placed on the Lord
+General’s Command Display. If this gives him more
+Brigades than he can command, the excess are lost. If the
+Lord General is off the map immediately place him on
+any Area with a Parliament PC marker in the East, South
+or North Regions. If there is no such Area is available
+then place the counter on any Area with a Parliament PC
+marker.
+
+(7) Any Subordinate Armies left by the removal of a General
+that cannot stack must then be moved up to three Areas
+(but never through or into Areas containing enemy
+Armies or Brigades) at the choice of the Parliament
+player. If they cannot do so, the Generals are removed
+to the Unemployed Generals Box and the Brigades are
+removed from the map.
+(8) Remove any Generals left without Brigades.
+
+6.6
+
+Individual Special Event
+Cards
+
+The cards listed here contain special events. Once the event
+specified by the card has occurred, the card is discarded
+normally, but the event cannot happen again.
+THE KING ABANDONS THE BISHOPS
+Remove all Covenanter Brigades and
+Generals from the map. Any Fortress
+garrisoned only by Covenanters that
+is under Siege Surrenders (otherwise
+Parliament simply retains control) Any
+Subordinate Armies left by the removal
+of a General that cannot now stack must
+then be moved up to three Areas (but
+never through or into enemy Brigades) at
+the choice of the Parliament player. If they
+cannot do so, the Generals are removed to the Unemployed
+Generals Box and the Brigades are removed from the map.
+CHARLES OF LORRAINE
+The Royalist Player places the Lorraine Brigades on Charles
+of Lorraine’s box on the Command Display Card, and
+place Charles of Lorraine at either Bristol or Newcastle.
+His placement Area must be Royalist-controlled at that time
+otherwise the card has no effect. While the Lorrainers are in
+England the Royalists cannot use a Grandee Recruitment
+Card (7.3.1). Charles of Lorraine may Subordinate other
+Generals but may only have Lorrainer Brigades and Generals
+on his own Command Display.
+LONDON RISING
+To check for a London Rising roll 1d6 and modify as follows:
+•
+
+less the number of Parliament controlled economic
+infrastructures
+
+•
+
+less the number of Parliament Brigades in the Fortress of
+London
+
+•
+
+plus the number of Royalist controlled economic
+infrastructures.
+
+© GMT Games LLC, 2008
+
+12
+
+UNHAPPY KING CHARLES!
+
+If the score is 5 or higher London is captured by a Royalist
+coup. The Parliament Player can place Parliament Brigades
+that were in London (if any) in an unoccupied Area adjacent
+to London at his choice (if no such Area is available, Disperse
+the Brigades). Any other score has no effect.
+THE CESSATION
+The “Irish” Brigades can be placed in any
+Port Area in the Midlands or Wales that
+does not have a Parliament PC marker. If
+the Naval Score is negative, the landing
+Area is expanded to include the South.
+“Irish” Brigades may be commanded by
+any Royalist General.
+PRINCE RUPERT DISMISSED
+Remove the Prince Rupert counter from play permanently.
+He can be replaced by any available Royalist General in
+the Unemployed Generals Box—the replacement General
+is placed in that same Area, and Rupert’s Brigades are
+transferred to the new General’s Display (whether or not
+he can actually command that number of Brigades). If no
+General is available Rupert’s Brigades are left uncommanded
+in the Area he occupied prior to removal. If Rupert has
+already been removed, this event does nothing.
+QUEEN MARY
+Queen Mary arrives in the game with the
+“Henrietta Maria lands” Event Card. Place the
+marker for “The Queen” in York or any Port
+Area on the eastern coast of the Northern
+Region. The Queen is not a General and cannot
+be removed from the map until after Late 1644 (from any
+Royalist controlled Port Area). The Queen can only travel
+with a Royalist Army. If at any time the Queen is in a Fortress
+which Surrenders or with an Army that Disperses or suffers a
+defeat she is captured and removed. In the Late 1644 Turn
+she cannot be moved. If the Queen appears in the game and
+exits uncaptured then deduct 1 from Naval Status. If the
+Queen appears in the game and is captured then add 2 to
+Naval Status.
+
+EARL OF BRENTFORD
+After playing the card, the Royalist player takes
+the Earl of Brentford marker and retains it (place
+it on the Command Display of King Charles). In
+any turn before Winter 1644 where Charles I
+commands in a Battle, the Royalist player may
+discard the marker to add 1 to his Battle Total after the dice
+are rolled. This point cannot convert an Indecisive Victory
+into a Major Victory.
+SIR JOHN MELDRUM AT NEWARK
+This card may be played against an unoccupied Class 1
+Fortress even though no Besieging Army is in place.
+TURNHAM GREEN
+The Turnham Green event can be played either as a normal
+Parliamentary Event Strategy Card or during a Royalist
+Activation (interrupting play)—in either case, a Royalist army
+must be in one of the six Areas directly connected to London.
+If played during a Royalist Activation the Royalist army halts
+temporarily until the Parliament player enacts the event.
+The event allows the Parliament player to pick up any and
+all Parliament Brigades and Generals within three Areas of
+London and place them in the London Area—they cannot
+be Intercepted, nor do enemy forces in their path stop this
+movement. After this (if played as a Response card), the
+Royalist Activation continues. Play of this card during the
+Royalist Activation counts towards the six required card plays
+in a turn, but Parliament plays the next card (if he has any)
+in that turn.
+Whenever Turnham Green is played the resulting stack in
+London must not breach any Army or stacking rules. Where
+permitted by the rules in general unled Brigades moved by
+this card may be placed inside the Fortress.
+
+6.7
+
+Adding to the Original Draw
+Deck
+
+At the beginning of Winter 1643 follow the following
+procedure:
+1.
+
+Shuffle the “Alt-Hist” Cards
+
+Historical Note: She was with child and in Late 1644 was
+delivered of a girl, the Princess Henrietta Anne who was to become
+Madame, the first wife of Philippe d’Orleans brother of Louis
+XIV.
+
+2.
+
+Draw face down the top two “Alt-Hist” cards and put aside
+the rest of the cards for later,
+
+3.
+
+Shuffle together the “Mid War” Cards and the two “AltHist” cards just drawn.
+
+ROLAND LAUGHARNE/NEWARK GARRISON
+If played by the Royalist and the Newark Local Notable has
+not yet appeared; place the Newark Garrison counter at
+Newark. If played by Parliament and the Roland Laugharne
+Local Notable has not yet appeared, place the Laugharne
+counter at Pembroke.
+
+4.
+
+On the top of these cards place the “Army of the Solemn
+League and Covenant” Card.
+
+5.
+
+Place the shuffled stack of cards from 4. beneath the
+remaining current undrawn deck.
+
+6.
+
+Deal cards as usual.
+
+LIEUTENANT GENERAL OF HIS MAJESTY’S ARMIES
+Mark this by placing the Lieutenant-General
+counter on Prince Rupert’s Command Display.
+If Rupert is currently Subordinated to a Level 2
+General he Subordinates that General. If he is
+currently Subordinated to a Level 1 General, use
+the rules in 9.5 for illegal Subordination to resolve.
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+
+6.8
+
+Adding to the Second Draw
+Deck
+
+When the Second Draw Deck is fully drawn then follow the
+following procedure:
+1.
+
+Draw face down the top two “Alt-Hist” cards; the rest of
+the “Alt-Hist” cards are put aside and not used again,
+
+2.
+
+Shuffle together the “Late War” Deck and the two Alt-Hist
+cards just drawn. These now become the Draw Deck.
+
+3.
+
+If the last card dealt was to the Royalist Player then give
+the “New Model Army” Mandatory Strategy Card to the
+Parliament Player.
+
+4.
+
+If the last card dealt was to the Parliament Player then
+exchange it for the “New Model Army” Mandatory
+Strategy Card and pass that last card to the Royalist.
+
+5.
+
+Continuing dealing to reach four cards for each player.
+
+7.0
+
+RECRUITMENT
+
+New Brigades can be brought into play in three ways:,
+(a) They may be placed in the Recruitment Phase of each
+Game Turn. This method does not require the play of a
+card.
+(b) Both sides can play one Operations or Discard card
+per turn to bring Recruits into the game unless certain
+Events are in play. The card is placed on the relevant
+space on the Player Card to remind you of the one card
+limit. This action is known as a Grandee Recruitment for
+the Royalist Player or an Assessment and Sequestration
+Recruitment for the Parliament Player.
+(c) Some Event Cards bring new Brigades in to play. See rule
+6.4 for details.
+Unless otherwise noted—with Battle losses the main
+exception (10.2)—any time a Brigade is lost or removed it is
+available immediately for Recruitment. Only losses indicated
+as permanent may not be Recruited (though see 6.4, Placing
+Brigades).
+
+7.1
+
+Common Recruitment Rules
+
+7.1.1
+VETERANS OR MILITIA?
+Where a number of Brigades in a Region are available as
+Recruits, Militia Brigades (1 value units) must be Recruited
+first, Veteran Brigades (2 value units) only if no Militia are
+available. The Naval (15.0) and Powicke Bridge (7.1.2) rules,
+as well as some Event Cards, can give exceptions to this. This
+rule no longer applies to the Royalists once the New Model
+Army card is played.
+7.1.2
+POWICKE BRIDGE
+Once in each of the first two Turns of the game, during the
+Recruitment Phase, the Royalist Player can Recruit a Veteran
+Brigade in place of a Militia Brigade.
+Historical Note: Powicke Bridge was the first significant action
+of the war (23 September, 1642), with Prince Rupert covering
+the escape of Sir John Byron with the treasury from Oxford and
+gaining a reputation as an invincible cavalry commander.
+Play Note: A question that arises with this rule is: Why would
+the Royalist Player not automatically choose a Veteran Brigade
+
+13
+
+in each of the first two turns? The answer is that one strategy
+available to the Royalist Player is to keep the Veterans off the map
+as long as possible, as they’ll be needed as Parliament gets stronger
+later in the game.
+7.1.3
+THE NEW MODEL
+New Model Army Brigades can be Recruited in any Region
+except Wales.
+7.1.4
+SIEGE TRAINS
+Instead of one Brigade of Recruitment a player
+can bring a Siege Train marker onto the map.
+There can only ever be one such counter in play
+for each side. The counter must be placed in a
+friendly Fortress anywhere on the map and can
+be placed in the same Area as a newly Recruited Brigade.
+Historical Note: Cannon for a Siege Train were usually stored in
+Fortresses.
+A player may remove a Siege Train from the map at the same
+time as he plays a Strategy Card, with the marker then placed
+on the Turn Chart on the next turn to indicate that it can be
+Recruited again any time after the current turn ends. Under
+no circumstances may a Siege Train be transferred to another
+General or dropped off—it must be removed and Recruited
+again. Any Friendly Army can pick an unled Siege Train from
+its Fortress.
+A Siege Train does not count as a Brigade for stacking or any
+other purpose. It must remain with a friendly Army or in a
+Fortress; remove the counter to the turn track if it is ever not
+the case.
+7.1.5
+LACK OF ECONOMIC INFRASTRUCTURES
+A Player who controls no Economic Infrastructures (17.3)
+cannot play a Recruitment Card. They still receive their
+Recruits during the Recruitment Phase.
+7.1.6
+
+COVENANTER, IRISH AND LORRAINER
+RECRUITMENT
+No Covenanter, Irish or Lorrainer Brigades can be Recruited.
+These units only arrive on the play of Event Cards.
+7.1.7
+DISPERSED BRIGADES
+Reforming Brigades: Dispersed Brigades (see 10.1) are placed
+in the Unemployed Generals Box. At the next Recruitment
+Phase, the owning player chooses half of these Brigades
+(rounding down) for placement in that Phase as if they were
+Recruits in addition to the number listed for that turn. The
+Dispersed Brigades not selected as additional Recruits are
+available for normal Recruitment.
+Placing Reformed Brigades: The reforming Dispersed
+Brigades do not affect the number of Brigades available
+for Recruitment under 7.2 or 7.3. Each of the reforming
+Brigades must be placed on a friendly PC marker in their
+Region, providing that they are not placed in the same Area
+with any other Brigade placed in that Recruitment Phase
+(whether Recruit or reforming). Reforming “Irish” Brigades
+may appear in any Region.
+Historical Note: Armies could flee during this period but cadres
+often reformed. Remember that only English and “Irish” (which
+were really English) Brigades can Disperse, Covenanters and
+Lorrainers cannot take advantage of that route (see 10.1). Being
+foreigners every hand was against them.
+
+© GMT Games LLC, 2008
+
+14
+
+UNHAPPY KING CHARLES!
+
+7.2
+
+The Recruitment Phase
+
+In the Recruitment Phase both players can Recruit the
+number of Brigades listed for that turn on the Turn Record
+Track, see Rule 7.2.2 (as modified by Naval Chart, see 15.3).
+Order of Recruitment: Parliament always Recruits first, then
+the Royalists.
+Under Command: If a friendly General or Local Notable
+is in the same Area as the newly Recruited Brigade, the
+Brigade can be immediately placed on his Command Display
+irrespective of the General’s Region.
+Regional Limits: No more than one Brigade from each
+Region can be Recruited per Recruitment Phase
+Where to Recruit: Recruitment requires a friendly or neutral
+controlled Recruitment Area (marked on the map with
+a drummer) or friendly Local Notable (represented by a
+counter). Each Recruitment Area’s Drummer is marked as
+to side (a Parliament or Royalist flag) and the drummer is
+marked in Regional colors.
+Siege: No Brigade can be Recruited in an Area with a Siege
+marker.
+7.2.1
+PLACING RECRUITED BRIGADES
+Recruited Brigades must be placed on either:
+•
+
+A friendly or neutral controlled, Recruitment Area of
+that Brigade’s Region (captured Recruitment Areas
+cannot be used by their conqueror) OR
+
+•
+
+With an unbesieged friendly Local Notable of the same
+Region as the Recruited Brigade (place the Brigade on
+the Local Notable’s Command Display)
+Play Note: The restriction is on one Brigade per Region
+Recruitment Area. The Royalists can place two Brigades in the
+Midlands by placing a Welsh Brigade in Shrewsbury, which is
+a Welsh Recruitment Area and a Midlands Brigade in Chester.
+Note that the Drummer icons for each Area are differently colored.
+Similarly, Parliament can place two Brigades in London,
+provided one is from the East and one is from the South.
+Play Note: Brigades can be placed in any Command Display in
+the target Area, including Subordinate Displays.
+
+7.2.2
+RECRUITING NUMBERS
+The number of Brigades each side recruits in each
+Recruitment Phase is listed on the Turn Record Track, but is
+summarized as follows:
+Recruited in or
+by means of
+
+Late
+1642
+
+Winter
+1642
+
+1643 to
+1644
+
+1645
+
+Recruitment
+Phase
+
+1
+
+3
+
+2
+
+1
+
+Operations
+Card
+
+2
+
+2
+
+2
+
+2
+
+Discarded
+Event Card
+
+1
+
+1
+
+1
+
+1
+
+7.2.3 PLACING GENERALS
+Any number of Generals from the Reinforcements Box can
+be placed for free in the Recruitment Phase. Generals can
+only be placed in an Area without any enemy counter (PC
+marker, Brigade or General). Field Generals can be placed in
+
+any such Area. Regional Generals must be placed in any such
+Area in their own Region or where their Region’s Brigades
+can be Recruited.
+Generals placed during the Recruitment Phase must be
+placed with friendly Brigades and must constitute an Army
+(even if Subordinated, 9.5) upon placement. They can take
+Brigades from a Local Notable in the same Area and/or take
+uncontrolled Brigades from the map to achieve this. Note
+that Generals may also come into play as per 8.1.
+7.2.4
+THE REINFORCEMENTS BOX
+Each player has a Reinforcements Box on their Command
+Display in which he keeps those of his Generals that are
+available as reinforcements.
+
+7.3
+
+Recruitment Cards
+
+Players may play one Strategy Card per Game Turn to Recruit.
+The Royalists may only Recruit in this way as described in
+Rule 7.3.1; Parliament only under rule 7.3.2.
+7.3.1
+ROYALIST GRANDEE RECRUITMENT CARD
+The Royalist Player can play one Operations Card (of any
+value) as a Recruitment card each turn to Recruit two
+Brigades or discard an Event Card to Recruit one Brigade.
+Playing such a card can also bring any number of Regional
+Generals into play. This card, which becomes known as the
+“Grandee Recruitment Card” for that turn only, can be any
+card except for a mandatory Event Card. The following
+restrictions to Recruitment apply:
+•
+
+The Brigades Recruited must be placed in the Command
+Display of a non-Subordinated Regional General or a
+Local Notable. The Brigade Recruited must be from
+the same Region as the Regional General or the Local
+Notable with which it is placed. The Brigade must be
+from the same Region as the Area of placement. No
+Brigade can be placed in an Area with a Siege marker.
+
+•
+
+Only one Brigade is permitted to be placed per General
+or Local Notable for each Card played, but more than
+one Brigade can be Recruited in a Region.
+
+•
+
+Only Regional Generals can be placed with the Grandee
+card, and are placed as in 7.2.3.
+Historical Note: Field Generals cannot Recruit under this rule
+because they lack the local support and considerable estates
+of the Grandees. Parliament had more success at receiving
+funding in specie, for the King it was often in kind—units
+raised by loyal if inexperienced nobles.
+
+7.3.2
+
+PARLIAMENT ASSESSMENT AND SEQUESTRATION
+RECRUITMENT CARD
+The Parliament Player may play one Operations Card (of
+any value) as a Recruitment card each turn to Recruit two
+Brigades or discard an Event Card to Recruit one Brigade.
+This card, which becomes known as his “Assessment and
+Sequestration Recruitment Card”, may be any card except for
+a Mandatory Event Card. Playing such a card can also bring
+any number of Generals into play.
+The Recruited Brigades are placed as in Rule 7.2.1, except
+that more than one Brigade can be placed in the same Region
+(but not in the same Area). Note that Brigade placement
+resulting from a Parliament Assessment and Sequestration
+card differs from that of a Royalist Grandee card.
+
+© GMT Games LLC, 2008
+
+15
+
+UNHAPPY KING CHARLES!
+
+8.0
+
+GENERALS
+
+8.4
+
+An Army cannot exist without a General. Generals require
+Operations Strategy Cards to Activate, and stacks of Brigades
+without Generals cannot be Activated. General counters are
+never stacked in the same Area as other General counters
+(due to Subordination, see 9.5). Generals come in two types:
+Field and Regional Generals. See 2.2 under Generals to
+identify the types.
+
+8.1
+
+Bringing Generals Into Play
+
+Generals can be brought onto the map in the Recruitment
+Phase (7.2.3) and/or by Recruitment Card (7.3), Event
+Cards, and Operations Cards (6.1). To place with an
+Operations card (which must have enough Strategy Points
+to Activate the General normally), the General is placed as
+in the Recruitment Phase (7.2), and then must be Activated
+by the card just played. A discarded Strategy Card may not be
+used for this purpose.
+
+8.2
+
+Most Generals can have no more than four Brigades in their
+Army (including any Subordinated Armies, see 9.5). The
+following favored Generals can have more than four Brigades
+but no more than nine Brigades in their Army.
+(Royalist) King Charles, Rupert while a LieutenantGeneral (see Event Card) and Newcastle,
+(Lorrainer) Charles of Lorraine,
+(Covenanter) Leven,
+(Parliament) Essex and the Lord General.
+Players cannot pick up or Recruit any Brigades which would
+violate this size limit.
+
+Lone Generals
+
+The owning player must remove to the Unemployed Generals
+Box any General (including a Subordinate or Subordinating
+General) who has no Brigades at any stage after placement
+unless otherwise provided. If the General is under Siege,
+he Surrenders automatically (10.4); if this happens to King
+Charles, the Parliament Player instantly wins the game.
+
+8.3
+
+Army Size Limits
+
+L e a v i n g , Tr a n s f e r r i n g &
+Picking Up Brigades
+
+Generals cannot drop off Brigades as they move. A General
+can never remove a Brigade from his Command Display
+except as a result of the Brigade’s elimination in Battle,
+Desertion, or removal or transfer by play of an Event Card.
+You cannot ignore any Brigades in an Army for any purpose
+(to avoid losses in combat, for example).
+Play Note: Some Events will remove Brigades, such as Clubmen.
+Some allow for voluntary removal (and transfer), such as the
+Cavalry Commander cards.
+Although Brigades cannot be dropped off, unled Brigades
+and those with Local Notables can be (there is no obligation)
+picked up by Generals and placed on their Command Display
+in three cases:
+1.
+
+Where a General is active in an Area with such Brigades
+
+2.
+
+Where an Enemy Army enters an Area with a Friendly
+Army and eligible Brigades, and
+
+3.
+
+When a General is placed with eligible Brigades (for
+example Brigades Recruited in a Recruitment Area).
+
+COVENANTER AND LORRAINERS
+Covenanter and Lorrainer Brigades may be dropped off but
+may only be under the command of Covenanter or Lorrainer
+commanders respectively.
+Historical Note: The Scots detached forces to besiege Newcastle
+while the main army moved south. Given their “national” nature
+exemption from the factional rules seems correct.
+
+Both Charles and Newcastle can command 9 Brigades each. However,
+if Charles Subordinates Newcastle, as here, Charles still cannot
+command more than 9 total Brigades between them.
+
+9.0
+
+MOVEMENT AND
+INTERCEPTION
+
+Brigades cannot move unless on a Command Display. A
+General, in turn, can only move when a Strategy Card is
+played to Activate them (see 9.1). A General can be moved
+more than once in a Turn, the maximum number of
+movements being limited only by the number of Operations
+and Campaign Cards the owning player has. Brigades can
+only be moved by one General per card.
+
+9.1
+
+Operations Strategy Cards
+
+Generals can be Activated by the play of an Operations Card
+(6.1) or Minor and Major Campaign Card (6.1). Major Armies
+of five Brigades or greater require the play of a 3 Operations
+card or Campaign card to Activate (6.2).
+
+9.2
+
+Movement Procedures
+
+A Field or Regional General has a number of Movement
+Points (MP) based on the size of his Army:
+Number of Brigades
+in Army
+
+Number of
+Movement Points
+available for that
+Army
+
+Number of Areas
+that the Army may
+Evade
+
+One to three
+
+4
+
+2
+
+Four to six
+
+3
+
+1
+
+Seven to nine
+
+2
+
+1
+
+© GMT Games LLC, 2008
+
+16
+
+UNHAPPY KING CHARLES!
+
+As the Army moves the number of Brigades may increase
+resulting in a decrease in available Movement Points. At any
+time following an increase or decrease in Army size where
+the number of Movement Points spent equals or exceeds
+the available number at that instant, then movement ceases
+immediately.
+Example: An Army with three Brigades moves 2 Movement Points
+(it has maximum Movement Points of 4) and picks up a Brigade.
+As it has spent 2 Movement Points it now has only one Movement
+Point remaining.
+Example: Waller and 2 Brigades Activate, he has four Movement
+Points. He moves three Areas and picks up two more Brigades.
+His movement allowance is now three and he cannot therefore
+move further. Note, however, that had he spent all four of his
+Movement Points to enter the Area with the two Brigades he still
+would have been able to pick them up.
+BREAKING UP SIEGE LINES
+An Army with a Siege Marker must pay one Movement Point
+to remove it, unless it is attacked, in which case it may remove
+it in order to maximize its defense (14.6).
+
+9.3
+
+Movement Lines
+
+Movement can only occur between Areas connected by a
+movement line. Movement lines come in three varieties:
+Road (single green lines), Mountain (double brown lines),
+and Maritime (dotted blue lines).
+•
+
+Road movement costs one
+Movement Point to move to
+an adjacent Area,
+
+•
+
+Mountain or Maritime lines
+cost two Movement Points to
+move to an adjacent Area.
+
+MARITIME LINES
+In addition to costing 2 Movement Points, no more than 2
+Brigades may cross a Maritime line with each Operations
+Card. Interception (9.7) cannot take place across a Maritime
+line, and only 2 Brigades may Evade (10.1) or Retreat (10.3)
+across a Maritime line. Finally, a Maritime line cannot be used
+to avoid Political Isolation (11.3).
+
+Battle and Movement
+
+Movement of a General is temporarily halted on entering an
+Area containing enemy Brigades. The General can continue
+to move if he wins the Battle and has Movement Points left
+after paying one Movement Point for leaving the Battle
+Area. This Movement Point does not apply if the opposing
+Army Evades or Disperses; in such a case the General simply
+continues his movement (if desired).
+
+9.5
+
+Play Note: Some of the things that can prevent Subordination are
+Generals of the same Level, inability to command the Brigades,
+too many Brigades to command or insufficient movement to
+remove a Siege marker.
+If they cannot be Subordinated, they cannot end up stacked
+together in the same Area (and see “Illegal Position” below).
+SUBORDINATING LEVELS
+The choice of the Subordinate depends on the Level of
+the two commanding Generals. Two Generals of the same
+Level as each other cannot combine Armies (so cannot stack
+together). Where Generals have different levels then the
+lower level General Subordinates to the higher level General
+even if the latter was not moving. If the Activating General
+is Subordinated, his Activation ends. Subordination is never
+mandatory until movement has ceased. Subordinates can
+be the same Level as each other but must be lower than the
+General to which they are Subordinated.
+Brigades commanded by a Subordinate remain with the
+Subordinate on the Subordinate’s Command Display and
+cannot be transferred. Rather, place the Subordinate on
+his new commander’s Command Display. For all purposes,
+when counting Brigades in an Army, count all Brigades of
+all Subordinates in the total (this is true even if the superior
+General loses all his Brigades). Army Size is the only limitation
+on the number of Generals and Brigades in an Army (four or
+nine Brigades, see 8.4).
+LEAVING ARMIES
+A Subordinate can be Activated separately by an appropriate
+Operations Card and can move away from a combined Army
+OR a Subordinate can be dropped off by the commanding
+General during any movement, Evasion or Interception. Note
+that a Subordinate may not Intercept or Evade on his own.
+
+A General must be able to pay the
+full number of Movement Points
+to complete each movement.
+He cannot end his turn between
+Areas.
+
+9.4
+
+If two Armies from the same side finish movement,
+Interception, Evasion or Retreat in the same Area, one of
+them must be Subordinated.
+
+Subordinate Armies
+
+If a friendly Army enters and exits an Area with another
+friendly Army one Army can become a Subordinate of the
+other.
+
+GARRISON EXCEPTION
+Two friendly Generals can be in the same Fortress Area without
+Subordination if one is Besieged or Masked (14.0) and the
+other not. If the enemy Army leaves and Subordination is not
+possible, use the “Illegal Position” rule (below) to resolve the
+issue.
+ILLEGAL POSITION
+Due to Interception, Drawn Battles, Events and other
+situations an Army can be in an illegal Subordination
+position. If this occurs at the end of that Activation, retrace
+that Army’s movement until it is in a legal position. In other
+circumstances, the owning player moves an Army to an
+adjacent Area without enemy Brigades (if no such Areas,
+Disperse), repeating until the illegal situation is resolved.
+RIVALRIES
+Waller cannot Subordinate to Essex.
+Play Note: The “Committee of Both Kingdoms” Event Card can
+temporarily lift this restriction and permit one joint venture
+between Waller and Essex.
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+COVENANTERS AND LORRAINERS
+Covenanter Brigades may only be under command of
+Covenanter Generals, and Covenanter Generals can only be
+Subordinate to other Covenanter Generals (that is, Callander
+may Subordinate to Leven). Lorrainer Brigades may only be
+under the command of Charles of Lorraine.
+
+across a Maritime line. Subordinated Generals may not
+Intercept on their own, but they may do so as part of their
+commanding General’s army.
+Play Note: No double Interceptions are allowed, unlike some card
+driven wargames.
+Play Note: The restriction on not Intercepting where a friendly
+Army occupies the potential target Area is because Armies of this
+period were not coordinated at all and tended to stay away from
+each other. This is different than other card driven games, and
+does require different play. English armies of this period could not
+form cordons.
+
+SUBORDINATING LEVELS
+(Level One is highest, Level Four is the lowest)
+Level
+
+Royalist Generals
+
+One
+
+King Charles I, Charles of Lorraine, Rupert
+(if Lt.-General)
+
+Two
+
+Goring, Newcastle
+
+Three
+
+Maurice, Rupert (if not Lt.-General)
+
+Four
+
+Byron, Hopton, Langdale, Gerard
+
+Level
+
+Parliament Generals
+
+One
+
+Essex, Leven, Lord General (NMA)
+
+Two
+
+Manchester, Waller, Cromwell
+
+Three
+
+Tom Fairfax (North)
+
+Four
+
+Bedford, Poyntz, Lord Fairfax, and Massey
+and Brereton (when Regional Generals)
+
+Example: Leven (5 Brigades) sits before York. During the next
+two Activations, Manchester (2 Brigades) and Tom Fairfax (2
+Brigades) enter the York Area. Both are lower level than Leven and
+both must Subordinate to him. The Brigades are not moved, but
+the General counters are placed on Leven’s Command Display.
+
+9.6
+
+Changing PC Marker Control
+
+An Activated Army can place a friendly PC marker (and, if
+necessary, simultaneously remove an enemy PC marker) in
+its current Area (but not a Fortress) by spending 1 Movement
+Point (11.1)—this is in addition to the Movement Point it
+spends to enter the Area or is the first Movement Point if it
+starts the Activation in the Area.
+Designer’s Note: Placing PC markers during movement represents
+capturing minor garrisons and the suppression of enemy partisans
+that was a staple of the era.
+
+9.7
+
+17
+
+If Bedford moves, Hopton can intercept him in Exeter and
+Barnstaple, but not Bath, which is occupied by a Royalist Brigade.
+If he intercepts in Exeter, the Battle takes place immediately (see
+9.7.5) before Bedford can pick up Skippon’s Parliament Brigade.
+9.7.2
+RESOLVING INTERCEPTIONS
+To determine whether or not an attempt to Intercept
+succeeds, the Intercepting player rolls 1d6 and:
+•
+
+adds one if the Intercepting General’s Strategy Rating
+(not Battle Rating) is numerically lower than that of the
+Activating General OR
+
+•
+
+deducts one if the Intercepting General’s Strategy Rating
+(not Battle Rating) is numerically higher than that of the
+Activating General AND
+
+•
+
+deducts one if attempting Interception over a Mountain
+line
+
+NB: The better the General the lower his Strategy Rating.
+
+Interception
+
+Interception occurs during an Army’s movement. To
+Intercept, the non-Activating Army moves one Area to
+interrupt the movement of an opposing Activating opposing
+Army, thereby forcing a Battle.
+9.7.1
+WHEN CAN AN INTERCEPTION OCCUR?
+An Interception can occur when an Activating Army enters an
+Area adjacent to an enemy Army. An Army cannot Intercept
+into an Area that contains Brigades of its own side. Each nonActivating Army can attempt to Intercept only once per enemy
+General Activated, and only one Army can attempt to Intercept
+an enemy General in any one Area he enters. Interception is
+always voluntary. Interception can only be attempted during a
+normal movement Activation (never during Evasion, Retreats
+or any other form of movement). Interception cannot occur
+
+If the modified score is 4 or higher Interception occurs,
+otherwise the non-Activating Army stays in position and
+cannot Intercept again during the current Activation.
+Play Note: Mountains hinder both Interception and Evasion
+attempts (see 10.1 for the latter).
+9.7.3
+INTERCEPTION EFFECTS
+If an Interception attempt succeeds the Intercepting Army
+moves into the target Area and a Battle is fought with the
+Activating Army that has also entered that Area (see 10.0)—
+there can be no Evasion although there can be Dispersal. The
+Activating Army (not the Intercepting Army) still counts as
+attacking.
+Designer’s Note: The Interceptor is treated as having moved in
+anticipation of the Activating force; getting there first.
+
+© GMT Games LLC, 2008
+
+18
+
+UNHAPPY KING CHARLES!
+
+9.7.4
+
+INTERCEPTING INTO A FRIENDLY OCCUPIED
+AREA
+Armies cannot Intercept into an Area containing a friendly
+Army or Brigades.
+9.7.5
+INTERCEPTING INTO AN ENEMY OCCUPIED AREA
+Where an Army Intercepts successfully into an Area containing
+an enemy Army or Brigades then only the Interceptor and the
+Activating Army have combat immediately. If the Interceptor
+wins that Battle he is placed back in the Area from which he
+Intercepted. If he loses he Retreats as normal. See 9.5 for how
+to handle a Moving Army forced into an illegal position.
+
+10.0
+
+On any other score (or where no available Evasion Area
+exists) the Battle is resolved normally.
+
+BATTLES
+
+A Battle occurs when an Army moves or Intercepts (9.7.3)
+into an Area that contains enemy Brigades that are not in an
+enemy Fortress. The Activating Army is always the Attacker. If
+the Activating Army wins a Battle, it can continue movement
+if it has available Movement Points, but it must spend one
+Movement Point for the Battle (9.4). If an Activating Army
+enters a Battle Area on its last Movement Point it may still
+fight; the Movement Point for Battle is paid only if the Army
+wishes to move further in that Activation. If the Activating
+Army loses or draws any Battle, its Activation ends immediately
+after the die roll.
+Play Note: Because the Activation ends immediately after the die
+roll, the losing/drawing Army cannot pick up Brigades in the
+Area where it ends movement.
+
+10.1 Evasion and Dispersal
+Whenever an Army attacks an enemy Army, the defending
+Army can try to Evade. Evasion attempts always happen
+after Interception (so you cannot Evade and then attempt
+to Intercept with a different Army). Intercepting Armies
+and unled Brigades cannot Evade. Where an Army Evades,
+the Activating Army can continue moving (since no Battle
+has occurred) at no extra Movement cost—it can attempt to
+attack the Evading Army again if it has sufficient Movement
+Points, and the Evading army may attempt to Evade again
+(and so on).
+RESOLVING EVASIONS
+The Evading player rolls 1d6 and
+•
+
+Movement Table (9.2). The Evading Army can move into
+any Area that does not contain enemy Brigades. If the Army
+contains more than 2 Brigades, they cannot Evade across a
+Maritime line. Evaders cannot enter the Area from which the
+Activating Army entered their Area.
+
+adds one if the Evading General’s Strategy Rating (not
+Battle Rating) is numerically lower than that of the
+Activating General OR
+
+•
+
+deducts one if the Evading General’s Strategy Rating
+(not Battle Rating) is numerically higher than that of the
+Activating General AND
+
+•
+
+deducts one if the Activating Army entered the Area via a
+Mountain or Maritime line
+
+NB: The better the General the lower his Strategy Rating.
+Play Note: Deducting one from the die-roll if the Activating army
+is entering via a mountain or maritime link represents the greater
+difficulty in knowing that the army is approaching.
+If the modified result is 4 or higher, the Evading Army
+can move the number of connected Areas (regardless of
+Movement Point cost) listed in the Evasion column of the
+
+Lord Fairfax has just one Brigade in his Army and faces the
+King, marching from York. If his Evasion roll is successful,
+Fairfax will be able to go to any Area shown, except Shrewsbury
+(too far away) or York (the Area the Activating Army came
+from). He is even allowed to enter the Local Notable Earl of
+Derby’s Area, provided the Earl has no Brigades there.
+FORTRESSES
+If an Army is attacked in a Fortress Area, and the Army can
+occupy the Fortress, the Army may withdraw into the Fortress
+(after failing or declining Evasion).
+Play Note: In this case, the Army that fails its Evasion simply did
+not detect the enemy forces, but still has plenty of time to retire to
+the Fortress.
+DISPERSAL
+Where Evasion was not successful, not possible, or not
+attempted either side can elect to Disperse, the defender
+choosing first. Both sides reveal their Brigades before these
+choices are made.
+If a player chooses Dispersal, all of his Dispersing Generals and
+their Brigades from the Area are placed in the Unemployed
+Generals Box; a Dispersed General is not considered to have
+Surrendered. Where the Dispersal Area is not a Fortress,
+the attacking Army can place a friendly PC marker there
+(replacing any enemy marker) at no cost in Movement Points
+(11.1). The Activating Army may continue to move after the
+Dispersal of the other Army; it has spent no extra Movement
+Points because of the Evasion attempt or the Dispersal.
+Covenanter and Lorrainer Brigades may never voluntarily
+Disperse; if forced to do so (such as when resolving an illegal
+position), they are eliminated instead. An Army containing a
+mix of Covenanter, Lorrainer and Parliament Brigades may
+Disperse the Parliament Brigades, but the others will always
+fight.
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+
+10.2 Resolving Battles
+
+19
+
+•
+
+the score of 1d6,
+
+•
+
+the Combat Value of all his Brigades in the Area,
+
+•
+
+the Battle Rating of his General (where a stack has no
+General the Battle Rating is 0), and
+
+Retreat, and this Brigade is immediately available for
+Recruitment). A Retreating defending stack cannot enter
+the Area from which an attack was launched. If the loser was
+the Attacker, the first Area of Retreat must be the Area from
+which the stack entered the Battle Area. If a Retreating stack
+has more than 2 Brigades, it cannot utilize a Maritime line.
+A Retreat cannot violate Subordination rules (9.5). A stack
+that cannot Retreat must Surrender (10.4). Retreat is not
+Activation, so Subordinates cannot de-stack.
+
+•
+
+the modifiers from any Combat Card played (this counts
+as one of the six required card plays).
+
+Play Note: Unlike some card-driven games, Retreats CAN end in
+neutral or enemy-controlled Areas.
+
+Before resolving the Battle, either player (starting with the
+Attacker) can play one Combat Card (and no more than
+one). After playing cards, each player adds:
+
+These two Battle Scores are then compared and the difference
+calculated.
+Scores that are equal or have a difference of one are Drawn
+Battles: each side loses one Brigade (Veteran if available).
+Drawn Battles where the Attacker outscored the Defender
+are known as Attacker Drawn Battles; all other Drawn Battles
+are known as Defender Drawn Battles (see below for the
+difference in treatment).
+Scores with a difference of two to four are Indecisive
+Victories: the higher score wins and the loser loses one
+Brigade (Militia if available). The winner loses no units.
+
+10.4 Surrender
+If the loser cannot Retreat then it must Surrender. Brigades
+that Surrender are eliminated from the game. These are
+permanent losses and they cannot be Recruited again.
+Surrendered Generals are put in the Unemployed Generals
+Box.
+A General also Surrenders if all his Brigades are lost in Battle,
+unless stacked with a Subordinate who retains at least one
+Brigade. If King Charles Surrenders the Parliament Player
+wins an Automatic Victory.
+
+Scores with a difference of five or more are Major Victories:
+the higher score wins (the winner loses no units) and the
+losers loses two Brigades—Militia if available. This can
+become a Decisive Victory as per 10.7. However, in a Decisive
+Victory the losses must be from Veteran Brigades if present at
+the Battle.
+
+10.5 Spoils of Victory
+
+DRAWN BATTLES
+Defender Drawn Battles: The attacking Army returns to the
+Area it left to enter the Battle Area and its Activation (if any)
+is complete (using rule 9.5 to resolve an illegal Subordination
+position). This withdrawal does not count as Retreat or
+Movement.
+
+In a 1644 or 1645 turn the winner of a Major or Decisive
+Victory may add an additional Friendly Brigade to their army
+from those eliminated in the Battle (note that this will be an
+enemy unit, since the winner loses no units in such Battles).
+Lorrainer or Covenanter Generals do not get this bonus
+Brigade.
+
+Attacker Drawn Battles: The defender Retreats as if the loser
+in Rule 10.3 below.
+
+Historical Note: As the war wore on, it became more common for
+soldiers to change sides.
+
+DECISIVE VICTORY
+If either side achieves a Major Victory AND had played a
+Combat Card marked “Decisive Victory”, the Major Victory
+becomes a Decisive Victory (10.7).
+
+10.7 Major and Decisive Victories
+
+LOSSES
+Battle losses (not those from Dispersal, Retreat, Desertion, or
+Supply Attrition) are permanent; the unit destroyed cannot
+be Recruited again that game. (Though Event Cards can call
+the units back—see 6.4, Placing Brigades.) Put the eliminated
+unit(s) aside.
+
+10.3 Retreat
+After a Battle which was not a Drawn Battle the loser must
+Retreat at least one Area, but (at the loser’s discretion) it
+can Retreat further up to its Evasion distance (9.2) at its
+reduced size. A stack of unled Brigades is treated as if they
+were combined into an Army for determining their Retreat
+distance). All Brigades must Retreat to the same Area.
+The Retreat cannot be into any Areas containing enemy
+Brigades. If a Retreat enters an Area with an enemy PC
+marker, a further Brigade is lost (one at most per entire
+
+A winning Army (not unled Brigades) can place a friendly
+PC marker in the Battle Area (replacing any enemy marker if
+necessary) if the Battle Area was not a Fortress (11.1).
+
+1 0 . 6 Tu r n c o a t s
+
+The winner of a Major Victory draws a Strategy Card from the
+deck and the winner of a Decisive Victory draws two Strategy
+Cards as soon as the Battle is completed. He then completes
+the original Activation if any Movement Points remain to be
+used from that Activation. Immediately upon completing that
+Activation he must play or discard his ‘victory cards’. Play now
+returns to the normal alternating process.
+The Royalists draw their extra Strategy Cards from the top of
+the undrawn deck. The Parliament Player draws cards from
+the discard pile (these are drawn randomly after shuffling).
+These cards do not count towards the six card requirement
+before passing (5.0). If there are insufficient cards in the draw
+pile, extra draws are lost.
+
+10.8 Nesting
+It is possible for more than one Major/Decisive Victory to
+occur in an Activation. Draw the cards for each Major/Decisive
+Victory (the winner can examine them) and place them aside
+in plain sight. Each set is played in the order drawn. If during
+the play of bonus cards a further Major/Decisive Victory
+
+© GMT Games LLC, 2008
+
+20
+
+UNHAPPY KING CHARLES!
+
+occurs then those cards will be played when all previous sets
+are exhausted (in short, always play each set in the order they
+are earned when the previous set is finished).
+
+11.0
+
+removes his Isolated PC markers. The Royalist player then
+does so. The removal of Parliament PC markers could result
+in Royalist PC markers avoiding removal.
+
+11.3 Political Isolation
+
+POLITICAL
+CONTROL
+
+A PC marker is Isolated when it cannot trace a chain of its own
+contiguous PC markers and/or empty Areas to one of:
+
+Control of Areas is indicated by Political Control (PC)
+Markers. An Area is one of the following: neutral or open (no
+marker), Royalist (a blue marker) and Parliament (an orange
+marker).
+
+•
+
+A friendly controlled Supply Fortress (not a limited
+Fortress) which is not Masked or Besieged by an enemy
+Army (14.0),
+
+•
+
+A friendly unbesieged Local Notable, or
+
+11.1 Placing PC Markers in the
+Campaign Phase
+
+•
+
+A friendly Army
+
+PC markers can be placed during the Campaign Phase
+•
+
+As a result of playing an Operations Card (6.1) or
+Discarded Event Card (6.4) to place PC markers;
+
+•
+
+As the result of an Army spending an extra Movement
+Point in a non-Fortress Area (9.6)—with this method
+PC markers may be placed on open Areas or enemy PC
+markers may be replaced by friendly ones;
+
+•
+
+As the result of a Local Notable Raid (13.0);
+
+•
+
+As a result of playing a relevant Event Card (6.4);
+
+•
+
+As a result of causing a Dispersal (10.1);
+
+•
+
+As the result of winning a Battle or forcing the Surrender
+of a Fortress (10.4 and 14.4).
+
+OPERATIONS CARDS
+Operations Strategy Cards can be played to place a number of
+PC markers up to their value (Minor/Major Campaign Cards
+cannot place PC markers). A discarded Event Card can be
+used to place one PC marker.
+A PC marker can be placed in any open Area or in a nonFortress Area with a friendly Army or Local Notable (which
+can replace an enemy PC marker). New markers must be
+placed adjacent to a friendly PC marker that existed prior to
+the current card play.
+Play Note: Control cannot be imposed by a tendril of connected
+Areas placed in the same Activation, it is a more gradual matter.
+FORTRESS CONTROL
+Fortress Areas change control only by Surrendering (14.4) or
+by an Event Card that specifically allows a change of Fortress
+control. Note that Local Notable Areas are not Fortress Areas
+by themselves; however, the Local Notable counter makes the
+Area a Fortress Area.
+Play Note: The events which can cause a change of Fortress control
+are: Hotham’s Plot, Lord Wilmot’s Plot, Sir John Meldrum, Plots:
+The Hothams & Sir John Carew and the Earl of Holland’s Plot/
+Lady d’Aubigny’s Scheme.
+
+11.2 The Political Control Phase
+In the Political Control Phase, players first place PC markers
+in all non-Fortress Areas that are occupied by friendly
+Brigades or friendly Local Notables (replacing an enemy
+marker if present).
+Then, players remove all Isolated PC markers (11.3). First
+the Parliament player identifies his Isolated Areas. He then
+
+This chain cannot use the Maritime line between Hull and
+Gainsborough.
+Fortresses themselves, whether supply Fortresses or limited
+Fortresses, are never Isolated.
+
+Truro, St. Austell and Barnstaple have been cut off from
+Hopton’s Army by Bedford and a barrier of Parliamentcontrolled Areas. In the next Political Control Phase all three
+Royalist PC Markers will be removed.
+
+12.0
+
+DESERTION & THE
+H O R R O R S O F WA R
+
+Desertion takes place in the Desertion and Supply Attrition
+Phase of each Game Turn. Consult the Turn Record Track;
+the Desertion Number for the current Game Turn is the
+number of Brigades to be removed by each side. Parliament
+selects which Brigades to remove first, although no Brigades
+are actually removed until both sides have selected which
+to remove. Removed Brigades are available immediately for
+Recruitment.
+
+12.1 Desertion Limitation
+The Desertion Number cannot reduce a Player’s total Brigades
+on the map below five. Any unmet Desertion requirement
+that would do so is disregarded. Irish or Covenanter units
+must be used to meet the Desertion Number when the total
+number of other friendly Brigades is five or less. (They do not
+otherwise Desert). Lorrainer Brigades can always be used to
+meet the Desertion requirement.
+
+12.2 Desertion Selection Process
+Brigades are selected for Desertion using the following
+categories (and in the following order), but the total number
+of Brigades removed never exceeds the Desertion Number
+for the current Game Turn.
+
+© GMT Games LLC, 2008
+
+UNHAPPY KING CHARLES!
+For each category find whether any Areas meet the conditions
+then remove one Brigade from each such Area (up to the
+limit required). Where a choice exists the owning player can
+select which Brigades to lose. However, an Area with only one
+Brigade must not be chosen in preference to an alternative
+with more than one Brigade.
+If further Desertions are required move down to the next
+category and repeat the process. If necessary, return to
+the first category and cycle through the list as many times
+as required until all Desertions are removed (or the Key
+Limitation is reached).
+The same Area can appear under each category, and thus lose
+multiple Brigades in one turn (if the limit for the Game Turn
+allows).
+DESERTION ORDER CATEGORIES
+1. Armies with Regional Generals (including Subordinates)
+outside the Region of those Generals irrespective of the
+Region of their Brigades. A Covenanter General with
+Parliament Brigades outside the North also suffers losses
+under this category.
+2.
+
+Armies of more than three Brigades.
+
+3.
+
+Armies in an Area adjacent to or same space as an enemy
+Army that is not Masked or Besieged (13.0).
+
+4.
+
+Armies in an Area with an enemy PC marker (including
+those that are Masked or Besieged (13.0).
+
+5.
+
+All Areas with friendly Brigades. This is the only occasion
+unled Brigades suffer Desertion.
+
+Historical Note: The tendency for 17th century armies to fall
+apart was pronounced. Troops preferred not to move too far from
+home, especially not into enemy territory. Close proximity to the
+enemy reduced foraging opportunities and might result in combat.
+The risk of disease was always stronger in large armies.
+LONE GENERALS
+If a General is left with no Brigades after Desertion, he is
+removed to the Unemployed Generals Box as per 8.2.
+
+12.3 Supply Attrition
+After Desertion is completed any Area with 5 or more friendly
+Brigades must lose any one Brigade to Supply Attrition.
+
+21
+
+Essex loses one Brigade under Category 2 (large armies).
+Essex loses a further Brigade under Category 3. Although
+Manchester is also in this category he has only one Brigade
+and thus cannot be chosen before Essex. That completes the
+Parliament Desertion. However, as Essex has 5 Brigades left
+he will suffer Supply Attrition (12.3) as well—losing another
+Brigade. For the Royalists no Armies meet category 1. King
+Charles is in Category 2 and he loses a Brigade. Both King
+Charles and Rupert meet Category 3, and both will lose a
+Brigade, completing the Royalist Desertion.
+
+13.0
+
+LOCAL NOTABLES
+
+Local Notables (LN) counters are placed only on Local
+Notable Areas, either before the start of the game (if called
+for by the setup instructions) or by the play of specific Event
+Cards (see below). A Local Notable Area without a LN
+counter is simply a normal Area; once a LN counter has been
+placed in that Area, the Area becomes a Fortress until the LN
+counter is eliminated.
+If a Local Notable is Besieged and Surrenders the counter
+is removed from play for the rest of the game—the Besieger
+does not get the counter as a Fortress. Local Notables have
+an automatic -2 against all Bombardments. Local Notables
+never move, fight Battles, Evade or Intercept, and cannot
+Subordinate or be Subordinated. Recruits can be placed with
+them.
+Designer’s Note: Local Notables represent not single places or
+individuals but instead are a number of fortified posts and
+castles. They are very much a product of their own region, which
+is why they cannot Raid outside their Region (no, Derby cannot
+Raid in the North).
+GARRISONS
+Local Notables can have up to four Brigades on their
+Command Displays. They can freely transfer Brigades to
+friendly Generals in the same Area, even if the General is
+simply passing through the Area (they can also be transferred
+via the play of specific cards). These Brigades count as a
+Fortress garrison for the Local Notable. No Field or Regional
+Generals can be within this Fortress.
+
+Historical Note: The large plundering armies of the Thirty Years
+Wars were not to be found in England.
+
+12.4 Desertion Example
+It is Late 1644 and there are the following Armies in play:
+Parliament: Essex (7 Brigades), Waller (3 Brigades),
+Manchester (1 Brigade) and Fairfax (2 Brigades)
+Royalists: Rupert (3 Brigades), King Charles (4 Brigades),
+Herbert (1 Brigade) and Newcastle (3 Brigades).
+Rupert and Charles I are adjacent to Essex and Manchester.
+All other Armies are not adjacent to any other. All Regional
+Generals except Fairfax are in their own Regions. Both sides
+must have 3 Brigades Desert.
+The Parliament selects his Desertions first (though the
+process is simultaneous in its effect). Fairfax must lose a
+Brigade for being outside his Region under Category 1.
+
+Parliamentary Local Notable Willoughby can Raid (see
+overleaf) Newark, Boston and King’s Lynn. However, he cannot
+raid Leicester, as he is an Eastern LN and cannot Raid across
+the Region border into the Midlands. He can exchange the PC
+Marker on Newark, since the Newark Garrison LN counter has
+not been placed and so the Area is not yet a Fortress.
+
+© GMT Games LLC, 2008
+
+22
+
+UNHAPPY KING CHARLES!
+
+RAIDING
+An unbesieged Local Notable when Activated can place or
+exchange one PC marker in any non-Fortress Area in the same
+Region within two Areas of their counter that has no enemy
+Brigades (11.1). An Operations Card can be used to Activate
+a number of different Local Notables equal to the value of the
+Operations Card. They Activate one after the other as with
+Minor or Major Campaign cards. A discarded Event Card can
+Activate one Local Notable. The Local Notable counter is not
+moved when Raiding.
+
+number PLUS the number of Brigades in the Fortress. Such
+an Army can Bombard a Fortress by using an Operations Card
+that can Activate it (Bombardment may not be combined with
+any other activity). A Fortress is not under Siege until a Siege
+Marker is placed.
+
+LOCAL NOTABLES AND EVENT CARDS
+Some Local Notables appear as a result of an Event Card
+(Laugharne, Newark Garrison, Blake, Aimez Loyauté). The
+Local Notable marker is placed in the respective diamondshaped Area as follows:
+• Laugharne: Pembroke
+• Newark Garrison: Newark
+• Blake: Lyme
+• Basing House: Basing House
+Placement occurs irrespective of enemy units. If there are
+enemy units or an Army in the Area the Local Notable marker
+is placed under those units. If the space is enemy controlled
+then control is switched to that of the Local Notable.
+
+14.0
+
+FORTRESSES
+
+Fortress Areas are marked with a pentagon or hexagon
+(there is no difference for Siege purposes, but see Isolation,
+11.3). Local Notable counters also act as
+Fortresses. Armies in an enemy Fortress
+Area are either Besieging or Masking the
+Fortress. See rule 14.2 for the conditions
+of Besieging. Where an Army occupies
+an enemy Fortress Area even if the Area
+is not Besieged (see 14.2), the Area is
+treated as Masked.
+Design Note: A masked Fortress is one that is under close
+observation by an enemy army. Supply and troop movements will
+be affected. However, formal Siege requires much more action on
+the part of the enemy army.
+
+14.1 Occupying Fortresses
+A limited number of Brigades can be inside a Fortress (place
+counters under the PC marker to indicate what is inside) as
+against in the same Area. This maximum limit is the Area’s
+Fortress Class (so a two Brigade Army, or two unled Brigades,
+or a mixture can occupy Oxford) unless it is a Limited Fortress
+(those in a pentagonal Area), where the maximum limit is
+always one Brigade. Brigades and Armies can be placed inside
+the Fortress only when Activated, Recruited or when an Army
+is attacked (10.1).
+All Brigades on a Local Notable’s Command Display are
+considered to be within their Fortress if the leader is. Brigades
+inside a Fortress are safe from Battle (10.0).
+
+14.2 Besieging
+An enemy Fortress can be Besieged only by an Army with a
+number of Brigades that equals or exceeds the Fortress Class
+
+Hopton’s Army is too small to Siege Parliamentary Plymouth, a
+Class 3 Fortress. However, if Rupert arrives and Subordinates
+Hopton, the combined Army is more than big enough for the job.
+LOCAL NOTABLE AREAS
+An enemy Local Notable can be Besieged by an Army
+consisting of at least as many Brigades as are stacked with the
+Local Notable. Whatever the number of Brigades, the Local
+Notable has a Surrender Value of 4.
+SIEGE MARKERS
+A Siege Marker may be placed on any qualifying Army during
+its Movement or when Activated for Bombardment. An Army
+with a Siege Marker cannot move (though Subordinates can
+join or leave the Army), initiate combat, be Subordinated or
+attempt an Interception without first removing the Marker.
+The removal of a Siege Marker in movement costs one
+Movement Point. This includes removing a Siege Marker
+from an Army that is Subordinating. If an Army no longer has
+sufficient Brigades the Siege Marker is removed immediately
+at no cost.
+Play Note: Subordinates and Siege Markers: A Siege Marker is
+always placed on the Army on the map. Subordinates are free to
+come and go without disturbing the marker. However, if another
+Army wants to Subordinate the Sieging Army, the marker will be
+removed (and will cost a Movement Point—if the MP cannot
+be paid, the movement cannot be completed). This is because the
+siege lines are set up by the original Army, and the coordination
+of Armies was insufficient to permit simply switching who
+mans the lines. 17th Century English armies were triumphs of
+extemporization, not of experience.
+BLOCKADE & SIEGE MARKERS
+During the Recruitment Phase you can place a Blockade
+& Siege Marker on any Army that can Besiege a Fortress
+(you can replace a normal Siege Marker in this way) in the
+same Area. A Blockade & Siege Marker acts as a normal
+Siege Marker but also permits a “free” Bombardment in the
+Blockade Phase. Placing a Blockade & Siege marker does not
+count as Recruitment; it is simply a free placement.
+
+© GMT Games LLC, 2008
+
+23
+
+UNHAPPY KING CHARLES!
+Designer’s Note: Blockade & Siege markers represent long-term
+leaguers of fortifications that are in place throughout a turn.
+They also permit large Covenanter Sieges without spending 3
+Operations cards.
+GARRISONS
+An Army inside a Fortress while Besieged or Masked can be
+Activated as normal. It must immediately attack the Besieging
+Army, which may Evade or Disperse (10.1) as normal (if the
+Besieging Army discards the Siege marker). If all Brigades of
+a garrison are removed from a Besieged Fortress, the Fortress
+Surrenders immediately (14.4).
+EFFECTS OF SIEGE
+A Siege marker on a Fortress has the following effects:
+no Recruitment may occur at the Fortress (7.2), nor may
+Brigades be placed there by Event (6.4); the Fortress cannot
+be used to prevent Isolation (11.3); Local Notables cannot
+Raid (13.0) and it counts for neither side if it is an Economic
+Infrastructure (17.3).
+EFFECTS OF MASKING
+A Masked Fortress cannot prevent Isolation (11.3) and counts
+for neither side if it is an Economic Infrastructure (17.3).
+
+14.3 Bombardment
+Each Bombardment will amass a Bombardment Value equal
+to:
+•
+
+the roll of 1d6
+
+•
+
+plus one if the Siege Train or at least three New Model
+Army Brigades are present
+
+•
+
+less two if the Fortress is in a Port Area and the Naval
+Score is in favor of the Besieged (positive for Parliament,
+or negative for the Royalists). This does not apply to
+Local Notables.
+
+•
+
+less two if the Fortress is a Local Notable.
+
+If the result is a positive number, this Bombardment Value is
+added to the accumulated Bombardment Value against that
+Fortress (if any)—place a Bombardment marker on the map
+showing the accumulated value, or record it on a note pad. A
+Besieging Army which loses its Siege marker loses the entire
+accumulated Bombardment Value instantly (see also 14.6).
+
+14.4 Siege Surrender
+Where the accumulated Bombardment Value equals or
+exceeds the Surrender Value shown in the table below
+(and printed on the map for Fortresses) then the Fortress
+Surrenders.
+(1) Check for the Honors of War; throw a 1d6 and on a score
+of:
+1-2 The garrison Disperses
+3-6 The garrison is eliminated. This is not a permanent
+loss and the Brigades are available for Recruitment
+immediately
+Local Notables that Surrender are eliminated from
+the game permanently. Strategy cards allowing for
+placements of a Local Notable that has been eliminated
+may no longer be used for the event.
+(2) Any enemy Siege Train in the Fortress is removed from
+play
+(3) A friendly PC marker is placed on the Fortress (11.1).
+(4) Any General in the Fortress is moved to the Unemployed
+Generals Box. In the event that King Charles Surrenders
+the Royalists instantly lose the game.
+REQUIRED BOMBARDMENT VALUES
+Fortress Class
+
+Surrender
+Value
+
+Locations
+
+Local Notable
+(Class 0)
+
+4
+
+Numerous
+
+Class 1
+
+4
+
+Shrewsbury, Reading,
+Chester, Nottingham,
+Worcester, Scarborough
+
+Class 2
+
+7
+
+Newcastle, Oxford, Bristol,
+Carlisle
+
+Class 3
+
+11
+
+York, Hull, London,
+Plymouth, Dover,
+Portsmouth
+
+14.5 Assaults and Immediate
+Assaults
+A Bombarding Army can elect to Assault a Fortress for
+free after a Bombardment Activation. This can normally
+be done only when the current Siege has accumulated a
+Bombardment Value of 5 or more. However, Sir Thomas
+Fairfax, the Lord General, Cromwell, Prince Rupert or Prince
+Maurice can assault with any Bombardment Activation, even
+if a Bombardment Value of less than 5 (and even zero) has
+been accumulated; this action is called an Immediate Assault.
+As with any other assault, however, a Siege marker must be in
+place.
+
+The King has Oxford under Siege, having
+been captured by the Godly. Just one
+more Bombardment and the Fortress will
+surrender.
+
+A Local Notable can never be the object of an Assault.
+Design Note: Local Notables are a zone of Fortresses/fortified
+points and require more than a gallant storm.
+
+© GMT Games LLC, 2008
+
+24
+
+UNHAPPY KING CHARLES!
+
+Calculate the effect of Assaults as follows:
+2d6 are thrown and the score total modified as follows:
+•
+
+Add the number, not Combat Value, of attacking Brigades
+(maximum of three)
+
+•
+
+Add 1 for a Class 1 Fortress
+
+•
+
+Subtract 2 for a Class 3 Fortress
+
+•
+
+Subtract the number of defending Brigades
+
+•
+
+Subtract 2 for an Assault against a location with an
+accumulated Bombardment Value of less than 5.
+
+If the modified score is 10 or more then the Fortress
+Surrenders. Follow the rules for 14.4, except that Generals in
+the Fortress are eliminated for the rest of the game and there
+is no chance for honors of war.
+If the score is less than 10 the Assault is repulsed and the
+assaulting General cannot make any further Assaults for the
+rest of the game; place a “May Not Assault” marker in his
+Command Display box on the Player Card. If Sir Thomas
+Fairfax fails an Assault, the Lord General (who replaces him)
+cannot make an assault either.
+Whether or not an Assault succeeds it always causes the
+permanent loss of the Brigade with the highest Combat Value
+in the assaulting General’s command. Due to loss of key
+“cadres” it cannot be Recruited or trained again in that game;
+it may not even be returned via Event Card.
+
+14.6 Battles in Siege Areas
+The Besieging Army faced by attack chooses whether to:
+(a) Lift the Siege (remove the Siege Marker) and fight the
+Battle. Any Brigades in the garrison are added to the
+attacking Army for purposes of total combat strength
+(with losses applied however the controlling player
+chooses) and the General with the higher Subordination
+level uses his Battle Rating. However, if Subordination
+(9.5) would prevent the Armies from stacking, ignore the
+garrison
+
+15.0
+
+N AVA L R U L E S
+
+Each Housekeeping Phase of a Late Year turn
+(these turns are marked with anchors on the
+Turn Record Track) the Parliament Player
+draws one Naval Chit from those remaining of
+the original five. Naval Chits are never returned
+to the pool after being drawn. The newly drawn Naval Chit
+adjusts the Naval Status, which begins the game at zero (0).
+Event Cards can also modify the Naval Status. Place the Naval
+Status Marker in the relevant box of the Naval Status Chart to
+show the current status, and stack all the pulled chits with it.
+Designer’s Note: The naval chits are not balanced, because the
+Navy supported Parliament by and large during the war.
+
+15.1 Diplomatic Strength
+If the Royalist holds London or Bristol, subtract 1 from the
+Naval Status Chart level while this condition applies.
+
+15.2 The Queen
+If the Queen appears in the game and exits without being
+captured then deduct 1 from Naval Status (6.6). If the Queen
+appears in the game and is captured then add 2 to Naval
+Status. Place the Queen marker on the Naval Status Chart as
+a reminder.
+
+15.3 Effects
+Control of the sea affects Sieges and Recruitment for the
+current Game Turn:
+RECRUITMENT EFFECTS
+Naval Status
+
+Effect on Recruitment
+
+-5 or less
+
+One extra Brigade can be Recruited per
+turn by the Royalist, OR use the benefit for
+the “-4 to -3” box below.
+
+-4 to -3
+
+One (only) Brigade Recruited this turn by
+the Royalists can be a Veteran, unit even if
+a Militia unit is available in that Region.
+
+-2 to +2
+
+No effect on Recruitment
+
++3 to +4
+
+One (only Brigade Recruited this turn by
+the Parliamentarians can be a Veteran unit
+even if a Militia unit is available in that
+Region.
+
++5 or higher
+
+One extra Brigade can be Recruited per
+turn by the Parliamentarians, OR use the
+benefit for the “+3 to +4” box above.
+
+OR
+(b) Fight without the number of Brigades necessary to
+maintain the Siege (the garrison is not used in Battle in
+this case). If the Besieger is defeated, the Siege marker
+and the Bombardment Value are both lost.
+Historical Note: Marston Moor is an excellent example of a Battle
+in a Siege Area. Prince Rupert marched to the relief of York (which
+held Newcastle’s Army), which was besieged by Leven, Manchester
+and Tom Fairfax. Parliament lifted the Siege and fought, with
+the Royalist forces commanded to disaster by Newcastle to whom
+Rupert was Subordinated.
+If the Besieging Army wins a Major/Decisive Victory then the
+Fortress automatically Surrenders per 14.4.
+After successfully relieving a Siege, an illegal Subordination
+position can result, use 9.5 to resolve.
+
+SIEGE EFFECTS
+Naval Status
+
+Effect on Bombardment
+
+-1 or less
+
+Parliament Armies Besieging Royalist
+Fortresses in Port Areas subtract 2 from all
+Bombardment dice rolls
+
+0
+
+No Siege Effect
+
++1 or higher
+
+Royalist Armies Besieging Parliament
+Fortresses in Port Areas subtract 2 from all
+Bombardment dice rolls
+
+© GMT Games LLC, 2008
+
+25
+
+UNHAPPY KING CHARLES!
+Note that, if, during the Campaign Phase, the Naval Status
+reaches a level allowing for extra Recruitment, the player may
+do so only if he has not already played his Recruitment card
+for that turn.
+
+16.0
+
+F O G O F WA R
+
+You cannot examine your opponent’s Brigades (on the
+Command Display, on the map or the stacks of unrecruited
+Brigades) except when laid out for Battle or when attempting
+to place a Siege Marker. You can request and require the
+number of Brigades in each Army (and your opponent must
+furnish this information), but not which Brigades and at what
+strength.
+
+17.3 Winning at the End of the
+Game
+In the End Phase of the last Game Turn if no Power Base
+victory has occurred, the Parliament Player doubles the
+number of his controlled Regions and adds the number of
+Economic Infrastructures he controls (for a maximum of 19)
+to get the number of Victory Points. He wins if he has 12 or
+more Victory Points. Otherwise the King has won. There can
+be no tied games at the end of the game.
+Region Control is defined as having PC markers in the
+majority of Areas in a Region.
+NUMBERS OF AREAS
+Region
+
+Areas in
+Region
+
+# Required
+For Control
+
+South
+
+21
+
+11
+
+East
+
+13
+
+7
+
+Wales
+
+9
+
+5
+
+17.1 Automatic Victory
+
+Midlands
+
+17
+
+9
+
+The Parliament player immediately wins if King Charles
+Surrenders. See 8.2, 10.4, and 14.4 for how this can happen.
+
+North
+
+15
+
+8
+
+17.0
+
+WINNING THE
+GAME
+
+There are a number of ways in which a player can win.
+
+Design Note: If you find this asymmetry unacceptable you can
+mutually agree to disable this rule.
+The Royalist player immediately wins if, at the end of two
+consecutive turns, he controls London and has control of
+three Regions; see “Winning at the End of the Game” below
+for control of Regions. The controlled Regions need not be
+the same on each of the two turns.
+
+17.2 Power Base Victory
+
+ECONOMIC INFRASTRUCTURES
+There are a number of key sections of the map, marked in
+a pink wash, that are needed to maintain the morale and
+finances of the two factions.. These sections are known
+as Economic Infrastructures, and are counted for Victory
+Purposes at the end of the game. In addition, if you have
+no Economic Infrastructures under your control your
+Recruitment is reduced (7.1.5).
+Play Note: If you control no Economic Infrastructures, you cannot
+play a Recruitment card, but you still get Recruits during the
+Recruitment phase.
+
+In the Power Base Phase of each turn both players count up
+the number of friendly PC markers on the map. If the total is
+less than the Power Base Number on the Turn Record Track
+for that Game Turn then the game ends and the player (or
+players) with insufficient Power Base have lost (both players
+can lose under this rule).
+
+Economic Infrastructures are controlled if you have your PC
+marker in each Area of the Infrastructure and no Area of the
+Infrastructure contains an Enemy Brigade.
+
+Designer’s Note: The power base levels for the early turns are set to
+reflect the determination on both sides to pursue the war.
+
+Example: if Newcastle is Masked or Besieged it does not count as
+belonging to either side.
+
+Turn
+
+Power Base #
+
+1.
+
+The Northumbrian Coalfield: Newcastle (Coal for
+London)
+
+2
+
+Lead Mines: Sheffield (Munitions)
+
+3.
+
+Supplies for the City: A chain of controlled Areas
+Northampton-Bedford (General trade)
+
+4.
+
+The Forest of Dean: Forest of Dean (Iron Industry)
+
+5.
+
+The Wine Trade: Bristol (the second city of the Kingdom and
+home of the wine and slave trade)
+
+Late 1642
+
+14
+
+Winter 1642
+
+15
+
+Early 1643
+
+16
+
+Late 1643
+
+17
+
+Winter 1643
+
+18
+
+Early 1644
+
+19
+
+6.
+
+The Great Wen: London (General trade)
+
+Late 1644
+
+20
+
+7.
+
+Winter 1644
+
+21
+
+The Wool Road: A chain of controlled Areas SalisburyNewbury-Reading (Wool trade)
+
+Early 1645
+
+22
+
+8.
+
+The Weald: Reigate (Iron Industry)
+
+Late 1645
+
+23
+
+9.
+
+The Cornish Tin Mines: Truro (Tin)
+
+Winter 1645
+
+24
+
+© GMT Games LLC, 2008
+
+26
+
+UNHAPPY KING CHARLES!
+
+18.0
+
+OPTIONAL RULES
+
+These optional rules can be used if both players agree. They
+improve the historical narrative, at the cost of increased
+complexity.
+
+18.1 Stout Cornish Men
+Only the Royalist Brigades with the word “Cornish” on them
+(Slanning and Grenvile’s) can be Recruited in the Truro
+Recruitment Area. All other Royalist Southern Brigades
+must be Recruited in the Bath Recruitment Area during the
+Recruitment Phase.
+
+18.2 Random Desertion Order
+If you wish to change the effect of Desertion throw 1d6 before
+taking Deserters, the number is the category at which both
+Players start (rather than starting at Category 1 every time).
+Treat a 6 as 1.
+
+18.3 Manchester
+To better capture Manchester’s role in the war, Parliamentary
+Eastern Brigades named “Eastern Association” or “Ironsides”
+may only be Recruited:
+
+CREDITS
+Design: Charles Vasey.
+Developers: Joshua Buergel, Andy Lewis, Neil Randall
+Playtesters: Gareth Simon, Ian Notter, Steve Crowley, Gary
+Philips, Mike Reeves, Stan Buck, Paul Heldrup, Michael
+Gouker, Steve Lampon, Ronald Mayer-Opificius, Joshua
+Buergel, Neil Randall, Andrew Young, Robin Griller, Dirk
+Heinz, Andy Daglish
+Keeper of the King’s Pictures: Lee Brimmicombe-Wood.
+Master of the King’s Artists: Garry Haggerty.
+Figure Collection: Nick Farrell. (Photos by John Carroll.)
+Thanks: Mike Siggins, Matthew Hayes, Olivier Clementin,
+Guillaume Daudin, and three testers of an earlier version
+who did not like the game and whose mention here is by
+way of thanks for their effort (Nick Barker, Tony Ferrari, and
+Tom Kassel). My thanks also go to Ian Wedge, Steve Crowley
+and Joshus Buergel for the index; Ronald Mayer-Opificius
+for permission to reproduce the portrait of Montrose; Steve
+Carey for having a look at the rules and Ian Notter for tireless
+advocacy.
+
+•
+
+In the Cambridge Recruitment Area,
+
+Bibliography
+
+•
+
+with Lord Willoughby, or
+
+•
+
+with the Earl of Manchester if he is in the Eastern
+Region; they must be placed directly on to his Command
+Display.
+
+The King’s War: C.V. Wedgwood.
+All The King’s Armies: Stuart Reid
+Leaders of The English Civil War: Toynbee and Ridsdill-Smith
+1066 and all that: Sellars and Yeatman
+Atlas of the Civil War: P.R. Newman
+The Irish and British Wars 1637-1654: James Scott Wheeler
+The Civil Wars of England: John Kenyon
+The Royalist War Effort 1642-1646: Ronald Hutton
+
+Where more than one such Brigade is Recruited they need
+not be placed together.
+Historical Note: Edward Montagu, Earl of Manchester
+was commander of the army for one of the most important
+Parliamentarian organizations—The Eastern Association.
+
+18.4 The Laughter of the Court
+If Newcastle is part of a stack that suffers a decisive defeat OR
+there are no Royalist PCs in the North Region immediately
+suspend play, remove the Newcastle counter from the game
+and replace him with Langdale. Two Royalist Northern
+Brigades (if available) are also permanently removed from
+those available for Recruitment and/or from those in play
+(Royalist choice).
+Historical Note: Newcastle was so embarrassed by his defeat at
+Marston Moor that he left England.
+
+18.5 Lostwithiel
+If the Earl of Essex suffers a Decisive defeat while four or
+more Areas from London, his entire Army Disperses after he
+suffers his losses.
+Historical Note: By allowing himself to be trapped by the King
+on the Fowey Peninsula Essex could have undone the effect of
+Marston Moor.
+
+INDEX
+Main entries are in bold.
+Ace in the Hole
+Activating
+Areas
+Armies
+Assaults
+Assessment and
+Sequestration
+Attrition
+Auto Victory
+Battle
+Battle Ratings
+Besiege
+Blockade Phase
+Bombardment
+Brigades
+Brigades, placing
+Brigades, removal
+Campaign Phase
+Card Deck
+Cessation
+Charles of Lorraine
+
+© GMT Games LLC, 2008
+
+5.5, 6.0
+6.1, 9.1, 10.0, 13.0
+3.0, 2.1, 5.1(2), 11.0
+6.2, 8.4
+3.0, 14.5
+7.3.2
+5.7, 12.3
+8.2,10.4, 14.4, 17.1
+9.4, 9.7.3, 10.0, 14.6
+10.2, 14.6
+7.1.4, 9.2, 14.0, 14.2, 14.4, 14.6, 15.3,
+16.0
+5.3, 5.6, 14.2
+3.0, 14.2, 14.3
+2.2, 3.0, 4.4(5), 6.2, 7.0, 7.1.1, 7.2.1,
+8.3, 8.4, 10.2, 15.3
+6.4, 7.1.7, 7.2.1
+6.4, 7.1.7, 10.4
+5.5, 11.1
+4.1, 6.7, 6.8
+6.6
+6.6
+
+27
+
+UNHAPPY KING CHARLES!
+Combat Cards
+Combat Value
+Core Cards
+Cornish
+Covenanter
+Decisive Victories
+Desertion
+Diplomatic Strength
+Dispersal
+Drawn Battles
+Earl of Brentford
+Early War
+Economic Infrastructure
+Evasion
+Events
+Fog of War
+Fortresses
+Garrisons
+Generals
+Grandees
+Housekeeping Phase
+Illegal Position
+Immediate Assault
+Interception
+Irish
+Isolation
+King Abandons the Bishops
+King Charles
+Late War cards
+Laugharne
+Laughter of the Court
+Leven
+Lieutenant General
+Limited Fortress
+Local Notable
+London Rising
+London
+Lone Generals
+Lord General
+Lorraine
+Lostwithiel
+Major Army
+Major Campaign
+Major Victory
+Manchester
+Mandatory Cards
+Maritime lines
+Mid War
+Militia
+Minor Campaign
+Mountain lines
+Movement
+Movement Points
+Naval Status
+Nesting Card Draws
+New Model Army
+Newark Garrison
+Newcastle
+
+3.0, 6.4, 10.2
+2.2, 10.2, 14.5
+3.0, 4.0, 5.4, 6.3
+see Stout Cornish Men
+6.5, 6.6, 7.1.6, 8.3, 9.5, 10.1, 12.1
+10.2, 10.6, 10.7
+5.7, 12.0, 18.2
+15.1
+7.1.7, 10.1, 18.5
+10.2
+6.6
+4.1
+2.1, 6.6, 7.1.5, 17.3
+9.7.3, 10.1
+3.0, 6.4, 6.5, 6.6
+16.0
+2.1, 10.1, 11.1, 11.3, 14.0
+13.0, 14.2, 14.4, 14.6
+2.2, 4.4, 7.2.3, 8.0
+7.3.1
+5.1
+9.5
+see Assault
+9.7
+2.2, 7.1.6, 7.1.7, 12.1
+see Political Isolation
+6.6
+8.4, 10.4, 17.1
+4.0, 6.8
+see Roland Laugharne
+18.4
+6.5, 8.4, 9.5
+6.6, 8.4
+see Fortresses
+2.1, 2.2, 6.1, 7.2, 11.1, 11.3, 13.0,
+14.1, 14.2, 14.3, 14.4, 14.5
+6.6
+15.1, 17.3
+8.2, 12.2
+8.4, 14.5
+2.2, 6.6, 7.1.6, 8.3, 8.4, 9.5, 10.1,
+10.6
+18.5
+6.2
+3.0, 5.5, 6.1, 9.1, 11.1, 13.0
+10.2, 10.7
+18.3
+4.1, 5.5, 6.4, 6.5
+2.1, 9.3, 9.7.1, 10.1, 10.3, 11.3
+4.0, 6.7
+3.0, 7.1.1, 10.2, 15.3
+see Major Campaign
+2.1, 9.3, 9.7.2, 10.1
+6.1, 9.0, 10.1, 14.2
+9.2
+4.4, 15.0
+10.8
+5.5, 6.5, 6.8, 7.1.1, 7.1.3, 14.3
+6.6
+8.4, 18.4
+
+Operations
+Parliament
+Phases
+Placing Brigades
+by Event
+Placing Generals
+Political Control
+
+6.1, 6.2, 9.1, 11.1, 13.0, 14.2
+4.2, 7.3.2, 17.3
+5.0
+
+6.4
+7.2.3, 7.3, 8.1
+2.2, 3.0, 4.3, 5.2, 9.6, 10.5, 11.0, 13.0,
+17.2
+Political Isolation
+5.1, 5.2, 11.3
+Ports
+2.1, 14.3
+Power Base Victory
+17.2
+Powicke Bridge
+7.1.2
+Prince Rupert
+6.6, 8.4, 9.5, 14.5
+Queen Mary
+6.6, 15.2
+Raiding
+13.0
+Raising of the Standard
+4.1, 6.5
+Recruit
+5.9, 6.1(1), 6.3, 6.5, 7.0, 7.1.7, 7.2
+Recruitment Areas
+2.1, 7.2, 7.2.1, 8.3(3)
+Recruitment Card Box
+6.3
+Recruitment Card
+7.1.5, 7.3, 7.3.1, 7.3.2, 8.1
+Recruitment Phase
+5.3, 6.5, 7.0, 7.1.2, 7.1.5, 7.1.7, 7.2,
+7.2.1, 7.2.3, 8.1, 14.2, 15.3, 17.3,
+18.1
+Reforming Brigades
+7.1.7
+Region
+2.1, 2.2, 7.1.7, 7.2.3
+Regional Generals
+2.2, 6.4, 6.5(3), 7.2.3, 7.3.1, 9.2,
+12.2, 13.0
+Regional Limits
+7.2
+Reinforcements Box
+4.2, 6.1(4), 7.2.3, 7.2.4
+Removal of Strategy Cards 6.4
+Response Cards
+6.4
+Retreat
+9.3, 10.3
+Rivalries
+9.5
+Roads
+2.1, 9.3
+Roland Laugharne
+6.6
+Setup
+4.2
+Siege
+see Besiege
+Siege Train
+6.5(3), 6.5(6), 7.1.4, 14.3, 14.4
+Sir William Waller
+6.5(1), 9.5
+Spoils of Victory
+10.5
+Stout Cornish Men
+18.1
+Strategy Cards
+6.0, 9.0, 10.7
+Strategy Rating
+2.2, 6.1(4), 6.2, 9.7.2
+Subordination
+3.0, 6.5(7), 7.2.3, 7.3.1, 8.0, 8.2, 8.4,
+9.5, 9.7.1, 13.0, 14.2, 14.6
+Supply Attrition
+see Attrition
+Supply Fortress
+2.1, 11.3
+Surrender
+5.9, 8.2, 10.3, 10.4, 11.1, 14.2, 14.4,
+14.5, 17.1
+Surrender Value
+2.1, 14.4
+Turncoats
+10.6
+Turnham Green
+6.6
+Under Command
+7.2
+Unemployed Generals Box 6.5(7), 6.6, 7.1.7, 8.2, 10.1, 10.4,
+12.2, 14.4
+Victory Points
+5.9, 17.3
+Veterans
+3.0, 4.4, 6.5(2), 7.1.1, 7.1.2
+Wales
+2.2, 6.6, 7.1.3, 17.3
+Waller
+see Sir William Waller
+Winning
+17.0
+
+© GMT Games LLC, 2008
+
+28
+
+UNHAPPY KING CHARLES!
+
+SEQUENCE OF PLAY
+In the Housekeeping Phase:
+
+EXCEPTIONS
+• Forced removals of cards do not count toward the six
+card plays required except for Mandatory Cards.
+
+1.
+
+•
+
+The play of cards arising from victories does not count
+toward the six card plays required.
+
+•
+
+If one player passes the other player can continue playing
+and discarding until they also pass. Once a player has
+passed, they cannot play or discard another card in that
+Phase. A player who holds a Mandatory Strategy Card
+(6.5) cannot pass until it is played. If a player runs out of
+cards before playing six (due to Events), he simply passes
+once his hand is empty.
+
+Housekeeping Phase
+
+2.
+
+3.
+
+Each player transfers all of his Generals from the
+Unemployed Generals Box to the Reinforcements Box.
+Any Generals on the Turn Record Track for the current
+turn are moved into the Reinforcements Box as well.
+Then each Player must place a PC marker in one neutral
+Area (Parliament player first). The Area must be adjacent
+to a friendly PC marker, but not adjacent to an enemy PC
+marker, Local Notable or Army, and its change of control
+must not be such as will cause Political Isolation (11.3)
+for any other PC markers. Unled Brigades do not prevent
+placement. If there is no available Area for a player, the
+player skips his placement.
+Then, if this is Late 1642 (i.e., Game Turn 1), Late 1643,
+Late 1644 or Late 1645, the Parliament Player draws a
+Naval Chit and adjusts the Naval Status (see 15.0).
+
+Political Control Phase
+(There is no Political Control Phase on the first Turn.)
+In the Political Control Phase:
+1.
+
+Both players place PC markers in all non-Fortress Areas
+that are occupied by one of their Armies or Local
+Notables (11.2), if one of their PC markers is not already
+there, and
+
+2.
+
+The players remove markers to reflect Political Isolation
+(11.3).
+
+Recruitment Phase
+Beginning with the Parliament player, each side places
+Recruited Brigades (7.0) and, if desired, Blockade & Siege
+Markers (14.2).
+
+Draw Strategy Cards Phase
+(There is no Draw Strategy Cards Phase on the first Turn.)
+This phase creates each player’s “hand” of cards for use in
+the Campaign Phase of this Game Turn. First, each player
+recovers his two Core Cards. The Parliament player then
+deals four Strategy Cards from the Draw Deck to each player
+one at a time, starting with the Royalist player. Each player’s
+hand for the Game Turn will therefore consist of at least six
+cards: four from the Draw Deck and the two Core Cards. In
+addition he might hold “Ace in the Hole” cards (5.5, 6.2).
+
+GOING FIRST
+The Royalist Player chooses who plays the first card in a turn
+until the New Model Army Event (6.5) has been played. At
+that point the choice passes to the Parliament Player.
+Exception: Where the player selected to go second does
+not wish to do so, they can insist on going first if they have
+a “Major Campaign” or “Minor Campaign” card, which must
+then be their first card play.
+ACE IN THE HOLE
+All unplayed cards at the end of a Campaign Phase are placed
+aside (face down) and can be played in later turns (see 6.0).
+These are known as “Ace in the Hole” cards.
+
+Blockade Phase
+Armies with a “Blockade & Siege” marker (not just a Siege
+marker) can now Bombard the Fortress on which the Marker
+is placed (no Operations Card is required) (see 14.2 and
+14.3).
+
+Desertion and Supply Attrition
+Phase
+Check the Game- Turn track and inflict the number of
+desertions required (12.0). Then remove Brigades that are
+subject to Supply Attrition (12.3). Deserting Brigades and
+those lost to Supply Attrition are available for Recruitment
+next Game Turn.
+
+Power Base Phase
+Check for victory (17.0).
+
+Tu r n E n d P h a s e
+
+If there are insufficient cards to deal four to each player,
+deal both players the same number of cards, with the
+Royalist player getting the last card in case of an odd number
+remaining.
+
+If the game has not ended, recover the Core Cards for each
+player, place any Strategy Cards used for Recruits into the
+discard pile, and advance the Turn Marker one box on the
+Turn Record Track. There are three ways in which the game
+can end:
+
+Campaign Phase
+
+•
+
+The game ends immediately if either player achieves an
+Automatic Victory during the Power Base Phase.
+
+•
+
+The game ends immediately if King Charles surrenders
+as the result of a Siege (8.2 and 14.4) or a Battle (10.4)
+
+•
+
+The game ends automatically in the Turn End Phase of
+the winter 1645 Turn. Victory Points are then counted
+according to 17.3 and a winner is declared.
+
+The players alternately play or discard Strategy Cards one at
+a time until both players have passed. A player can pass at
+any time after they have played (including discarding) six
+cards—combat cards and other response cards are included
+in this total. They are forced to pass only when they have no
+cards remaining.
+
+© GMT Games LLC, 2008
+
+</rulebook>
+			
+						                           
+						               													<description>Unhappy King Charles! allows two players to decide whether Commons or Cavalier shall rule in England. Both seek to establish control over the country and of its economic structures. They seek not only to defeat their opponents in battle but also to seize control of the local government of England and Wales.&amp;#10;&amp;#10;The game is based on We the People, Mark Herman's ingenious game on a later rebellion. As the organization of armies and states was often desultory, the cards do not provide a wide range of choices (as in Paths of Glory). The players in Unhappy King Charles! must make do with what they have. The three decks of cards - Early(1642-1643), Middle(1644) and Late (1645)- have been developed to give the correct feel for the early, middle and late war, based on storyboarding techniques. As befits a Civil War, there is treachery, bravery and stupidity in the events on the cards.&amp;#10;&amp;#10;Unhappy King Charles! is played over eleven turns, each representing about four months. Brigades of troops are used to form Armies (defined Rule 3) or garrisons of fortresses (Rule 13). Only unled Brigades are on the map; the others are placed on the box of their General on the Command Displays. Generals move on the maps.&amp;#10;&amp;#10;The Armies of Unhappy King Charles! are temporary massings of troops that have as much to do with feudal armies as modern revolutionaries. With inadequate supply and poor equipment it is not surprising that these armies suffer from continual desertion; and in using them you are going to have to ensure they wander the map collecting fresh recruits. Armies can be over 30,000 for a vital siege or battle or 3,000 tough cavalry under Prince Rupert or Black Tom Fairfax.&amp;#10;&amp;#10;Movement activations are initiated via a numbered Ops Card, as in We the People, and are based on Army size. The smaller the Army the faster it can move. Movement across the map is by means of Areas joined by movement lines. Control of areas can change during movement if movement points are spent. Non-moving Armies can attempt interception, placing themselves in the path of the moving Army to cause Battle.&amp;#10;&amp;#10;The game's basic combat unit is the Brigade, which comes in two types: Veterans (value 2) and militia (value 1). Usually militia units must be recruited before veterans of that Region. Each Region's Areas and Brigades use the same basic colour system. Fresh Brigades are received by Recruitment, which is usually limited to the unit's region of origin. Brigades lost in combat are not available for recruitment (though some Event Cards can bring them back); other losses are available.&amp;#10;&amp;#10;Leader counters are either Generals (with a Strategic and Battle Rating) or Local Notables (Governors of fortresses). Generals can be Field Generals (who operate everywhere) or Regional Generals who can suffer disadvantages when outside their Region. Generals cannot transfer Brigades to other Generals (unless Event Cards require), Brigades remain with their original General until death, dispersal or desertion takes them. Local Notables can transfer Brigades to other friendly Generals.&amp;#10;&amp;#10;Battles use the Combat Value of Brigades, General's Battle Ratings and Combat Cards to resolve combat. But before any Battle is fought one side can try to Evade (leave the Area) or Disperse (remove itself before combat). Losses in combat are not available for recruitment. Drawn and Decisive Victories will kill Veteran Brigades (if there are any) first. The loser must retreat and can suffer further losses if he retreats through enemy PC Markers. Major and Decisive Victories earn extra Cards.&amp;#10;&amp;#10;Fortresses cover a wide range of locations. They are ranked by class and must be forced to Surrender by Siege or Event Card. Siege requires the attention of an Army for some time (most Fortresses will require more than one activation to capture). If attacked during that time the besieger can have to abandon the Siege. Assaults can be attempted (at a cost in losses).&amp;#10;&amp;#10;The game can be won by an Automatic Victory, by one side failing to control enough Areas, or at the end of the eleventh turn.&amp;#10;&amp;#10;For those players who like some counter-factuals a pack of would-be events is provided. Now players can use Dutch squadrons to blockade the King, summon the Duke of Lorraine, or cause a rising in London. As an Optional Rule, four events are drawn each game and shuffled into the middle and late decks.&amp;#10;&amp;#10;Components&amp;#10;&amp;#10;     110 Cards&amp;#10;     One 34&amp;quot; x 22&amp;quot; colour paper game map&amp;#10;     Two full-color counter sheets&amp;#10;     One 28 Page Rulebook&amp;#10;     One 24 page Playbook&amp;#10;     Two 11' x 8.5' Player Aid Cards&amp;#10;     Two Six-sided dice&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Cover artwork inspired by Sir Anthony van Dyck (1599-1641)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2725" value="Pike and Shot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9793" value="History: Age of Kings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="33896" value="History: English Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="156" value="Charles Vasey" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2370" value="Lee Brimmicombe-Wood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4424" value="Garry Haggerty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="703" />
+			<average value="7.61847" />
+			<bayesaverage value="6.0892" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2211" bayesaverage="6.0892" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="125" bayesaverage="7.10235" />
+												</ranks>
+
+			<stddev value="1.4028" />
+			<median value="0" />
+			<owned value="1652" />
+			<trading value="17" />
+			<wanting value="140" />
+			<wishing value="441" />
+			<numcomments value="374" />
+			<numweights value="124" />
+			<averageweight value="3.3145" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

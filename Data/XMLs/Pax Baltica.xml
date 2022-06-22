@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="42328">
+         <thumbnail>https://cf.geekdo-images.com/HEjZC3vUPO_dB0V94GNicA__thumb/img/d3M15n4jznwjOce7XGtqnc3jNJ8=/fit-in/200x150/filters:strip_icc()/pic1490502.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HEjZC3vUPO_dB0V94GNicA__original/img/tYd8w7SIkZ7a2k8GfgK0ZOb-SDc=/0x0/filters:format(jpeg)/pic1490502.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pax Baltica" />
+				<rulebook>R ULE BOOK
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+2
+
+Pax Baltica Rule Book
+
+Table of Contents
+0.0 Overview................................................................... 	3
+0.1 Preparing for Play................................................ 	3
+0.2 The Rules............................................................. 	3
+0.3 Game Flow........................................................... 	3
+0.4 Winning the Game............................................... 	3
+1.0 The Map.................................................................... 	4
+1.1 Territories and Sea Zones..................................... 	4
+1.2 Garrisons and Territory Control........................... 	4
+1.3 Capitals................................................................ 	4
+1.4 Forage Capacity................................................... 	4
+1.5 Transit Territories................................................. 	5
+1.6 Ports and Harbors................................................. 	5
+1.7 Tracks and Tables................................................. 	5
+1.8 Battle Sites........................................................... 	5
+2.0 Blocks........................................................................ 	5
+2.1 Block Data........................................................... 	5
+2.2 Block Types.......................................................... 	6
+2.3 Royal Blocks........................................................ 	6
+3.0 Actions....................................................................... 	6
+3.1 Action Table......................................................... 	6
+3.2 Event Restriction.................................................. 	6
+3.3 Action Choices..................................................... 	6
+3.4 Swedish Winter Campaigns................................. 	7
+4.0 Movement................................................................. 	7
+4.1 Movement Procedure........................................... 	7
+4.2 Border Restrictions.............................................. 	7
+4.3 Pinning................................................................. 	7
+4.4 Force-marching.................................................... 	7
+4.5 Prohibited Territories........................................... 	8
+5.0 Battles........................................................................ 	8
+5.1 Battle Sequence.................................................... 	8
+5.2 Cooperation.......................................................... 	8
+5.3 Reserves............................................................... 	8
+5.4 Combat Rounds.................................................... 	8
+5.5 Fire Resolution..................................................... 	8
+5.6 Retreats................................................................ 	9
+5.7 Regrouping........................................................... 	9
+6.0 Siege........................................................................... 	9
+6.1 Declaration........................................................... 	9
+6.2 Restrictions.......................................................... 	9
+6.3 Resolution............................................................ 	9
+6.4 Results.................................................................. 	9
+6.5 Relief.................................................................... 	10
+
+7.0 Forage........................................................................ 	10
+7.1 Forage Checks...................................................... 	10
+7.2 Baggage Trains.................................................... 	10
+7.3 Attrition................................................................ 	10
+8.0 Replacements............................................................ 	10
+8.1 RP Level Track and Adjustments..............................	10
+8.2 Replacement Costs............................................... 	10
+8.3 On-map Replacements......................................... 	10
+8.4 Replacements Using Actions............................... 	11
+8.5 Line of Communications...................................... 	11
+8.6 Replacement Pools and Building New Blocks........	11
+8.7 Deployment.......................................................... 	11
+8.8 Replacements and Events.................................... 	11
+9.0 Fleets.......................................................................... 	12
+9.1 Fleet Movement................................................... 	12
+9.2 Sea Transport....................................................... 	12
+9.3 Fleet Battles......................................................... 	12
+9.4 Anchored Fleets................................................... 	12
+9.5 Retreating to Sea.................................................. 	12
+10.0 Politics..................................................................... 	12
+10.1 Activation........................................................... 	12
+10.2 Truce.................................................................. 	12
+10.3 Reactivation....................................................... 	13
+11.0 Nations..................................................................... 	13
+11.1 Sweden............................................................... 	13
+11.2 Russia................................................................. 	13
+11.3 Saxony................................................................ 	14
+11.4 Denmark............................................................. 	14
+11.5 Poland................................................................. 	14
+11.6 Ottoman Empire................................................. 	14
+11.7 Prussia................................................................ 	14
+11.8 Ukraine............................................................... 	15
+11.9 Hannover............................................................ 	15
+11.10 Holstein-Gottorp.............................................. 	15
+11.11 Great Britain..................................................... 	15
+12.0 Events...................................................................... 	16
+12.1 Event Table........................................................ 	16
+12.2 Swedish Event Table.......................................... 	16
+12.3 Coalition Event Table......................................... 	16
+12.4 National Politics Table....................................... 	16
+
+© 2012 GMT Games, LLC
+
+Pax Baltica Rule Book
+
+3
+
+0.2 The Rules
+
+0.0	 Overview
+Pax Baltica is a strategy board game for two players covering
+the Great Northern War fought from 1700-1721. One player
+commands Sweden and her allies and the other player commands the Coalition headed by Russia, Denmark, and Saxony.
+The Swedish player defends against the encroaching Coalition,
+and tries to knock out every enemy power if it can. The Coalition attempts to reduce Swedish holdings and break its hold
+on the Baltics forever.
+
+0.1 Preparing For Play
+In order to prepare the game for play, you need to do so¬me
+simple assembly work first, following the guidelines given
+below.
+A sheet of block labels is included. One label must be attached
+to each block. Lightly position each label, ensure it is straight,
+and then press firmly to the block.
+•	 The 15 blue Swedish, 1 dark red British, 1 light green
+Ukrainian, and 1 light blue Holstein-Gottorp labels go
+on the blue blocks.
+•	 The 6 orange-brown Ottoman labels go on the yellow
+blocks.
+•	 The 20 green Russian labels go on the green blocks.
+•	 The 8 gray Saxon, 3 off-white Polish, 1 light brown
+Hannover, and 1 dark brown Prussian labels go on the
+gray blocks.
+•	 The 8 light red Danish labels go on the red blocks.
+Also included in the game are a number of wooden cubes:
+
+Don’t try to memorize the rules. Read through the rulebook
+once or twice before you begin playing, and then during your
+first game, use the rulebook for reference. After a while you
+will know the important rules by heart.
+
+0.3 Game Flow
+The game is played in a series of Years. Each Year progresses
+as follows:
+
+Activation and Replacements Interphase
+Both players roll for entry into the war of their respective allies
+(10.1) and then reinforce or build blocks with replacements
+(8.0). The Swedish player performs the Interphase first, then
+the Coalition player does the same. This phase does not occur
+in the first year of any scenario.
+
+Seasonal Game Turns
+Each year consist of four game turns, corresponding loosely
+to the seasons of Spring, Summer, Autumn, and Winter. Each
+game turn has four phases. The phases must be followed strictly
+in the order listed below and each phase must be concluded
+before moving on to the next one.
+Design Note: There are no special rules for Winter turns, but
+see 3.4.
+
+Action Roll Phase
+Each player rolls a die and consults the Action Table to determine how many actions they receive for the turn. The player
+with the higher die result becomes the First Player this turn.
+
+Action Phase
+
+The First Player completes all desired actions (3.0), then the
+Second Player completes all desired actions.
+
+•	 12 blue cubes for Sweden and its German allies
+•	 15 green cubes for Russia
+•	 9 gray cubes for Saxony and other German members of
+the Coalition
+•	 6 red cubes for Denmark
+•	 6 yellow cubes for the Ottoman Empire
+These cubes are used to mark successfully besieged and captured garrisons (1.2) and record nations’ Replacement Point
+Levels (8.1) on the Replacement Point Level Track.
+Cubes are strictly limited by color. If more garrisons are
+needed, previously placed garrisons can be removed at will to
+be placed anew.
+
+Battle Phase
+
+Battles occur where opposing blocks are in the same territory (5.0). They are fought one at a time, in any sequence
+determined by the First Player. After any battles, all siege
+attempts are resolved (6.0).
+
+Forage Phase
+
+Both sides, beginning with the First Player, perform forage
+checks, and blocks in over-stacked territories may lose steps
+due to insufficient forage.
+
+After all phases are resolved, a new game turn is begun.
+
+3 black cubes are also included for use on the Year, Season,
+and Swedish Attrition Tracks.
+
+If the turn just completed was a Winter turn, Sweden has the
+option of a winter campaign (3.4). Play then proceeds to the
+Interphase of the next year.
+
+Lastly, 8 dice are included: 4 blue dice for the Swedish player,
+and 4 green dice for the Coalition player.
+
+0.4 Winning The Game
+
+Lay out the map and decide who is going to play which side
+(Sweden or Coalition). The Sweden player should sit at the
+northern edge of the map board, the Coalition player at the
+southern edge.
+
+Each scenario includes victory conditions for determining who
+wins the scenario. Some victory conditions are sudden death
+and can end the game at any time; if no player has won by the
+
+© 2012 GMT Games, LLC
+
+4
+
+Pax Baltica Rule Book
+
+end of the last turn of the scenario, victory is usually determined
+by calculating victory points (VP). In most scenarios, VPs are
+based on the Swedish RP level.
+The following sudden death victory conditions are applicable
+during every scenario:
+•	 If at any time all Coalition major nations (1.1) are under
+truce, the game ends immediately with a Swedish Triumphant Victory (the best kind!)
+•	 If a truce is imposed on Sweden, the game ends immediately with a Coalition Triumphant Victory.
+
+Design Note: The forest, swamp, and mountain art throughout
+the map has no effect on play, except to highlight the appearance of territories with Difficult Terrain borders.
+All unnamed areas, including Western Europe and some
+islands, are non-playable areas. Lakes between two territories are impassable if there is no common land border.
+Example: Livland and Ingermanland are separated by Lake Peipus;
+movement between them is prohibited.
+
+1.0	 Map
+
+Seas are divided into sea zones. Ground blocks cannot
+enter or cross sea zones except by sea transport (9.2).
+Fleet blocks cannot enter land territories without a harbor (1.6).
+
+The game map covers northeastern Europe from Norway to
+Turkey.
+
+1.2 Garrisons And Territory Control
+
+1.1 Territories And Sea Zones
+The map is divided into named territories and sea zones which
+govern the location and movement of blocks. National territory
+is defined by color as follows:
+Sweden (including Finland and some German territory):
+blue
+Sweden proper consists of Skåne, Småland, Östergötland,
+Västergötland, Svealand, Kopparberg, and Västernorrland.
+Denmark (including Norway): red
+Denmark proper consists of Jylland and Sjælland.
+Russia: green
+Ukraine: light green
+Ukraine is considered part of Russia, but may revolt and
+become a Swedish ally (11.8).
+
+All territories have a garrison with a value ranging
+from 1 to 4. The nation that controls the garrison
+controls the territory. Control of a territory will
+usually only change hands through a successful siege (6.4).
+Example: The garrison of Trakai is called Grodno, and has a value
+of 3.
+Who controls a territory has important effects, including the
+following:
+•	 If a territory’s original garrison is besieged and captured,
+that nation’s RP Level is reduced by four (8.1). Removing an enemy garrison marker restores the lost RP level.
+•	 Retreating (5.6), regrouping (5.7) and tracing a line of
+communications (8.5) is allowed only into or through
+friendly or transit territories that contain no enemy
+blocks. Enemy-controlled territories are prohibited, even
+if vacant.
+IMPORTANT: Territories controlled by allies are considered friendly for all these purposes.
+
+Poland: off-white
+Saxony: gray
+
+1.3 Capitals
+A territory with a red garrison name is a capital.
+If the garrison of a capital surrenders to a siege,
+the nation calls for a truce (10.2)
+
+Prussia: dark brown
+Hannover: medium brown
+Germany consists of Bremen-Verden, Wismar, Pommern, Holstein-Gottorp, Mecklenburg, Schlesien, Hannover,
+and all of Saxony and Prussia.
+Ottoman Empire: orange-brown
+Four of these nations are major nations, representing the primary participants in the Great Northern War: Sweden, Russia,
+Saxony, and Denmark.
+Territories are separated by borders that restrict
+movement.
+Thick dashed borders represent Difficult Terrain
+(4.2).
+
+Example: Baturyn is the capital of Ukraine.
+
+1.4 Forage Capacity
+All territories have a forage capacity expressed in
+Forage Points (FP). Each territory’s FP value is
+printed on the map in dark red italics and ranges from
+1 to 4. The FP value limits how many blocks can forage in a
+territory each game turn (7.0).
+Example: Livland in the Swedish Baltics has a forage capacity of
+3 FP.
+
+© 2012 GMT Games, LLC
+
+5
+
+Pax Baltica Rule Book
+
+1.5 Transit Territories
+Mecklenburg, Schlesien, and all territories in Poland without a
+garrison marker are transit territories. Both sides treat transit
+territories as if they were friendly only for the purposes of
+retreating, regrouping, and tracing a line of communications.
+Transit territories are not considered friendly for events, and
+do not have friendly garrisons (so replacements cost double
+RPs (8.3), for example.)
+In addition, Mecklenburg and Schlesien do not have a forage
+value, and do not have garrisons to control. Blocks can occupy
+these territories, but would be subject to losses due to insufficient forage (7.3).
+
+2.0	 Blocks
+The wooden blocks represent the fighting forces, land and naval,
+of the various participants in the Great Northern War.
+
+2.1 Block Data
+Blocks have numbers and symbols defining movement and
+combat abilities.
+Example: Repnin is a reformed Russian army block with one
+baggage train, a combat rating of B2, and a movement rating of 2.
+Current Strength
+Baggage Train
+
+1.6 Ports And Harbors
+Ports are garrisons that allow sea transport (9.2).
+Ports are indicated as garrisons with strength in a
+blue square.
+Example: Gdańsk in Pomorze is a port. Mitau in Kurland is not
+a port.
+Harbors are a special kind of port, with an
+anchor symbol. Fleet blocks may only deploy
+and take replacements in a territory with a
+harbor.
+Example: København in Denmark is a harbor.
+IMPORTANT: Ports and harbors are considered adjacent
+only to the sea zone they physically border on, and not any
+other sea zones adjacent to their territory.
+
+1.7 Tracks And Tables
+Most tables on the map are self-explanatory and are there to
+assist play of the game.
+
+The Replacement Point Level Track is integral to the game.
+Each nation has a Replacement Point (RP) Level (8.0) which
+begins in the indicated position on the track (this may be modified by the special rules of a scenario).
+The Swedish Attrition Track (11.1) indicates the various effects
+of serious Swedish losses (army blocks eliminated). Note that
+the effects differ depending on whether there are any Swedish
+blocks in Russia at any given moment.
+
+1.8 Battle Sites
+The locations of the main battles of the war are indicated on
+the map. Each side’s victories are marked by color: blue for
+Swedish, green for Russian, and red for Danish victories. These
+have no effect on play, but are provided for historical interest.
+
+Symbol
+Combat Rating
+
+Russian
+black star
+icon
+Unit name
+Movement Rating
+
+The current strength of a block is the number of diamond shapes
+on the top edge when the block is standing upright, hidden from
+your opponent. Strength determines how many dice are thrown
+for a block during combat. A block at strength 4 rolls four dice,
+a block at strength 1 rolls one die. Blocks have a maximum
+strength ranging from 2 to 4. For each hit taken in combat, a
+block’s strength is reduced one step by rotating it 90 degrees
+counter-clockwise; when a block at strength 1 is reduced, it
+is eliminated and returned to its replacement pool (8.6). For
+each replacement step received by a block, increase the block’s
+strength by turning it 90 degrees clockwise, but never beyond
+its maximum strength.
+The combat rating, in the lower left corner, is indicated by a
+letter and number, such as A1 or B2. The letter determines when
+a block fires. All A blocks fire first, then all B blocks, then all
+C blocks, and finally all D blocks. The number indicates the
+maximum roll that will score a hit (5.5).
+The movement rating, in the lower right corner, is the maximum
+distance in territories or sea zones a block can move (4.1).
+Design Note: Regiment blocks with a 2 movement rating are
+infantry, while a 3 indicates cavalry. Army blocks are combined
+arms forces, with a movement rating of 2.
+Baggage trains are indicated by one or more supply symbols in the upper left corner. Baggage trains represent the
+thousands of wagons carrying the supplies for armies on campaign, and the logistics and administration they incorporate.
+The effects of a baggage train are described in rule 7.2. Only
+armies have baggage trains.
+Blocks with a red dot have special deployment restrictions
+(11.0), different from the other blocks of their nation.
+Blocks with a crown symbol are Royal blocks (2.3).
+
+© 2012 GMT Games, LLC
+
+6
+
+Pax Baltica Rule Book
+
+There are four Russian blocks with a hollow star,
+and four Russian blocks with a black star. The blocks
+with a hollow star are eligible for military reform (11.2). The
+blocks with a black star begin out of play, entering the game
+when their corresponding army is reformed.
+
+2.2 Block Types
+There are three different types of blocks in the game: armies,
+regiments, and fleets.
+
+	
+
+Army block	
+
+Regiment block	
+
+Fleet block
+
+Army blocks generally have a maximum strength of 4 and use
+their country’s national coat of arms as their symbol.
+Regiment blocks have their name written in italics and bear the
+image of their regimental flag, authentic from the time of the
+Great Northern War. They always have a maximum strength
+less than 4.
+Design Note: The flag has no function in the game other than
+identifying the block as a regiment (and being pretty to look at
+of course).
+Fleet blocks contest control of the seas and provide transport
+for army or regiment blocks. Sweden and Denmark each have
+two fleet blocks. The Russian player has none at start, but may
+add two fleet blocks once they have built Sankt-Peterburg
+(11.2). The British fleet may come to the aid of Sweden in
+certain circumstances (11.11). The use of fleets is governed by
+the rules in section 9.
+
+3.0	Actions
+At the beginning of each game turn each player rolls one die
+and looks up the result on the Action Table, located on the map
+in the Sequence of Play.
+
+3.1 Action Roll
+Each player simultaneously rolls one die and consults the Action Table to determine the number of actions they can perform
+this game turn. Actions cannot be saved or carried forward into
+the next turn or year.
+The player with the highest die result becomes the First Player
+this turn. Ties go to the player who was Second Player last
+turn. If a tie is rolled on the first turn of the game, both players
+roll again.
+The First Player performs all their actions (or resolves their
+event), and then the Second Player performs all of theirs.
+If both players’ results are events (a roll of 6) then each player’s
+event is resolved as usual, and the turn immediately proceeds
+to the Forage Phase.
+Example: The Swedish player rolls a 3, and the Coalition player rolls a 6. The Coalition player rolls on the Event Table
+and resolves the event. Then the Swedish player takes two actions.
+
+3.2 Event Restriction
+A player can never roll an event two turns in a row (even if
+separated by a yearly Interphase). If a player rolls a 6 for a
+second consecutive game turn, re-roll until receiving a result
+that is not 6.
+
+2.3 Royal Blocks
+
+3.3 Action Choices
+
+One army block in each of the four major nations
+is led by a royal personage, indicated by a crown
+symbol. If a royal block is eliminated, it is removed from the game and may never be returned
+to the replacement pool. A truce (10.2) is imposed
+at the end of the current phase on any Coalition nation whose
+royal block is eliminated.
+
+For each action a player may choose to perform one of five
+activities, summarized below. Actions must be performed in
+the order given, i.e., Reconnaissance before Movement before
+Siege Declarations.
+
+The royal blocks are:
+•	 Sweden: Karl XII (but see below)
+•	 Russia: Pyotr I
+•	 Saxony: August II
+•	 Denmark: Frederik IV
+The Night Rider: The first time Karl XII is eliminated, he goes
+into exile instead. Set his block aside. Beginning with the next
+Interphase, roll a die. On a roll of 6, deploy the Karl XII block
+at full strength in any territory in Sweden proper containing
+no enemy blocks. If the roll fails, roll again in the following
+Interphase; he now arrives on a 5 or 6. Continue rolling each
+Interphase, increasing the chances by 1, until the roll succeeds
+(which is eventually automatic).
+
+1. RECONNAISSANCE
+Performing reconnaissance on a group of enemy blocks
+costs an action. Reconnaissance may only be performed in
+a territory adjacent to a friendly army or regiment block.
+The opponent must reveal all blocks within that territory.
+After the player performing reconnaissance is satisfied, the
+opponent re-conceals their blocks by standing them back up.
+Blocks performing reconnaissance are not restricted from
+taking other actions later in the turn.
+
+2. MOVEMENT
+As an action, a player can move any number of blocks in
+one territory (or sea zone) to any territories (or sea zones)
+within their maximum movement rate (4.1).
+
+© 2012 GMT Games, LLC
+
+Pax Baltica Rule Book
+
+3. SIEGE DECLARATION
+A siege is a type of battle, an attempt to force a territorial
+garrison to surrender. A siege attempt is declared in the Action Phase, but is resolved at the end of the Battle Phase.
+
+4. NATIONAL POLITICS
+For the cost of an action, you may choose one major nation
+you control and roll one die on the National Politics Table
+(12.4).
+IMPORTANT: This action may be chosen only once per
+Year per nation.
+
+5. REPLACEMENTS
+For the cost of an Action, you may rebuild one step of one
+of your on-map blocks (8.4), provided the block can trace a
+valid line of communications (8.5).
+IMPORTANT: This does not cost any RPs.
+
+3.4 Swedish Winter Campaigns
+(“Never Mind The Weather”)
+
+7
+
+Example: The Coalition player uses an action to move three
+Russian blocks in Novgorod. One block moves through friendly
+territory to Smolensk, and the other two blocks move into
+Ingermanland, where they must stop because there are Swedish
+blocks there.
+
+4.2 Border Restrictions
+The maximum number of blocks that each player can move
+across any border in a single game turn depends on the type
+of border:
+•	 Normal border: 6 blocks.
+•	 Difficult Terrain border: 2 blocks. Blocks crossing a
+Difficult Terrain border must stop in the entered territory.
+Border restrictions apply on a per-player basis, meaning each
+player can move the maximum number of blocks across the
+same border during the same game turn. Border restrictions
+also apply to retreats (5.6) and regrouping (5.7).
+
+4.3 Pinning
+
+When a Year ends, just after the normal Winter turn is concluded, the Swedish player may go on a special Winter Campaign.
+The Swedish player may move Karl XII, along with any or
+all other Swedish blocks in the same territory; the move may
+cause a battle as normal. Karl and any blocks with him may
+declare a siege attempt, if otherwise eligible. Each Swedish
+block participating in a Winter Campaign action immediately
+loses one step at the start of the action. After this extra winter
+action, the next Year begins as normal with the Interphase.
+
+4.0	 Movement
+
+When blocks move into a territory with enemy blocks, they
+pin an equal number of enemy blocks, preventing them from
+moving. The enemy player chooses which blocks are pinned
+at the moment the moving blocks enter the territory. Unpinned
+blocks can (if desired) move normally, but cannot move across
+any border used by pinning blocks. Unpinned blocks cannot be
+substituted for pinned blocks once those have become pinned.
+Example: Two Saxon blocks attack five Swedish blocks. As soon
+as the Saxons move into their territory, two Swedish blocks are
+pinned (owner’s choice). The other three Swedish blocks may move
+or attack elsewhere (assuming the Swedish player plays second).
+
+4.4 Force-Marching
+
+4.1 Movement Procedure
+For one action, a player may move a group of blocks in a single
+territory (or sea zone) to any territories (or sea zones) within
+their maximum movement rate. Blocks in the group are not
+required to move together to the same territory or zone; they
+may split up and move to different destinations.
+All blocks, including fleets, may pass freely through friendly
+blocks, but must stop and fight when they move into a territory
+or sea zone containing one or more enemy blocks. Control of a
+territory, friendly or enemy, has no effect on movement.
+Blocks may move only once per game turn, except to retreat
+(5.6) or regroup (5.7) or when transported by fleets (9.2).
+Fleets and non-transported army/regiment blocks may never
+be part of the same group movement.
+IMPORTANT: When a group of blocks ends its move in
+a territory with no enemy blocks, a Siege attempt may be
+declared (6.1) by the moving blocks without using an additional action. This includes blocks landed by sea transport.
+
+Any moving group may force-march up to two extra territories,
+even to attack or join a battle. After all movement is completed,
+roll a die for each force-marching block:
+1-3: 	 Lose one step per extra territory moved
+4-6: 	 No loss
+Regardless of the result of the roll, the forced march is successful.
+Design Note: We recommend placing a die on top of any forcemarching blocks, so you remember to roll for them when all
+your movement is finished.
+All normal movement rules apply to forced marches (e.g.,
+blocks must stop if they cross a red border), with the following restrictions:
+•	 Blocks cannot force-march to retreat (5.6) or regroup
+(5.7).
+•	 Force-marching blocks that join a battle are not available
+on the first combat round of that battle (5.3).
+•	 Rolls for forced march losses are made only after a player
+has completed all movement.
+
+© 2012 GMT Games, LLC
+
+8
+
+Pax Baltica Rule Book
+•	 Blocks may be eliminated from losses due to forced
+march; place them in the appropriate replacement pool.
+
+Example: Karl XII and Dalregementet, both at full strength, are in
+Sandomierz and want to respond to a Russian move into Livland.
+Since their movement rating is only 2, they force-march to move
+the extra two territories to reach Livland. The Swedish player places
+a die on top of the moved blocks to remind himself to roll for the
+force-march at the end of the Movement Phase. He then moves
+another group of blocks with a different action. Having finished
+movement, he rolls one die each for Karl and Dalregementet. The
+roll for Karl is a 5, so no losses; but the Dalregementet’s roll is a
+2, and it suffers two losses, one for each extra territory it moved.
+Dalregementet is reduced from 3 strength to 1.
+
+4.5 Prohibited Territories
+Territories belonging to inactive nations, including nations
+under truce (10.2), may not be entered until they are activated.
+Ukraine is part of Russia while inactive, and may be entered if
+Russia is active (11.8). Transit territories (1.5) are not neutral
+and can be entered freely.
+
+5.0	 Battle
+Any territory occupied by blocks from both players is a battle
+territory. A battle must occur in each battle territory in the Battle
+Phase (Exception: a territory with a harbor under siege that
+contains only fleet blocks is not considered a battle territory.)
+By the end of the Battle Phase, no territory will have blocks
+from both sides in it.
+
+5.1 Battle Sequence
+Battles are fought one by one after all movement is completed.
+The First Player determines the order battles will be fought
+before any blocks are revealed. Each battle must be completed
+before fighting the next battle. Reveal blocks at the start of each
+battle by tipping them forward to maintain their current strength.
+IMPORTANT: Because both players move before combat,
+in some battles the Swedish player is the defender, while in
+others the Coalition player is the defender. The last side to
+solely have blocks in the territory is the defender.
+
+5.2 Cooperation
+Coalition blocks from different nations may fight together in
+a battle on the same side. Similarly, Swedish blocks and their
+allies may cooperate in battle.
+
+5.3 Reserves
+A territory may be attacked via multiple borders. The attacking
+player declares one border as the main attack. Any attacking
+blocks crossing other borders are considered reserves and may
+not fire, retreat, or take hits until the second combat round.
+
+Similarly, Blocks belonging to the defending player that enter
+a battle territory (i.e., one that already has both sides’ blocks)
+are considered reserves as well.
+Reserve blocks are not revealed until the beginning of the second combat round. Thereafter they may fire or retreat like any
+other block. Reserve blocks must retreat, subject to all retreating
+rules, if the battle ends in the first combat round.
+Example: A player has four blocks in Ingermanland and two in
+Livland. Both groups attack Estland (using two movement actions). The attacker declares the Ingermanland border as the main
+attack and the first combat round involves only those blocks. The
+two blocks from Livland join the battle at the beginning of the
+second combat round.
+
+5.4 Combat Rounds
+Battles are fought over a maximum of three combat rounds. If
+the battle is not concluded by the end of the third round, the
+side that does not control the garrison must retreat (the attacking side if neither controls the garrison).
+Each block has one combat turn per combat round. In its combat turn, a block may either fire or retreat. The sequence of
+Combat Turns depends on combat ratings: A blocks go before
+B blocks, which go before C blocks, with D blocks going last.
+Within each rating, defending blocks go before attacking ones:
+defending A blocks go before attacking A blocks, and so on.
+After all blocks have taken their combat turn, the first combat
+round ends. Repeat the sequence for the second and third rounds
+as necessary.
+Example: Swedish army Karl XII (A3) and Swedish regiment Pommerska (B1) attack the Danish army Reventlov (B2) and Danish
+regiment Prins Christian (B1). The combat sequence is:
+	 1. Swedish army Karl XII (A3)
+	 2. Danish army Reventlov (B2) and Danish regiment Prins
+Christian (B1)
+	 3. Swedish regiment Pommerska (B1)
+Any of these blocks could retreat instead of firing.
+
+5.5 Fire Resolution
+To resolve a block’s fire, roll as many dice as the block’s current
+strength. A hit is scored for each roll equal to or lower than the
+block’s combat rating.
+Example: The full-strength Russian block Pyotr I rolls 4 dice. It has
+a B3 combat rating, meaning all rolls of 1, 2, & 3 are hits. Rolls of
+4, 5, & 6 are misses. If the dice rolled were 1, 2, 4, & 5, the Russian
+player would score two hits and two misses.
+Enemy blocks are not targeted individually. Each hit is applied individually to the enemy block with the highest current
+strength. When two or more blocks share the highest strength,
+the owner chooses which takes the loss. Blocks that lose their
+last step are eliminated and placed in their nation’s replacement pool.
+
+© 2012 GMT Games, LLC
+
+Pax Baltica Rule Book
+Example: Karl XII and Dalregementet are at full strength (4 and
+3, respectively) and take two hits. The first hit must be taken by
+Karl XII since his block is strongest, reduced him to 3 strength. The
+second hit can be applied to either block, Swedish player’s choice,
+since both blocks are now the same strength.
+IMPORTANT: Fire is not simultaneous. All hits are applied
+immediately.
+
+5.6 Retreats
+Each block may retreat in its combat turn instead of firing. If
+a block cannot retreat, it must stay and fight.
+Blocks retreat by moving up to their full movement allowance
+into or through friendly or transit territories free of enemy
+blocks. Blocks may never retreat into or through enemycontrolled or battle territories.
+The attacker can only retreat from the battle territory via borders
+used to attack into the territory. The defender may not retreat
+through borders that were used by the attacker to enter the battle
+territory. If both players entered the territory through the same
+border, only the last player to enter may retreat via that border.
+Border restrictions for retreats apply to each combat round. This
+means up to six blocks may retreat across a normal border, and
+up to two blocks may retreat across a Difficult Terrain border
+(and those must stop once they have done so).
+If after three combat rounds both sides still have blocks in the
+territory, then the side that does not control the garrison must
+immediately retreat or be destroyed. If neither side controls the
+garrison, the attackers must immediately retreat or be destroyed.
+Blocks may retreat out to sea onto fleets only from a territory
+with a friendly port (9.5).
+
+5.7 Regrouping
+When a battle (but not a siege) ends, the winning side may
+regroup at the instant of victory. A regroup is a special free
+move for any or all victorious blocks in the Battle territory.
+Regrouping blocks may move to any adjacent friendly or transit
+territories that are free of enemy blocks. Border restrictions
+apply for regroup moves.
+Design Note: Regroup moves are very important for avoiding
+attrition due to insufficient forage. Concentrate to fight, then
+disperse to eat!
+
+9
+
+6.0 Siege
+A siege is a special type of battle, attempting to force a territorial garrison to surrender.
+
+6.1 Declaration
+There are two conditions under which a siege may be declared:
+•	 As a single action, a siege attempt may be declared in
+a territory by any and all unpinned blocks that have not
+moved this turn.
+•	 Moving blocks may declare a siege attempt immediately
+upon ending their move in an enemy territory with no
+enemy blocks. This does not require an additional action.
+If any friendly blocks were already in the territory, they
+must spend an action to join the siege attempt.
+When a siege is declared, reveal the besieging blocks by tipping
+them face up to indicate their besieger status.
+IMPORTANT: Although siege attempts are declared in the
+Action Phase, they are resolved during the Battle Phase,
+after all battles have been resolved.
+
+6.2 Restrictions
+Blocks from different nations cannot cooperate in a siege
+against the same garrison in the same turn.
+Regiment blocks cannot participate in a siege against a garrison of strength 2 or greater (i.e., they can’t roll for combat
+or take losses).
+
+6.3 Resolution
+A siege is resolved using the rules for battles; however a siege
+consists of only one combat round, not three. To capture the
+garrison, the attacker must score hits equal to or greater than
+the strength of the garrison in a single round; otherwise, the
+siege is unsuccessful—all or nothing.
+Garrisons fight back against siege attempts, and are treated
+as defending C1 blocks for combat purposes. Roll as many
+dice as the strength of the garrison. Garrisons never retreat or
+suffer losses.
+
+6.4 Results
+A successful siege against an enemy nation’s territory allows
+you to place a garrison marker in the territory and take control
+of it (1.2).
+A successful siege against an enemy garrison in a friendly
+nation’s territory only removes the enemy garrison marker
+(Exception: you always place a garrison marker when you
+successfully siege a territory in Poland.)
+An attacker may not regroup after a successful siege, but is not
+forced to retreat due to a failed siege attempt.
+A successful siege against a capital (1.3) results in a truce (10.2).
+
+© 2012 GMT Games, LLC
+
+10
+
+Pax Baltica Rule Book
+
+6.5 Relief
+It is possible for a territory subject to a declared siege attempt
+to also be a battle territory. No block may participate in both a
+siege attempt and a battle in the same turn. If a territory with
+besieging blocks is attacked, any besieging blocks pinned (4.3)
+by the attacker must lift the siege and fight in the battle instead.
+The battle is fought before resolving the siege, and if the besieging side wins, the siege is still resolved (without any blocks that
+fought in the battle). If the besieging side loses, the besieging
+blocks must immediately retreat and the siege is not resolved.
+
+7.0	 Forage
+After all combat is done, a forage check is performed in each
+territory containing blocks.
+
+7.1 Forage Checks
+Check all territories which are occupied by any army or regiment blocks. Compare the forage point (FP) value in the territory with the forage costs of the blocks. Army blocks require
+2 FP each, regiments 1 FP each. If the total forage required for
+a group of blocks exceeds the FP of the territory, the group
+suffers losses.
+IMPORTANT: Fleets, and any blocks they are transporting,
+do not require forage.
+
+7.2 Baggage Trains
+Most army blocks carry with them a baggage train providing
+extra FP, represented by one or more supply symbols in the
+upper left corner of the block label. Each symbol provides one
+additional FP that can be used only to support regiments from
+the same nationality (not armies and not allies) in the same
+territory as the army.
+
+8.0	 Replacements
+8.1 RP Level Track And Adjustments
+Each major nation (plus the Ottoman Empire) begins a scenario
+with a set Replacement Point Level (RP Level), indicated by
+placing a cube of their color on the Replacement Point Level
+Track. The RP level is the amount of RPs available each Interphase for drawing blocks from the replacement pool or reinforcing on-map blocks. Sweden’s RP level is also important
+for victory conditions.
+A nation’s RP level is affected by having its territories captured
+by the enemy, and sometimes by events (but see 8.8). If a territory’s garrison is besieged and captured, the original territory’s
+owner reduces their RP level by 4. If the original owner recaptures the territory, the lost RP level is regained. The nation’s
+RP level is adjusted on the Replacement Point Level Track to
+indicate these gains and losses.
+IMPORTANT: A nation never increases its RP level by
+capturing enemy territory.
+Example: Sweden has captured Åkershus and Christiansand from
+Denmark. Denmark’s RP level is reduced from 16 to 8. Sweden’s
+RP level is unaffected.
+
+8.2 Replacement Costs
+RPs are received at the start of every Interphase; unspent RPs
+are lost at the end of the Interphase. RPs cannot be accumulated from year to year. A nation can never lend or give RPs
+to another nation.
+RPs are spent on a per-step basis, as follows:
+•	 Army block: 2 RPs per step
+•	 Regiment block: 1 RP per step
+•	 Fleet block: 2 RPs per step
+
+7.3 Losses
+A group of blocks loses one step per unmet FP required in a
+territory. The first step loss due to insufficient forage must
+always be taken from the strongest block (owner chooses if
+tied). Subsequent losses can be distributed as the owner sees
+fit. Blocks are never eliminated due to insufficient forage; they
+cannot be reduced below 1 strength (losses cannot be assigned
+to strength 1 blocks).
+Example: Pyotr I, Sheremetev, and Woronjetski are in Kurland
+(forage capacity 3), all at full strength. Pyotr’s baggage train covers
+the forage requirement for Woronjetski, but Sheremetev’s train
+bonus is wasted. The forage requirement of the two armies (2 FP
+each) exceeds Kurlandia’s capacity by 1, so one of the strongest
+blocks must lose a step. The Coalition player chooses Sjeremetev
+to lose the step (Pyotr must not be weakened!).
+
+On-map replacements must be taken first, and then new blocks
+may be built from the nation’s replacement pool.
+
+8.3 On-Map Replacements
+RPs may be spent to add steps to on-map blocks which are
+not at full strength. An on-map block must have a valid line of
+communications (8.5) to be eligible to receive replacements.
+Blocks in a Battle territory cannot receive replacements.
+Fleets may only receive replacements when anchored in a
+harbor. Blocks being transported by fleets cannot receive replacements.
+IMPORTANT: Replacement steps may be added to blocks
+in territories without a friendly garrison. However, the RP
+cost is doubled in this case.
+
+© 2012 GMT Games, LLC
+
+Pax Baltica Rule Book
+Example: During the Interphase, Karl XII is in Lietuva in Poland
+with a reduced strength of 2. The Swedish player expends 8 of his
+RPs and adds two steps to Karl XII (2 RPs for each step, doubled
+because there is no friendly garrison in Vilnius).
+Design Note: Wintering away from home is very expensive!
+Consider moving back to friendly territory before replacements
+arrive in the Interphase.
+
+8.4 Replacements Using Actions
+On-map blocks (only) may receive replacement steps using
+actions (3.3). Blocks receiving replacements via an action are
+subject to the restrictions in 8.3 above, but no RPs are expended.
+A block may receive more than one replacement step per turn
+in this manner, at a cost of one action each.
+Example: August II, down to 1 strength, has withdrawn to Lausitz
+during Summer. Going first in Autumn, and fearing a Swedish
+attack, the Coalition player spends two actions to add two steps
+to August II.
+
+8.5 Line Of Communications
+A block is eligible to receive replacements if the territory it
+is in is:
+•	 a national territory (i.e., in the block’s nation’s color)
+where the player controls the garrison; or
+•	 a territory that can trace a line of communications through
+adjacent friendly (1.2) or transit (1.5) territories back to
+any controlled national territory.
+A line of communications cannot be traced into or through a
+territory containing enemy blocks, regardless of who controls
+the territory.
+A line of communications can be traced across a sea zone if the
+line is traced from or through a territory with a friendly port,
+through a sea zone occupied by fleets of the same nationality,
+to a friendly national territory with a port.
+A block without a valid line of communications may not receive
+replacement steps, neither by RPs nor by using actions.
+Example: The main Swedish army is in Velikaya (still under Russian control). The army can trace a line of communications back
+to Livland. If the army was in Rzhev, it could not trace a line of
+communications through Russian-held Velikaya, and would be
+ineligible for replacements.
+
+8.6 Replacement Pools And Building New Blocks
+Each player keeps the blocks of their nations in separate replacement pools.
+Blocks in a replacement pool are always kept face down, and
+shuffled before drawing.
+
+11
+
+how many RPs to spend on increasing the strength of each
+block as you draw it. Deploy (9.7) the newly-built block before
+drawing another.
+IMPORTANT: The first step of any block built from the
+replacement pool costs double RPs; i.e., the first step of an
+army or fleet costs 4 RPs, and the first step of a regiment
+costs 2 RPs.
+If you draw a block you cannot afford, your RPs are spent and
+you do not deploy the block (it is returned to the pool).
+Example: Saxony starts the Interphase with 12 RPs. The Coalition
+player draws an army block, Schulenburg, and pays 4 RPs for the
+first step. She decides to pay 6 more RPs to add the remaining three
+steps, and deploys Schulenburg in Lausitz. She chooses to draw
+another block, and gets the Lubomirski Polish army. Unfortunately,
+with only 2 RPs left she cannot afford the first step of the army; it
+is returned to the Saxon replacement pool and the 2 RPs are lost.
+Better luck next year!
+
+8.7 Deployment
+New blocks are deployed onto the map according to their national deployment restrictions (11.0). New blocks cannot be
+deployed into enemy-occupied or enemy-garrisoned territories.
+New blocks may be deployed in excess of forage capacity, but
+no losses from insufficient forage occur until the next Forage
+Phase.
+Newly built fleet blocks are deployed in any friendly harbor
+within their nation’s deployment restrictions.
+Blocks with a red dot have special restrictions on their deployment. See the specific rules for each nation in Section 11.
+If a block cannot be deployed because all potential deployment
+territories are occupied or garrisoned by the enemy, the block is
+returned to the replacement pool and any RPs spent on it are lost.
+Design Note: Protect your deployment areas. Don’t let this
+happen to you!
+
+8.8 Replacements And Events
+RP gains or losses due to events during the year do not affect
+the RP level or count towards victory conditions. Such changes
+are not permanent, and are only valid for the period indicated
+by the event; i.e., during the next Interphase.
+Example: Sweden rolls an event that provides 8 extra RPs in the
+next Interphase. However, the game ends before then; the 8 RPs do
+not count for victory points since the RP level remains the same.
+Design Note: Such temporary adjustments to RP level can be
+marked using a second cube of the nation’s color. Just remember
+which one is the real RP level!
+
+To build a new block, draw one at random and pay for its first
+step. You may pay for additional steps (up to its maximum
+strength) if you have enough RPs remaining. You must decide
+© 2012 GMT Games, LLC
+
+12
+
+Pax Baltica Rule Book
+
+9.4 Anchored Fleets
+
+9.0	 Fleets
+Fleet blocks may move up to six sea zones as an action (Exception: the Russian galley fleet may move up to only three
+sea zones). Entering a harbor counts as moving one sea zone,
+but leaving a harbor counts as an entire action and no further
+movement is allowed. Moving fleets must stop if they enter a
+sea zone occupied by one or more enemy fleet blocks. Fleets
+may not enter non-harbor land territories, nor may they enter
+enemy-controlled harbors.
+
+Fleets in harbor are considered anchored and
+are therefore placed inside the territory. Fleets
+in harbor are not considered to actually occupy the territory for any other purpose, however; they do not count towards forage limits, nor do they inhibit movement or participate in battles. If a territory occupied
+solely by fleets in harbor is entered by enemy blocks, the
+owner must disclose this fact, but need not reveal his fleet
+blocks. If a harbor is captured by siege, any fleets anchored
+there are moved into the adjacent sea zone, each fleet losing
+one strength step in the process.
+
+9.2 Sea Transport
+
+9.5 Retreating To Sea
+
+Sea transport involves loading (or unloading) army or regiment
+blocks onto fleets at sea, and works like regular movement (i.e.,
+blocks in a group may split between transport and land movement). Loading blocks counts as those blocks’ entire movement,
+and can only be done from a territory with a friendly port into
+the sea zone the port lies on. You may unload blocks at sea into
+a territory through a bordering port regardless of who controls
+the port. Each fleet block can transport one army block or two
+regiment blocks at a time.
+
+Army or regiment blocks may retreat to sea onto fleets, under
+the same restrictions as sea transport (9.2). Sea retreats can only
+be conducted from a territory with a friendly port. Blocks may
+not sea retreat onto anchored fleets.
+
+9.1 Fleet Movement
+
+Design Note: A given block may not be both loaded and unloaded during the same game turn, since both count as movement (4.1).
+IMPORTANT: Fleets may not load or unload army or regiment blocks if enemy fleets are present in the same sea zone
+(i.e., a fleet battle is set to occur). They would have to wait
+until a later turn.
+Example: Karl XII and two regiments begin the turn aboard two
+Swedish fleet blocks in the Kattegat sea zone. For the first Swedish
+action, the fleets (and their cargo) move to the Gulf of Finland.
+For the second Swedish action, Karl XII and the regiments unload
+into Ingermanland, to attack the Russian forces there planning to
+besiege Narva.
+
+9.3 Fleet Battles
+If both players have fleets in the same sea zone, they engage in
+battle. Fleet battles are resolved in the same manner as battles
+between army or regiment blocks, except:
+•	 Any fleet block that retreats from combat is immediately
+placed in any friendly harbor. If a player has no friendly
+harbors left, retreating fleets are instead lost; set them
+aside from the replacement pool, and only return them to
+the pool when their owner controls a harbor.
+•	 Army or regiment blocks aboard retreating fleets are
+unloaded into the same harbor territory the fleet retreats
+to. Blocks aboard destroyed fleets are also destroyed and
+placed in their owner’s replacement pool.
+
+Design Note: You can’t sea retreat from a territory unless you
+control the port; bear this in mind when making a landing in
+enemy territory.
+Example: Furthering the example from 9.2, if the attack in Ingermanland goes badly, Karl XII and the two regiments may retreat
+to the fleets at sea in the Gulf of Finland, since the port of Narva
+is still under Swedish control.
+
+10.0 Politics
+The politics rules cover activation (entry of nations into the
+war) and truce (temporary deactivation of nations).
+
+10.1 Activation
+Some inactive nations roll for activation to join one side or the
+other in each Interphase, as indicated in section 11.0. Roll a die
+for each nation that may activate: on a 6, that nation becomes
+active and enters the war; on any lower result, the nation remains
+inactive, but rolls again in the next Interphase.
+•	 An active nation may spend actions and use its RPs to
+build blocks. An inactive nation cannot have any blocks
+on the board, may not use actions, and cannot spend RPs
+to build blocks.
+•	 Some nations may be activated by particular triggers. If
+a nation is activated mid-year, it receives its allotment of
+RPs (if any) to build blocks immediately upon activation.
+
+10.2 Truce
+An active nation can become inactive due to a truce. A truce is
+imposed on a nation at the end of the current phase:
+•	 when their royal block is eliminated (Coalition only);
+•	 when their capital is captured by a successful siege;
+•	 when their last block on the map is eliminated;
+•	 when their RP level is reduced to zero; or
+
+© 2012 GMT Games, LLC
+
+13
+
+Pax Baltica Rule Book
+•	 by certain events.
+When a truce is imposed on a nation:
+•	 All of the nation’s blocks are returned to their replacement
+pool and the nation becomes inactive.
+•	 Remove all of the nation’s garrison markers from captured
+territories. Also remove all enemy garrison markers from
+the nation’s territories.
+•	 Any blocks of another nation inside a nation under truce
+are immediately moved to the nearest friendly territory
+they are allowed to enter (owner’s choice if more than
+one territory is equidistant). If the moved blocks exceed
+forage limits (6.1), the excess may be moved to the next
+nearest territory as necessary.
+•	 Place a cube of that nation’s color on the Year Track four
+years ahead, as a reminder of when it may begin to roll
+to reactivate.
+Any nation (except Sweden, Ukraine, or Poland) may offer
+to submit to a truce during any Interphase. The offer must be
+accepted and goes into effect immediately. All normal truce
+effects apply.
+IMPORTANT: If a truce is ever imposed on Sweden, the
+game ends immediately with a Coalition Triumphant Victory.
+
+10.3 Reactivation
+A nation under truce is inactive for at least three full years. At
+the start of the Interphase of the Year with the nation’s cube
+(placed according to 10.2 above), the nation may begin to roll
+for activation again. The nation is activated and enters the war
+again on a die roll result of 6 as usual.
+Example: Denmark is knocked out of the war during 1711. A red
+cube is placed on the Year Track in 1715. The Coalition player
+may start to roll for Denmark’s activation in the 1715 Interphase,
+needing a 6 to activate.
+
+11.0 Nations
+The following special rules reflect the unique characteristics
+and conditions of each nation.
+
+11.1 Sweden
+•	 Deployment: Swedish blocks are deployed in Sweden
+proper (1.1). Exception: the Estländska, Savolax, and
+Pommerska blocks deploy in their own territories (Estland, Savolax, and Pommern respectively); if enemyoccupied they deploy in Sweden proper instead.
+
+•	 Concessions: The Swedish player may at any time
+cede the territories of Bremen-Verden to Hannover and/
+or Pommern to Prussia. Each territory ceded reduces
+Sweden’s RP level by 4, but renders the receiving nation
+permanently inactive.
+•	 Swedish Attrition Track: Each time a Swedish army
+block (not regiment) is eliminated, advance the marker
+on this track one space. As long as Sweden has at least
+one block in Russia (including Ukraine), the marker on
+this track is moved to the lower row; move it back to the
+upper row if no Swedish blocks are in Russia. Apply the
+effects of the box containing the marker, and all effects
+of lower-numbered boxes in the same row only.
+
+11.2 Russia
+•	 Deployment: Russian blocks are deployed in Moskva,
+Yaroslavl, or Tula. Exception: the Cossack block may
+deploy anywhere within Russia or (if friendly) Ukraine.
+Russian fleets may deploy only in Sankt-Peterburg (see
+below).
+•	 Military Reforms: If at least one Russian army has been
+eliminated in a battle (including retreat), or if a territory
+in Russia has been captured, four Russian army blocks
+(marked with a hollow star) become eligible for reform.
+Place the four reformed Russian armies (with black stars)
+in the Russian Military Reform box.
+At the start of every following Interphase, the Coalition
+player may choose an army to reform. Remove the original Russian army block from the game (whether on the
+map or in the replacement pool), then take the matching
+reformed army from the Reform box and place it in any
+Year box without a Russian block already in it, at least
+two years ahead.
+At the start of every Interphase (even before Reform is
+triggered), move any Russian army block in the current
+year’s box to the replacement pool. Russia loses 4 RPs
+for each Russian army block remaining on the Year Track
+(but do not adjust the Russian RP level).
+Russia’s truce status has no effect on reform.
+•	 Nyen / Sankt-Peterburg: Nyen starts the game as a
+Swedish garrison with a strength of 1. The two Russian
+fleet blocks start the game out of play, not in the Russian
+replacement pool (unless otherwise noted in the scenario
+instructions).
+If Russia captures Nyen, immediately place the two
+Russian fleet blocks on the Year Track two years ahead.
+Remove the Russian fleets from the Year Track if Russia
+loses control of Nyen.
+
+© 2012 GMT Games, LLC
+
+14
+
+Pax Baltica Rule Book
+If the Russian fleets are in the current Year box at the start
+of the Interphase, Nyen is converted into Sankt-Peterburg,
+a 4-strength harbor. Add the Russian fleets to the Russian
+replacement pool.
+Once converted, Sankt-Peterburg remains a 4-strength
+harbor regardless of truce status or who controls it.
+
+Poland is never subject to truce. If a truce is imposed on Saxony,
+return Polish blocks on the map to the Saxon replacement pool
+(they cannot be built until Saxony is reactivated).
+
+11.6 Ottoman Empire
+
+•	 Deployment: Saxon blocks are deployed in Saxony.
+
+•	 Activation: The Ottoman Empire begins the game inactive. The Swedish player rolls every Interphase for Ottoman entry into the war as a Swedish ally (10.1). Add +1
+to the activation roll if the Karl XII block is in Ukraine.
+
+•	 Limited Interests: Saxon blocks may never enter Russia,
+Ukraine, or Hannover.
+
+•	 Deployment: Ottoman blocks are deployed in the Ottoman Empire.
+
+11.3 Saxony
+
+•	 Limited Interests: Ottoman blocks may only enter territories in Ukraine, Poland, or the Ottoman Empire.
+•	 Surrender: If enemy blocks solely occupy all Ottoman
+territories, a truce is imposed (10.2).
+
+11.4 Denmark
+•	 Activation: Denmark begins the game inactive. The
+Coalition player rolls every Interphase for Danish entry
+into the war as a Coalition ally (10.1).
+•	 Deployment: Danish blocks are deployed in Denmark
+proper (1.1). Exception: the Bergenhus block deploys
+in Bergenhus; if enemy-occupied, it deploys anywhere
+in Norway.
+
+11.5 Poland
+•	 Wettin Dynasty: The three Polish blocks are part of
+the Saxon replacement pool. They are built and receive
+replacements using Saxon RPs, and are subject to the
+same movement restrictions (they may never enter Russia,
+Ukraine, or Hannover).
+•	 Deployment: The Lubomirski army block deploys in or
+adjacent to Małopolska.
+The Sobieski regiment block deploys in or adjacent to
+Mazowsze.
+The Oginski regiment block deploys in or adjacent to
+Lietuva.
+•	 Civil War: Polish territories without garrison markers are
+transit territories (1.5). Any non-Polish nation may siege
+Polish garrisons in order to place their garrison marker
+in the territory. Polish blocks may siege enemy garrisons
+in Poland in order to remove them.
+Generally, Saxony begins with garrisons in the two Polish capitals (Warszawa and Kraków). If at any time both
+capitals are lost, reduce Saxony’s RP level by 4 and return
+any Polish blocks on the map to the Saxon replacement
+pool (they may be rebuilt normally). If Saxony regains
+both capitals, restore the lost RP level.
+
+•	 Christian Solidarity: If the Ottomans invade Poland,
+Russia and Saxony are immediately activated if not already active. During the Interphase, if Ottoman blocks
+are in Poland while Saxony or Russia are under truce,
+the Swedish player must choose either to impose truce
+on the Ottomans as well, or allow Saxony or Russia to
+reactivate immediately.
+•	 War with Austria: While the Ottomans are active, roll
+each following Interphase for the start of the AustroTurkish War, which occurs on a 6. If it occurs, a truce
+is imposed on the Ottomans immediately (10.2). The
+Ottomans may roll for reactivation like any other nation
+under truce (10.3).
+
+11.7 Prussia
+•	 Activation: Prussia begins the game inactive. The Coalition player rolls every Interphase for Prussian entry into the
+war as a Coalition ally (10.1), subtracting 1 from the roll.
+Design Note: This means Prussia will not normally be
+able to activate, since a 6 is required. However, have a look
+at the Swedish Attrition Track…
+•	 Deployment: The Prussian block is deployed anywhere
+in Prussia.
+•	 Limited Interests: The Prussian block may only enter
+territories in Germany or Poland. The only territory
+where the Prussian block may attack or declare a siege
+is Pomorze. The Prussian block may defend itself in any
+territory.
+•	 Self-sufficient: The Prussian block does not use RPs; it
+is restored to full strength during the Interphase if it has a
+line of communication to any friendly territory in Prussia.
+
+© 2012 GMT Games, LLC
+
+15
+
+Pax Baltica Rule Book
+
+11.8 Ukraine
+
+11.10 Holstein-Gottorp
+
+•	 Activation: Ukraine begins the game inactive, as part of
+Russia. If Russia is currently active, the Swedish player
+rolls every Interphase for Ukrainian entry into the war as
+a Swedish ally (10.1). Add +2 to the activation roll if the
+Karl XII block is in Ukraine. Reduce Russia’s RP level
+by 8 and remove all garrisons in Ukrainian territory when
+Ukraine is activated.
+•	 Deployment: The Mazepa block is deployed in Sivershchyna immediately when Ukraine is activated. If occupied by the Coalition, the block is deployed anywhere
+in Ukraine. If every Ukraine territory is occupied by the
+Coalition, the block deploys during the first Interphase
+when this is no longer the case.
+
+•	 Activation: Holstein-Gottorp is always an active Swedish
+ally. The Holstein-Gottorp block (Friedrich IV) is part of
+the Swedish replacement pool. Swedish RPs are spent for
+replacements to the Holstein-Gottorp block; they do not
+receive their own RPs.
+•	 Deployment: The Holstein-Gottorp block may only be
+deployed in Holstein-Gottorp. If it is enemy controlled
+or occupied, the block cannot be built and is returned to
+the replacement pool.
+•	 Limited Ambition: The Holstein-Gottorp block may
+never attack alone, but only in conjunction with Swedish blocks.
+
+•	 Living Off the Land: The Mazepa block does not use
+RPs; it is restored to full strength during the Interphase
+if it is in Ukraine.
+•	 Pacification: Ukraine rejoins Russia at the end of the
+phase when the Mazepa block is eliminated or Baturyn
+is captured by Russian siege. Russia regains its lost 8
+RPs and the Mazepa block is set aside. Ukraine may be
+activated again by the procedure used above.
+
+11.9 Hannover
+•	 German Politics: Hannover begins the game inactive,
+but automatically becomes a Swedish ally if the Coalition invades Holstein-Gottorp; immediately place the
+Hannoverian block in Hannover.
+•	 Defection: When so indicated by the Swedish Attrition
+Track, Hannover defects permanently to the Coalition and
+becomes inactive (if not already). The Coalition player may
+then start rolling every Interphase to activate Hannover as
+a Coalition ally (10.1), subtracting 1 from the roll.
+Design Note: This means Hannover will not normally be
+able to activate, since a 6 is required. However, have a look
+at the Swedish Attrition Track…
+•	 Deployment: The Hannoverian block may only be deployed in Hannover.
+•	 Self-sufficient: The Hannoverian block does not use RPs;
+it is restored to full strength during the Interphase if it has
+a line of communication to Hannover.
+
+11.11 Great Britain
+•	 Activation: The British fleet block activates as a Swedish ally if:
+»» during the Interphase, the Coalition player has more
+fleet blocks at sea than Sweden; or
+»» immediately when the Coalition invades Sweden
+proper.
+•	 Deployment: The British Fleet block always starts in
+Portsmouth at full strength when activated. No other block
+can enter the Portsmouth box.
+•	 Actions: Swedish Actions are spent to use the British
+fleet block.
+•	 Losses: The British fleet block does not use RPs, and
+can only take replacements via actions (8.4). It never
+enters any replacement pool. If the British fleet block is
+eliminated, a truce is imposed on Great Britain (10.2).
+In that case, place the fleet block on the Year Track four
+years ahead; beginning with that Interphase, the British
+fleet is again available for activation as indicated above,
+at full strength.
+•	 Confrontation: Russian fleets may not enter or move
+through the sea zone occupied by the British fleet.
+•	 Deactivation: The British fleet is removed from the map
+if, during the Interphase, the Swedish player has more fleet
+blocks (including the British fleet) at sea than the Coalition and there are no Coalition blocks in Sweden proper.
+It remains available for later activation as indicated above.
+
+© 2012 GMT Games, LLC
+
+16
+
+Pax Baltica Rule Book
+
+12.0 Events
+IMPORTANT: No army or regiment block may be eliminated by losses due to events. Fleet blocks, and any blocks transported
+by them, ignore all losses due to events.
+
+12.1 Event Table
+
+12.3 Coalition Event Table
+
+1 	 Polish civil war. Each player rolls a die, adding one for
+each Polish capital controlled.
+Swedish player wins: Return all on-map Polish blocks
+to the Saxon replacement pool.	
+Coalition player wins: All Swedish blocks in Poland
+lose one step.
+Tie: Apply both effects above.
+2 	 Epidemic. Roll a die for region. All blocks in that region
+lose one step.
+1. Sweden and Finland
+2. Denmark and Norway
+3. Germany
+4. Baltic (Estland, Livland, Ingermanland & Nyen)
+5. Poland and Ukraine
+6. Russia (except Ukraine)
+3 	 Attrition. All blocks on the map not in their national
+territory lose one step.
+4 	 Attrition. All blocks on the map not in a friendly territory
+lose one step.
+5 	 Roll on the Swedish Event Table (12.2) if you are Sweden, or the Coalition Event Table (12.3) if you are the
+Coalition.
+6 	 Choose a major nation under your control (Sweden,
+Russia, Saxony, or Denmark) and roll on the National
+Politics Table (12.4).
+
+1 	 Russian nature strikes back. Each block in Russia (including Ukraine) loses two steps. Russian and Ukrainian
+blocks are not affected.
+2 	 Peter settles with the Turks/Cossacks. You may impose a truce (10.2) on the Ottoman Empire or deactivate
+Ukraine (11.8). The blocks of the chosen nation are
+returned to their replacement pool.
+3 	 Russian army reforms accelerated. Move one reformed
+Russian army on the Year track to the next lower Year
+box (but not into the current year).
+4 	 Denmark Prospers. Denmark receives 4 additional RPs
+in next year’s Interphase.
+5 	 Germany prospers. Saxony receives 4 additional RPs
+in next year’s Interphase.
+6 	 German diplomacy. Return the Holstein-Gottorp block
+(and Hannover block, if a Swedish ally) to the Swedish
+replacement pool.
+
+12.2 Swedish Event Table
+1 	 Denmark loans troops to Austria. Denmark (active or
+not) must remove one block randomly from their replacement pool (if possible). Return it to the pool if Sweden
+invades Denmark or Norway.
+2 	 The Emperor demands troops. Saxony (active or not)
+must remove one non-Polish block randomly from their
+replacement pool (if possible). Return it to the pool if
+Sweden invades Saxony or captures both Polish capitals.
+3 	 Cossack betrayal. Place an Ottoman garrison marker
+on Kremenchuk.
+4 	 Cossacks go home. Remove the Russian Cossack block
+from play. If and when both Ukraine and the Ottoman
+Empire are inactive, return it to the Russian replacement
+pool (this may be immediate).
+5 	 Coalition mistrust. For the remainder of the year, Coalition blocks of different colors may not move or attack
+together.
+6 	 Forced recruitment. Roll one die and receive that many
+RPs to immediately add steps to any of your blocks (8.3).
+
+12.4 National Politics Table
+1 	 Extravagance and waste. Receive only half RPs in the
+next Interphase.
+2 	 Discontent. Each of your blocks in one non-national
+territory (opponent’s choice) loses one step.
+3 	 Special Envoy. Attempt to activate one of your allies,
+with a +1 on the roll. If you succeed, the target nation
+enters the war during the next Interphase.
+4 	 Reinforcements. Roll one die and receive that many RPs
+to immediately add steps to any of your blocks (8.3).
+5 	 Emergency recruitment. Roll two dice and receive that
+many RPs to be spent immediately in the same manner
+as the Interphase.
+6	 Roll on the Swedish Event Table (12.2) if you are Sweden, or on the Coalition Event Table (12.3) if you are
+the Coalition.
+
+GMT Games, LLC
+
+P.O. Box 1308, Hanford, CA 93232-1308
+
+</rulebook>
+			
+						                           
+						               													<description>It is 1700, and a youthful Karl XII has recently come to power as King of Sweden. Rivals around the Baltic Sea seize the opportunity to get their hands on Swedish territory. An alliance is struck between Denmark, Saxony-Poland, and Russia, the last under the vibrant leadership of Tsar Pyotr. This coalition mobilizes to take advantage of the untried King, and break Swedish dominance in the Baltics forever... Thus opened the Great Northern War, ravaging Northern and Eastern Europe for over two decades at the beginning of the eighteenth century. By the end of the war, one nation would lose its status as a Great Power, while another would rise to dominate the region for centuries onward.&amp;#10;&amp;#10;PAX BALTICA is a two-player wargame covering the entire Great Northern War (1700-1721). Published first as a limited &amp;ldquo;guerilla&amp;rdquo; edition in 2009 by Three Crowns Game Productions of Sweden, this new enhanced edition has been revised and upgraded by GMT Games in conjunction with the original designers.&amp;#10;&amp;#10;Over twenty years of fighting span the map from Norway to Turkey, Saxony to Finland. Units are represented by labeled wooden blocks, which are stood upright to conceal their identity and strength from the enemy, allowing players to dupe and outfox each other on campaign. Action points are spent to maneuver on the map, but also for reconnaissance, replacements, or a roll on the treacherous but lucrative National Politics Table. Straightforward rules account for lines of communication and forage, as well as time-consuming sieges, adding to the period flavor. The fast-paced and exciting combat system captures the aggressive &amp;quot;charge with cold steel&amp;quot; tactics that Sweden used to defeat her enemies in succession at the start of the war.&amp;#10;&amp;#10;Players are subject to a host of influences and distractions that will hinder their plans at every turn. An elaborate plan will be at the mercy of a poor action roll or sudden plague, while other events shape strategy with historical motivations and deterrents. Players must prepare for the worst, but be open to fleeting opportunities.&amp;#10;&amp;#10;Special rules capture simply the unique events and circumstances of the Great Northern War, including:&amp;#10;&amp;bull; Russian army reforms&amp;#10;&amp;bull; Ukrainian Cossack uprisings&amp;#10;&amp;bull; Intervention by the Ottoman Empire&amp;#10;&amp;bull; Polish royal politics&amp;#10;&amp;bull; Attrition of Swedish manpower&amp;#10;&amp;bull; Founding of Sankt-Peterburg&amp;#10;&amp;#10;Four scenarios are included with the game: a short tournament scenario covering the Swedish invasion of Russia that led to the Battle of Polt&amp;aacute;va; two scenarios that simulate the first and last half of the war; and a &amp;ldquo;grand campaign&amp;rdquo; scenario that refights the entirety of the Great Northern War, a first in wargame publishing. Turns typically take no more than a couple of minutes, ensuring a fast pace of play. Swings of fortune ensure that no two games will turn out the same.&amp;#10;&amp;#10;Can you save Sweden&amp;rsquo;s empire? Or ensure Russia&amp;rsquo;s rise to prominence? You make the choices that will determine who reigns over the PAX BALTICA.&amp;#10;&amp;#10;Components:&amp;#10;&amp;bull; 1 Map (22&amp;rdquo; x 34&amp;rdquo;)&amp;#10;&amp;bull; 1 Rulebook (16 pages)&amp;#10;&amp;bull; 1 Playbook (32 pages)&amp;#10;&amp;bull; 65 wooden blocks (units) in five colors&amp;#10;&amp;bull; 1 sticker sheet for mounting on blocks&amp;#10;&amp;bull; 51 wooden cubes (control markers, etc.) in six colors&amp;#10;&amp;bull; 8 dice, 4 blue and 4 green&amp;#10;&amp;#10;Game Design: Stefan Ekstr&amp;ouml;m and G&amp;ouml;ran Bj&amp;ouml;rkman&amp;#10;Development for GMT: Scott Muldoon&amp;#10;Complexity: 4&amp;#10;Solitaire Suitability: 3&amp;#10;Scale: Strategic. 1 turn = one season; units are armies, regiments, and fleets; 1 strength step = approx. 1500 troops or 6-8 fighting ships&amp;#10;Players: 2&amp;#10;Time to Play: 1-2 hours for the shortest scenario, 7-14 hours for the grand campaign&amp;#10;&amp;#10;&amp;#10;Original Three Crowns edition:&amp;#10;&amp;#10;Great Northern war, a 21-year long war lasted from 1700 to 1721 and ended Sweden&amp;rsquo;s period as a major power in northern Europe and started Russia&amp;rsquo;s domination of Eastern Europe. An intriguing conflict that is often considered a side-show of the War of Spanish succession. Nevertheless the former had probably greater impact of the developments in Europe during the 100 years to come than the latter. The effects of the war are in fact still seen today.&amp;#10;&amp;#10;Pax Baltica. Probably the first board game ever covering the entire Great Northern War.  The game includes five different scenarios with a varying playtime between two hours and a day. The units in the game are blocks which give a great flexibility in taking steps and differentiate the quality and strength of the troops. The high quality map is divided into provinces which you have to conquer in order to take control over a country. This dynamic conflict covers large parts of northern and eastern Europe. From Bremen in the West to Smolensk in the East. From Trondheim in the North to Bender in the South.&amp;#10;Playable nations are Sweden, Russia, Turkey, Denmark and Saxony. Other countries represented as minors are: Great Britain, Poland, Ukraine, Prussia and Hanover. The game, packed in a book case, includes a A2 full color map, 60 high quality wooden blocks, 4 dice, various markers and rules including 5 scenarios.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="840" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="840" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2726" value="Age of Reason" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6137" value="Components: Block Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16882" value="Country: Estonia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10313" value="Country: Sweden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58124" value="History: Great Northern War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10089" value="Series: Guerrilla Print (Three Crowns Game Productions)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10405" value="Göran Björkman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3549" value="Stefan Ekström" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3549" value="Stefan Ekström" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2652" value="Charles Kibler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6101" value="Three Crowns Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="348" />
+			<average value="7.31187" />
+			<bayesaverage value="5.78183" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4109" bayesaverage="5.78183" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="415" bayesaverage="6.5675" />
+												</ranks>
+
+			<stddev value="1.25181" />
+			<median value="0" />
+			<owned value="949" />
+			<trading value="28" />
+			<wanting value="46" />
+			<wishing value="183" />
+			<numcomments value="171" />
+			<numweights value="50" />
+			<averageweight value="2.96" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

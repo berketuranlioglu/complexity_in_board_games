@@ -1,0 +1,2750 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6205">
+         <thumbnail>https://cf.geekdo-images.com/OadS3iCMp55aVjs8JVm0rQ__thumb/img/6GS3BQ-yZD8ruBbIvjScTKettlg=/fit-in/200x150/filters:strip_icc()/pic36736.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OadS3iCMp55aVjs8JVm0rQ__original/img/ZdrgGcwKuyRDg32_Q0OHwkyxE8s=/0x0/filters:format(jpeg)/pic36736.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Europe Engulfed: WWII European Theatre Block Game" />
+				<rulebook>Europe Engulfed RULEBOOK
+
+1
+
+The Second World War In Europe
+1939 – 1945
+
+RULE BOOK
+G ame D esign: RI CK YOUNG & JESSE EVANS
+D evelop e r : W I LLI AM COOPER
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+#0307
+
+2
+
+Europe Engulfed RULEBOOK
+
+INTRODUCTION:
+Europe Engulfed is a strategic simulation of the Second World War
+in Europe. Each player makes decisions that will affect the war. You
+decide where and how the major battles of the war will be fought. To
+reflect luck and local combat leader initiative, dice are used to resolve
+these battles. Ultimately each player’s skill and grand strategy will
+determine the outcome of the war.
+Europe Engulfed is a two-player or a three-player game. If there are
+two players, one player controls the Allied Powers and the other controls the Axis Powers.
+The Allied side lends itself to being played by a team of two players
+(thereby allowing three players to play). If there are three players; the
+first player controls Great Britain and the U.S.A., the second player
+controls the U.S.S.R., France, and any Minor Powers that the Axis
+invade, while the third player controls the Axis Powers (Germany,
+Italy, the Axis Minor Powers, and any Minor Powers that the Allies
+invade).
+In the case of a three player game, we recommend that optional rule
+14.48 (see Play Book) be used to determine an overall winner when
+the result is an Allied Victory.
+Throughout the rules, you will find references to other rules (e.g., “see
+9.64”). These references should be ignored as you read through the
+rules. They are provided, along with the Table of Contents, the Glossary, and the Index, to help you find any desired rule when you refer
+back to the rulebook.
+
+TABLE OF CONTENTS:
+1.0 Sequence of Play ...................................................... Page 4
+1.1 Weather Determination Phase
+1.2 Axis Player-Turn
+1.3 Allied Player-Turn
+1.4 Turn Advancement Phase
+2.0 Strategic Warfare .................................................... Page 5
+2.1 ASW and the U-Boat Campaign
+2.2 Strategic Air War
+2.3 Strategic Warfare Building Limits
+3.0 Supply ....................................................................... Page 7
+3.1 General Rules
+3.2 Supply Sources
+3.3 Supply Paths Across Sea-Zones
+3.4 Effects of Being Out of Supply
+3.5 Restoring Supply
+3.6 Final Supply Determination Phase
+4.0 Production ................................................................ Page 8
+4.1 General Rules
+4.2 Naval Maintenance
+4.3 Replacements
+4.4 Producing New Units
+4.5 Production Protocol
+4.6 Restricted Builds
+4.7 Partisans
+
+5.0 Movement ................................................................. Page 10
+5.1 Operational Movement Phases
+5.2 Strategic Movement Phases
+5.3 Sea-Transport
+5.4 Breakthrough Movement Phases
+5.5 Stacking Limits
+6.0 Combat ..................................................................... Page 12
+6.1 General Rules
+6.2 Round of Combat Procedure
+6.3 Combat Options
+6.4 Summary of Hit-Bonuses
+6.5 Counterattack
+6.6 Ground-Support Units
+6.7 Breakthrough Combat and Movement Phases
+6.8 Terrain Effects on Combat
+6.9 Field Fortifications
+7.0 Special Actions ......................................................... Page 15
+7.1 General Rules
+7.2 Amphibious Invasion
+7.3 Airborne Assault
+7.4 Breakthrough Movement & Combat Phases
+7.5 Retreat From Combat
+7.6 Reinforce Battle
+7.7 Counter Attack
+7.8 Unrestricted Replacements
+7.9 Limited Supply
+8.0 Naval Operations ..................................................... Page 17
+8.1 Naval Combat
+8.2 Naval Interdiction
+8.3 Fleet Point Transfers
+9.0 Political Considerations .......................................... Page 18
+9.1 Germany and the Axis Minor Powers
+9.2 The Soviet Union (U.S.S.R.)
+9.3 Great Britain and the U.S.A.
+9.4 Italy
+9.5 France
+9.6 Minor Powers
+10.0 Conquest & Victory .............................................. Page 22
+10.1 Major Power Conquest
+10.2 Minor Power Conquest
+10.3 Conquered Territory Control
+10.4 Victory Conditions
+10.5 Bidding for Sides
+11.0 Player Notes ........................................................... Play Book
+12.0 Designers’ Notes .................................................... Play Book
+13.0 Designers’ Optional Rules .................................... Play Book
+14.0 Additional Optional Rules .................................... Play Book
+15.0 Extended Examples of Play .................................. Play Book
+16.0 Scenarios & Short Games .................................... Play Book
+Index ............................................................................... Play Book
+17.0 1939 Campaign Game ................................. Player Aid Card
+18.0 1941 Campaign Game ................................. Player Aid Card
+19.0 Minor Powers Setup .................................... Player Aid Card
+20.0 Charts and Tables ....................................... Player Aid Card
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+
+3
+
+GAME COMPONENTS:
+
+GLOSSARY:
+
+Your copy of Europe Engulfed should include the following:
+
+Air-Routes – White dotted-lines on the map that cross a Sea-zone and
+connect two land areas for purposes of moving ground-support and/or
+Airborne-Assaulting units across the Sea-zone without utilizing Fleet
+Points. These lines are always bidirectional. Eligible units crossing
+via an Air-Route use their entire movement allowance.
+
+284 Wooden Blocks, as follows:
+Nation
+Block
+Number of
+Represented
+Color
+Blocks
+Germany
+Gray
+68
+German Elite Units
+Dark Gray
+10
+Axis Minor Powers
+Yellow
+18
+Italy
+Light Green
+20
+U.S.A.
+Dark Green
+27
+France
+Light Blue
+27
+Great Britain
+Dark Blue
+24
+Soviet Union
+Red-Orange
+68
+Soviet Elite Units
+Dark Red
+7
+Neutrals
+Brown
+15
+One Rule Book (this book)
+One Play Book
+Two Mapsheets
+Die-cut labels to be peeled & affixed to the wooden blocks
+24 Dice (12 each of two different colors)
+176 die-cut square markers
+68 die-cut round markers
+5 Player-Aid Cards (8.5 x 11)
+Note that some extra blocks have been included, so the block count
+may be higher than listed. Extra stickers have also been provided in
+case they are needed to replace misapplied stickers. If any of these
+components are missing or damaged, write to the following address:
+GMT Games, LLC
+P.O. Box 1308
+Hanford, CA 93232-1308
+www.GMTGames.com
+The designers and GMT Games authorize and permit the holder of
+this rulebook to make one photocopy of the label sheets and the counter
+sheets for personal use.
+
+Unit Types
+Armor
+Infantry
+Airborne
+
+Contested Area – A contested area is one in which both sides have
+ground combat units. The side that was the last sole-occupant controls
+each contested area.
+Controlled Area – Either the Axis or the Allies control all non-neutral areas on the map. The player that was the last sole-occupant
+controls each area. All areas behind a player’s scenario start-line
+begin as controlled by that player. Enemy-controlled area’s are converted to friendly-control at the instant they are occupied solely by
+friendly Ground Unit(s), except for areas taken by an uncontested
+amphibious or airborne assault, which are not converted until the
+Initial Combat Phase.
+Desert – Treat in all ways as Clear terrain unless playing with Optional Rule 13.23.
+Elite Ground Units – These units represent the German & Soviet
+practice of lavishly equipping and giving the best training to a few
+formations, then using those units at critical battles. These units were
+more carefully tracked by opposing intelligence services, which is why
+they have a different block color from the other units of their Nation.
+There are seven dark red Soviet tank and infantry units, and ten dark
+gray German panzer and infantry units. These units are more powerful because they fire with a free hit-bonus, however they cost twice as
+much to build (see 4.43(a)).
+Fleet Points – Naval forces are represented in the game as ‘Fleet
+Points’, with each point being represented by a Fleet Point marker,
+which is placed within the Sea-zone it currently occupies. Fleet Points
+can be used to perform each naval function during a turn, rather than
+being forced to choose just one, making them very flexible (exception
+– see rule 8.3). The counter-mix is not a limit on the number of Fleet
+Points any Nation can have or construct. Fleet Points may not be voluntarily destroyed.
+Force Pool – All the units and Special Actions available for construction by a given power. As units are destroyed and as Special Actions
+are expended, they are returned to this pool.
+
+Special
+Action
+marker
+
+Cavalry
+Militia
+Fleet
+Points
+
+Cadre – A ground unit that has only one step remaining is considered
+to be at cadre level.
+
+Ground Support Units
+Ground
+Dogfight
+Support Side
+Side
+
+See Player Aid Card for a complete list of markers
+
+Fortresses – Fortresses are fortified ports that act as areas within areas (see map). They affect combat in several ways (see 5.17, 5.5, 6.85
+& 6.86). An unoccupied Fortress is automatically controlled by the
+player that controls the surrounding area (exceptions: Malta, which
+has no surrounding area, and Gibraltar, which is Western Allied controlled as long as Spain remains neutral). This surrounding area also
+functions as a port for game purposes so long as the fortress is friendlycontrolled and uncontested. Units in friendly-controlled Fortresses
+receive Limited Supply (see 7.9) if they cannot otherwise trace a valid
+supply path.
+Ground Units – These are the square wooden blocks included in the
+game. These blocks are usually placed on edge, with the information
+facing away from your opponents, thereby providing a built-in limited intelligence system. The current step value of each unit should be
+along the topmost edge of the playing piece. The highest printed value
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+4
+
+Europe Engulfed RULEBOOK
+
+on each label represents that unit at full strength. Ground units in the
+game represent (approximately) corps, except for the Soviet units,
+which represent (approximately) armies.
+Ground-Support Units – These are the round die-cut markers with
+airplane silhouettes. They are color coded to match the ground units
+of each country. The number provided for each country is the maximum that country can have in play at any given time. A ground-support unit will provide a hit-bonus to any one desired ground unit in the
+same area during Combat Phases of any Clear or Light Mud weather
+turn (see 6.6).
+Hit-Bonus(es) – A hit-bonus is a modifier that makes it easier for you
+to hit what you are shooting at. Normally you need to roll a six on a
+die to score a hit. Each hit-bonus received adds one to the number
+rolled on each affected die, thus making it easier to hit. With one hitbonus you would hit on a 5 or 6, with two hit-bonuses you would hit
+on a 4 through 6, etc.
+Home Areas – Home Areas are the core areas of a Nation where new
+units are built and to which supply is traced. Home Areas for each
+Nation are those within their original borders, and they are shaded the
+appropriate color on the map (gray for Germany, red-orange for the
+Soviet Union, etc.). Non-Home Areas aligned with each country have
+the same color code as their Home Areas, but are identified by having
+a diagonal striping pattern. The American Home Area is the U.S.A.
+box in the Atlantic Ocean. British Home Areas also act as Home Areas to U.S.A. units for supply purposes only.
+Infantry Class Units – These are ground units that do not possess
+significant numbers of tanks, and are represented in the game as the
+infantry, airborne, cavalry, and militia units.
+Markers – These are the 176 square and also the 68 round die-cut
+markers included in the game. They are used to represent field fortifications, ground-support units, Special Actions, and various game
+markers.
+Major Powers – The main combatants, each with its own production
+level and Force Pool. The Major Powers and their block colors are:
+Germany (gray & dark gray), Italy (light green), the Soviet Union
+(red-orange & dark red), Great Britain (dark blue), France (light blue),
+and the U.S.A. (dark green).
+Middle-East – All areas of the French Levant, Transjordan, Iraq, and
+Persia.
+Militia Units – These units are the converse of elite infantry units.
+They are weaker in that they never receive any hit-bonuses, but they
+are cheaper to build (see 4.43(b)).
+Minor Powers – These are all the Nations shown on the map other
+than the six listed as Major Powers above. The Axis Minor Powers
+use the yellow blocks, and the other Minor Powers use the brown
+blocks.
+Newly Contested Area – A newly contested area is one that has become contested as a result of the just completed Movement Phase. An
+area may be newly contested more than once over the course of the
+game, providing that each time it was solely occupied by one side,
+and then entered by the other.
+Special Actions – These are the die-cut round markers with the words
+“Special Action” written on them. These represent concentrated supply/leadership resources and the operational skill to put them to best
+use. They can be expended for special offensive or defensive operations (see 7.2–7.9).
+
+Steps – Steps are the increments by which ground units are built-up
+by production/replacements, and depleted by combat losses. If a
+multi-step unit suffers a hit, reduce its current step value one point
+by turning the block 90 degrees counter-clockwise. If a unit with
+only one step remaining suffers a hit, it is eliminated and returned to
+its force pool.
+Straits – Straits are narrow bodies of water separating two land areas.
+They affect both movement (see 5.16) and combat (see 6.83). There
+are three straits on the map: The Straits of Messina between Sicily and
+Italy, The Dardanelles in Turkey, and The Kerch Straits near Sevastopol in the Soviet Union.
+Strat-Move – abbreviation for Strategic Movement (see 5.2)
+Strategic Assets – The strategic air forces of each Major Power are
+abstractly represented as points on the General Information Track, along
+with U-boats, ASW, and Flak levels. As these Assets are produced and
+destroyed, their current value is adjusted by moving the appropriate
+marker to the corresponding number on this track (see game map).
+The maximum number of bombers and fighters that each side can
+have is 30 of each type. The maximum number of U-boat points the
+Germans can have is 60 (values of 31-60 are shown by flipping the Uboat marker over to its +30 side).
+Suez Canal – This is the waterway connecting the Mediterranean to
+the Red Sea (and for the Allies only—on to the Atlantic by going
+around Africa) through Egypt. This waterway can be used for any
+allowed purpose only by the side that currently controls both the Alexandria and Sinai Desert land areas.
+Weather Zones – There are three weather zones on the map: West,
+East, and South. Weather affects both movement and combat (see 1.1)
+and has various other effects. The Weather Lines (see Map) divide the
+three weather zones.
+WERP(s) – Pronounced “wurps”, this is an acronym meaning Wartime Economic Resource Points. These points measure a nation’s
+military industrial output for the European theater of the Second
+World War.
+
+1.0 SEQUENCE OF PLAY
+Each game turn represents two months and is broken into Phases as
+outlined below. These Phases must be completed in the order presented.
+
+1.1 WEATHER DETERMINATION PHASE
+The map is divided into three weather zones; Eastern, Western, and
+Southern. During March/April and November/December turns of each
+year, weather is variable and must be determined. These turns have
+two possible ‘Variable Weather’ result boxes (see map), one box includes Mud and Lt. Mud results, and the other includes Snow and
+Clear results.
+1.11 Variable Weather is determined on the above listed turns by the
+Soviet and German players each rolling one die and determining the
+highest roll. The Variable Weather boxes show one result if the German
+player rolls high, and another result if the Soviet player rolls high (or if
+the die-roll is tied). This one die-roll comparison determines weather in
+all three weather zones. Clear weather has no effect on play, while the
+effects for Snow, Mud, and Lt. Mud are detailed below.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+1.12 SNOW: During snow turns all attacking units
+halve the total number of combat dice due them
+(dropping fractions), for every Combat Phase in each
+player-turn. Armor and infantry class units are totaled and halved separately. All applicable multiplication and division is performed before dropping any
+remaining fractions. There is no effect on defending units. Soviet and
+Finnish ground units attacking in a Home Area are not affected by this
+penalty and roll normal dice. Swamp is treated as rough terrain during
+Snow Weather turns, except that armor may still not enter swamp.
+Ground-support units may not participate in combat within a zone
+that is experiencing snow.
+EXAMPLE: 15 steps of attacking German infantry are using a normal attack in snow. They are halved and only roll 7 dice.
+EXAMPLE 2: Three steps of Elite Infantry and nine steps of regular
+infantry are attacking in Snow, the attacker rolls six dice total, but
+only one will be with the Elite Hit-bonus (fractional Elite dice within
+a class are added into the non Hit-Bonus dice allowed).
+1.13 MUD: Exiting and/or entering a mud area costs
+a unit’s entire movement allowance for operational
+movement. The Initial Strategic Movement Phase is
+not affected by mud. No Breakthrough Movement
+Phases (Operational or Strategic) are allowed into
+or out of any area experiencing mud. Armor may
+never use any hit-bonuses in mud (attacking or defending), including
+the surprise attack bonus (see 14.43(b)) and the elite unit bonus (see
+Glossary). Defending infantry-class units, receive a hit-bonus during
+mud turns. Ground-support units may not participate in combat in an
+area experiencing mud weather.
+1.14 LIGHT MUD (LT. MUD): A weather zone experiencing Lt Mud weather is in all ways treated as
+Clear weather except that no Breakthrough Movement Phases (Operational or Strategic) are allowed
+into or out of any area experiencing Lt Mud.
+
+1.2 AXIS PLAYER-TURN
+1.21 Initial Supply Determination Phase:Axis units are checked to
+determine if any are out of supply (see 3.1 & 3.3). Units determined
+to be in supply remain in supply, even if moved or subsequently placed
+into an out of supply situation, until the Final Supply Determination
+Phase (see 1.27). Units that are determined to be out of supply are
+marked with ‘Out of Supply’ game markers and they remain out of
+supply until the Final Supply Determination Phase.
+1.22 Production Phase: The Axis player calculates available WERPs,
+resolves and subtracts out strategic warfare damage and naval maintenance costs, then spends the remaining WERPs to make purchases
+and/or to add replacement steps to reduced units according to the production rules (see 4.0).
+1.23 Initial Operational Movement Phase: All Axis units may move
+during this phase using the rules for operational movement (see 5.1).
+War can only be declared during this phase. You may declare war
+anytime during this phase, then, after any defending units are deployed,
+your units may freely move into the newly hostile power.
+1.24 Initial Strategic Movement Phase: A certain number of Axis
+units (see 20.3) may be moved using the rules for Strategic Movement
+(see 5.2).
+
+5
+
+1.25 Initial Combat Phase: A single Round of combat is fought in
+all areas where combat is desired or required (see rule 6.2). Combats
+that are initiated in this phase do not require the expenditure of a Special Action, unlike Breakthrough Combat Phases (and Breakthrough
+Movement Phases) that are purchased in 1.26 below.
+1.26 Breakthrough Phase(s): The Axis Player may conduct one or
+more Breakthrough Phases by expending his Special Actions. Breakthrough Phases may occur in any order the phasing player desires and
+each phase may occur more than once. Breakthrough Phases include
+Combat (see 6.7) and Movement Phases, both Operational and Strategic (see 5.4).
+1.27 Final Supply Determination Phase: Axis units that are found
+to be out of supply are eliminated (even those that were in-supply
+during the Initial Supply Determination Phase earlier) and placed in
+the force pool unless they are in a friendly-controlled fortress or a
+Special Action is spent (see 7.9).
+
+1.3 ALLIED PLAYER-TURN
+The Allied player conducts all of the phases contained in 1.21 through
+1.27 above, replacing the word Axis with Allied in all references.
+
+1.4 TURN ADVANCEMENT PHASE
+The turn marker is advanced to the next turn, and a new game turn
+begins with the Weather Determination Phase.
+
+2.0 STRATEGIC WARFARE
+Strategic warfare is an attack on enemy production capability and is
+always resolved during your opponent’s Production Phase, after total
+WERPs have been determined, but before paying for Naval Maintenance. U-Boat warfare and Germany’s bombing of Great Britain are
+resolved in the Allied Production Phase. The Western Allies’ bombing
+of Germany is resolved in the Axis Production Phase. U-boat warfare
+is mandatory if the Germans have at least one U-boat point on the
+General Information Track. Strategic Air warfare is conducted at the
+option of the bombing player.
+
+2.1 ASW and the U-Boat Campaign
+The British player is assigned a starting ASW (AntiSubmarine Warfare) level and the German player is assigned his beginning number of U-boat Points in the
+set-up instructions for each scenario. These starting levels may be increased by production and decreased (Uboats only) by Strategic Warfare.
+2.11 The U-Boat portion of strategic warfare is begun by the British
+player rolling on the ASW Table (see map), and cross-referencing the
+die roll with the current ASW level. The indicated result is the percentage of U-Boat points that are eliminated, with fractions rounded up (see
+U-boat Loss Table (20.5)).
+2.12 The German player then rolls a die on the U-Boat Attack Table
+(see map) and cross-references the die roll with the column corresponding to the remaining number of U-Boat points. The result indicated is then subtracted from Britain’s available WERPs for the turn.
+2.13 If there are at least 20 U-Boat points remaining on the track after
+U-Boat warfare is resolved, Allied Strategic Movement (see 5.2) will
+be adversely affected that turn. For every 20 U-Boat points on the
+track subtract one from both U.S.A. and British allowable Strat-moves
+(see 20.3).
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+6
+
+Europe Engulfed RULEBOOK
+
+EXAMPLE: During an Allied Player’s Strategic Movement Phase
+there are 32 U-Boat points on the General Information Track. Both
+the U.S.A. and Great Britain have their Strat-moves reduced by one,
+to three units apiece.
+
+2.2 Strategic Air War
+Strategic bombing is conducted at the option of the bombing player,
+Germany against Great Britain, or the Western Allies against Germany.
+The bombing player must have at least one bomber point in order to
+conduct a raid. Germany may not launch a raid until the Game Turn
+after the conquest of France (see 10.12).
+2.21 Bomber points are used for bombing raids, and may be used once
+per turn. Fighter points are used offensively during your opponent’s
+Player-turn as escorts, and defensively during your own Player-turn
+as interceptors. Each fighter point may be used for both functions in
+the same turn.
+2.22 If a player decides to conduct a raid, all bomber points must be
+sent, none may be held back. All available fighter points must also be
+sent as escorts. Air combat is resolved in the following manner:
+a) Defender Declares Interceptor Reaction – On Clear or Lt Mud
+weather turns (weather effects for air raids are always based on the
+current weather in the Western Zone), a raid containing five or more
+bomber points will force all of the defending fighters to intercept
+the raid. On a Mud or Snow turn, 10 or more bomber points are
+required to force an engagement. If there are fewer bomber points,
+the defending player may elect not to intercept. If the defending
+player chooses not to intercept, the defending fighters may not be
+fired upon or fire at the raiding force.
+b) Escorts Fire on Interceptors – If the defending fighters have intercepted the raid, then the raiding player rolls one die for each
+escort point, with each 6 rolled resulting in an exchange, with one
+escort and one interceptor point each being eliminated. Excess exchange results after all interceptors have been destroyed are ignored.
+c) Surviving Interceptors Fire on the Bombers – Interceptors that
+were not destroyed by the escorts fire on the bombers, with each 5
+or 6 rolled eliminating one bomber point. Excess hits are ignored.
+
+Flak
+Level
+
+Quantity of Flak Dice
+
+0
+
+None
+
+1
+
+1 Die for every 5 enemy bomber points
+
+2
+
+1 Die for every 4 enemy bomber points
+
+3
+
+1 Die for every 3 enemy bomber points
+
+4
+
+1 Die for every 2 enemy bomber points
+
+ber of flak dice is based on the current number of bombers at the
+time flak is resolved and the flak level as follows:
+Fractions are dropped without providing a die, and for each ‘6’ rolled,
+one bomber point is eliminated by Flak.
+2.23 BOMBING RESOLUTION: Bombing is then resolved. One die
+is rolled for each surviving bomber point. Each roll of a 5 or a 6 scores
+a hit in Clear or Lt Mud weather. For Mud or Snow turns a 6 is needed
+to score a hit. Each hit scored will reduce the opponent’s production
+for this turn by one WERP.
+2.24 The following are exceptions to the air combat rules. Once they
+are activated, they remain in effect for the remainder of the game.
+a) Starting with the Jan/Feb 1943 turn,
+all Allied bombers get a hit-bonus
+when bombing (i.e. 4-6 to hit in Clear
+or Lt Mud, 5-6 to hit in Mud or Snow).
+Also at this time, Allied bombers fired
+upon by interceptors convert each “5” rolled against them into an
+“exchange” result, destroying one interceptor along with the bomber.
+All hits are resolved before exchanges. Any excess hits or exchanges
+are ignored.
+b) Beginning with the Jan/Feb 1944
+turn, all Allied escorts have improved
+fire when targeting German interceptors. They therefore score an exchange with each 5 rolled, and they
+hit (eliminate) an interceptor with each 6 rolled. All hits are resolved before exchanges. All excess hits and exchanges are ignored.
+2.25 RAIL INTERDICTION: Allied Strategic Bombing also affects
+Germany’s Strategic Movement. If a raid is conducted in Clear or Lt
+Mud weather, every 5 bomber points remaining on the track after a
+raid subtracts one available Strat-move from Germany. In Mud or Snow
+weather turns, every 10 bomber points after a raid will subtract one
+strat-move. Note that a raid must actually be conducted for this rule to
+take effect.
+
+EXAMPLE: 18 Allied fighter points escort 7 Allied bomber points on
+the Sep/Oct 1942 turn (clear weather). The Germans have 12 defending fighter points that must intercept. The Allies roll 18 dice and
+come up with 3 - 6’s for 3 exchanges. The Germans and Allies each
+eliminate 3 fighter points. The 9 remaining German interceptors shoot
+at the bombers, rolling 1 - 5, and 2 - 6’s for 3 hits, eliminating 3 of the
+7 Allied bomber points.
+d) Flak may now shoot at the remaining bombers. Germany and
+Great Britain begin each scenario with the flak level assigned by
+the set-up instructions. The flak level may be increased once each
+calendar year (see 4.6) to a maximum flak level of four. The num-
+
+2.26 MAXIMUM BOMBING DAMAGE: Bombers may not inflict
+more hits on defending production in any one raid than one-half of the
+sum of WERPs within supplied Home Areas currently under the
+defender’s control (see 4.12).
+2.27 BOMBING IN SUPPORT OF GROUND OPERATIONS: On
+any turn(s) in which the Western-Allies have at least a 2:1 superiority
+in Fighter Points during the Strategic Warfare portion of an Axis Production Phase, the Allies may announce before the bombing raid is
+resolved that they want bomb hits to affect German Strat-moves in the
+west rather than German WERPS (exception—Bombers may not be
+re-routed on consecutive turns). The bombing raid is resolved normally, with the exception that instead of reducing German production, each hit reduces Axis strat-moves allowed in the Western weather-
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+zone by one during each Axis Strategic Movement Phase of that turn.
+If the Allies inflict more hits than the Germans have strat-moves, the
+additional hits are lost with no effect.
+EXAMPLE: The Allies declare that their bombers are supporting the
+Overlord invasion at the beginning of the German Production Phase
+in Jul/Aug 1944. After the raid is resolved, the Allies inflict 4 hits on
+the Germans and return home with 11 bombers. German strat-moves
+are reduced per rule 2.25 from seven to five strat-moves per phase.
+Of these five, no more than one may originate in, pass through, or
+end in the Western weather-zone each Strat-Move Phase throughout
+the Jul/Aug 1944 turn.
+
+2.28 V-WEAPONS: Beginning with the Jan/Feb turn of 1944, the German player may begin purchasing V-1 rockets. These rockets act as
+single-use bombers and attack England (only) during the Allied Production Phase. V-weapon attacks are resolved separately from any
+bomber attacks the German player may make, and Allied fighters may
+intercept both attacks the same turn. The cost is one WERP for every
+two V-1 points. The German player must control the Pas de Calais
+area of France to utilize V-1’s. Allied fighters may intercept V-1’s;
+needing to roll 5’s or 6’s to hit (no exchanges). Flak fires on V-1’s as if
+they were bombers. V-1’s that survive interception and flak roll one
+die per surviving point and refer to the V-weapon chart below, after
+which they are expended. V-Weapons do not effect Allied Strategic
+Movement. German fighter points may not escort V-Weapon attacks.
+
+V-Weapon Chart
+Die
+Roll
+
+WERPs Subtracted
+
+1-2
+
+0 WERPs
+
+3-4
+
+1 WERP
+
+5+
+
+2 WERPs
+
+7
+
+3.0 SUPPLY
+3.1 General Rules
+To be in Supply, each area or unit must trace a path of continuous
+friendly-controlled areas to a supply source for the controlling Power.
+Supply may be traced across straits (but not Air-Routes) and may be
+into or through a friendly-controlled contested area. Supply may be traced
+out of an enemy-controlled contested area, but never through one.
+
+3.2 Supply Sources
+For each Minor/Major Power, supply is generated within a friendlycontrolled Home Area, even if contested. For Minor Powers, this Home
+Area is self-sufficient. For Major Powers, this Home Area does not
+generate supply unless it can itself trace a land supply-path, as in 3.1
+above, to either another friendly-controlled Home Area OR a friendlycontrolled Resource Area.
+Exceptions: The following Major Power Home Areas are self-sufficient for their Nation, and do not need a 2nd trace if friendly-controlled:
+The Leningrad Fortress (provided the Soviets currently control the
+Ladoga Swamps area, also in supply—Note that Leningrad and the
+Ladoga Swamps are NOT mutually supporting) , the U.S.A. box, the
+Ural Mountains Area, and Baku.
+
+3.3 Supply Paths Across Sea-Zones
+Units may trace a land supply path as in 3.1 above to a friendly-controlled port, then trace across a Sea-zone to another friendly-controlled
+port, then follow a 2nd land supply path to a Supply Source, up to the
+supply-capacity of the Fleet Points in that Sea-zone—note that
+Leningrad is not a valid destination port if Novgorod is enemy-controlled. Units may trace a supply path through multiple contiguous
+Sea-zones up to the supply-capacity of the Fleet Points in each zone,
+provided the tracing player is eligible to transfer Fleet Points between
+those zones per the land control restrictions of 8.31 or 8.32, as appropriate. Only one leg of any supply path may be by sea. Supply-capacity may not be intercepted or interdicted.
+
+Beginning with the Sep/Oct turn of 1944, the German player may
+purchase V-2 point’s at a cost of one WERP per point. V-2’s act as V1’s except that they cannot be intercepted or fired upon by flak, and
+may be fired from any friendly-controlled coastal area from Normandy
+to The Netherlands. Additionally, they receive a +1 hit-bonus on the
+table above.
+
+3.31 FLEET SUPPLY-CAPACITY: Each friendly Fleet
+Point in a Sea-zone can carry supply for a number of
+units; four units per Fleet Point for France, Britain, and
+the U.S.A., and three units per Fleet Point for the Axis
+and the Soviets. Soviet units may NOT use WesternAllied Fleet Points and vice-versa. Each ground and ground-support
+unit tracing a supply path through one or more Sea-zones counts as
+one against this capacity in each zone it traced through (Exceptions—
+see 3.32 and 7.22).
+
+If there are any V-Weapons on the General Information Track, at least
+one half of each type (rounded up) must be fired each turn. The remaining half may be saved until the next turn, when again, at least one
+half of what is then currently on the General Information Track must
+be fired. There are V-1 & V-2 markers included which are used to
+track the current level of V-weapons on the General Information Track.
+
+3.32 If Gibraltar is Axis controlled, or there are insufficient Fleet Points
+in the Mediterranean, the surplus Allied units in the Mediterranean
+that cannot trace directly through Morocco into the Atlantic must trace
+through the Suez Canal/Red Sea, or through Persia, and around Cape
+of Good Hope, Africa. Each such unit tracing ‘around the cape’ counts
+as four units against the Supply-capacity of the Atlantic Fleet Points.
+
+2.3 Strategic Warfare Building Limits
+Each Nation may build no more fighter, bomber, V-weapon, and Uboat points in a single turn than the following:
+Germany: 8 U-boats, 6 V-1’s, 2 V-2’s, and 4 aircraft points, with
+a maximum of 2 Bombers
+Britain:
+
+2 aircraft points, maximum of 1 Bomber
+
+U.S.A.:
+
+6 aircraft points, maximum of 3 Bombers
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+8
+
+Europe Engulfed RULEBOOK
+
+3.33 MEDITERRANEAN SUPPLY RESTRICTIONS: When a supply path is traced through the Mediterranean Sea-zone, the Supplycapacity for each friendly Fleet Point is reduced by one for each of the
+two following conditions that apply:
+a) One or both of Malta or Sicily is enemy-controlled (can affect
+both sides)
+b) Crete is Axis-controlled (affects Western-Allies only).
+The maximum reduction is one for the Axis, and two for the WesternAllies.
+EXAMPLE: The British have nine ground & ground-support units
+needing supply as follows: seven in Egypt, one in Gibraltar, and one
+in Malta, with the Axis controlling Sicily & Sardinia, but not Crete
+(Allied Mediterranean supply is reduced by one to three units per
+fleet). He has two Fleet Points in the Mediterranean and four in the
+Atlantic. The unit in Malta and five of the units in Egypt are supplied
+through the Mediterranean, using all of that fleet’s supply and six of
+the Atlantic fleet’s 16 capacity. The remaining two units in Egypt
+must trace through the Red Sea and around Africa, counting as four
+units each against the Atlantic fleet’s supply capacity, leaving it with
+two remaining. The unit in Gibraltar uses one of these. Therefore, all
+the units are supplied.
+3.34 Morocco is a port for Britain, France, and the U.S.A. only.
+
+3.4 Effects of Being Out of Supply (OOS)
+Units that are out of supply may move only one area
+during the Initial Operational Movement Phase; may
+not Strat-move; may not move at all using Breakthrough
+Movement Phases; may not receive replacements; and roll half the
+total dice allowed when attacking (rounded down). Out of Supply
+ground units defend normally. Out of supply ground-support units may
+not participate in combat (attack or defense).
+
+3.5 Restoring Supply
+Supply can only be restored to OOS units in the Final Supply Determination Phase. OOS units that did NOT move during the friendly
+Player-turn need only conduct a normal supply trace to restore supply.
+OOS units that DID move in the friendly Player-turn (flip the OOS
+marker over to its ‘moved’ side) must additionally occupy a friendlycontrolled area. OOS units must be kept separate from supplied units
+assisting in their breakout attempt, as the supplied units do not suffer
+from rules 3.4 or 3.6.
+
+3.6 Final Supply Determination Phase
+All friendly units are checked for supply after any allowed Fleet Point
+transfers (see 8.3). Units that were marked OOS during the Initial
+Supply Determination Phase may only have supply restored if they
+are now in supply per 3.5 above, unless they are in a friendly-controlled Fortress or receive Limited Supply (such units lose only one
+step each—see 7.9). All units (that were marked OOS or not) at this
+time without at least Limited Supply are eliminated. Remaining onmap units after the OOS units have been eliminated are considered to
+have a valid supply line until they re-check supply normally during
+the next friendly Initial Supply Determination Phase.
+
+4.0 PRODUCTION
+4.1 General Rules
+Units are produced and replacements are purchased during the Production Phase of each turn. WERPs are received each turn equal to
+your Nation’s modified basic production total (see 4.14), plus two
+WERPs for each allowed (see 4.11) non-Soviet resource area conquered and garrisoned by friendly ground units (conquered Soviet resource areas vary in value, see 4.13), plus any lend-lease received,
+plus any WERPs received from friendly Minor Powers (see 9.15 &
+9.63), minus strategic warfare effects. WERPs cannot be saved from
+turn to turn and strategic warfare damage does not carry over from
+turn to turn.
+4.11 Britain may receive additional WERPs for Alexandria (only), if
+it is friendly-controlled and garrisoned by a British ground unit. Germany receives WERPs for all resource areas captured and garrisoned
+by any Axis ground unit (but may then give up to 5 WERPs per turn to
+Italy, see 9.43). The U.S.A. and France may never receive WERPs for
+garrisoned resource areas. The Soviets receive WERPs for captured
+and garrisoned resource areas with no restrictions.
+4.12 Resource areas under enemy control or unable to trace to a supply source for the producing Nation do not count for production.
+Leningrad does count for the Soviets if friendly-controlled and the
+Ladoga Swamps are also friendly-controlled and in supply. Contested
+resource areas that are friendly-controlled and supplied do count towards this production. The value of each Home resource area is equal
+to your Nation’s basic production total divided by the number of resource areas, except for the Soviet Union (see 4.14). The Production
+Chart below summarizes these values.
+4.13 Conquered and garrisoned resource areas in the Soviet Union are
+worth only one WERP each with the exception of Moscow and Baku,
+which are worth the normal two WERPs each to the conquering Axis
+player.
+4.14 PRODUCTION CHART
+Nation
+Germany
+
+WERPs
+Base Total Per Area
+30
+
+6
+
+Italy
+
+10 **
+
+5
+
+France
+
+16
+
+8
+
+Great Britain
+
+24
+
+8
+
+Soviet Union
+
+34 ***
+
+1*
+
+U.S.A.
+
+40
+
+All Minor Powers
+
+N.A.
+2
+
+* Exceptions: Moscow = 4 and Baku = 5
+** see 9.42 for the period when Italy only has Base = 5
+*** see 9.24 for Soviet peacetime production
+NOTE: Half of the Soviet’s base production (17 WERPs) is considered to be off-map, to the East of the Urals.
+
+4.2 Naval Maintenance
+The first item that must be paid each turn is naval maintenance. One
+WERP is expended for each supplied Fleet Point currently on the map.
+Maintenance is not paid for unsupplied fleets (No friendly-controlled
+supplied port in its Sea-zone: such fleets are eliminated during the
+Final Supply Determination Phase unless supply has been restored by
+that time [see 8.3]). This cost is paid by the Nation indicated below
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+each Sea-zone’s name on the map (Exception: France pays maintenance for her own fleets). If unable to pay some or all naval maintenance costs, there is no adverse effect on the fleet. However, these
+costs must be paid before WERPs may be spent for any other purpose.
+All Axis Fleet Points transferred into the Atlantic become German
+and all Axis Fleet Points transferred into the Mediterranean become
+Italian at the moment of transfer.
+EXAMPLE: Italy transfers a Fleet Point into the Atlantic. The Italian Fleet Point would be converted into a German one and Germany
+would then assume the maintenance cost for that point beginning
+with the next Production Phase.
+4.21 Only Major Powers at war with another Major Power are required to pay these naval maintenance costs (i.e. the Soviet Union &
+Italy are exempt while neutral).
+
+4.3 Replacements
+Replacements are purchased to repair reduced units on the map. The
+cost for each step is on the Costs to Build Chart (see 4.43).
+4.31 A unit must be in supply and in a friendly uncontested area or
+friendly uncontested fortress to receive replacements. Exception: Unrestricted Replacements (see 7.8).
+4.32 Units may receive as many steps in replacements per turn as the
+owning player can afford except that a unit may not be increased to
+full strength (i.e., a 4-step block may only be replaced up to the 3-step
+level) unless it is in one of its Home Country areas or an area described below:
+a) Supplied German units are eligible to be increased to full strength
+if they are in a friendly uncontested area of Germany, Italy, France,
+Belgium, The Netherlands, Denmark, Hungary, or Poland.
+b) Supplied British/U.S. units are eligible to be increased to full
+strength if in Great Britain, the U.S.A., or in Morocco/any European port on the Atlantic Ocean, if friendly-controlled (including
+Gibraltar).
+c) Any Nation’s units in one, designated, supplied area can become
+eligible for full-strength replacements by expending a Special Action for Unrestricted Replacements (see 7.8).
+
+4.4 Producing New Units
+Units that are currently available in a Nation’s force pool may be built
+(except for Fleet Points, no Nation may build beyond the limits of its
+Force Pool). These units are paid for in the same manner as replacements (but see 4.43(b)), and may be built at any strength level desired,
+even full strength. After paying the WERP costs for each step desired,
+they appear as new units using the following rules:
+4.41 New units appear in an uncontested, friendly-controlled Home
+Area that is a valid Supply Source (see 3.2), with a limit of two new
+units per area per turn. New units may not appear in the Sevastopol or
+Leningrad Fortresses. Armor may not be built in swamp.
+4.42 There is no limit to the number of new units that the U.S.A. player
+may place in the U.S.A. home area or that the Soviet player may place
+in the Ural Mountains area each turn. If Baku is contested, but still
+Soviet-controlled, one new unit (Full-strength ok) may appear there
+as another exception to rule 4.41.
+
+9
+
+4.43 COST TO BUILD CHART
+Unit/Resource
+Infantry/Militia Step
+Cavalry Step
+Armor/Panzer Step
+Airborne Step
+Field Fortification
+Soviet Heavy Fortification
+Ground Support Unit
+Fighter Point
+Bomber Point
+Flak Improvement
+U-Boat Point
+Fleet Point
+A.S.W. Improvement
+Each Special Action
+
+WERP Cost
+1
+1
+2
+2
+5
+10
+5
+3
+5
+10
+1
+10
+15
+5
+
+a) Elite units cost twice the above rate for each step.
+b) Except for militia units, the cadre step of each new ground unit
+costs twice the normal amount (e.g. a new elite panzer would cost 8
+WERPs for the initial step, while a new militia unit would only cost 1
+WERP for each step).
+
+4.5 Production Protocol
+Production is completed for one Nation at a time, except that WERP
+transfers between Nations (see 9.35, 9.36, & 9.43) may be announced
+at any time. The producing Nation announces its WERP total, then as
+each new item is produced, and as each step of replacements is received, the Nation announces its remaining total. The player does not
+have to announce or show what types of ground unit steps are purchased. In this manner, the limited intelligence aspect of production is
+preserved. Special Actions, ground-support units, field fortifications,
+Fleet Points, and anything produced on the General Information Track
+must be revealed as purchased. There is no limited intelligence for
+these aspects of your production.
+
+4.6 Restricted Builds
+ASW, Flak, and Fleet Points may only be built a limited number of
+times each calendar year as follows:
+4.61 ASW and Flak levels may be raised
+only once per calendar year, beginning in
+1939. As each of these items is produced,
+its corresponding ‘Next Allowed’ marker
+is placed on the Jan/Feb space on the Turn
+Record Track for the following calendar year to show that it cannot
+be produced again until that time. Such purchases may be made during any friendly Production Phase within a calendar year. On each
+Jan/Feb turn, all ‘Next Available’ markers in the current Game-turn’s
+space should be returned to the owning Power’s Force Pool to show
+their availability for the coming year. Germany and Britain (only)
+may pay to raise their corresponding Flak level's. Only the U.S.A.
+(once at war) or Britain may pay for the once per year increase in the
+Allied ASW level.
+4.62 No Power may build more than one Fleet Point on
+any given Game-turn, nor may any Power build Fleet
+Points on consecutive Game-turns. Each Major Power
+has a ‘Next Fleet Allowed’ marker, which should be
+placed on the Turn Record Track two turns ahead of the
+current turn anytime a Fleet Point is built by that Power to indicate
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+10
+
+Europe Engulfed RULEBOOK
+
+when the next Fleet Point may be built by that Power (important—
+see scenario note 17.8(5)).
+4.63 Germany, Italy, and the Soviet Union may only build a maximum of one Fleet Point per calendar year. When one of these Nations
+build a Fleet Point, the ‘Next Fleet Allowed’ marker is placed either
+two Game-turns ahead, or on the following year’s Jan/Feb space,
+whichever is later.
+4.64 New Fleet Points may only be added to a Sea-zone bordered by a
+friendly-controlled Home Nation port (but may then be transferred see rule 8.3). New Fleets are placed with their "Trans. Avail." side
+showing.
+
+4.7 Partisans
+In order to avoid the partisan effects listed below, the Soviets and the
+Axis powers must garrison, with a ground unit, all conquered resource
+areas outside their respective Home countries. A British ground unit
+likewise must garrison Alexandria. A British, French, or U.S. ground
+unit must likewise garrison all Western-Allied captured resource areas in Germany and Italy. If an above area is not garrisoned, the following rules come into effect:
+a) An ungarrisoned resource area noted above will not provide any
+WERPs during the Production Phase.
+b) Supply may not be traced through such an ungarrisoned resource
+area (exceptions—British/U.S. units may trace supply through Alexandria if ungarrisoned and friendly controlled; German units may
+trace supply through the resource areas in Italy if they are
+ungarrisoned and friendly controlled; Note that there is not a need
+for an Axis garrison of Italian resource areas until after Italy has
+been conquered or has surrendered (see 9.46 and 10.31c)).
+c) Units may not enter or pass through such an ungarrisoned resource area during a Strategic Movement Phase.
+
+5.0 MOVEMENT
+5.1 Operational Movement Phases
+5.11 Infantry, militia, and airborne units may move to any one adjacent area. They may not move more than one area during each friendly
+Operational Movement Phase. Exception: airborne units making an
+airborne assault (see 7.3).
+5.12 Supplied armor, cavalry, and ground-support units may move up
+to two areas, but must stop when an enemy occupied area is entered.
+5.13 Ground-support units may also fly over a Sea-zone, if an AirRoute joins the two land areas flown between. To make this move the
+ground-support unit must begin a friendly Operational Movement
+Phase in a coastal area that has an Air-Route drawn from its coast. It
+may then move to the connected area across the sea, where it must end
+its movement. Moving across a Sea-zone requires the ground-support
+unit’s entire movement allowance.
+5.14 Units may leave a contested area if both of the following conditions are met:
+a) The unit started the current phase in the contested area, the first
+area entered is a friendly-controlled, uncontested area, and the unit
+does not enter any additional enemy-controlled or contested areas
+during the same phase.
+NOTE: The unit MAY enter such an area in a subsequent Breakthrough
+Movement Phase that turn (see 5.4).
+
+b) Friendly ground units totaling at least as many steps as the number of opposing ground units in the area are left behind as a rearguard.
+Other units may move into the area to allow the existing units to
+leave. Ground-Support units may ignore this particular clause but
+are still restricted by (a) above.
+EXAMPLE: The Germans move from a contested area that contains
+three 4-strength Soviet infantry units, the Germans must leave a
+rearguard totaling at least 3 steps.
+Exception: A Special Action may be spent, allowing every unit to
+leave (see 7.52).
+5.15 Swamp Terrain has the following effects:
+a) Armored units may not enter or move through swamp areas (even
+using strat-moves). Infantry-class and ground-support units stratmove normally but must stop upon entering swamp during Operational Movement.
+b) Units in swamp areas may not use Breakthrough Movement
+Phases. Units may only exit Swamp during an Initial Movement
+Phase, Operational or Strategic (see 1.23/1.24), except that they may
+still use a Special Action to retreat before combat (see 7.51). Units
+using a Breakthrough Movement Phase may enter, but not leave, a
+swamp area.
+5.16 MOVEMENT ACROSS STRAITS: Units may cross the Straits of
+Messina, The Dardanelles, and the Kerch Straits without utilizing Fleet
+Points during Operational Movement Phases as follows:
+a) The unit must start the phase in an area adjacent to the straits. It
+then moves across the straits into the adjacent area, where its Operational Movement ends.
+b) Only Ground-support and Infantry Class units may move across
+straits into an enemy controlled area. Also, if it is newly contested
+on this player-turn, defending units receive a hit-bonus for the first
+round of combat.
+c) Until the Sevastopol fortress is friendly controlled, Axis units
+may not cross the Kerch Straits if the crossing is opposed and would
+result in a newly contested area.
+5.17 FORTRESSES: There is no movement cost to move between a
+Fortress and its surrounding area if both are friendly-controlled, otherwise moving between them counts as moving an area. A unit entering a
+vacant enemy-controlled area containing an unoccupied fortress immediately converts that fortress to friendly-controlled (see ‘Fortresses’ in
+the Glossary). If the fortress is occupied by an enemy unit, it counts as
+moving an area to engage it, so an infantry unit that advanced into the
+area would have to wait for a Breakthrough Movement Phase to engage
+the Fortress, or wait until the following Game-turn. Enemy control of
+Leningrad precludes friendly movement and tracing of supply between
+the areas of Novgorod and Karelia.
+5.18 URALS: Axis units may never enter the Ural Mountains area.
+See rules 3.2 and 4.42 for the other special features of this area.
+5.19 Clear terrain, Rough terrain, and Rivers have no effect on movement.
+
+5.2 Strategic Movement Phases (Strat-Moves)
+5.21 Using Strategic Movement, any unit in a friendly uncontested
+area, including units that moved in previous phase(s) of the same Gameturn, may move to any other friendly uncontested area on the map
+with the following restrictions.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+5.22 The unit must trace its route over continuous friendly-uncontested land areas to its destination. Or, by using Sea-Transport (see
+5.3), the unit may trace its route to a friendly port and then by sea to
+another friendly port and on through other friendly uncontested land
+areas. Ground-support units may strat-move over Sea-zones by flying
+directly between friendly areas that are joined by an Air-Route; they
+do not use Sea-Transport if flown directly in this manner. Units may
+also strat-move across straits without using Sea-Transport.
+5.23 At no time during a strat-move may a unit enter, pass through, or
+leave an enemy controlled or a contested area.
+5.24 The National Limits Chart (see 20.3) limits the maximum number of units that can be moved per Strat-Move Phase. This maximum
+number may be reduced by Strategic Warfare (see 2.13 and 2.25), but
+never below one. Soviet Strat-moves are reduced to one per turn if
+Moscow is currently Axis-controlled.
+
+5.3 Sea-Transport
+
+11
+
+further that phase (5.14 must be complied with if leaving a contested
+port). Operational Sea-transport is resolved only once for each desired destination by moving all desired and eligible units to that destination, then the opposing player may elect to conduct naval combat
+(see 8.1), after which a different destination may be declared and executed as above.
+5.32 STRATEGIC MOVEMENT PHASES: A unit transported by an
+available Fleet Point during a Strat-Move Phase may move to a friendly
+uncontested port, embark, move to any other friendly uncontested port
+in any Sea-zone, disembark, and continue moving (but see 5.23). Units
+may use Strategic Movement through adjacent Sea-zones, provided
+the moving player is currently eligible to transfer fleet points between
+those zones per 8.31(Allies) or 8.32 (Axis), as appropriate. Units stratmoving through multiple Sea-zones count towards the friendly SeaTransport limits of both zones. Strat-moves utilizing Sea-Transport
+may be subject to Naval Interdiction (see 8.2).
+
+5.31 OPERATIONAL MOVEMENT PHASES: A unit transported by
+an available Fleet Point during an Operational Movement Phase must
+start that phase in a friendly-controlled port or beachhead and may
+move to either an invasion site (per 7.2) or any other friendly port or
+beachhead, contested or not, in the same Sea-zone, but may move no
+
+5.33 CAPE OF GOOD HOPE: British units (only) may Strat-move
+around Cape of Good Hope, Africa. Only one British unit may Stratmove around the cape per Strat-Move Phase, and this Strat-move uses
+the Sea-Transport capacity of four Atlantic Fleet Points and Britain’s
+entire Strat-move allotment for that phase (1-4 depending on U-boats).
+Units strat-moving around the cape may embark/disembark either in
+Upper Egypt or in Persia (Persia is a port, with access through the
+Persian Gulf). Strat-moves around the cape are allowed into Persia and
+Upper Egypt, even if the area is contested (it must still be friendly-
+
+EXAMPLES OF MOVEMENT: Unit A is an armor unit—armor
+units may not enter swamps. Unit B is a German militia unit that is
+prohibited in Russia—see 9.12. Cavalry (C1), armor (C2), and
+ground support units (C3) may move two areas. Unit D is an armor unit that may move two areas; however, it may not enter a
+contested area if it leaves a contested area (5.14). Unit E cannot
+
+enter the two areas marked because a ground unit may only leave
+a contested area if it enters a friendly controlled, and uncontested
+area. Note that two steps of German infantry were required as
+rearguard in order for units D and E to leave the area. Unit F is an
+infantry which may move one area. Unit G may not cross the Kerch
+Straits into a contested area until Sevastopol is friendly controlled.
+
+Ground and ground-support units may be transported by available
+Fleet Points during Operational and/or Strategic Movement Phases
+as follows:
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+12
+
+Europe Engulfed RULEBOOK
+
+controlled). Operational and Strategic Sea-Transport is also allowed
+directly between Upper Egypt and Persia (Western Allies only), including retreats, with each unit so moved utilizing one Atlantic Fleet Point.
+5.34 Each Fleet Point can provide Sea-Transport for any one ground
+or ground-support unit in its Sea-zone each Game-turn. As each Fleet
+Point uses its Sea-Transport capacity, flip the marker to its ‘w/out Transport’ side to show that it cannot again provide Sea-Transport for the
+current Game-turn.
+EXAMPLE: The Allies, with four Fleet Points in the Atlantic, use a
+Special Action to evacuate three units from Pas de Calais during the
+Axis Player-turn. In the Allied player-turn they decide to invade Norway. Only one unit may conduct the invasion, as only one Fleet Point
+remains unused.
+
+5.4 Breakthrough Movement Phases
+5.41 A player may spend Special Actions during the Breakthrough
+Phase(s) of his Player-turn to purchase Operational and/or Strategic
+Movement Phases. All rules that apply to Operational Movement (5.1),
+Strategic Movement (5.2), and Sea-Transport (5.3) also apply to their
+respective Breakthrough Movement Phases except as outlined below.
+Soviet units utilizing Sea-supply (see 3.3) are not allowed Breakthrough
+Movement Phases. Each Special Action spent will otherwise allow one
+Movement Phase as follows:
+5.42 Each Breakthrough Operational Movement Phase is resolved by
+designating one area; either friendly or enemy-controlled. All units
+that could legally move to the designated area using Operational Movement (see 5.1) may then move there. Armored, cavalry and groundsupport units within two areas of the designated area may optionally
+move only one area and end their move in any uncontested friendlycontrolled area adjacent to the designated area, even in an area that
+has just been converted to friendly status by another friendly unit passing through it during the same phase.
+5.43 If the designated area contains enemy units, Infantry and Militia
+units may not participate in the Breakthrough Movement Phase unless they currently have at least three remaining steps of strength (Armor, Ground-Support, Airborne & Cavalry may participate regardless
+of current strength).
+EXAMPLE: It is Jul/Aug ‘44, and the U.S. player spends a Special
+Action to declare an Operational Move to German-defended Paris
+from just-cleared Normandy. All 3 and 4 step U.S. infantry units move
+directly to Paris. The first armored unit to move liberates undefended
+Bordeaux on its way to Paris. The second armored unit stops in this
+now-friendly area.
+5.44 Each Breakthrough Strategic Movement Phase allows for a fresh
+allotment of Strat-Moves for the affected Nation (see 20.3). Sea-transport is not refreshed (prior usage carries forward).
+
+5.5 Stacking Limits
+There is no limit to the number of units that may occupy any nonFortress area. No more than one friendly ground unit (no ground-support units) may end a Phase in a non-Soviet Fortress, and no more
+than two friendly ground units (no ground-support units) may end a
+Phase in a Soviet Fortress. Units may overstack during a Phase, but if
+at the end of the phase, the limit is exceeded, excess units must be
+eliminated (owning player’s choice). When attacking an enemy-controlled fortress, the attacker may place double the stacking limit of
+ground units plus one ground-support unit in the fortress area. Attacking units which are in excess of the stacking limit when the battle is
+won or at the end of the player-turn are withdrawn out of the fortress
+and placed into the surrounding area. If a Special Action is spent to
+
+launch an airborne assault (see 7.3), the airborne-assaulting units do
+not count against the attacker’s stacking limit. However these airborne
+units are destroyed if the Fortress is not captured.
+
+6.0 COMBAT
+6.1 General Rules
+The phasing player is always considered to be the attacker, regardless
+of the overall strategic situation. Combat is optional for areas that
+were already contested at the start of the turn (as shown by the units
+being face-up in the area). The Initial Combat Phase is mandatory for
+areas newly contested as a result of the phasing player’s movement.
+The Initial Combat Phase is the only round of combat for an area
+unless Special Action(s) are expended for Breakthrough Combat
+Phase(s). Combat can result in both sides having forces remaining in
+an area.
+
+6.2 Round of Combat Procedure
+One area at a time, in any order the attacker desires, a round of combat
+is initiated by the attacker indicating the type of combat desired (Normal or Assault). Combat is then resolved for the declared area. In a 3player game, if the two attacking Allied players cannot agree on who
+should execute the next attack, the German player gets to choose the
+next attack to be resolved, and this attack does not have to be either of
+the ones the two Allies were arguing about. It does have to be an attack the Allies were going to engage this round. All combats in the
+Initial Combat Phase must be completely resolved before any Breakthrough Combat Phase(s) may be purchased.
+6.21 After the type of attack is indicated, the defender may expend
+one or more Special Actions to retreat before combat, or to reinforce
+the combat from adjacent areas (see 7.51 and 7.6).
+6.22 If the defender remains in the area, both players declare how
+many of their ground-support units will dogfight, and how many will
+support the ground attack. Players indicate this by hiding their groundsupport units behind one hand and flipping the counters to the appropriate side, revealing these commitments simultaneously. A different
+allocation may be made each round (Attacker declares first for solitaire play, PBM, and PBeM games).
+6.23 Ground-support units that dogfight with each other fire simultaneously at the start of each round, rolling one die each, and eliminating an opposing ground-support unit of the losing player’s choice on
+each result of a five or a six.
+6.24 If not already displayed from a previous round, ground units of
+both sides are now revealed by tipping them face-up in a line with the
+current value of each unit nearest to the line of enemy units. Once
+units are displayed in an area, they remain face-up until the area is no
+longer contested. Additional units moved into such an area are revealed immediately upon entry.
+6.25 Combat is resolved by dividing the forces into armor and infantry class units (cavalry, airborne, and militia units count as infantry).
+Armored units must fire at opposing armor, if present, and infantry
+units must fire at opposing infantry, if present. The players may further subdivide these firing units by the number of hit-bonuses they are
+to receive.
+6.26 Fires are resolved by rolling one or two dice (see 6.3) for each
+step remaining on the firing unit(s), one unit class at a time. Each roll
+of six or higher, after hit-bonuses are applied, will eliminate one step
+from a unit of the losing player’s choice among the unit class that was
+fired upon.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+
+Defender Fires First
+Soviets
+= 1 hit
+= hit
+
+= miss
+
+Dogfight
+
+EXAMPLE OF A COMBAT ROUND: The Germans enter a Soviet held clear-terrain area with
+three 4-step panzer units; four 4-step infantry
+units; and three ground-support units. The Soviet defenders have three unrevealed ground
+units and one ground-support unit. The German
+declares a normal attack and both sides reveal
+their ground-support commitments. The Germans had all three of his ground-support units
+providing ground-support, while the Soviet’s
+decided to dogfight this round. The Soviet plane
+rolls a 5, and the result is that the German must
+lose one ground-support unit. Both sides now reveal their ground units, the Soviets reveal one
+2-step armor unit and two 3-step infantry units.
+The Soviet armor fires at the Panzers, rolling a 3
+& 5, which misses. The Soviet infantry fires at
+their counterparts, rolling a 1,3,3,4,5, & 6, resulting in one hit on German infantry. The German decides to fire his 15 remaining infantry
+steps first, and he scores two hits, which reduces
+each full-strength Soviet infantry unit by one.
+The German decides to attach his two surviving
+ground-support units to two of the panzer units.
+He further decides to fire these units one at a
+time, to try and get through the enemy armor.
+The first supported panzer rolls a 1,3,4, & 5, scoring one hit because of the ground-support unit’s
+hit-bonus. The second supported panzer rolls a
+2,3,5 & 6, scoring two hits, which eliminates the
+enemy armor, with the surplus hit going on an
+infantry unit, leaving the Soviets with three infantry steps. The last panzer unit is unsupported,
+but now that the Soviet armor is gone, it receives
+the armor vs. infantry hit-bonus. If this panzer
+unit were supported it would have received two
+hit-bonuses. This final panzer unit rolls a 2,4,5
+& 5, scoring two more hits, which leaves the Soviets still in control of the area, but with only
+one step of infantry and a ground-support unit
+surviving the first round. This was a glorious
+victory for the Soviets, because with one defending step remaining, the German player must
+choose between two unpleasant alternatives; either idle this panzer army for the rest of this turn,
+or, after all other Initial Combat Phase battles
+have been fought, he could expend a Special Action to purchase a Breakthrough Combat Phase,
+allowing for an additional combat round in this
+area (see 6.7), solely to eliminate this one step
+of infantry and the ground-support unit (which
+would be eliminated as soon as it found itself
+alone in the area with enemy units (see 6.64)).
+Note that the German player would not be having this problem if he had displayed more intestinal fortitude and declared an Assault instead
+of a Normal Combat Option.
+
+13
+
+Germans
+Ground
+Support
+
+Attacker’s Return Fire
+Soviets
+
+15 dice score 2 hits
+(No Hit Bonuses—
+each 6 is a hit)
+
+Germans
+
+2 hits
+
+1 hit
+
+2 hits
+
+Ground Support provides a
+Hit Bonus
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Armor vs. Inf
+provides a Hit
+Bonus
+
+14
+
+Europe Engulfed RULEBOOK
+
+6.27 Each step-loss is recorded by rotating a participating unit of the
+owning players’ choice to its next lower level. All full-strength units
+within the targeted class must take one step-loss each before additional losses may be allocated to other units. These additional losses
+may be distributed as desired by the owning player within the appropriate class of units.
+
+6.61 Only one ground-support unit may be attached to each ground
+unit, and each ground-support unit supports only one ground unit of
+the same nationality.
+
+6.28 If more hits are scored against one unit class then there are steps
+available to lose, excess hits are taken by the other unit class in the
+area. Excess hits after all enemy units in the area have been destroyed
+are ignored.
+
+6.63 In a given battle, each side may have no more than three ground
+units supported by ground-support units per round. If a ground-support unit cannot legally support a ground unit, it may only be used to
+dogfight or to sit idle.
+
+6.29 If armored units do not have an opposing armored unit to fire at,
+they fire at infantry class units with a hit-bonus. Armored units may
+fire one unit at a time, in the hope of eliminating the enemy’s armor,
+thus allowing remaining unfired armor units to receive this armor vs.
+infantry hit-bonus. If infantry class units do not have opposing infantry units to fire at, they fire at armor class units with no modification.
+
+6.64 Ground-support units alone in an area with enemy ground units
+are immediately eliminated. This is not considered a combat and the
+enemy unit is not required to stop moving as per rule 5.12.
+
+6.3 Combat Options
+The two types of Combat Rounds are:
+6.31 NORMAL: The defender fires first, rolling one die per step, with
+the attacker extracting losses. The attacker's surviving units then fire,
+rolling one die per step, with the defender extracting losses.
+6.32 ASSAULT: The defender fires first, rolling two dice per step,
+with the attacker extracting losses. The attacker’s surviving units then
+fire with two dice per step, and the defender extracts losses.
+
+6.4 Summary of Hit-Bonuses:
+These hit-bonuses give a +1 modifier to combat die rolls and are cumulative.
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+j)
+
+Elite Units (see the Glossary) [B]
+Defending Inf/Cav in Mud (see 1.13) [D]
+Armor vs. Infantry (see 6.29) [B]
+Ground Support Unit (see 6.6) [B]
+Defending in Rough Terrain (see 6.81) [D]
+Defending vs. River/Strait Crossing (6.83) [D]
+Maginot Line [x2] (see 6.84) [D]
+Fortress [x2] (see 6.85) [D]
+Field & Heavy Fortifications (see 6.97) [D]
+First Round Defending Against Airborne or Amphibious Assault
+(see 7.21/7.31) [D]
+k) Mixed Axis Minor Powers (see 9.18) [B]
+l) Surprise Attack (optional rule 14.43(b)) [A]
+[A] Hit-bonus applies when attacking
+[D] Hit-bonus when defending
+[B] Hit-bonus applies in both cases
+
+6.62 German ground-support units may support the Axis Minor Powers (see 9.1), but may not support Italian units.
+
+6.7 Breakthrough Combat and Movement Phases.
+6.71 After all Initial Phase combats have been resolved Breakthrough
+Combat Phases (rounds) may be purchased by expending one Special
+Action per round per area.
+6.72 Breakthrough Combat Phases are initiated by expending the Special Action, declaring the area desired, and beginning the Round of
+Combat procedures (see 6.2) for the designated area only (including
+ground-support allocation & dogfighting). If two or more major powers in an area wish to attack in a Breakthrough Combat Phase, they
+must each expend a Special Action. Only the Major Power(s) that
+expend a Special Action may attack. The attacker may not assign casualties to friendly units that do not participate. Multiple Breakthrough
+Combat Phases in the same area are allowed, provided one Special
+Action is spent for each Phase.
+6.73 Breakthrough Movement Phases (see 5.4) may be purchased and
+intermingled with Breakthrough Combat Phases in any order the phasing player desires. Each Breakthrough Phase must be completely resolved before beginning the next. If a Breakthrough Operational Movement Phase ends with an area being newly contested, a mandatory
+combat round follows and must immediately be fought for that area.
+This mandatory combat round does not cost a Special Action, other
+than the one already spent for the immediately preceding Breakthrough
+Movement Phase. Breakthrough Movement into already contested
+areas do NOT result in combat as part of the same Special Action.
+6.74 If units of both sides coexist in any area(s) after all desired combat rounds have been fought, the units of both sides remain face-up in
+the engaged area(s) until, during some future phase or combat round,
+only one side remains. When only one side’s forces remain in an area
+that was contested, the surviving units are tipped up and faced away
+from the enemy.
+
+6.8 Terrain Effects on Combat
+Clear terrain has no effect on combat. Other terrain types affect combat as follows:
+
+6.5 Counterattack
+At the conclusion of each round of combat, the defender has the option to immediately counter-attack in that area by expending a Special
+Action (see 7.7).
+
+6.6 Ground-Support Units
+Each ground-support unit aiding the ground forces provides a hit-bonus to the unit it is attached to this round. Each surviving groundsupport unit that did not dogfight (see 6.23) is attached to a ground
+unit of the owning player’s choice just prior to rolling the dice. A
+different ground unit may be chosen each round of combat.
+
+6.81 ROUGH TERRAIN: Attacking armor loses its hit-bonus vs. infantry and all defending ground units receive a hit-bonus.
+6.82 SWAMPS: Attacking infantry-class units (armor may not enter
+swamp) receive half the total dice the group would normally attack
+with (fractions rounded down). These attack penalties are ignored on
+snow weather turns, when swamp is treated as rough terrain (armor
+still may not enter frozen swamp). Infantry-class units defend normally in swamp (and receive the rough terrain hit-bonus in snow).
+6.83 RIVER/STRAITS: If any attacking Ground units entered a defended area by crossing a river and/or strait, the defending Ground
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+Units receive a hit-bonus against the unit type(s) that crossed, but only
+if the area is newly contested this round.
+6.84 THE MAGINOT LINE: The area in France that comprises the
+Franco/German border provides two hit-bonuses to defending Western-Allied Ground units if any attacking Ground Unit entered the area
+directly from an adjoining area in Germany or Belgium. This affects
+both infantry and armor class units, but only for the mandatory round
+of combat which results when the area is newly contested. Additionally, any armored units that entered the area directly through the German or Belgian border may not fire in the initial round of combat, but
+they may be fired upon normally. The Maginot line is destroyed as
+soon as France is conquered or declared Vichy. It may also be destroyed by combat in the same manner as a fortification (see 6.97(b)).
+6.85 FORTRESSES: Leningrad, Sevastopol, Malta, Tobruk, and
+Gibraltar are fortresses. All units defending in a fortress receive two
+hit-bonuses every round of combat, and attacking armor loses its hitbonus vs. infantry. If the attacker has not cleared a fortress of defenders by his Final Supply Determination Phase, all attacking units in
+excess of the fortress stacking limit (see 5.5) are withdrawn to the
+surrounding friendly area. If the fortress has been cleared of defenders, at least one of the attacking units must occupy the fortress, with
+the balance deploying to the surrounding area. Leningrad, Sevastopol, Gibraltar, & Tobruk each have a surrounding land area (In
+Gibraltar’s case the surrounding area begins the game under Spanish
+control). Fortresses may not be attacked or entered until the surrounding area has been cleared of enemy units, except via Airborne Assault
+(see 7.3).
+6.86 MALTA: If the attacker has not cleared Malta by his Final Supply Determination Phase, then attacking airborne units are eliminated
+and invading ground units may either retreat to their port of origin or
+be eliminated. This retreat does not utilize additional Fleet Points; the
+same ships that brought them there take them back. This retreat, if
+chosen, may be intercepted by naval combat. By the same token, if
+the invasion is successful, units in excess of the stacking limit of one
+block may be eliminated or return to their port of origin, again using
+the same ships, and again intercept by opposing fleets is possible.
+Excess airborne units may return with invading units, if there are unused Fleet Points available in the Mediterranean, otherwise excess
+units are destroyed. The Ground-support unit, if present, returns to
+Sicily, win or lose.
+
+6.9 Field Fortifications
+6.91 Field fortifications (fortifications for short) may be built during
+the friendly Production Phase on Clear and Lt Mud weather turns (only)
+in any friendly uncontested clear terrain area that contains at least one
+ground unit of the same nationality as the building player. The ground
+unit(s) must have already been in the area, you cannot build a ground
+unit in an empty home area and then build a fortification there.
+
+15
+
+6.95 NATIONAL CONSTRUCTION LIMITS:
+a) Axis limits: Germany may not construct fortifications in the Southern weather zone until Italy is conquered or surrenders. Italy may
+only construct fortifications in the Southern weather zone.
+b) The Soviets may only construct fortifications in Home Areas (see
+9.25) until Jul/Aug 1941, or until they are at war with Germany,
+whichever occurs first. Afterwards they may construct fortifications
+as normal.
+c) The Soviets (only) may construct ‘Heavy Fortifications’. They
+are non-replaceable and only two may ever be built. They may only
+be built in the Home Resource Areas identified on the map (see
+terrain key). They cost 10 WERPs each, and they must replace an
+existing Field Fortification which was built in a prior turn. They
+continue to provide fortification benefits (are not destroyed) until
+their area falls under Axis control. They adhere to all other fortification rules.
+6.96 If a field fortification ends a player-turn without a friendly ground
+unit in its area, it is immediately removed from the map (exception—
+the marker may be flipped if using optional rule 13.32).
+6.97 EFFECTS OF FIELD FORTIFICATIONS:
+a) An area with a field fortification gives the defensive benefits of
+rough terrain to all friendly ground units for the mandatory first
+round of combat, but not for the optional counterattack, if launched.
+b) If, after the first round, including any counterattack, enemy units
+are still in the same area with the field fortification, it is immediately removed from the map (it has been breached).
+
+7.0 SPECIAL ACTIONS
+7.1 General Rules
+Special Actions may be purchased during the Production Phase, and
+may be spent on the options listed in 7.2 - 7.9 below. Special Actions
+do not have to be used in the turn of purchase, and may be accumulated, but never beyond the limits of the force pool.
+7.11 The maximum number of Special Actions a nation may have at
+any one time is limited as follows:
+Germany (1939 – 1941)
+
+5
+
+6.92 There is no limit on the number of fortifications each Major Power
+may build, within their available WERPs. The countermix is not a
+limitation (more may be created as needed).
+
+Germany (1942 – 1943)
+
+4
+
+Germany (1944 – on)
+
+3
+
+Italy
+
+1
+
+6.93 A field-fortified area provides its benefits to all friendly ground
+units in the area, including any that reinforce the area via a Special
+Action, regardless of nationality.
+
+France
+
+1
+
+Free or Vichy French
+
+0
+
+Great Britain
+
+2
+
+U.S.A. (1942)
+
+1
+
+U.S.A. (1943)
+
+2
+
+U.S.A. (1944 – on)
+
+3
+
+6.94 A fortification may not be constructed in an area that is already
+fortified, including Fortresses and Metz (if the Maginot Line is intact)
+(exception 6.95(c)).
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+16
+
+Europe Engulfed RULEBOOK
+The U.S.S.R. (1939 – 1942)
+
+1
+
+The U.S.S.R. (1943)
+
+2
+
+The U.S.S.R. (1944 – on)
+
+3
+
+NOTE: If Germany enters a reduction year with the previous year’s
+maximum already built, he does not lose the required marker until
+his next Special Action is expended, at which time it is permanently
+removed from the force pool.
+7.12 Purchased Special Action markers are placed in a Home country
+area. They may not be hidden from view. As each Special Action is
+expended, it is returned to the force pool.
+7.13 To undertake any activity requiring a Special Action, each involved Major Power wishing to participate must expend a Special
+Action. One Major Power may expend a special action in an area containing two aligned Major Powers, but only the Power that spent the
+Special Action receives the advantage associated with the activity.
+
+7.2 Amphibious Invasion
+This operation costs one Special Action per area invaded and requires an available beachhead marker for
+each area invaded. Invasions may only occur in the
+Initial Operational Movement Phase. The weather at
+the invasion site must be Clear or Lt Mud for the invasion to be allowed. Only infantry class units may participate in the
+invasion and they must begin the phase in one or more friendly ports
+(including beachheads) in the same Sea-zone as the invasion site. They
+are then moved, using Sea-transport (see 5.31), to the chosen site which
+must be enemy-controlled. The number inside the arrow at each invasion site signifies the maximum number of infantry units that may
+amphibiously assault that area. As part of the same Special Action
+expended, an airborne assault may also be mounted into the area if
+airborne units are in range. These airborne assaulting units do not count
+against the number shown within the arrow on the map.
+7.21 Any defenders in the area invaded, including those that reinforce
+via a Special Action, receive an additional hit-bonus vs. infantry for
+the first round of the initial combat. This hit-bonus is retained by the
+original defender for any first-round counterattack.
+7.22 If any invaders survive the first round, including any first-round
+counterattack, a beachhead is established (place a beachhead marker on
+or near the invasion arrow). Armored units and additional infantry units
+may now enter the area by sea in subsequent Operational Movement
+Phases. A beachhead acts as a normal friendly-controlled port to the
+invader for all purposes (even if the associated area is still enemy-controlled), except that units tracing supply through it count as two units
+each towards Sea-supply capacity, and units may only Sea-transport
+into a beachhead using Operational Movement Phases. A beachhead
+marker is removed if it is ever alone in an area with enemy ground
+units, or (at the owning player’s option) anytime after the invaders clear
+the beachhead area, and all friendly units that could trace supply through
+the beachhead have another valid path.
+7.23 Attacking ground-support units may participate in the Initial
+Combat Phase only if they fly directly to the invaded area in the Initial
+Operational Movement Phase. If brought in by Sea-transport, they
+must wait for the beachhead to be established.
+7.24 The Western Allies may not have more than two beachheads in
+play at a time. The Soviets and Axis cannot have more than one beachhead in play at a time, and the Soviets may only amphibiously invade
+in the Black Sea.
+
+7.25 An Allied amphibious invasion may be launched against Upper
+Egypt from Great Britain. To launch this invasion, two Special Actions must be spent. This invasion, and any subsequent reinforcing of
+the still-contested beachhead, if applicable, are the only operational
+moves that are allowed to go around the cape, and all such units must
+be British and must come from British Home Areas. Each invading or
+reinforcing unit counts as two units against the Sea-transport limits of
+the Atlantic fleet.
+7.26 For political reasons, each contested amphibious invasion made
+by the Western Allies once the Americans are in the war must contain
+at least one British and one American infantry-class unit. AirborneAssaulting units do not fulfill this requirement. Therefore, both Powers must expend a Special Action for each such invasion. Exceptions:
+The U.S.A. may act alone in invading Morocco, Marseille, or an Axiscontrolled invasion-site in Britain, and Britain may act alone in invading Malta or Upper Egypt.
+
+7.3 Airborne Assault
+This operation costs one Special Action for each area assaulted. Airborne assaults may only be conducted in the
+Initial Operational Movement Phase, and the weather must
+be Clear or Lt. Mud in both the origination and destination areas. Only full strength airborne units may conduct an airborne
+assault, and they must begin the phase in an uncontested, supplied
+area. The destination area must always be a Fortress or clear terrain
+area, and must either be within two areas of the origination area(s) or
+across an Air-Route as in 5.13. No airborne unit(s) may Airborne
+Assault on consecutive turns, even if eliminated and rebuilt.
+7.31 All defenders, including those that reinforce via a Special Action, receive an additional hit-bonus vs. infantry for the first round of
+the initial combat. This hit-bonus is retained by the original defender
+for any first round counterattack. This hit-bonus is not received if there
+is an amphibious invasion also occurring in the destination area (however the hit-bonus of rule 7.21 is still received).
+
+7.4 Breakthrough Movement & Combat Phases
+See 5.4 and 6.7 for details. Note that if there is ever an unresolved
+conflict between the Western-Allied Player and the Soviet Player in a
+3-player game as to who should get to spend the next Special Action,
+and this conflict is not resolved by rule 9.28, that the Axis player
+chooses which Allied player will expend the next Special Action.
+
+7.5 Retreat From Combat
+This action takes two forms, the first during an opponent’s Combat
+Round and the second during your Initial Operational Movement Phase.
+7.51 RETREAT BEFORE COMBAT: By expending a Special Action
+after the attacker has declared his attack, the defender may retreat all
+friendly units out of the threatened area (exception: see 7.7 and 9.64).
+The attacker should await this decision before revealing his units if
+the area is newly contested this round. A rearguard is not required, and
+the units may retreat to one or more adjacent, friendly-controlled, uncontested areas, including a friendly-controlled Fortress (within stacking limits), either within the area retreated from or within one of the
+allowed adjacent areas. If the area retreated from is a friendly port,
+some or all of the units may be retreated by sea to any other friendly
+port in the same Sea-zone. Each unit retreated by sea utilizes one of
+that Sea-zone’s Fleet Points against the Sea-transport limits for that
+turn. This retreat by sea is subject to naval combat (see 8.1). Groundsupport units may retreat over a Sea-zone by flying directly to an adjacent friendly area connected by an Air-Route, thereby not utilizing
+Sea-transport. Regardless of how the defenders retreat, any Special
+Action spent by the attacker for the announced attack is still expended.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+This decision must be made prior to the decision to reinforce (see
+7.6).
+7.52 RETREAT FROM A CONTESTED AREA WITHOUT LEAVING A REARGUARD: A Special Action spent during the Initial Operational Movement Phase (only) will allow the phasing player to completely vacate a supplied contested area. No rearguard is necessary,
+though it is permissible to leave a smaller than normally required
+rearguard behind.
+
+7.6 Reinforce Battle
+Each Special Action expended will allow up to one friendly ground
+unit and all friendly ground-support units from each adjacent uncontested area to join the battle prior to the round of combat being resolved, even across straits. Defending Powers (only) may reinforce a
+battle, even if their own Power’s units are not already in the battle.
+The attacker may not change his stated attack if the battle is reinforced. This option may not be taken to reinforce an uncontested
+Amphibious Invasion or an uncontested Airborne Assault nor may it
+be taken during a counterattack (see 7.7).
+
+17
+
+attacking is allowed after each round of attacks as long as the defender has Special Actions to expend. The Original attacker may not
+expend Special Actions to retreat or reinforce the battle during this
+counterattack.
+
+7.8 Unrestricted Replacements
+Each Special Action saved from the previous turn (only) may be spent
+during your Production Phase to allow for replacements to be taken in
+any one supplied area, even if contested and enemy controlled (an
+exception to rule 4.31). The units in the selected area may receive
+replacements as desired (even to full strength outside their Home Nation) at normal WERP costs. This Special Action may then be immediately repurchased if desired.
+
+7.9 Limited Supply
+Each Special Action expended during a Final Supply Determination
+Phase allows all units in one area to receive Limited Supply. Those
+units are reduced one step each rather then being eliminated. Groundsupport units and any units already at cadre level are eliminated. All
+units remaining in the area after this reduction are considered in supply (along with units able to trace regular supply as in 3.1 or 3.3) until
+the next friendly Initial Supply Determination Phase, when they again
+check for a normal supply path. Limited Supply as above is automatically awarded (without spending a Special Action) to units in a friendlycontrolled fortress which would otherwise be out of supply.
+
+8.0 NAVAL OPERATIONS
+8.1 Naval Combat
+8.11 During every Operational Movement Phase, and at certain other
+times identified in the rules, each player’s fleet(s) have the option to
+intercept and engage in Naval Combat if the enemy uses their fleet in
+the same Sea-zone to move ground units that phase (see 5.31, 6.86,
+7.2, and 7.51 for the qualifying moves).
+EXAMPLE: The Soviets, seeing that they have a ten units to four
+advantage in a newly contested area, declare an Assault. The German player smiles, expends two Special Actions, and reinforces the
+contested area with two units from each of three adjoining uncontested areas (one unit from each for each Special Action spent), including two elite units. The Soviets cannot recant their stated attack
+and watch their not-so-well planned attack get chewed to bits by the
+(now 10 instead of 4) defending German units.
+NOTE: Diversionary Attacks are a useful tactic while on the offensive. Simply move a weak, sacrificial unit into areas adjoining your
+main attack, so that for the Initial Combat Phase, defending units
+will not be able to reinforce from those engaged areas. i.e. “Comrade General, the real attack will begin while the Germans are killing you”.
+
+7.7 Counterattack
+By spending a Special Action at the conclusion of a round of combat
+in any given area, the defender may immediately counterattack in that
+area. To counterattack, the counterattacking player must have had at
+least one step survive the battle in question. The counterattacking player
+must declare the type of combat desired. As part of the Special Action
+expended for the counterattack, any one counterattacking ground unit
+and/or all of the ground-support units may reinforce the battle from
+any one adjacent uncontested area. The counterattack round is now
+fought with the phasing player acting as the defender and receiving
+normal defensive terrain and weather bonuses. One round of counter-
+
+8.12 If the engaging fleets are the same size, both fleets roll a number
+of dice equal to the number of friendly Fleet Points in that zone. Every
+six rolled will destroy one enemy Fleet Point in simultaneous fire; no
+hits are applied until both sides have rolled their dice.
+8.13 When one fleet is larger, both sides roll a number of dice equal
+to the number of points in the smaller fleet, hitting on 6’s in simultaneous fire as above. The larger fleet then rolls one die for each Fleet
+Point in excess of the smaller fleet, with these dice scoring hits on
+5’s or 6’s. Again, no hits are applied until both sides have rolled all
+their dice.
+8.14 Fleet Point losses are taken first from those that have not yet
+transported any units this Game-Turn; followed by the points that are
+currently transporting units (with each Fleet Point destroyed also eliminating a transported unit of the owning player’s choice); followed by
+the Fleet Points that previously transported units (with no effect on
+the units that were transported previously).
+EXAMPLE: In a previous example (the Allied invasion of Norway
+following 5.34), the Germans on that turn had one Fleet Point in the
+Atlantic. Germany decided to engage the Allied fleet during the Allied invasion of Norway. The Allied fleet has four points, so both
+sides roll one die needing a 6 to hit. Additionally, the Allies roll three
+more dice (four minus one) needing 5’s or 6’s to hit. If the Germans
+manage to roll a 6 and sink a Fleet Point, the Allies would have to
+eliminate the ground unit invading Norway, as the other three Fleet
+Points had already been utilized to transport units this turn.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+18
+
+Europe Engulfed RULEBOOK
+
+8.2 Naval Interdiction (Occurs in Strategic Movement Phases)
+8.21 PROCEDURE: During every Strategic Movement Phase, as each
+individual unit attempts to move through an eligible Sea-zone (see
+8.22) the interdicting player rolls one die for each friendly Fleet Point
+against the moving unit, inflicting one step of casualties on the moving unit for each 6 rolled. If the eligible Sea-zone that the unit is being
+strat-moved through is the Mediterranean, and the interdicting side
+controls Sicily and/or Malta, a hit-bonus is received, and one step of
+loss is inflicted on the moving unit for each 5 or 6 rolled. Note that a
+single hit will eliminate a Ground-support unit that uses Sea-Transport during a Strat-move Phase.
+8.22 In order to interdict, a player must have at least one Fleet Point in
+the Sea-zone for every two Fleet Points the enemy has in that same
+zone.
+8.23 Fleet Points on both sides are never affected by interdiction, only
+the units that they are carrying.
+
+control Gibraltar, then only one Fleet Point per turn may be transferred, and only if the Western Allies control both the Alexandria and
+Sinai Desert areas.
+8.32 AXIS FLEET POINT TRANSFER: The Axis player may transfer ONE Fleet Point per turn, either between the Atlantic and the Baltic, or between the Atlantic and the Mediterranean, subject to the following restrictions:
+8.321 Axis transfer between the Baltic and Atlantic requires Axis control of either the Ruhr OR Denmark areas.
+8.322 Axis transfer from the Atlantic to the Mediterranean requires
+that Italy be in the war and that the Axis player currently controls
+Gibraltar. Axis transfer from the Mediterranean to the Atlantic additionally requires either that the Allied player currently has no Fleet
+Points in the Mediterranean or that a current state of war exists between the Axis and the Soviet Union.
+8.323 When an Axis Fleet Point transfers between the Atlantic and
+Mediterranean, that Fleet Point instantly converts into a German or
+Italian Fleet Point, respectively. Responsibility for its Naval Maintenance then passes to the now-controlling Nation (Germany in the Atlantic, Italy in the Mediterranean).
+
+9.0 POLITICAL
+CONSIDERATIONS
+9.1 Germany and the Axis Minor Powers (Finland,
+Rumania, Hungary, and Bulgaria)
+9.11 Germany may declare war on any neutral power with the following exceptions:
+NAVAL INTERDICTION EXAMPLE: Each side has three Fleet Points
+in the Mediterranean in 1941. One unit at a time, the Axis player
+strat-moves a full-strength German panzer unit (4 steps), and two
+Italian full-strength infantry units (3 steps each) to Libya through the
+Mediterranean. The Allied player rolls three dice against each moving unit as it moves (one for each Allied Fleet Point in that zone).
+The Allied player controls Malta, so hits are inflicted with each 5 or
+6 rolled.
+
+a) Germany may not declare war against Switzerland until France
+has been conquered or declared Vichy. Germany may not declare
+war against Vichy France, but Vichy may be occupied under certain
+conditions (see 9.527).
+
+8.3 Fleet Point Transfers
+
+c) Belgium and The Netherlands must be treated as a single entity
+for Declaration of War purposes.
+
+The Western Allies and the Axis Powers may transfer Fleet Points
+between certain Sea-zones (see 8.31 & 8.32) during each friendly
+Supply phase (Initial and Final—Supply must be rechecked after
+any such transfer). This transfer is free of cost, but only Fleet Points
+still available for Sea-transport are eligible, and a supplied friendlycontrolled port must be in the intended Sea-zone (ports are supplied
+if they are either able to trace a land supply path as in 3.1, or a Seasupply path as in 3.3 (tracing as though Sea-capacity was not an
+issue). Additionally, Leningrad is a supplied port if Soviet-controlled
+and the Ladoga Swamps are also in supply and Soviet-controlled.
+Transferring Fleet Point markers are flipped to their ‘w/out Transport’ side after transferring; they may NOT be used for Sea-transport in either Sea-zone during the entire Game-turn of transfer, but
+they MAY perform all other naval functions for the Sea-zone they
+occupy at the time the function is performed (supply, combat, interdiction, lend-lease).
+8.31 WESTERN ALLIED FLEET POINT TRANSFER: If the Western Allies control Gibraltar, Britain and France may transfer two points
+each per turn between the Atlantic and Mediterranean. If the Axis
+
+b) Germany may not declare war on any Minor Power other than
+Poland before Mar/Apr 1940, or until a German player-turn begins
+with any enemy unit(s) in Germany, whichever occurs first (due to
+the ‘Phony War’ period). This is the only Phony War restriction.
+
+9.12 GERMAN RESTRICTIONS (see also 9.17(e)):
+• MILITIA UNITS: German militia units may only operate in the following Nations: Germany, Italy, France,
+Belgium, The Netherlands, Denmark, Hungary, and/or
+Poland.
+• ITALIAN SEA TRANSPORT AND AFRICA: If Vichy France was
+declared, the following restrictions are in effect until the Allies declare war on Vichy France or Vichy France has been occupied (see
+9.527): Only one German ground unit may move using Italian Seatransport per game-turn (Operational or Strategic Movement); No
+German ground unit may move into Africa via Sea-transport unless, at the instant the move is made, there are more Italian ground
+units than German ground units already in Africa. If France was
+conquered, or once the conditions for relaxing the rule above are
+met, Germany may have two ground units use Italian Sea-transport
+per game turn, without regard to Italian:German ratios.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+9.13 FIRST RUSSIAN WINTER: All Axis infantry-class units in the
+U.S.S.R. (except Finns) must each take a 1-step loss after the Axis
+Production Phase of the first Jan/Feb turn in which Axis units are in
+one or more Soviet Home Areas. Cadre-level units ignore the effects
+of this rule.
+9.14 SWEDISH ORE: Germany receives two WERPs from Sweden,
+while Sweden is neutral, during every Axis Production Phase provided that Norway is neutral or the Norwegian capital (Oslo) is under
+Axis control (it may not be contested), and that Germany has at least
+one Fleet Point in the Baltic Sea.
+9.15 AXIS MINOR POWERS: On the turn following Germany's control of Paris or the declaration of Vichy France, the Axis Minor Powers will declare war on the Allies in the Initial Operational Movement
+Phase. Their starting Forces are set up (see 19.2), and Ploesti will
+begin contributing its WERPs to Germany's production beginning with
+the next Axis Production Phase. German units may also begin operating in these Nations at that time. These Nations automatically declare
+war upon all Powers at war with Germany and their units cooperate
+fully with German units, being able to take advantage of German
+Special Actions and Ground-support units. The Axis player receives
+one free step of Axis Minor Power infantry (as a replacement or new
+cadre-level unit) each Production Phase once the Axis Minor Powers
+have declared war. This free step must be received within a Home
+Country Area of the Power in question. Axis Minor Power steps received outside of Home Areas must be paid for by German WERPs
+using the regular replacement rules (see 4.3). This step may not be
+from the same Minor Power on consecutive turns. Use
+the ‘Axis Minor Step’ marker provided to indicate the
+Minor Power that received the free step on each turn by
+placing it within the appropriate Power. Germany may
+produce additional Axis Minor Power steps as desired,
+expending German WERPs to do so (this is the only way the Rumanian tank unit may be built). An Axis Minor Power’s forces are removed from the game the instant that Ally is conquered (see 10.2).
+Ploesti will provide its WERPs to the side that controls and garrisons
+it after Rumania is conquered. Ploesti does not require a garrison until
+Rumania is conquered (also see 9.19).
+9.16 An Axis Minor Power unit may not leave its Home Country until
+said unit has been built to full-strength and there are currently no enemy
+units within its Home Country. These units may only receive the fullstrength level of replacement in their Home Country (except via 7.8).
+
+19
+
+crossed and Finnish units become free to operate anywhere within
+Finland and the Soviet Union.
+e) No more than three German ground units may end any Phase in
+Rumania until the turn after Germany and the Soviets are at war.
+Only one of these three units may be armored, and none may be
+ground-support. Units in excess of this limit are chosen at random
+by the Soviet player and relocated to Bulgaria or Hungary, at his
+discretion.
+9.18 If units from two or more different Axis Minor Powers are discovered in the same area at the start of a combat round, the Allied
+player receives an additional hit-bonus vs. infantry in that area for that
+round. Italy is a Major Power, and so can stack with any Axis Minor
+Power without this penalty.
+9.19 PLOESTI OIL: Ploesti was critical to German war production.
+During any Production Phase in 1943 or later in which the Axis does
+not currently control or cannot trace supply from Ploesti, no more
+than two new non-militia units may be created, and German armor
+builds are limited to no more than three steps (of which only one step
+may be elite). The Germans may build as many new militia units as
+are available in the force pool.
+
+9.2 The Soviet Union (U.S.S.R.)
+9.21 Soviet units may not operate in the southern weather zone with
+the exception of the following areas: Turkey, Persia, Greece, Albania,
+Yugoslavia, and Italy.
+9.22 Soviet units may not operate in Western-Allied controlled territory (exception—Unconquered Allied Minor Powers may be entered
+by the Soviets if the Soviets are at war with Germany and there are
+currently no Western-Allied units within that Power—Western Allies have right of first entry as in 9.28). The Soviets may enter Persia
+(only) if it is Axis-controlled at the time of initial entry. Subsequent
+to Soviet entry, a Western-Allied unit may only enter Persia if there
+are no Soviet units in Persia at the moment of entry. After a WesternAllied unit re-enters a vacant Persia, control of Persia reverts back
+to Great Britain.
+9.23 The Soviets may only declare war on the Axis Major and Minor
+(see 9.1) Powers (if some of those Minor Powers are still neutral, they
+may be selectively chosen), and not earlier than the Jan/Feb 1942 turn,
+unless one or more of the following applies during the Allied Initial
+Operational Movement Phase that war is declared:
+
+a) Bulgarian units may only operate in Bulgaria, Greece, Yugoslavia, and Turkey.
+
+a) There are fewer than five German ground units in Poland and/or
+East Prussia on any Allied Player-turn beginning with Sep/Oct 1939,
+or fewer than 10 German ground units in these areas beginning with
+Mar/Apr 1941.
+
+b) Rumanian units may only operate in Rumania and the Soviet
+Union.
+
+b) The Germans have at least one non-airborne unit on the British
+Isles, and they control at least one area therein.
+
+c) Hungarian units may only operate in Hungary and Yugoslavia.
+They may also operate in Poland and the Soviet Union once the
+Axis and the Soviets are at war. For the Initial Operational Movement Phase of the first Player-turn that the Axis and the Soviets are
+at war, no unit(s) of either side may cross the Hungarian border.
+
+c) The Germans are at war with, or have conquered Turkey.
+9.24 Until at war with Germany, Soviet production is limited as follows:
+
+d) Axis units may not cross the Finnish border until the turn after
+Novgorod becomes Axis-controlled, at which point the Finnish border may be crossed by Axis units to and from the Onega Swamps
+(only). Finnish units may only operate in Finland and/or the Onega
+Swamps until the game-turn after Leningrad becomes Axis-controlled, at which point the Karelia/Novgorod border can also be
+
+b) 17 WERPs per turn beginning in Jan/Feb 1941, and continuing at
+that level until Germany and the Soviet Union are at war.
+
+9.17 Axis Minor Powers have the following limits:
+
+a) Nine WERPs per turn beginning in Jan/Feb 1940 (there is no
+Soviet Production Phase for the Nov/Dec 1939 turn as these WERPs
+are considered spent on the Winter War with Finland).
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+20
+
+Europe Engulfed RULEBOOK
+
+c) 34 WERPs per turn beginning with the Allied Player-turn that
+begins with Germany and the Soviet Union at war, regardless of the
+year this event occurs.
+d) Once at war with Germany, the Soviets stop paying the extra cost
+for cadres referenced in 4.43(b) until 1943. Beginning with the
+Jan/Feb 1943 turn, the Soviets again pay this extra cost for cadres.
+e) During the Soviet Production Phase of the Jan/Feb, 1942 Game
+Turn, the Soviets receive four full-strength Elite Infantry units as
+reinforcements, free of WERP costs. They may be placed as other
+new units.
+f) Once in the war, the Soviets have the option to activate a onetime emergency conscription and receive a total of 50 free steps of
+non-elite infantry as follows: 20 steps in the Soviet Production Phase
+of the turn the option is selected; 15 steps in the next Soviet Production Phase, 10 in the next, and 5 in the next. These free steps are in
+addition to normal WERP production, and may be taken as replacements and/or new units, and are placed with any produced units per
+4.41/4.42. The Soviets may NOT produce Special Actions during
+the four Production Phases that these troops are received, but may
+use any Special Actions that had been built and saved. They otherwise produce normally.
+g) If the free steps above are received, Soviet manpower reserves
+will be exhausted for the last part of the war. Beginning Jan/Feb
+1945, the Soviets must pay one additional WERP for each ground
+unit step purchased. If the free steps above are not received, this
+rule is ignored.
+9.25 SOVIET/GERMAN NON-AGGRESSION PACT: On the turn
+that Germany conquers Poland, this pact takes effect unless the Soviet
+Union and Germany are already at war. The effect of this pact is to
+allow Soviet forces to occupy the Baltic States, Brest-Litovsk, Lvov,
+and Bessarabia. The Soviets must exercise this option, and must move
+ground forces into these areas as soon as possible (see 9.26). These
+areas are then considered conquered, they are never counted as Soviet
+Home areas (i.e. new units may not be built in them and field fortifications may not be built there until war with Germany or Jul/Aug
+1941, whichever occurs first (see 6.95b)).
+9.26 SOVIET UP-FRONT DEFENSE: At the end of each Allied playerturn beginning with the turn after the Soviet/German Non-Aggression
+Pact takes effect, at least one-half of all Soviet ground units, and all
+Soviet ground-support units, must be within these four areas:
+Bessarabia, Lvov, Brest-Litovsk, and Lithuania. Additionally, each of
+the above four areas must contain at least one ground unit beginning
+with the Jan/Feb 1941 game turn. If either of the above conditions are
+not met, the German player may shift any unexamined Soviet ground
+unit(s) from outside of these areas, of his choosing, until the minimum requirements are met. These requirements are lifted beginning
+with the turn the Soviet Union is at war with Germany.
+9.27 The Soviets may build Fleet Points normally. They may not build
+any Strategic Assets.
+9.28 DEMARCATION LINE: Soviet and Western Allied units may
+not enter the same Axis controlled area during any Movement Phase.
+If both sides have the ability to enter the same Axis controlled area,
+The Soviets have the first right of entry if the area is in the Eastern
+Weather Zone, and the Western Allies have the first right of entry in
+either of the other Zones. If the side with the first right of entry declines, the other side may then enter the area. Soviet and Western Allied units may never enter each other’s controlled areas (Exception:
+Persia—see 9.22).
+
+9.3 Great Britain and the U.S.A.
+9.31 Other than the declaration against Germany (see 17.8(1) on the
+1939 Campaign Game Card), Great Britain and the U.S.A. may only
+declare war on Norway, Denmark, Vichy France, and Portugal. Assuming the Germans have not already done so, Great Britain may declare war on Norway and/or Denmark at anytime. War may be declared against Vichy France beginning with the Jul/Aug 1942 turn.
+War may be declared against Portugal on any turn, but only if the Axis
+have declared war against Spain.
+9.32 Great Britain and the U.S.A. combine their Fleet Points and Strategic Assets, tracking the Assets as a unified total on the General Information Track. Britain pays any and all naval maintenance costs
+and controls fleet transfers. If Britain is conquered, these items become U.S.A. controlled. The U.S.A. does not have a Production Phase
+until entering the war. The U.S.A. enters the war during the Axis Initial Operational Movement Phase of the Jan/Feb 1942 Game-turn.
+9.33 British/U.S. units may not operate in the U.S.S.R., or in an unconquered Minor Power currently containing Soviet units, or in Soviet-controlled territory (exception - Persia (see 9.22)). British militia
+units may only operate in British Home Areas (see Glossary).
+9.34 AMERICAN LEND LEASE: The U.S.A. never ships Lend-Lease
+to any Power until the first Allied Production Phase that Germany
+controls Paris or the declaration of Vichy France. Beginning with that
+Game-turn, Great Britain will begin receiving lend-lease from the
+U.S.A., with the amount determined each turn by rolling one die; the
+number rolled equaling the additional WERPs received by Great Britain. The Soviet Union will also receive Lend-Lease from the U.S.A.,
+starting on the first Allied Production Phase after the fall of Paris where
+the Soviets and Germans are at war, with the Soviets also rolling a die
+as above. Britain and the Soviets stop lend-lease die-rolls when America
+enters the war in Jan/Feb 1942.
+9.35 BRITISH LEND LEASE: When Germany and the Soviet Union
+are at war, Great Britain may also send lend-lease to the Soviets. Britain may not send more than half of her total WERPs (after Strategic
+Warfare effects, U.S.A. lend-lease, and Naval Maintenance costs) as
+lend-lease to the Soviets. Each WERP sent reduces Britain’s available
+WERPs by one for that turn, and may be sent via Murmansk or Persia
+as follows:
+9.351 MURMANSK: If Germany does not control Trondheim (in Norway), Great Britain may send up to two WERPs through Murmansk
+for each Allied Fleet Point in the Atlantic. If Germany controls
+Trondheim, only one half (rounded down) of the WERPs sent actually
+arrive in Murmansk, with the balance being sunk. If the Axis player
+controls the Onega Swamps area (just east of Finland), the Murmansk
+route is unavailable, and Britain may only send lend-lease through
+Persia until it is recaptured.
+9.352 PERSIA: Provided that Persia is not Axis-controlled, Great Britain may send one WERP through Persia for every Fleet Point in the
+Atlantic Ocean. Only one half (rounded down) of the WERPs sent
+actually arrive in the Soviet Union, with the balance being sunk.
+9.36 Once in the war, the U.S.A. may continue to send Great Britain
+lend-lease, up to 15 WERPs each turn. Each WERP sent reduces
+America’s available WERPs by one for that turn. Britain, using the
+lend-lease rules above, may in turn forward some or all of these WERPs
+to the Soviet Union, as allowed.
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+9.37 Units beginning a Movement Phase in the U.S.A. may move normally using Sea-transport, except that they may neither move directly
+into a contested area nor conduct an amphibious invasion, unless these
+actions are conducted into either Vichy-controlled Morocco or the
+British Home Isles.
+9.38 The British had difficulty maintaining trained reserves to replace
+their losses in the field by the end of the war. To reflect this, the British must pay one additional WERP for each ground unit step purchased beginning in Jan/Feb 1944.
+
+21
+
+c) Italy may no longer purchase the Italian Special Action for the
+remainder of the game. If already built, this Special Action is retained until it is expended, after which it is permanently removed
+from the force-pool.
+9.46 ITALIAN SURRENDER: Italy will surrender, removing all units
+and Fleet Points permanently from the game, if both Home Resource
+Areas are Allied controlled at the end of any Axis player-turn, or at the
+instant all of the following conditions are met:
+a) Italian morale has collapsed.
+
+9.4 Italy
+
+b) The Western Allies control Sicily.
+
+NOTE: Sicily is considered an Italian Home Area in addition to mainland Italy.
+
+c) The Western Allies control any area on the Italian Mainland or
+successfully contest such an area at the end of any Combat Phase.
+
+9.41 WHERE ITALIAN UNITS MAY OPERATE: Italian units may
+only operate in the Southern weather zone except that Italy may move
+into and then operate up to three ground units and one ground-support
+unit in the Soviet Union. Italian units may strat-move (only) through
+friendly-controlled areas of Poland, Hungary, and/or Rumania, but may
+not end any Phase in one of these Nations. Italian units may also operate without restriction in all of France if the Allies succeed in placing
+a beachhead within or the Allies control any area of continental France
+beginning in 1942. Once allowed in the remainder of France, Italian
+units are permitted to operate there the remainder of the game, even if
+the Allied invasion is later repulsed.
+
+9.47 JOINT AXIS OPERATIONS: The Italian Special Action must
+always be spent for any Axis activity where a Special Action is normally required when the Mediterranean Fleet is Sea-transporting Units
+(only possible after Italy joins the war). A German Special Action
+must also be spent if any non-Italian Axis units participate.
+
+9.42 ITALIAN ENTRY INTO THE WAR: Italy is a neutral Power and
+may not declare war on any Power (Major or Minor) until the turn following Germany’s control of Paris or the declaration of Vichy France.
+On that turn Italy must declare war on the Allies during the Initial Operational Movement Phase. From that point on, Italy may declare war
+on any neutral, and automatically goes to war with any Power that Germany is at war with and vice-versa. Until at war, Italian production is 5
+WERPs per turn. Beginning with the next Axis Production Phase, Italy's
+production rises to 10 WERPs per turn, and Italy must also begin paying naval maintenance costs on that turn.
+9.43 GERMAN AID TO ITALY: Italy may receive up to five WERPs
+per turn from Germany, even while Italy is still neutral. Each WERP
+sent to Italy reduces Germany’s available WERPs by one for that turn.
+Italy may build Fleet Points normally, providing Germany sends the
+additional WERPs. Italy may not build Strategic Assets.
+9.44 NEUTRAL ITALY: German units may not enter Italian territory
+or utilize the Mediterranean fleet until the turn Italy joins the war.
+Italian units may move normally and use Sea-transport between Italy,
+Sicily, Libya, Sardinia, and Albania, even while Italy is still neutral.
+9.45 COLLAPSE OF ITALIAN MORALE: Italian morale collapses
+at the start of any Game Turn in which the Axis no longer controls any
+area in Africa or the Middle-East (see Glossary), and the Axis player
+does not currently control both Gibraltar and Athens. The collapse of
+Italian morale is irreversible once in effect. The effects of Italian morale collapsing are as follows:
+a) Italian units may no longer receive any hit-bonuses, for any reason, for the rest of the game.
+b) Italian Fleet Points may not initiate Naval Combat or Naval Interdiction for the rest of the game. They defend normally if the Allies initiate Naval Combat against them, and they may still transport units via strategic or operation movement normally during Axis
+player-turns.
+
+9.5 France
+9.51 ANGLO-FRENCH COOPERATION LIMITS:
+a) Fleet Points: French and British Fleet Points may not be used to
+transport each other’s units. They otherwise cooperate fully for
+all other naval functions. Any losses from naval combat are distributed as the British player desires. The French may not produce
+Strategic Assets.
+b) British units may not freely enter French North Africa or French
+Levant, nor may French units enter Egypt or the British Mandate,
+unless Paris is Axis-controlled and Vichy France was not declared.
+(Note; see 9.524 & 10.31(b)).
+c) France may only declare war on Germany (see 17.8(1)).
+9.52 VICHY FRANCE: As an alternative to the outright conquest of
+France, Germany may accept a French Armistice and create Vichy
+France as follows:
+9.521 Vichy France may be declared by Germany at the end of the
+first phase of either player’s turn that Germany controls Paris and can
+trace a land supply route to Germany from Paris or at the end of any
+phase where all five of the land areas surrounding Paris are Axis controlled. If Germany does not exercise this option at the end of that
+phase, the option is lost and France must then be conquered.
+9.522 If Vichy France is declared, the following three listed regions
+become Vichy France; a pro-Axis neutral, with its capital in the Lyon
+area: a) The areas of continental France within the Southern Weather
+Zone, and the island of Corsica. b) All areas of French North Africa.
+c) French Levant.
+
+Vichy Forces
+One full-strength 2-step French infantry unit is deployed by the Axis
+in each of the above three regions. Vichy ground units are always in
+supply, but cannot be moved once their locations are chosen (suggested placement areas for new players are Marseille, Morocco, and
+Lebanon). All remaining French units and the French Fleet Points are
+destroyed (exception—Free French [see 9.53]). If France is conquered
+in lieu of Vichy France having been declared, one French Fleet Point
+(any existing point in the Atlantic or the Mediterranean; the Allied
+player’s choice) escapes and joins the British. Simply replace a French
+Fleet Point marker with a British Fleet Point marker in that Sea-zone
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+22
+
+Europe Engulfed RULEBOOK
+
+and remove all other French Fleet Points. Vichy France never receives
+replacement steps for her ground units, nor uses WERPs from Marseille
+for any purpose, nor contribute those WERPs to any Power.
+9.523 AXIS RESPECT FOR VICHY TERRITORY: Axis units may
+not end any Movement Phase in Vichy French territory until the Allies have declared war on Vichy France, (exceptions- see 9.524 &
+9.527). Axis units may trace supply and Strat-move through Vichy
+French territory (Sea Supply and Strat-moves through Vichy-controlled
+Ports may only be traced through the Mediterranean). Any Axis units
+in a Vichy territory when Vichy is declared are immediately placed in
+the nearest Axis-controlled area of the Axis player’s choice. Any British units in Vichy territory when Vichy is declared are eliminated and
+returned to the Force Pool.
+9.524 FRENCH LEVANT OCCUPATION: If Vichy France controls
+French Levant, it may be invaded by Britain (at any time) and/or occupied by the Germans (in 1942 or later) without it being considered a
+violation of Vichy France’s neutrality. The Vichy unit in French Levant will defend normally against a British invasion. If the Lebanon
+area inside French Levant is still Vichy-controlled in 1942, one or
+more German units (not Italian) may Strat-move or Operationally move
+into Lebanon (only) if that area is uncontested, or use Operational
+Movement (only) if Lebanon is contested, thus occupying it and allowing Axis supply to be traced from that port. The Vichy unit is removed from the map without resisting if the Germans perform this
+occupation, and as of that moment, the Axis Player controls Lebanon
+(and Syria, if it too was Vichy-controlled). As of the next Game turn,
+Italian units may also move into/through the port of Lebanon, if still
+Axis-controlled.
+9.525 ALLIED INVASION OF FRENCH NORTH AFRICA: The
+Allies must declare war on Vichy France to invade French North Africa (by sea or land). All remaining Vichy-controlled areas in French
+North Africa and elsewhere become Axis-controlled at the instant the
+Allies declare war on Vichy France.
+9.526 INVASION OF VICHY-CONTROLLED SOUTHERN
+FRANCE: The Allies may amphibiously invade Vichy-controlled
+France and/or Corsica anytime beginning the Game-turn after they
+have declared war on Vichy France. Alternately, the Allies may invade Vichy-controlled France via overland routes from France and
+Italy, if available, beginning the same game turn that war is declared
+on Vichy France.
+9.527 GERMAN OCCUPATION OF VICHY FRANCE: The Germans
+(only) may occupy Vichy-controlled France on any Axis Operational
+Movement Phase after the Western Allies have declared war on Vichy
+France, or on any Axis Player-turn in 1941 or later where one or more
+supplied British, American, or Free French Ground Units are within
+any area on the Atlantic coast from Andalucia to Denmark (excluding
+Gibraltar), or after Italy surrenders or is conquered, whichever occurs
+first. As soon as allowed by the above, A German ground unit is allowed to Operationally enter Marseille, and by doing so it completes
+the Occupation of Vichy France. No other Vichy Areas may be Operationally entered until this Occupation occurs. All Vichy French units
+are immediately and permanently removed from the game and
+Marseille is treated in all ways as a conquered resource area after this
+occupation.
+9.528 COMBAT INVOLVING VICHY FRENCH: A Vichy unit will
+fire once with normal modifiers when defending against U.S. only
+attacks. If at least one U.S. unit remains in the area after the Vichy
+defensive fire, the Vichy unit is immediately eliminated. A Vichy unit
+
+defends normally without being automatically eliminated if the attack
+involves at least one British unit.
+
+Free-French
+Forces
+9.53 FREE-FRENCH UNITS
+9.531 When France is conquered or when Vichy France is declared,
+one 3-step French armor unit and three 3-step French infantry units
+are set aside as potential Free-French units within the U.S. force pool.
+The Free-French units are controlled and produced by the U.S.A., and
+may not be built prior to 1942. Once built they are treated as normal
+U.S. units, including being able to use U.S. Special Actions and
+Ground-support units (note however the restriction of 9.533).
+9.532 Free French units enter the U.S. force pool via the following
+schedule:
+a) One infantry unit is added to the U.S. force pool immediately
+after France is conquered / Vichy declared.
+b) The remaining Free French units are added on the first Allied
+Production Phase in 1944 or later that the Allies control an uncontested area of continental France.
+9.533 Not more than three (3) steps of Free-French forces may be
+built each turn as replacements and/or new unit(s). New Free-French
+units may be built in any friendly controlled, uncontested Home area
+of Britain or France.
+
+9.6 Minor Powers (other than those listed in 9.1)
+9.61 When war is declared on a Minor Power, the non-invading side
+immediately deploys its forces. These units may not leave their Home
+Country unless the leaving unit(s) are full-strength and there are currently no enemy units within their Home Country.
+9.62 An unconquered Minor Power receives one step of replacements
+per turn, but may not exceed its original force pool. This replacement is
+free to the controlling player, and this is the only replacement allowed
+for that Minor Power. The replacement step may be taken in any friendly
+controlled Home area, even if contested, and may also be used to bring
+back an eliminated unit at the cadre strength level, if desired.
+9.63 When war is declared against a Minor Power, its territory immediately becomes friendly to Germany or Great Britain, whichever is
+on the non-invading side. The Minor Power also contributes the two
+WERPs from its resource area, if it has one still under friendly control, to this Power, provided a supply line (land or sea-route) can be
+traced from the resource area to that Power when that Power is conducting its Production Phase.
+9.64 Poland, Spain, Turkey, & Yugoslavia each receive one Special
+Action when war is declared against them. It may only be used to
+reinforce a battle (see 7.6) or to counterattack (see rule 7.7). If expended, this Special Action is replaced, free of charge, every Jan/Feb
+Production Phase that the Minor Power is still in the war.
+
+10.0 CONQUEST & VICTORY
+10.1 Major Power Conquest
+A Major Power is conquered if, at the end of its turn, there are no
+friendly controlled resource areas in its Home Country. When a Major
+Power is conquered all of its forces are removed permanently from
+the game, with the exception of Vichy French and/or Free French units
+(see 9.52 & 9.53), and British Fleet Points and Strategic Assets on the
+General Information Track (see 9.32).
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+Europe Engulfed RULEBOOK
+
+23
+
+10.11 The Soviet Union is considered conquered if, at the end of an
+Allied Player-turn, the Soviets do not control at least one on-map resource area within the Soviet Union.
+
+NOTE: This was the historical result, however, the game tends to
+produce a draw between two players with equivalent skill and luck.
+In real life the Axis powers made bigger mistakes than the Allies did.
+
+10.12 Italy is also considered conquered if she surrenders after the
+collapse of Italian morale (see 9.46). France is also considered conquered if Vichy France is declared (see 9.521).
+
+10.46 ALLIED OPERATIONAL VICTORY: The Allies win an operational victory if Germany is conquered between July 1944 and December 1944, inclusive.
+
+10.13 Germany is also considered conquered at the end of any Allied
+Player-turn in which all resource areas on the map are either neutral or
+under Allied control (i.e., the Germans do not get a turn to attempt to
+retake one of their Home Resource Areas if this condition applies).
+
+10.47 ALLIED DECISIVE VICTORY: The Allies win a decisive victory if Germany has been conquered before July 1944.
+
+10.2 Minor Power Conquest
+A Minor Power is conquered at the end of any Movement Phase or
+Combat Phase (all combats must be resolved if surrender occurs in
+the Initial Combat Phase) that its capital is controlled by enemy ground
+forces. All of its forces are then removed from the game.
+
+10.3 Conquered Territory Control
+After a Major or Minor Power has been conquered, and its forces
+removed, control of its territory is determined as follows:
+10.31 All areas solely occupied by invading forces, or that contain no
+forces at all, are considered controlled by the conquering power, with
+the following exceptions:
+a) If Greece is conquered, the island of Crete is considered friendly
+to Britain unless currently occupied and controlled by Axis forces.
+b) If France is conquered (not declared Vichy) all areas in French
+North Africa and French Levant not already controlled by the Axis
+become British controlled.
+
+NOTE: While conquering Italy is not technically a requirement for
+Allied Victory, players will usually find that doing so speeds Germany’s
+demise.
+
+10.5 Bidding For Sides
+If the players cannot decide upon sides, a bidding process should be
+used to see who will play the desired side. The bidding is for how
+many steps of free infantry the Soviets will NOT receive during the
+Emergency Conscription (see 9.24(f)) if bidding for the Allies, or how
+many steps will be added if bidding for the Axis. Roll for the privilege
+of the first bid. Bidding should be in increments of 10 steps, with a bid
+of 0 being the lowest allowable bid and a bid of 50 being the maximum. Each increment of 10 steps removes (or adds if bidding for the
+Axis) 4 steps for the first turn of the Conscription, three for the second, two for the third, and one for the fourth. For newer players it is
+suggested that a bid of 20 reduced steps would be fair, resulting in the
+Soviets receiving only 30 total steps over the four turns (distributed as
+12-9-6-3). Battling the Soviets is the hardest task the Germans can
+undertake, and for newer players it can be especially daunting.
+
+c) When Italy surrenders or is conquered, all Italian Home Areas
+not already controlled by the Allies become German-controlled.
+These Italian areas are now considered to be conquered by the Germans. The Germans may then begin receiving two WERPs apiece
+for Rome and Piedmont, if garrisoned.
+
+CREDITS
+DESIGN & RULES: Rick Young
+
+& Jesse Evans
+
+10.32 Areas containing forces opposed to the invader after the conquered units have been removed remain friendly to the side that controlled them at the instant prior to conquest.
+
+DEVELOPER: William
+
+10.4 Victory Conditions
+
+Renaud Verlaque, Troy Nichols, Alan Metzger, Brian
+Swisher, John Poniske, & Paul McGuane
+
+10.41 AXIS DECISIVE VICTORY: The Axis player wins a decisive
+victory and the game ends immediately if, at the end of any Allied
+player-turn, two of the four Allied major powers have been conquered,
+and the Allies control no resource areas in Germany. France counts as
+conquered if Vichy France was declared.
+10.42 AXIS OPERATIONAL VICTORY: The Axis player wins an
+operational victory if, at the end of the Nov/Dec 1945 turn, Germany
+has not been conquered and the Axis still control any 10 or more resource areas, including those still controlled in Germany and Italy.
+10.43 AXIS MARGINAL VICTORY: The Axis player wins a marginal victory if Germany has not been conquered by the end of 1945,
+and the Axis controls fewer than 10 resource areas.
+10.44 DRAW: A draw is achieved if neither side achieves at least a
+marginal victory.
+
+Cooper
+
+RULES CLARITY & CONTEXT ASSISTANCE: Bruce Wigdor,
+
+ORDER OF BATTLE and HISTORICAL CONTEXT ASSISTANCE:
+
+Raynald Foret & Louis Capdeboscq
+PLAYTESTING: Lloyd Adams,
+
+Scott Baron, Ron Binns,
+Dan Constant, William Cooper, Jim Daniel, Jesse
+Evans, Garry Haggerty, Nathan Kilgore, Mark
+Kramer, Michael Kwan, Fred Lovaillier, Randy
+Martin, Alan Metzger, Jeff Metzger, Dave Minser,
+Jim Pastrick, Bill Pettus, James Plesec, John Poniske,
+David Rohde, David Schubert, Rich Simon, Brian
+Swisher, William Terdoslavich, Bruce Wigdor, Rick
+Young & John Zrimc
+
+ART DIRECTOR:
+
+Rodger MacGowan
+
+MAP, COUNTER & STICKER ARTWORK:
+
+10.45 ALLIED MARGINAL VICTORY: The Allies win a marginal
+victory if Germany is conquered between January 1945 and June 1945,
+inclusive.
+
+RULES LAYOUT:
+
+Mark Simonitch
+
+Mark Simonitch
+
+PRODUCTION COORDINATION:
+
+Tony Curtis
+
+Tony Curtis, Rodger MacGowan, Andy
+Lewis and Mark Simonitch
+
+PRODUCERS:
+
+© 2006 GMT Games, LLC — 2nd Edition
+
+24
+
+Europe Engulfed RULEBOOK
+
+S E Q U E N C E OF P L AY
+Special Actions available during a particular Phase
+are noted below the Phase in italics.
+A. Weather Determination Phase (1.1)
+During Nov/Dec and Mar/Apr Turns, determine
+the Weather for the turn by a die roll; otherwise,
+the weather for the turn is predetermined as shown
+on the Turn Record Track. Then, conduct the Axis
+Player Turn in accordance with Steps B through H.
+B. Initial Supply Phase (3.0)
+Determine the Supply status of all Friendly Units
+on the Map. Supplied Fleet Points may be transferred (8.3).
+C. Production Phase
+This Phase has 3 segments:
+1. Determine the productive capability by calculating WERPs (4.1)
+2. Resolve Strategic Warfare (2.0)
+3. Pay for Naval Maintenance (4.2) and, then
+produce new Units, replacement Steps, Special
+Actions, and other assets with any remaining
+WERPs. (4.3-4.7))
+• Unrestricted Replacements (7.8)
+D. Initial Operational Movement Phase (5.1)
+The Active Player moves any or all Units per the
+rules for Operational Movement. At any time
+during this Phase, the Active Player may declare
+war against a neutral nation.
+• Amphibious Invasion (7.2)
+• Airborne Assault (7.3)
+• Retreat from Contested Area (7.52)
+E. Initial Strategic Movement Phase (5.2)
+The Active Player moves Units per the Strategic
+Movement rules, up to each Power’s Strategic
+Movement allowance.
+
+F. Initial Combat Phase (6.0)
+Conduct initial rounds of combat in all Areas in
+which combat is either required or desired, in any
+order as determined by the Active Player.
+• Retreat Before Battle (7.51)
+• Reinforce Battle (7.6)
+• Counterattack (7.7)
+G. Breakthrough Phase(s) (7.4, 5.4, 6.73)
+The expenditure of Special Actions allows the
+Active Player to execute Breakthrough Phases.
+These Phases may occur in any order; each type
+may be executed more than once in a Player Turn.
+• Breakthrough Operational Movement (5.42-5.43)
+• Breakthrough Strategic Movement (5.44)
+• Breakthrough Combat (6.7)
+• Retreat Before Battle (7.51)
+• Reinforce Battle (7.6)
+• Counterattack (7.7)
+H. Final Supply Phase (3.6)
+Friendly Units and Fleet Points now out of Supply
+are eliminated. Supplied Fleet Points may be
+transferred (8.3).
+• Limited Supply (7.9)
+Now, conduct the Allied Player Turn following
+Steps B through H. Then, go on to Step I.
+I. End of Turn Phase
+Check for victory. Then, if neither side has won,
+advance the Turn Marker to the next turn. Flip any
+Fleet Point markers currently on their w/o Transport side to their Transport Avail. side.
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2006 GMT Games, LLC — 2nd Edition
+
+</rulebook>
+			
+						                           
+						               													<description>from GMT website:&amp;#10;&amp;#10;More than thirteen years of design and development have gone into the making of Europe Engulfed (EE), which is GMT Games' first offering to the block-game enthusiast. It covers the entirety of World War II in Europe from September 1939 to the end of 1945.&amp;#10;&amp;#10;Europe Engulfed plays fast with its focus on playability and making players feel the pressures their historical counterparts were under. The game achieves this level of playability without sacrificing historical detail. The entire campaign is playable in a single 10-to-14 hour day once players become familiar with its elegant game systems including:&amp;#10;&amp;#10;Wood Block Units:&amp;#10;Wood blocks for land units provide a realistic fog of war. Only the controlling player can see if their units are armor or infantry, weak or strong until combat is engaged. The inability to know the strength of your opponent ensures that even the most experienced players will make their fair share of tactical and strategic errors.&amp;#10;&amp;#10;Production and Strategic Warfare:&amp;#10;Europe Engulfed Game Turns represent two months each and production and strategic warfare takes place within each of these turns. The inventive production system shows that the conquering power does not get the same value out of resource areas as the original power that lost them. Production levels are easy to calculate and production choices include special actions, fleets, U-boats, strategic fighter and bomber assets, ground-support units, flak, V-weapons, and, of course, lots and lots of armor and infantry and the odd paratrooper or cavalry unit from which to choose.&amp;#10;&amp;#10;Special Actions:&amp;#10;Special actions are an innovative rule system to account for the large historical territorial gains that occurred over the course of a two-month game turn without bogging the game down with multiple player turns. Using Special Actions, players can purchase additional movement phases and combat rounds, amphibious and airborne assaults, and even take actions during an opponent's combat phase.&amp;#10;&amp;#10;Rulebook and Playbook:&amp;#10;The 24-page rulebook is clearly written with many examples. Also included is a 24-page playbook. The playbook includes player notes, designer notes, optional rules, scenarios, index, and an extended example of play highlighting the May/June 1940 turn which reveals tactics for successfully attacking and defending.&amp;#10;&amp;#10;Europe Engulfed plays quickly with a very historical feel. Many players have indicated that they actually feel the pressures and stresses felt by the strategic level commanders in the real war. We know of no other European Theater of Operations game that plays this fast and with this much historical value.&amp;#10;&amp;#10;Play Times:&amp;#10;1939 Campaign: Up to 14 hours&amp;#10;1941 Campaign: Up to 10 hours&amp;#10;Blockskrieg!: Up to 6 hours&amp;#10;European War: Up to 5 hours&amp;#10;'42 - '43 two-map scenario: 4 hours&amp;#10;'42 - '43 one-map scenario: 3 hours&amp;#10;Patton's Fantasy scenario: 2 hours&amp;#10;&amp;#10;Integrates with: &amp;#10;&amp;#10;    Asia Engulfed&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll> 			               				<playingtime value="720" />
+						               				<minplaytime value="720" />
+						               				<maxplaytime value="720" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6137" value="Components: Block Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="20609" value="Asia Engulfed" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2230" value="Jesse Evans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2229" value="Rick Young" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1283" />
+			<average value="7.47197" />
+			<bayesaverage value="6.26205" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1636" bayesaverage="6.26205" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="133" bayesaverage="7.0712" />
+												</ranks>
+
+			<stddev value="1.67641" />
+			<median value="0" />
+			<owned value="2342" />
+			<trading value="103" />
+			<wanting value="145" />
+			<wishing value="553" />
+			<numcomments value="677" />
+			<numweights value="247" />
+			<averageweight value="3.7733" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="96749">
+         <thumbnail>https://cf.geekdo-images.com/oW665wWdDUdGTOVwhZxJEw__thumb/img/fYaICUrAyhmSqRMCdOKnOuDyXZE=/fit-in/200x150/filters:strip_icc()/pic1510195.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/oW665wWdDUdGTOVwhZxJEw__original/img/Vnk41Ta_Ig2aawpksjYHd8Pv0G4=/0x0/filters:format(jpeg)/pic1510195.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fading Glory" />
+				<rulebook>R ULE BOOK
+Table of Contents
+[0.0] USING THESE RULES.......................................... 	2
+[1.0] INTRODUCTION................................................... 	2
+[2.0] GAME EQUIPMENT............................................. 	2
+[3.0] SETTING UP THE GAME..................................... 	2
+[4.0] SEQUENCE OF PLAY........................................... 	2
+[5.0] RANDOM EVENTS............................................... 	3
+[6.0] MOVEMENT.......................................................... 	3
+[7.0] ZONES OF CONTROL.......................................... 	4
+[8.0] THE REACTION PHASE...................................... 	5
+
+[9.0] COMBAT................................................................ 	5
+[10.0] RALLYING........................................................... 	10
+[11.0] REINFORCEMENTS........................................... 	10
+[12.0] ARMY MORALE................................................. 	11
+[13.0] PASSING (“LULLS”)........................................... 	12
+[14.0] NIGHT TURNS.................................................... 	12
+[15.0] HOW TO WIN...................................................... 	12
+[16.0] OPTIONAL RULES............................................. 	12
+
+GMT Games, LLC • P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+2
+
+Fading Glory Rules Manual
+
+[0.0] USING THESE RULES
+The instructions for this game are organized into major “Rules”
+sections as shown in large CAPS font, and represented by the
+number to the left of the decimal point (e.g., Rule 4.0 is the
+fourth Rule). These Rules generally explain the game’s subject
+matter, its components, the procedures for play, the game’s core
+systems, how to set it up, and how to win.
+With each Rule, there can be “Cases” that further explain a Rule’s
+general concept or basic procedure. Cases might also restrict the application of a Rule by denoting exceptions to it. Cases (and Sub cases)
+are an extension of a Rule shown in the way that they are numbered.
+For example, Rule 4.1 is the first Case of the fourth Rule; and Rule
+4.1.2 is the second Sub case of the first Case of the fourth Rule.
+The following abbreviations are used in the body of these rules:
+CRT = Combat Results Table
+EZOC = Enemy Zone of Control
+LOC = Line of Communications
+MP = Movement Point
+ZOC = Zone of Control
+
+Game Charts, Tables, and Tracks: These appear on both the
+map and the separate Player Aid Mat.
+•	 The Game Turn Track shows time passing, measured in
+Game Turns.
+•	 The Morale Track indicates the current number of Morale
+Points available to each army.
+•	 You use the Combat Results Table (CRT) when resolving
+Battles.
+•	 The Terrain Effects Chart explains how the features on the
+map impact movement and combat during play.
+
+[3.0] SETTING UP THE GAME
+Players determine which side they will play. The French Player
+controls all of the French units, the Anti-French Player (a.k.a.,
+the “Allied Player”) controls the other (i.e., opposing) units.
+Locate the 12 specific Event cards for
+the game being played (note specific
+game name at top of each card), and
+shuffle just those Event cards together
+to form the Draw Pile, and then follow
+the game’s Exclusive Rules (in the
+Playbook) for the remainder of the set
+up instructions.
+
+[1.0] INTRODUCTION
+Napoleonic 20 is a wargame system for recreating operational
+level campaigns during the Napoleonic Wars using about 20
+pieces (often less) per side per game. This Standard Rules section applies to all games in the series, each of which also has its
+own Exclusive Rules section at the end.
+Game Scale: Each unit represents a division to a corps of troops
+(roughly 8,000 to 20,000 men and their equipment). Each space
+on the map is approximately one-half to one mile across.
+
+[2.0] GAME EQUIPMENT
+The Game Map: The game board features a map portraying the
+area where that battle or campaign took place. Superimposed
+over it is a hexagonal grid that regularizes the pieces’ movement
+and positioning.
+Designation
+(I Corps)
+
+Front
+
+Combat Strength
+
+General Rule
+Play proceeds in successive Game Turns, composed of alternating Player Turns. During each Game Turn, players maneuver
+their units and resolve Battles strictly in accordance with this
+Sequence of Play and within the limits provided by these Rules.
+At the conclusion of the final Game Turn, consult the Victory
+Conditions and determine the winner.
+
+The Game Turn
+
+Back
+Hidden Unit
+(French)
+
+Type
+(Infantry)
+
+[4.0] SEQUENCE OF PLAY
+
+Movement Allowance
+
+The Playing Pieces: The cardboard game pieces represent the
+actual military units that participated in the campaign. These
+playing pieces are called ‘units’ and the information on each is
+read as shown:
+•	 Combat Strength is the value of that unit when engaging
+in combat.
+•	 Movement Allowance is the speed and endurance of
+that unit; basically, it is the maximum number of Open
+terrain hexes that unit can move through during a single
+Movement Phase.
+
+Each Game Turn consists of two Player Turns, a First Player Turn
+and a Second Player Turn, with the Exclusive Rules specifying
+who the First Player is. Player Turns consist of segments called
+‘Phases.’
+The term ‘Phasing Player’ describes the player who is currently
+the protagonist conducting activities during that Phase.
+
+The First Player Turn
+1. First Player Random Events Phase: The First Player
+reveals and enacts the top Event card’s single event for
+that player only (5.0).
+2.	First Player Movement Phase: The First Player may
+move all, some or none of his units as desired within the
+limits of the Rules for Movement (6.0), Zones of Control
+(7.0), and Terrain Effects. That side’s reinforcements might
+also enter the map, if available (11.0).
+
+© 2012 GMT Games, LLC
+
+Fading Glory Rules Manual
+
+3
+
+3.	Second Player Reaction Phase: The Second Player
+may have some, none or all of his Cavalry units conduct
+Reaction Movement (8.0).
+
+[6.0] MOVEMENT
+
+4.	First Player Combat Phase: In any order the First Player
+desires, his units can attack enemy units (9.0).
+
+During your Movement Phase, you may move as many or as few
+of your units as you desire. You can move units in any direction
+or combination of directions.
+
+	 Afterward, all eligible units recover from Rout (9.6.3) and
+Fatigue (16.8).
+	 If he did not Force March (12.3) during his Movement
+Phase, and was not involved in any Battles during the
+Reaction or Combat Phases, the First Player can, if eligible,
+receive a Morale Point from resting this Turn during a
+“Lull” (13.0).
+5. 	First Player Night Operations: Only if it is a Night
+Game Turn, the First Player may Rally eliminated units
+(10.0), adjust his side’s Morale based upon captured Line
+of Communication (‘LOC’) and Objective hexes; recover
+one Morale Point (14.0), then reconceal all of his units and
+add his Dummy units to the map when using the Fog of
+War Optional Rule (16.1).
+
+The Second Player Turn
+6. Repeat Phases 1 through 5, reversing the roles of the
+First and Second Players. If it is a Night Turn, afterward,
+reshuffle all the Event cards to form a new Draw Pile.
+
+[5.0] RANDOM EVENTS
+
+General Rule
+
+Procedure
+Move units one at a time, tracing a path of contiguous spaces
+along the map. As each unit enters a space (called a “hex”), the
+unit pays one or more Movement Points (MPs) from its Movement Allowance to do so.
+
+Restrictions and Prohibitions
+[6.1] Strict Sequence: Movement never takes place out of sequence. You can only voluntarily move your units during your
+own (i.e., your ‘friendly’) Movement or Reaction Phases (see
+8.0 for the latter).
+[6.2] Speed Limit: A unit cannot exceed its Movement Allowance during a friendly Movement Phase, with the exception that a
+unit can always move 1 hex per friendly Movement Phase, even
+if it does not have sufficient MPs to pay the entire cost to enter
+that hex (as long as it is not into prohibited terrain or across a
+prohibited hexside). A unit can expend all, some or none of its
+MPs during its friendly Movement Phase. Unused MPs do not
+accumulate from Turn to Turn, nor are they transferable from
+unit to unit. Unused MPs are lost.
+[6.3] Enemies: A friendly unit cannot enter a hex containing
+an enemy unit.
+
+General Rule
+Random events are the imponderables of war.
+At the beginning of each Player Turn,
+the Phasing Player reveals the top Event
+card from the Draw Pile and immediately applies that side’s event. When
+there are two events on a card, the top
+(blue-shaded) event is the French
+Player’s and the bottom (non-blue
+shaded) event is the Anti-French
+Player’s.
+
+Procedure
+In addition to specific event instructions, reshuffle the deck at the
+end of each Night Game Turn. Unless otherwise specified in the
+event itself, a specific event can occur multiple times per game.
+
+[6.4] No ‘Take Backs:’ All movement is final once a player’s
+hand is withdrawn from the unit he is moving. Players may not
+change their minds and retrace a unit’s movement after releasing it.
+DESIGN NOTE: Strictly enforce this Rule! During these
+campaigns, units often went in the wrong direction at decisive
+moments with disastrous results.
+
+Terrain Effects
+Normally, units pay 1 MP to enter each hex, regardless of its
+terrain type. However, the following Cases apply to define this
+further:
+[6.5] Rugged Terrain: A unit that enters a Forest, Rough or
+Marsh hex must stop immediately and forfeit its unspent MPs
+(even those awarded through Forced March; see 12.3).
+It can freely leave that hex at its next opportunity, but if it enters
+another such hex, it must again immediately stop.
+[6.6] Roads: A unit using road movement (moving directly from
+one road hex to another, connected road hex) does not have to
+stop in Rugged Terrain (see 6.5).
+A unit which conducts its entire move along connected road hexes
+receives one additional Movement Point (+1 MP) that Turn.
+EXAMPLE: A cavalry unit moving entirely along connected
+road hexes could spend up to 4 MPs that Turn.
+
+© 2012 GMT Games, LLC
+
+4
+
+Fading Glory Rules Manual
+
+Zone of Control Effects
+[6.7] Stop: A unit that enters an EZOC (see 7.0, below) must stop
+immediately and forfeit its unspent MPs (even those awarded
+through Forced March; see 12.3). A friendly unit’s Zone of
+Control does not affect the movement of other friendly units.
+
+types of hexsides except Major Rivers (even at bridges and
+fords). Important: units separated by Major River hexes
+(even at bridges and fords) are not considered ‘adjacent.’
+
+[6.8] Stuck: Units may voluntarily leave an EZOC only through
+Disengagement (see 8.3) or at Night (see 7.6). The usual way
+to leave an EZOC is by Retreating or Advancing After Combat
+(see 9.7, 9.8 and 9.9).
+
+Effects of Other Friendly Units
+[6.9] No Stacking: A friendly unit can move through hexes
+occupied by other friendly units (at no extra MP cost). They
+cannot end the Movement Phase stacked in the same hex with
+another friendly unit.
+
+[7.0] ZONES OF CONTROL
+The six hexes immediately surrounding a unit constitutes its
+‘Zone of Control’ (abbreviated ‘ZOC’) as illustrated here.
+EXAMPLE: The ZOC of the French unit in La Haye Sainte
+does not extend into Mont St. Jean (where the British unit is),
+nor into Hougomont. It does extend out from its town into other
+adjacent hexes (all shaded), such as where the Prussian unit is.
+
+[7.1] Multiple Zones of Control: Both friendly and enemy units
+can exert their ZOCs upon the same hex. There is no additional
+effect if multiple units cast their ZOCs over the same hex. Thus,
+if a given unit is in an enemy-controlled hex, the enemy unit is
+also in its controlled hex. The two units are equally and mutually
+affected and ‘locked’ into each other’s ZOCs.
+[7.2] Movement Cost: Units do not pay any additional MPs to
+enter or exit an EZOC.
+
+Effects on Combat
+
+Those hexes adjacent to an enemy unit where its ZOC extends are
+said to be in an ‘Enemy Zone of Control’ (abbreviated ‘EZOC’).
+
+General Rule
+During Day Turns, units that begin their Movement Phase in
+an EZOC cannot move that Turn, and units that enter an EZOC
+during their Movement Phase must immediately stop moving
+(see 6.7).
+•	 All units exert a ZOC at all times, regardless of the current
+Phase or Player Turn.
+•	 The presence of ZOCs is never affected by other units,
+enemy or friendly.
+•	 ZOCs extend into all types of terrain except Fortified,
+Redoubt, and between adjacent Town / Fortified / Redoubt
+hexes (i.e., in a “built-up” area). They also extend across all
+
+[7.3] Combat Obligation: The Phasing Player’s units must attack all enemy units exerting EZOCs on them during the Combat
+Phase. All friendly units in an EZOC must attack an enemy unit
+(see 9.1).
+[7.4] Retreat Effect: Units can Retreat into a hex containing an
+EZOC, but in doing so they run the risk of Breaking for each
+such hex entered (see 9.8.3).
+[7.5] Advance After Combat Effect: EZOCs never affect Advance After Combat (see 9.9). Units that Advance After Combat
+can freely enter EZOCs.
+
+Night Game Turns
+[7.6] Night ZOC Effects: At night, EZOCs work
+opposite to how they do during Day Turns. That is,
+units cannot enter hexes in an EZOC (such hexes
+are prohibited), but they can freely exit hexes in an
+EZOC—consequently, those units are no longer stuck (as per
+6.8) during a Night Turn.
+
+© 2012 GMT Games, LLC
+
+5
+
+Fading Glory Rules Manual
+
+[8.0] THE REACTION PHASE
+General Rule
+The friendly Reaction Phase takes place during the opposing
+Player’s Turn. During your Reaction Phase, your Cavalry units
+can Countercharge, Disengage -OR- Penetrate (see Optional
+Rule 16.2).
+
+[8.3.4] Non-Retreat: Disengagement is not ‘Retreat After Combat’ (9.8). Thus, the enemy cannot Advance After Combat (9.9)
+to pursue a unit that uses Disengagement.
+
+Cavalry Penetration
+[8.4] Cavalry Penetration: See Optional Rule 16.2
+for this interesting additional Reaction Phase option.
+
+Countercharge
+[8.1] Seizing the Initiative: Cavalry units may make a special
+‘Countercharge Attack’ during the Reaction Phase (only; not
+during your normal Combat Phase). The Reacting Player is the
+“Attacker” in such Battles.
+[8.2] Unhinging the Enemy: A Countercharge Attack follows
+the normal Rules of combat in most ways (see 9.0), but because
+they are used to throw off the enemy’s timing and coordination
+before Battle, they receive the following modifications:
+[8.2.1] Selective Attacks: Unlike during regular combat (9.1
+and 9.2), units conducting a Countercharge do not have to attack
+every unit whose EZOC they are in. Instead, they may attack
+some, none or all such adjacent enemy units, and thus can make
+‘Selective Attacks.’
+•	 Multiple Cavalry units can combine to conduct a Selective
+Attack against a single enemy unit if they are all adjacent
+to it.
+•	 Normal Advance After Combat (9.9) follows a
+Countercharge Attack.
+•	 Normal combat occurs between the Countercharging unit
+and any enemy unit(s) to which it is adjacent during the
+ensuing enemy Combat Phase.
+[8.2.2] Strength Bonus: The Combat Strength of units conducting a Countercharge is doubled except when Countercharging
+enemy Cavalry units.
+[8.2.3] Holding Fast: In a Countercharge Battle, victorious defending units cannot Advance After Combat (9.9). They are too
+busy protecting their lives by taking cover or forming squares.
+
+Disengagement
+[8.3] Cavalry ‘Retreat Before Combat:’ A Cavalry unit that
+starts its Reaction Phase adjacent to an enemy unit can move
+away via ‘Disengagement.’
+
+[9.0] COMBAT
+General Rule
+The Phasing Player is called the ‘attacker’ and the Non-Phasing
+Player is the called the ‘defender’ at a ‘Battle’ (i.e., the resolution
+of a single attack) regardless of the overall strategic situation.
+You must declare all your Battles for that Phase before conducting any of them. Then, each individual Battle is resolved, one at
+a time, in any order you choose, by rolling a die and consulting
+the CRT to determine its outcome.
+
+Procedure
+At each Battle, follow these Steps in order:
+A.	Designate which of your units are attacking which adjacent
+enemy unit(s).
+B.	Total the Combat Strength of all your attacking units in
+that Battle. You may now spend a Morale Point to ‘commit
+Reserve troops’ to that Battle and increase your total
+strength by one (+1).
+C.	Total the Combat Strength of all the defending units that
+are the target of the attack. Add in the single best Terrain
+Effect for the defender’s location. The defender may now
+spend a Morale Point to commit his Reserves and increase
+his total strength by one (+1).
+D.	Subtract the total defending strength from the total
+attacking strength. The result is the ‘Combat Differential,’
+expressed as either a positive or negative number (or 0).
+E.	Consult the CRT and resolve the Battle using the
+‘Differential Column’ from Step D.
+F. 	Roll one die. Cross index the die roll with the Differential
+Column to determine the result of that Battle.
+
+[8.3.1] Timing: Disengagement occurs only in your Reaction
+Phase.
+
+G.	Apply this Combat Result immediately, including Retreats
+and Advances After Combat.
+
+[8.3.2] Pinned: A Cavalry unit cannot Disengage if it is in the
+ZOC of an enemy Cavalry unit.
+
+[9.1] Mandatory Combat: All phasing units in an EZOC must
+make an attack. If you choose to have a unit which is not in an
+EZOC (e.g., a unit in a Redoubt hex) attack, then all non-phasing
+units in your unit’s ZOC must be attacked.
+
+[8.3.3] Procedure: A Cavalry unit Disengages by moving one
+hex to an adjacent, vacant, non-prohibited, non-enemy-controlled
+hex (but see optional exception, 16.2). It then ceases its Disengagement movement.
+If no other route is available, it may move through friendlyoccupied hexes not in an EZOC to reach a vacant hex. If it does
+so, it goes one additional hex at a time until it is no longer stacked
+with a friendly unit.
+
+[9.1.1] Attacker’s Prerogative: You must determine which of
+your attacking units will attack which defending enemy units, in
+any combination you desire, as long as: A) all your friendly units
+in an EZOC participate in an attack, and B) all enemy units in
+your friendly ZOCs are, themselves, attacked (see 9.2.1).
+
+© 2012 GMT Games, LLC
+
+6
+
+Fading Glory Rules Manual
+
+[9.1.2] Pushing Too Hard: No unit can attack more than once
+per Friendly Combat Phase, and no enemy unit can be attacked
+more than once per Friendly Combat Phase.
+[9.2] Declaring All Battles First: During your Combat Phase,
+you must declare which of your friendly units will be attacking
+which adjacent enemy units at the beginning of each Combat
+Phase (to ensure that all adjacent units are attacked according to
+the Sub cases below) before conducting any individual Battles.
+[9.2.1] Multiple Unit and Multi-Hex Battles: When one of
+your units is in the ZOCs of more than one enemy unit, it must
+attack all of those enemy units that are not designated to battle
+some other friendly unit during that Combat Phase.
+EXAMPLE: You have a lone unit adjacent to two enemy units;
+it must fight them both!
+
+[9.2.2] Multi-Unit Battles: Attacking units in two or more
+hexes can combine their Combat Strengths in a single Battle
+providing all of the attacking units are adjacent to all of the defending units. Battles can thus involve multiple attacking and/
+or defending units.
+Diversionary Attacks: As you organize a series of Battles, you
+may allocate your attacking units in such a way so as to conduct
+some Battles at sacrificially poor differentials (a wargaming
+technique called ‘soaking off’) so that you can conduct other,
+adjacent Battles at more advantageous differentials.
+[9.3] Combat Strength Unity: A given unit’s Combat Strength is
+always unitary; it is not divisible among multiple Battles during
+a single Phase, either for attack or defense.
+
+[9.3.1] Artillery Bonus
+Artillery units, when included in a game, represent
+large, unwieldy parks of cannons that were concentrated into Grand Batteries to blast a hole in the
+enemy’s line.
+•	 Always double the Combat Strength of attacking Artillery
+units. Artillery units use their normal (printed) Combat
+Strength when being attacked.
+•	 Artillery units can never Advance After Combat (see 9.9).
+
+Terrain Effects on Combat
+Defending units benefit from the terrain in the hex they occupy
+and/or that hex’s perimeter hexside(s) it is attacked through.
+[9.4] Defender’s Benefit: Add the Combat Strength of the
+defender’s hex or hexside to the defender’s strength total as
+indicated on the Terrain Effects Chart.
+[9.4.1] A Single Benefit: The terrain benefits for combat are not
+cumulative. The defender in a Battle receives only the single most
+advantageous terrain benefit (for the defender) available for the
+defender’s hex or through a hexside.
+[9.4.2] Multiple Benefits: When two or more defending units
+are involved in a single Battle, and they receive different terrain
+benefits (i.e., different effects on the Combat Differential), then
+modify the entire attack by the single most favorable benefit to
+the defender.
+
+EXAMPLE: In this illustration, the single French Infantry
+unit must attack the Prussian Cavalry unit, and may attack the
+Prussian Infantry unit (9.1, the Prussian Infantry unit’s ZOC
+does not extend across the bridged Major River hexside, so the
+Phasing French unit is not obligated to attack it). The French
+situation is desperate, so the French Player declares that he
+will attack both units, initiating a single Battle against them.
+The Prussian Cavalry unit is in Clear terrain, so the Prussian
+Infantry unit’s benefits will apply for the defender (9.4.2).
+The Prussian Infantry is in Wavre, a Town hex located across
+the Dyle River at a Bridge hexside. Each of these terrain
+advantages for the defender (Town and Bridge) is worth one
+additional (+1) Combat Strength, but their benefits are noncumulative (9.4.1), so only the single best (i.e., +1) is added.
+Prior to commitment of Reserves by either side, this Battle
+stands at 4 vs. 4 (2 + 1 + 1) and will be resolved on the ‘0’
+Differential column of the CRT.
+
+[9.4.3] Attacker’s Terrain: Terrain in hexes occupied by the
+attacking unit(s) has no effect on combat. Note that Fortified,
+Redoubt, and adjacent Town/Fortified/Redoubt hexes do not
+allow EZOCs to extend into them, nor do ZOCs extend across
+Major River hex-sides (even at bridges or fords). Thus, units in
+these hexes or across these hexsides are not obliged to attack out
+/ across (9.1; however, if they do, Rule 9.1 fully applies), nor are
+they stuck when moving (6.8).
+[9.4.4] Garrison Forces: Some Napoleonic 20 games feature
+hexes containing intrinsic Garrison forces. These positions, typically indicated on the map by a small flag of the side controlling
+the Garrison, resist enemy efforts to enter them.
+Garrison forces have an intrinsic Combat Strength of zero (0),
+and that is modified by the terrain in the hex that force occupies.
+Garrison forces function as listed below when their hex is unoccupied, but they are ignored completely while their hex is
+occupied by a friendly unit.
+
+© 2012 GMT Games, LLC
+
+Fading Glory Rules Manual
+
+Garrison Force Abilities
+•	
+•	
+•	
+•	
+
+Garrison forces exert a normal ZOC.
+Garrison forces cannot attack.
+Garrison forces do not move or Retreat.
+You cannot commit Reserves (12.5) to Battles which
+involve only your Garrison forces.
+•	 Your units can freely move through and/or occupy the
+same hex as your Garrison forces. Thus, friendly units can
+freely “stack” with their Garrisons.
+•	 Enemy units cannot enter your garrisoned hexes except
+through Advancing After Combat when those enemy units
+are the attacker.
+
+Covering Your Failed Attack
+Important: When your attacking unit is displaced from a garrisoned hex, the victorious defending unit(s) cannot Advance
+After Combat if you have an intact Garrison force present.
+This overrides the usual Advance After Combat Rules as the
+Garrison force is, in effect, ‘covering’ for your Retreating unit
+after its failed attack.
+
+Falling to an Enemy Attack
+When a garrisoned hex has a friendly unit in it, and that unit
+is Broken or Routed by an enemy’s attack, those victorious
+enemy units can Advance After Combat normally into that
+garrisoned hex.
+The Garrison is considered to be subsumed into the defending
+unit and suffers that unit’s fate.
+If, for any reason, a victorious attacking enemy unit does not then
+Advance into that garrisoned hex, the Garrison force remains
+unaffected and intact.
+
+Elimination of Garrison Forces
+Unless otherwise noted in the Exclusive Rules, Garrison forces
+are permanently destroyed the instant an enemy unit occupies
+their hex.
+[9.5] Voluntary Differential Reduction: When attacking, you
+may reduce the Combat Differential of any given Battle during
+Step E in the Battle Procedure, resolving it at a lower differential.
+
+Explanation of Combat Results
+Once determined, apply the Combat Result immediately, including any Retreat and /or Advance After Combat, before resolving
+the next Battle in that Phase.
+[9.6] Combat Results: Listed below are the different Battle
+outcomes and their effects upon the units participating:
+[A] AB: Attacker Breaks. Break all attacking units in this
+Battle. The defender conducts any Advance after Combat
+(9.9). See Optional Rule 16.5.
+
+7
+
+a Routed marker on it on the appropriate side (see 9.6.3). The
+defender conducts any Advance After Combat (9.9).
+[C] AW: Attacker Withdraws. All attacking units in this
+Battle are Retreated one hex (9.8) by the attacker. The defender
+conducts any Advance After Combat (9.9).
+[D] DB: Defender Breaks. Break all defending units in this
+Battle. The attacker conducts any Advance After Combat (9.9).
+[E] DR: Defender Routed. The attacker rolls one die for
+each Routed unit, one at a time, and the defender Retreats that
+Routed unit a number of hexes equal to its die roll and places
+a Routed marker on it on the appropriate side (see 9.6.3).
+The attacker conducts any Advance After Combat (9.9). See
+Optional Rule 16.5.
+[F] DW: Defender Withdraws. All defending units in this
+battle are Retreated one hex (9.8) by the defender. The attacker
+conducts any Advance After Combat (9.9).
+[G] EX: Exchange. First, Break all defending units, and
+then the attacker must Break from among his units in that
+Battle an amount of Combat Strength Points at least equal to
+the defender’s Combat Strength total. Use only the printed
+Combat Strength values on the units, unmodified by terrain,
+Events, etc.
+Note that if the defending side’s Morale was not reduced to
+‘0’ (i.e., the attacker won the game, as per 15.0), the attacker
+may be forced to Break units whose strength is greater than the
+defender’s if there is no other alternative, i.e., you can’t ‘make
+change’. The attacker may also choose to Break a stronger unit
+than necessary if he so desires—this might occur if a weaker
+unit is deemed more valuable to the attacker for some reason.
+Afterward, if there are any surviving attacking units, the attacker conducts any Advance After Combat (9.9).
+[H] N: Engaged. There is no effect. Neither side Breaks any
+units, Retreats or Advances as a result of this Battle.
+
+Combat Results Sub-cases
+[9.6.1] Broken Units: Remove Broken units from the map and
+set them aside (because they can be Rallied; see 10.0).
+[9.6.2] Elite Unit Routing: When an Elite unit (i.e.,
+one with a red Combat Strength) Routs, subtract two
+(–2) from the Rout die roll. If the modified result is
+less than one (1), the outcome is changed to ‘Withdraws’ (i.e., the unit must still conduct a 1-hex Retreat, but suffers no Rout effects).
+[9.6.3] Routing Units: After surviving
+their Retreat movement, a Routed unit
+receives a Routed marker showing the
+color around its edge matching the side
+whose Player Turn it currently isn’t; i.e., a blue-edged Routed
+marker would be placed in the French enemy’s turn; a whiteedged Routed marker would be placed during the French turn.
+
+[B] AR: Attacker Routed. The defender rolls one die for
+each Routed unit, one at a time, and the attacker Retreats that
+Routed unit a number of hexes equal to its die roll and places
+© 2012 GMT Games, LLC
+
+8
+
+Fading Glory Rules Manual
+EXAMPLE: During the Anti-French Player’s Turn (i.e.,
+during the Anti-French Player’s Events and Combat Phases,
+and the French Player’s Reaction Phase), all Routed markers placed on units from both sides would have the French
+(blue-edged) color-side up. Conversely, during the French
+Player’s Turn, all Routed markers placed would show their
+Anti-French (white-edged) color-side.
+
+Effects: While a unit has a Routed marker on it, apply all of
+these effects:
+•	 It can only move in such a way as to continue its Retreat
+(denoted by the ‘R’ on the marker). That is, any MPs it
+spends must be in accordance with Rule 9.8. It can always
+not move and remain in place.
+•	 It loses its ZOC.
+•	 Its Combat Strength is reduced by 50% (round fractions
+up), both when attacking and defending. This does not
+modify any defender’s terrain effect benefits.
+•	 If all of your units participating in a Battle have Routed
+markers, you cannot spend a Morale Point to commit
+Reserves to that Battle (12.5).
+•	 It cannot Advance After Combat.
+•	 It will Retreat and Rout again normally, if compelled to
+do so.
+EXAMPLE: You are the French Player and, on your Turn,
+one of your units and two of your opponent’s units are Routed.
+They each receive a white-bordered (i.e., opponent’s colored)
+Routed marker after surviving their Retreat.
+
+Recovery: At the end of your Combat Phase, remove all Routed
+markers in play whose borders match your side’s color (bluebordered if you are the French Player or white-bordered if you
+are not), and are not in an EZOC.
+At the end of your opponent’s Combat Phase, those Routed
+markers are removed from each of these units, but only if it is
+not in an EZOC. Otherwise, they remain on those Routed units,
+with full effect, and are checked again for removal at the end of
+your opponent’s next Combat Phase!
+
+[9.7] No Movement Cost: Retreat is not regular movement.
+Retreating units simply count the hexes Retreated through, one
+at a time, regardless of terrain (including Rough, Forest, etc.
+where Retreating units do not stop during a Retreat).
+[9.8] Retreat Restrictions: If a unit is unable to Retreat within
+the following restrictions, that unit is Broken instead:
+[9.8.1] Terrain Effects: Units cannot Retreat off the map, into
+prohibited hexes or across Major Rivers (except across bridge
+or ford hexsides).
+	
+
+Fortified hex	
+
+Redoubt hex
+
+Units in a Fortified or Redoubt hex may always Retreat one fewer
+hex, at the owning player’s option.
+Thus, a unit in such a hex can ignore a “Withdraws” result that it
+suffers, and Retreat one hex fewer if it Routs; on a Rout die roll
+of 1, such a unit is still technically Routed and suffers normal
+Rout effects, but it may opt to ‘hold its ground.’
+For Elite Forces, apply the Elite effects first (subtracting two from
+the Rout die roll) and then adjust for defending in a Fortified or
+Redoubt hex. Thus, if an Elite Force suffered a 1 or 2 Rout result
+while defending in a Fortified or Redoubt hex, it would be the
+equivalent of an Engaged result; on a 3 the unit would be Routed
+but could choose to ‘hold its ground.’
+[9.8.2] Retreat Hex Priority: Whenever and wherever possible, you must Retreat units into and through vacant hexes not
+containing an EZOC.
+[9.8.3] Hazardous Retreat Path #1 - Enemy ZOCs: If the
+above (9.8.2) is not possible, you can Retreat a unit into/through
+an EZOC and even end its Retreat in an EZOC. If you do so,
+however, you must roll one die for each EZOC hex entered. On
+a roll of 1, 2, or 3, the unit Breaks in that hex; on a roll of 4, 5,
+or 6, it Retreats normally.
+Friendly units do not negate EZOCs for purposes of Retreat.
+
+EXAMPLE: At the end of the French Player’s turn, all bluebordered Routed markers in play are removed, regardless of
+whether they are on French or Anti-French units.
+
+Retreating After Combat
+‘Retreat After Combat’ is when a Combat Result requires a
+player’s unit(s) to Retreat (either by Withdrawal or Rout). The
+owning player must immediately move each such unit the indicated number of hexes away from the hex it occupied during the
+Battle (i.e., its ‘Battle hex’).
+
+© 2012 GMT Games, LLC
+
+Fading Glory Rules Manual
+[9.8.4] Hazardous Retreat Path #2 - Crossing Rivers: When
+Retreating anywhere across a Minor River, or across a Major
+River via a bridge or ford hexside, your unit must roll one die.
+On a roll of 1, 2, or 3, the unit Breaks in the hex before crossing
+that River; on a roll of 4, 5, or 6, it Retreats normally across it.
+When Retreating into/across multiple hazards at a single hex,
+you must make a separate die roll for each of them!
+[9.8.5] Friendly Units: If no other route is available, a Retreating
+unit may move through friendly occupied hexes. If its Retreat
+would end in a friendly-occupied hex, it Retreats one additional
+hex at a time until it is no longer stacked with a friendly unit.
+This means additional die rolls if these hexes are also hazardous!
+[9.8.6] Retreat Direction Priority: While always yielding to
+Rule 9.8.2, whenever and wherever possible, you must Retreat
+your units in such a way that, with each hex they Retreat, they
+move closer to a friendly LOC hex (see the Exclusive Rules)
+than the hex Retreated from.
+You have the choice of which LOC hex to Retreat each unit
+toward if more than one is available (regardless of proximity to
+the Retreating unit).
+[9.8.7] Going the Distance: A Retreat path can zig-zag only to
+avoid self-destruction, but it must strive to maintain Rule 9.8.6.
+The length of the Retreat path must be the full indicated number
+of hexes. If the unit reaches the LOC before reaching the full
+required distance, it Breaks in the LOC hex (i.e., it is Retreated
+‘off the map’).
+
+Advancing After Combat
+Victorious attacking or defending units can usually Advance
+After Combat.
+[9.9] Advance After Combat Cases: Units must adhere to the
+following Cases when conducting Advance After Combat:
+[9.9.1] The Retreat Path: When an enemy unit Retreats as a
+result of combat, it will leave a specific path of vacant hexes
+behind it called the ‘Retreat Path.’ If this path went through a hex
+containing another unit friendly to the Retreating unit (9.8.5), the
+Retreat Path ends at the hex the unit Retreated through.
+If a unit Breaks, then the hex it occupied at the instant of Breaking is the termination point for its Retreat Path.
+
+9
+
+[9.9.2] Who is Eligible to Advance? Any or all surviving victorious non-Artillery, non-Routed units (and see 16.8.3, “Spent”)
+that participated in the Battle can Advance After Combat by their
+owner along the enemy Retreat Path (only). Units cannot stray
+from the Retreat Path while Advancing.
+[9.9.3] Which Units Must and Cannot Advance: Normally, an
+Advance is made at the discretion of the victorious player, but if
+there are one or more victorious Cavalry units involved in that
+Battle, the victorious player must roll a die on the Controlled
+Advance Table (subtracting one if any are ‘Heavy’ Cavalry units
+of 2 or more Combat Strength).
+•	 If control of the Advance is kept, there is no effect and
+those units Advance normally as their owner sees fit.
+•	 If control of the Advance is lost by the Cavalry, then at
+least one victorious Cavalry unit must Advance.
+After any mandatory Cavalry unit Advance After Combat is
+conducted, if the defeated unit’s hex is still vacant, then one
+other attacking unit involved in that Battle may (at the owning
+player’s discretion) Advance After Combat into that hex (only),
+if otherwise allowed.
+[9.9.4] Enemy ZOCs: Advancing units always ignore enemy
+Zones of Control.
+[9.9.5] Advance Limit: Artillery and Routed units can never
+Advance After Combat, Infantry units cannot Advance beyond
+the hex occupied by the defender at the start of that Battle, and
+a Cavalry unit cannot Advance a number of hexes greater than
+its printed Movement Allowance.
+As when Retreating, Advancing units don’t spend MPs nor stop
+for Rugged Terrain (9.7). Advance After Combat is, essentially,
+a ‘free move.’
+[9.9.6] Terrain Effects: Units may not Advance After Combat
+into prohibited hexes (i.e., hexes that they could not enter through
+normal movement) or across Major Rivers (except across bridge
+or ford hexsides).
+[9.9.7] Immediacy: You must immediately exercise your option
+to Advance After Combat before the next activity is resolved.
+If not exercised immediately, this Advance opportunity is lost.
+[9.9.8] Exhaustion: Advancing units can neither attack, nor be
+attacked, again during that same Combat Phase, even if their
+Advance places them next to enemy units whose Battles are yet
+to be resolved, or who were not involved in a Battle.
+
+© 2012 GMT Games, LLC
+
+10
+
+Fading Glory Rules Manual
+
+[10.0] RALLYING
+General Rule
+At certain times (e.g., Night Turns), you can attempt to ‘Rally’
+your Broken units.
+
+Procedure
+For each Broken unit attempting to Rally, roll one die and apply
+all appropriate die roll modifiers as listed on the Rally Table on
+the Player Aid Mat. Note that the decision to spend a Morale
+Point [12.0] is made separately and must be made before rolling
+the die, but applies to all Rally attempt rolls made at that time
+(e.g., night time or event-driven rally opportunities). Consult the
+Rally Table and apply the result immediately. Also see the Unit
+Reduction Optional Rule, 16.5.
+
+Placement of Rallied Units
+EXAMPLE: Three French units (the 4-strength Imperial
+Guard, 2-strength III Corps, and 1-strength IV Cavalry Corps)
+attack one Prussian unit (the 3-strength I Corps) which is
+defending in a Forest hex.
+
+Place your newly Rallied unit on an empty friendly LOC hex. If
+none are available, or you do not desire to place it there at this
+time, then that unit simply remains Broken; it is possible to try to
+Rally it again at a later time. (Also see Rule 16.4 for additional
+Rally locations.)
+
+The attacker (French) has a total of 7 Strength Points, and the
+French Player declines to spend a Morale Point to increase
+his strength.
+
+[11.0] REINFORCEMENTS
+
+The defender (Prussian) has a total of 4 Strength Points (3 for
+the unit plus 1 for the Forest hex it is defending in), and opts
+to spend 1 Morale Point to increase his total to 5.
+Therefore, the Combat Differential is 7 – 5 = +2. The French
+Player rolls a die. Looking at the CRT, the French Player’s
+die roll of 6 is cross-indexed with the +2 column to yield a
+result of DR (Defender Routs).
+This requires a roll to determine the Rout distance. A result
+of 2 isn’t bad, requiring the unit to Retreat only two hexes
+back toward its LOC off to the right—and no loss of Morale
+for Routing more hexes than its Movement Allowance (see
+Morale Chart)!
+Unfortunately, the first hex it must Retreat through is in an
+EZOC (i.e., “hazardous”), so another die roll must be made to
+see if the Retreating Prussian unit Breaks (as per 9.8.3). This
+time, the die roll is a 5, and the Prussian unit survives and
+continues its Retreat along its Retreat Path, as shown above.
+Now the French consider their Advance After Combat options.
+With a victorious French Cavalry unit among the attackers,
+a die roll is required on the Controlled Advanced Table, but
+a result of 3 means that Cavalry unit is ‘off to the races’ and
+must Advance into the Forest hex. The French Player then
+exercises his option to continue to Advance his Cavalry unit
+along the Retreat Path and takes a second hex (which is where
+the Retreat Path ends).
+Finally, the French Player also exercises his option to Advance
+an Infantry unit into the defender’s vacated hex, moving the
+2-strength III Corps into the Forest.
+
+General Rule
+You might receive additional units over the course of play called
+‘reinforcements.’
+Your reinforcements appear during your Movement Phase on the
+Game Turn indicated by the set up instructions in the Exclusive
+Rules in the Playbook.
+Variable Reinforcements: Some games list ‘Variable Reinforcements’ in their set up instructions or reinforcements that enter
+play via Event cards. Each of your Variable Reinforcement units
+requires you to make a separate die roll for them on the Turn
+they are scheduled to arrive. If your die roll succeeds, it enters
+play that Turn normally. If it fails, that unit is advanced ahead
+one turn on the Game Turn Track, where you can roll for it again
+during your next Movement Phase.
+
+Procedure
+When they arrive, place your reinforcement units next to the
+colored map edge hexsides indicated in the Exclusive Rules
+portion of the Playbook.
+Important: The notion of reinforcements being poised directly
+at the map edge is strictly a concept. Until they enter the map,
+reinforcements have no effect on game play. Off map units have
+no ZOCs, cannot attack enemy units, etc.
+
+[11.1] Initial Movement: Arriving reinforcements are poised
+next to the map edge. When entering its first hex, a reinforcing
+unit expends its MPs normally according to the Terrain Effects
+Chart. Units entering along a Road pay the Road movement cost.
+
+© 2012 GMT Games, LLC
+
+Fading Glory Rules Manual
+[11.2] March Order: When you have more than one reinforcement unit appear at the same hex during the same Movement
+Phase, line them up off map, one behind the other, with the ‘lead’
+unit poised next to the map entry hex itself. To simulate a ‘march
+order’ column of troops, each such unit spends one more MP than
+its predecessor did to enter the map.
+[11.3] Timing: Reinforcements can arrive at any time during
+your Movement Phase that Turn. Once on the map, reinforcement
+units are treated as normal units for all purposes.
+[11.4] Blocked Entry: A reinforcement unit cannot enter a hex
+occupied by an enemy unit; it can enter a hex in an EZOC, but
+must then cease movement normally.
+[11.5] Delaying Arrival: You may voluntarily delay your reinforcements from Game Turn to Game Turn, bringing them into
+play on some later Turn (if at all). This is what a player must do
+when a reinforcement’s entry area is blocked by enemy units.
+Whenever a reinforcement is brought into play, it must appear
+at its scheduled entry area.
+
+[12.0] ARMY MORALE
+General Rule
+Each side begins with a number of Morale Points
+as indicated in the Exclusive Rules’ set up instructions. Morale Points represent that side’s level of
+motivation and command skill during the campaign.
+Players expend Morale Points to enhance their Movement,
+Combat and Rally operations.
+
+Keeping Track of Morale Points
+Use the Morale markers to record Morale Points on the Morale
+Track.
+[12.1] Gaining / Losing Morale Points: See the Morale Chart
+(next to the Morale Track on the Player Aid Mat) for specific ingame actions that raise and lower Morale Points. If two or more
+Morale-changing events occur simultaneously, first add and then
+subtract all the Morale Point changes that apply.
+[12.1.1] Maximum Morale: A side’s Morale Value may never
+exceed ten (10), with any excess being lost.
+[12.1.2] Morale Destroyed: If a side’s Morale Value ever reaches
+zero (0), then that side immediately loses the game. If this occurs
+to both sides simultaneously, the game is a draw.
+
+11
+
+Exceptions:
+•	 There is no cost to commit a Guard unit if either side has
+only 1 Morale Point remaining. The Guard was expected
+to join the fray at such a critical moment.
+•	 There is no Morale cost for a Guard unit to Advance After
+Combat (9.9).
+At that point, that Guard unit is already committed.
+
+[12.2.2] Le Garde Recule: If an attacking Guard unit in a Battle
+could not conceivably Advance After Combat (9.9.2), i.e., it was
+not victorious or did not survive an EX outcome, that side loses
+one (–1) Morale Point. That Guard unit does not have to actually
+Advance, it simply must be victorious and capable of doing so.
+This Guard unit morale adjustment is in addition to other moraleadjusting factors.
+EXAMPLE: The French Guard unit pays 1 Morale Point
+(MP) to move adjacent to an enemy unit that is across a bridge
+hexside, setting up a very important attack. It Routs (DR) that
+enemy unit 6 hexes. The enemy = –1 MP for Routing more
+hexes than that unit’s Movement Allowance (and the attacking Guard unit avoids the Le Garde Recule penalty; 12.2.2).
+That Routing unit then Breaks when it reaches a prohibited
+hex and can’t complete its Retreat. The French = +1 Morale
+(for Breaking the enemy unit).
+When the Routed unit Breaks, there is no additional MP loss
+to its side.
+
+Spending Morale Points
+You can only ever spend a single Morale Point at a time for
+these purposes:
+[12.3] Forced Marching: During your Movement Phase, you
+may spend one Morale Point to increase the Movement Allowances of all your units by one (+1).
+[12.4] To Rally: When you attempt to Rally units, you may spend
+one Morale Point for a plus one (+1) die roll modifier to all your
+Rally die rolls conducted at that time.
+[12.5] Committing Reserve Troops to Battle: During a Battle’s
+Steps B and C, the attacker and defender, respectively, may each
+spend one Morale Point to add one (+1) to their side’s total
+strength in that particular Battle.
+
+[12.2] Committing the Guard: Certain units, often
+referred to as ‘Guards’ (i.e., ones with a red Movement Allowance, as shown here) were typically held
+back and committed only at critical times.
+[12.2.1] Forward: During your Movement Phase, before moving
+your Guard unit into a hex from which it can attack an adjacent
+enemy unit (i.e., ‘committing the Guard’), you must spend a
+Morale Point.
+
+© 2012 GMT Games, LLC
+
+12
+
+Fading Glory Rules Manual
+
+[13.0] PASSING (“LULLS”)
+
+[15.0] HOW TO WIN
+
+General Rule
+
+General Rule
+
+After the first Night Game Turn occurs, during any subsequent
+Day Turn where both players have units on the map, if you do
+not Force March your army, nor make any Battle die rolls (9.0)
+during your opponent’s Reaction Phase or your own Combat
+Phase, then your side gains one (+1) Morale Point at the end of
+your Player Turn if either one of these applies:
+
+Each side has its own Victory Conditions based upon Morale
+Values:
+
+A. Your side has fewer than 6 Morale Points,
+- OR B. Your side does not have more Morale Points than your
+opponent.
+
+[14.0] NIGHT TURNS
+General Rule
+During Night Game Turns, the following Rules
+apply:
+•	 Speed Limit: Reduce all Movement Allowances to 1 MP.
+You can increase this, as usual, by using Roads and/or
+Forced Marching, but units can always move at least one hex
+regardless of other adjustments (e.g., Event cards, Fatigue;
+see 16.8) unless specifically prohibited from doing so.
+•	 ZOC Effects: At night, EZOCs work opposite to how they
+do during Day Turns. That is, units cannot enter hexes in an
+EZOC (such hexes are prohibited), but they can freely exit
+hexes in an EZOC—consequently, those units are no longer
+stuck (as per 6.8) during a Night Turn. This is a way to exit
+EZOCs. In effect, all units can Disengage at night.
+•	 No Battles: Skip the Reaction Phase, and no combat occurs
+during a Night Turn’s Combat Phase.
+
+Additional Activities
+The following ‘Night Operations’ are skipped during Day (i.e.,
+non-Night) Turns. You only perform them, in order, during the
+Night Operations Phase of your Night Turn.
+1. Rally: You may attempt to Rally your Broken units (see
+10.0).
+2. Enemy Morale Loss due to Captured Terrain: If you
+have units physically occupying enemy LOC and / or
+Objective hexes (i.e., one in the opposing side’s color),
+apply their morale loss effect at this time according to the
+Morale Chart.
+3. Morale Recovery from Rest: Your side increases its
+Morale Value by one (+1) point from a night’s recuperation.
+4. Re-concealment: When using the Fog of War Optional
+Rule (16.1), you now reconceal (i.e., flip face-down) and
+place your side’s Dummy units on the map.
+5. Reshuffle: At the end of the Second Player’s Night Turn,
+reshuffle the Event cards to refresh the Draw Pile.
+
+•	 The French Player wins a Decisive Victory if, at any time,
+the Anti-French side’s Morale is reduced to zero (0) and
+French Morale is one (1) or more.
+•	 The Anti-French Player wins a Decisive Victory if, at any
+time, the French side’s Morale is reduced to zero (0) and
+Anti-French Morale is one (1) or more.
+•	 The Anti-French Player wins a Marginal Victory if, at the
+end of the game (i.e., at the conclusion of the last Game
+Turn), the Anti-French side’s Morale Value is at least 1
+higher than the French side’s Morale Value.
+•	 A Draw occurs with any other result.
+
+[16.0] OPTIONAL RULES
+Players can use these Optional Rules in any combination desired.
+
+[16.1] Fog of War: Hidden Units
+Players place their units face-down at all times (including during set up). You can freely inspect your own units, but not your
+opponent’s pieces until they are ‘revealed.’ Face-down units
+function normally in all other respects.
+[16.1.1] Revealing Hidden Units: You reveal a
+face-down unit:
+•	 Whenever the opposing player desires to reveal his own
+units.
+•	 When you pay a Morale Point to ‘Commit the Guard’
+(12.2); at that time, that Guard unit, if hidden, must be
+revealed.
+•	 At the end of each non-Night Turn’s Movement Phase,
+if you have a face-up Cavalry unit adjacent to hexes
+containing face-down enemy units, reveal all of those
+face-down units.
+•	 When an enemy Cavalry unit attempts to move during its
+Reaction Phase via Disengagement (8.3) or Penetration
+(16.2), and you wish to prevent that maneuver with a
+hidden friendly Cavalry unit, that hidden friendly Cavalry
+unit is revealed.
+•	 After all Battles are declared during a Combat Phase
+(i.e., which friendly units are designated to attack which
+other, possibly hidden, enemy units), all units involved are
+revealed.
+No Advance After Combat is permitted when only a hidden
+Dummy unit is revealed in Battle. (There was no combat, so
+there is no Advance.)
+
+© 2012 GMT Games, LLC
+
+13
+
+Fading Glory Rules Manual
+[16.1.2] Reconcealing Units: Face-up units remain revealed until
+the end of your Night Turn, at which time all of your face-up
+units are turned face-down to begin the new day.
+[16.1.3] Dummy Units: Each side’s mix of pieces
+includes one or more ‘Dummy’ units.
+•	 Unless specified, do not set up any Dummy units on the
+map.
+•	 You may add one hidden friendly Dummy unit per Turn, if
+available, to the map with the arrival of either your newly
+Rallied or Reinforcement unit (also hidden). They arrive
+stacked together (like a ‘shell game’) and you must move
+at least one of them during your Movement Phase (6.9)
+so that they do not remain stacked.
+•	 You can also place in play all of your available (i.e., those
+not currently hidden on the map) Dummy units when your
+units are reconcealed (usually at Night, see 14.0). Place
+them in hexes containing a friendly unit that is not adjacent
+to an enemy unit and then immediately relocate one of
+those two stacked units (real or Dummy) to an adjacent
+hex that is also not adjacent to an enemy unit.
+•	 A Dummy moves like a Cavalry unit (with a Movement
+Allowance of 3). But moving them only 2 will help conceal
+them among Infantry units!
+•	 The instant your Dummy unit is revealed, it is removed
+from the map (at no Morale cost). It can return during your
+next opportunity for re-concealment.
+•	 When declaring Battles (9.2), include hidden Dummy
+units! Their declared Battles do fulfill the attacker’s
+mandatory combat requirement (9.1). That is, you can use
+unrevealed Dummy units as ‘feints’ to create diversionary
+attacks!
+•	 When revealing units as per 16.1.1, Dummy units do
+cause enemy units to be revealed. In this capacity, they
+are ‘scouting.’
+•	 Until revealed, a Dummy unit functions in all ways as a
+normal unit and does control the hex it occupies (e.g., an
+enemy Objective or LOC hex).
+
+[16.2] Cavalry Penetration
+During your Reaction Phase, friendly Cavalry units
+may move through EZOCs under certain circumstances.
+
+Procedure
+Cavalry Penetration occurs during your Reaction Phase (only) as
+that Cavalry unit’s single action. Your Cavalry unit must begin
+its Reaction Phase adjacent to an enemy unit. It can then move
+into another hex that is also adjacent to an enemy unit (even
+moving from one hex in an EZOC to another), but it must then
+cease its movement for that Phase and cannot also conduct a
+Countercharge attack.
+•	 The Penetrating Cavalry unit cannot begin in, or enter an,
+enemy Cavalry unit’s EZOC.
+DESIGN NOTE: This move is, in effect, the opposite of
+Disengagement (8.3).
+
+[16.3] Artillery Support
+Individual artillery batteries were often detached
+from ‘parks’ for nearby formations to help shore up
+threatened parts of the line.
+[16.3.1] Defensive Support: If no attack has been declared
+(9.2) against an Artillery unit, it adds one (+1) to the strength of
+all friendly defending units in its ZOC (if it currently has one).
+This benefit has no Morale Point cost and applies during both
+the enemy’s Combat and Reaction Phases.
+[16.3.2] Bombardment: Artillery units can attack across a Major
+River or other prohibited terrain hexside by Bombardment. A
+bombarding Artillery unit can attack, either alone or combined
+with other friendly attacking units, using its normal (printed; not
+doubled as per 9.3) Combat Strength.
+When bombarding, Artillery units enjoy a limited immunity to
+adverse combat results: Treat all AB or AR results as AW. If an
+EX result occurs, a bombarding Artillery unit cannot be Broken
+to satisfy Case 9.6.G; if the Artillery unit is attacking alone via
+Bombardment, treat EX results as Engaged instead.
+
+© 2012 GMT Games, LLC
+
+14
+
+Fading Glory Rules Manual
+
+[16.4] Additional Rally Locations
+In addition to vacant LOC hexes, you can also place Rallied
+units (10.0) in a ‘Rally hex’ that meets all of these conditions:
+•	 It must be an empty Town, Fortified or Redoubt hex or your
+side’s Objective hex. That is, a ‘natural rallying point’.
+•	 It must be ‘a safe distance’ of at least 4 hexes away from
+the nearest enemy unit and closer to your nearest LOC
+hex than the nearest enemy unit is to that same LOC hex.
+That is, it must be ‘safely behind your lines.’
+•	 It must be able to trace a path of hexes to your closest
+LOC hex that is not occupied by an enemy unit. This
+path can be of any length, but cannot pass through
+any hex containing or adjacent to an enemy unit, or
+across impassable (unbridged / unforded) Major River
+hexsides. In other words, that hex is not ‘isolated behind
+enemy lines.’
+
+[16.5] Unit Reduction
+Broken units can return to play as smaller formation, reducedstrength units called ‘Cadres.’
+[16.5.1] Partial Rallying: When you conduct a Rally Check for
+an Infantry unit (only) and roll a ‘Cadre?’ result, you have the
+option to partially Rally that unit thus:
+•	 Eliminate the Infantry unit you were rolling for (i.e., it is
+permanently removed from play), and
+•	 Receive (‘Rally’) one of the generic, 1-strength Cadre units
+instead.
+[16.5.2] Cadre Units: Cadre units function as normal Infantry units except, if they are ever Broken,
+they themselves cannot be Rallied. When Broken,
+they return to your pile of available Cadre units
+instead, ready for future reuse.
+
+[16.6] Unit Breakdown and Buildup
+Before it moves during your Movement
+Phase, your ‘large’ (i.e., having a Combat
+Strength of 2 or more) Infantry-type unit
+(only; other types are not eligible) can be
+exchanged for (i.e., ‘broken down into’) two
+Cadre units, if available, at the cost of 1
+Morale Point.
+Conversely, at the end of your Movement Phase, you can stack
+two Cadre units together and exchange them for (i.e., ‘combine
+them into’) an eliminated large Infantry unit and recover 1
+Morale Point.
+[16.6.1] Breaking Down: A player must have two available
+Cadre units in order to break down a large Infantry unit.
+
+Remove the large Infantry-type unit being broken down from the
+map and place it among your eliminated units (i.e., it cannot be
+Rallied). Replace it in its hex with two Cadre units. These newly
+placed Cadre units are free to move and engage in combat this Turn.
+•	 There is a minus one (–1) Morale Point cost to break down
+a unit thus.
+•	 If an unrevealed large Infantry unit breaks down, one
+Dummy unit, if available and Rule 16.1 is in effect, can
+also be added to that stack of two (also unrevealed) Cadre
+units when it is formed.
+[16.6.2] Combining: Any two Cadre units of the same nationality can end their owner’s Movement Phase stacked together (an
+exception to Rule 6.9). When they do so, remove them from the
+map and replace them in that hex with your weakest eliminated
+large Infantry unit of that same nationality; that unit is then free
+to participate in combat that Turn.
+•	 There is a plus one (+1) Morale Point gain when building
+up a large Infantry unit thus.
+
+[16.7] Special Unit Types
+Some games include special unit types with unique capabilities
+identifiable by their Combat Strength and/or Movement Allowance in a different (non-black) color.
+As a reminder, the Standard Rules:
+•	 Infantry units with their Combat Strength in red are Elite
+units (–2 for Rout rolls, and +1 for Rally rolls).
+•	 All units with their Movement Allowance in red are Guard
+units (they must be ‘committed’ to attack with them, see
+12.2).
+[16.7.1] Light Infantry: Infantry units with their
+Movement Allowance in green are Light Infantry.
+They function as normal Infantry units in all respects
+except as follows:
+•	 They can also Disengage, exactly as per Case 8.3 (i.e., not
+if in an enemy Cavalry unit’s ZOC).
+•	 As an exception to Case 6.5, Light Infantry units need
+not stop in Rugged Terrain hexes (e.g., Forest, Rough and
+Marsh). Instead, they may simply spend 1 MP to enter that
+hex and continue moving.
+[16.7.2] Cossacks: Cavalry units with their Movement Allowance in green are Cossacks. They function as normal Cavalry units except as follows:
+•	 As an exception to Case 6.5, Cossack units need not stop
+in Rugged Terrain hexes (e.g., Forest, Rough and Marsh).
+Instead, they may simply spend 2 MPs to enter that hex
+and continue moving. If it enters a Rugged hex when it
+has only 1 MP, it can enter and must stop as usual.
+•	 During their Reaction Phase, Cossack units cannot
+Countercharge (8.1) or Penetrate (16.2).
+•	 During the Reaction Phase, Cossack units can Disengage
+from the ZOCs of enemy Cavalry units (an exception to
+Case 8.3.2).
+
+© 2012 GMT Games, LLC
+
+15
+
+Fading Glory Rules Manual
+
+[16.8] Fatigue
+
+[16.9] Leaders
+
+Sustained combat exhausts troops and degrades their
+performance over time. You can show this using the
+round Fatigue markers and this Optional Rule.
+
+Units showing a man’s portrait are Leaders.
+Command
+Prerogative
+(16.9.5.1)
+Command
+Span
+
+Russian
+
+French
+
+Name
+Portrait
+Movement
+Allowance
+
+Leader units represent the command structure needed to coordinate offensive action on a sprawling battlefield. These units do
+not have a Combat Strength; instead the value on the dark blue
+dot is called their Command Span rating (but it is located in the
+same place where other units’ Combat Strengths are).
+
+Fatigue Levels
+Here is the list of the five levels of Fatigue:
+0. Fresh (no marker)
+1. Ready (green marker)
+2. Tired (yellow marker)
+3. Weary (orange marker)
+4. Spent (red marker)
+
+Leader Set Up
+Listed in the game’s set up instructions you will find the optional
+Leader units included.
+
+Procedure
+[16.8.1] Exhaustion: Each unit participating in a Battle (attacking and defending), has its Fatigue Level increased by one (e.g.,
+from having no Fatigue marker to placing a Ready marker on it; or
+flipping a Ready marker over to show its Tired side; or replacing
+a Tired marker with a Weary marker; or flipping a Weary marker
+to show its Spent side). If the unit is already Spent, there is no
+additional effect; it simply remains Spent.
+[16.8.2] Recovery: At the end of your own Combat Phase, each
+of your units with a Fatigue marker on it that is not adjacent to
+an enemy unit has its Fatigue Level reduced by one level (even
+during a Night Turn). A unit with a Ready marker on it simply
+removes it to symbolize that it is again Fresh.
+[16.8.3] Effects of Fatigue: While Fatigued (i.e., marked with
+a Fatigue marker), that unit is affected thus:
+•	 Ready: that unit is unaffected.
+•	 Tired: that unit receives no movement benefit if its side
+conducts a Forced March (12.3).
+•	 Weary: that unit suffers the Tired penalty and a –1 penalty
+to its Movement Allowance (e.g., if it is an Infantry unit,
+its Movement Allowance is reduced to ‘1’, and a Cavalry
+unit would be reduced to ‘2’).
+•	 Spent: that unit suffers the Tired and Weary penalties, and
+is prohibited from voluntarily entering EZOCs, including
+during an Advance After Combat.
+
+[16.9.1] Command Span: A Leader unit’s Command Span is
+the radius in hexes over which it exerts control over friendly
+attacking units, reflecting its command authority.
+Terrain features and/or the presence of enemy units or EZOCs
+have no impact on a Leader’s Command Span.
+[16.9.1.1] Command Prerogative: Applies to the Smolensk
+20 and Borodino 20 games only. See 16.9.5.1 in the Playbook.
+[16.9.2] Leader Movement: Leader units move like Cavalry
+units, with the following exceptions:
+•	 Leader units move through all Rugged Terrain (6.5) hexes
+as if they were Clear.
+•	 Leader units can voluntarily exit EZOCs (6.8) providing
+they do not move directly from one EZOC into another
+when doing so.
+•	 A Leader unit can end the Movement Phase stacked in the
+same hex with a friendly unit and/or any number of other
+friendly Leader units (i.e., Leader units ‘stack free’).
+[16.9.3] Zones of Control: Leaders do not exert ZOCs. Leaders
+are not obligated to attack enemy units (7.3), but if they are in an
+EZOC and not stacked with a friendly unit at any point during
+the owning player’s Combat Phase or during the enemy Movement Phase, then the Leader must immediately be retreated one
+hex by the owning player. If the Leader is still in an EZOC and
+not stacked with a friendly unit after such a mandatory retreat,
+then the Leader is Broken.
+[16.9.4] Leader Reaction Movement: Leaders, themselves,
+do not perform Reaction Movement (8.0). A Leader unit can
+accompany the friendly unit it is stacked with that performs
+Reaction Movement. Leaders do not affect the Combat Strength
+of Countercharging Cavalry units.
+
+© 2012 GMT Games, LLC
+
+16
+
+Fading Glory Rules Manual
+
+[16.9.5] Leaders in Combat: During your Combat Phase, your
+Leader units ‘coordinate attacks’ by providing Command to your
+units that are within their Command Span. Units within their
+Command Span are ‘In Command,’ while those that are not are
+‘Out of Command.’
+
+[16.9.7] ‘Rallying’ Broken Leaders: Unlike other Broken units,
+at the beginning of your Movement Phase each Turn, you automatically Rally (i.e., no die roll required) your Broken Leader
+units. Place Rallied Leader units in the same way as other units
+(see 10.0 and 16.4, if that Rule is used).
+
+Procedure
+When calculating the final Combat Differential of an attack
+during Step D of the Battle Sequence (9.0), your attacking units
+(only) check to see whether or not they are ‘In Command.’
+
+If the Napoleon Leader unit is Broken (for whatever reason), the French Player must roll on this
+table:
+
+•	 The attacking units are In Command, and that Battle is
+resolved normally, if any of your attacking units are within
+the Command Span of one of your Leader units.
+•	 The attacking units are Out of Command, and that Battle
+is resolved with the final Combat Differential reduced by
+one (–1), only if none of your attacking units are within
+the Command Span of one of your Leader units.
+There is no benefit if you have more than one (or even all) of
+your attacking units In Command, or having more than one
+Leader unit mutually exerting their Command Spans over your
+attacking units.
+Conversely, Command has no effect on a unit’s ability to defend.
+Command only affects the attacking units in a Battle.
+
+Command Cases
+•	 A Leader unit can provide Command to multiple Battles
+within its Command Span in the same Combat Phase.
+•	 Whether a unit is In Command or not (i.e., its ‘command
+status’) is determined at the instant each Battle is resolved.
+Should an adverse combat result cause your Leader unit to
+Break or Retreat in such a way that its Command Span is
+no longer exerted over your unit involved in a subsequent
+Battle, then that attack is conducted Out of Command.
+•	 A Leader unit stacked with a friendly unit that Advances
+After Combat (9.9) may accompany that unit (or not).
+•	 A Leader unit stacked with a friendly unit that is forced
+to Retreat must accompany that unit. If that unit Breaks
+during that Retreat due to a failed Hazardous Retreat roll
+(9.8.3 and 9.8.4) or upon reaching an LOC (9.8.7), then
+that Leader unit is also Broken (see below).
+[16.9.6] Broken Leader Units: Unlike other units, there is no
+Morale penalty when a Leader unit is Broken, with this one
+exception: When the French Leader unit Napoleon is Broken
+(for whatever reason), the French Player must immediately roll
+a die and consult The Emperor’s Fate Table.
+
+	
+
+1	
+
+Napoleon is killed. The game ends in an immediate
+Allied Decisive Victory.
+
+	
+
+2	
+
+Napoleon is wounded. The French side immediately loses one Morale Point.
+
+	
+
+3-6	 Napoleon escapes. No effect.
+
+[16.9.8] Rallying on a Leader: Some Event card titles state that
+your units are “Rallying on” a specific leader. If you draw that
+Event, are using Optional Rule 16.4, and your Leader marker
+named in that Event’s title is on the map, then vacant hexes with
+or adjacent to that Leader marker and not in an EZOC can serve
+as additional Rally locations (without any other restrictions) for
+the duration of that Event only.
+
+Napoleonic 20 v3.0 Series
+Credits
+Game System Design: Joseph Miranda
+Series Developer: Lance McMillan
+Documentation: Alan Emrich
+Counter Art: Tim Allen, Richard Starke and Mark Simonitch
+Maps: Knut Grunitz
+Cards  Rules layout: Charles Kibler
+Playtesting: Mark Beninger, Michael D’Alesandro,
+Scott DiBerardino, Joe Donnelly, Andreas Gebhardt, Kim
+Meints, David Moody, Stephanie Newland, Joe Oppenheimer, Randall Shaw, Hugh Tracy
+Proofreading: Bill Barrett, Hans Korting, Rick Partin,
+Jonathan Squibb, Ian Wakeham
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy
+Lewis, Gene Billingsley  Mark Simonitch
+
+GMT Games, LLC
+
+P.O. Box 1308, Hanford, CA 93232-1308
+© 2012 GMT Games, LLC
+
+</rulebook>
+			
+						                           
+						               													<description>(from GMT webpage:)&amp;#10;&amp;#10;Napoleonic 20 Multi-Pack, Volume I&amp;#10;&amp;#10;Fading Glory is the second game (No Retreat - The Russian Front Deluxe Edition is the first) we (GMT Games) are producing as part of our strategic friendship/partnership with Victory Point Games, and the first game we are producing from their popular Napoleonic 20 series. The idea for this and future volumes is that we will take multiple existing games from the VPG Napeoleonic 20 series, add an as-yet-unpublished game to the mix, and create a GMT boxed game with 3-4 games in the box, using larger (3/4&amp;quot;) counters and GMT production.&amp;#10;&amp;#10;The Napoleonic 20 game system from Victory Point Games features lower-level wargame complexity on maps where, generally, 20 pieces or fewer are in play at one time (total, for both sides).  This creates tense, dramatic and fast-playing situations on the board where higher echelon troop formations (generally corps) vie for position and dominance. Subscribers to C3i have recently enjoyed Jena 20, a game in this series which features eight pages of Standard rules and one-to-two pages of exclusive rules per title.&amp;#10; Veteran game designer Joe Miranda, with developers Alan Emrich and Lance McMillan, have created and refined a highly popular game series that is growing all the time. (Based on Joe's series rules, Alan, Lance, and Steve Carey have each designed one of the games in this multi-pack - in addition to Joe's Waterloo game.) A hallmark feature is the use of narrative random event cards that help &amp;ldquo;tell the stories&amp;rdquo; unique to each battle and small campaign. This &amp;ldquo;friction of war&amp;rdquo; element, combined with the operational-level maneuvers, combat, and even lulls, provide players a fun exercise in the Napoleonic parry-and-thrust of grand battles as armies close to bayonet-point to see which will break first.&amp;#10;&amp;#10;This edition includes the latest version (3.0) of the Standard series rules.&amp;#10; Morale plays an vital role, as both sides can &amp;lsquo;spend&amp;rsquo; this resource to force march their units, help rally stragglers, or commit reserves to a key attack or defense. But look out&amp;hellip; when a side&amp;rsquo;s morale is reduced to zero, it has lost the game!&amp;#10;&amp;#10;Included in this Multi-Pack are:&amp;#10;&amp;#10;&amp;#10;    Salamanca 20 (Wellington vs. Marmont, 1812)&amp;#10;    Smolensk 20 (Napoleon vs. Barclay de Tolly in the near-battle to decide the Russian Campaign, 1812)&amp;#10;    Borodino 20 (Napoleon vs. Kutusov before Moscow, 1812)&amp;#10;    Waterloo 20 (Napoleon vs. Blucher and Wellington, 1815) &amp;#10;&amp;#10;&amp;#10;Game Components:&amp;#10;&amp;#10;&amp;#10;    Four 17&amp;rdquo; x 22&amp;rdquo; mounted  maps (2 boards, backprinted)&amp;#10;    117  3/4&amp;quot;  Counters (thick, with Rounded corners, like No Retreat)&amp;#10;    48 Event cards (12 for each game)&amp;#10;    One 8-page Standard Rules booklet&amp;#10;    4 Exclusive Rules sheets&amp;#10;    One Player&amp;rsquo;s Aid mat&amp;#10;    Two Player Aid charts&amp;#10;    2 six-sided Dice&amp;#10;&amp;#10;&amp;#10;DESIGN: Joe Miranda&amp;#10;DEVELOPER: Alan Emrich &amp;amp; Lance McMillan&amp;#10;ART DIRECTOR: Rodger B. MacGowan&amp;#10;COUNTER ART: Tim Allen &amp;amp; Richard Starke&amp;#10;MAP ART: Knut Gr&amp;uuml;nitz&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1051" value="Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="144" value="Series: Napoleonic 20 (Victory Point Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="38361" value="Borodino 20" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="39815" value="Smolensk 20" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="34334" value="Waterloo 20" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41521" value="Steve Carey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="709" value="Alan Emrich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11112" value="Lance McMillan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="337" value="Joseph Miranda" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11322" value="Knut Grünitz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2652" value="Charles Kibler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="557" />
+			<average value="7.49842" />
+			<bayesaverage value="5.96786" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2776" bayesaverage="5.96786" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="201" bayesaverage="6.90886" />
+												</ranks>
+
+			<stddev value="1.25899" />
+			<median value="0" />
+			<owned value="1271" />
+			<trading value="51" />
+			<wanting value="61" />
+			<wishing value="236" />
+			<numcomments value="247" />
+			<numweights value="65" />
+			<averageweight value="2.5846" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

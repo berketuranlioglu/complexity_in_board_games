@@ -1,0 +1,3206 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="10788">
+         <thumbnail>https://cf.geekdo-images.com/MUb_sIKNhfpvaqyOybQZaA__thumb/img/PfBtoMJutBAEU9PFlhjGrHcdwrc=/fit-in/200x150/filters:strip_icc()/pic573041.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/MUb_sIKNhfpvaqyOybQZaA__original/img/kmn2GdZBE8fHS2njMak7ZckPO6o=/0x0/filters:format(jpeg)/pic573041.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hellenes: Campaigns of the Peloponnesian War" />
+				<rulebook>HELLENES: Campaigns of the Peloponnesian War
+
+RULE BOOK
+TAB LE O F C O N T E N T S
+
+Introduction................................................................... 2
+1.0 	 The Map.............................................................. 2
+2.0	 The Blocks.......................................................... 3
+3.0	 The Cards............................................................ 4
+4.0	 Actions................................................................ 5
+5.0	 Movement........................................................... 6
+6.0	 Combat............................................................... 7
+7.0	 Siege................................................................... 8
+8.0	 Siege Combat...................................................... 9
+9.0	 Winter............................................................... 10
+10.0	 New Year.......................................................... 11
+11.0	 Olympians......................................................... 12
+
+12.0	 Peace of Nicias................................................. 12
+13.0	 Persian Aid........................................................ 12
+14.0	 Victory.............................................................. 13
+15.0	 Scenarios........................................................... 13
+	
+15.1 The 431 Campaign................................... 13
+	
+15.2 The Sicily Campaign............................... 14
+	
+15.3 The 413 Campaign................................... 14
+	
+15.4 The 415 Campaign................................... 15
+Strategy Notes............................................................. 15
+Credits ........................................................................ 15	
+Index	.......................................................................... 15
+Charts and Tables ....................................................... 16
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+© 2011 GMT Games, LLC
+
+1
+
+HELLENES: Campaigns of the Peloponnesian War
+
+2
+
+INTRODUCTION
+Hellenes is a strategy game on the Peloponesian
+War between the Athenian Empire and the
+Spartan League, 431–404 BC. The object is to
+amass Prestige by winning battles and capturing or pillaging opposing cities. 4 scenarios are
+provided (playing times: 2–­6 hours). Players
+can select sides randomly, or bid Prestige to
+play a side. The Spartan player sits to the south,
+the Athenian player to the north.
+
+The Game Year
+
+A Game Year consists of New Year plus 5
+Seasons. Players get 6 cards per Year, playing
+one card per NewYear/Season.
+
+New Year (10.0)
+Deal each player 6 cards. One is played immediately as a NewYear Event or Sacrifice (10.3).
+
+Campaigning Seasons
+Campaigning Seasons (Spring through Fall)
+consist of an Initiative phase, followed by a
+Player Turn (“turn”) for each side.
+
+Initiative Phase (3.3)
+To begin each Season the players each commit
+one card face-down, then reveal them simultaneously. Cards have Action Values (coins) and
+Events on opposite ends and can serve either
+use but not both. Play the card with its intended
+use upright from your point of view.
+The lower Action Value takes the first Player
+Turn (Events have zero Action Value). Sparta
+goes first in case of ties.
+
+Player Turns
+The 1st Player does an Action phase and a Combat phase. Then the 2nd Player does the same.
+
+• Action Phase (3.1, 4.0)
+Events are resolved first. Playing an Event
+means having no Actions that turn.
+Action Values (coins) entitle a player to make
+1–3 Actions that turn (possibly increased by a
+Leader or Continuing Event). Actions include
+Group Movement, Building, and Pillaging.
+
+In Winter, units outside friendly-controlled Cities (including besiegers) need Maintenance (a
+possible Winter Action). Units seeking Winter
+shelter can usually move without Action cost,
+but no new attacks are allowed.
+Winter ends with a Year End procedure (9.5).
+
+1.0 THE MAP
+The map depicts ancient Greece and its environs, divided into land and sea areas.
+•	Persia consists of Phrygia and Lydia.
+•	Sicily includes all areas on the Sicily inset
+map (including the Gulf of Rhegium).
+•	Italy is Taras, Croton  adjacent seas.
+•	The rest of the map area is Greece.
+
+1.1 Land Areas
+Black borders divide land areas, or Provinces.
+Thick black borders divide Nations, and dashed
+borders divide Provinces within a Nation.
+A Province containing a City is known as a
+CityState. All islands are playable.
+
+1.2 Sea Areas
+Blue lines separate Sea Areas. Thick DeepSea
+borders are risky to cross (5.22). Double lines
+show Narrows, which are easier to defend (6.5).
+
+1.3 Cities and Towns
+Cities [squares] and Ports [hexagons] are
+color-coded by Nationality and contain City
+Value numbers. City Capacity (in units) is
+double the City Value.
+Ports are Cities with fortified harbors. The Port
+symbol projects into its single Offshore Sea,
+to which it retains access even when Besieged
+(7.2). When not besieged, units in a Province
+have access to all adjacent seas.
+Every City has an inherent immobile Garrison
+(2.3) block that is only placed on the map as
+needed (they are NOT units and do NOT count
+against City Capacity).
+Towns [colored circles] are barbarian centers
+with no City advantages.
+
+1.31 City Loyalty
+
+Rulebook Organization
+This running sidebar contains clarifications,
+examples, and commentary. New changes are
+in red. New edits for clarity are in blue.
+
+Sequence of Play - Game Year
+New Year
+•	
+•	
+
+Deal 6 cards to each player
+New Year Event / Sacrifice
+
+Spring/ Summer/ HighSummer/ Fall
+•	Initiative (card play)
+•	1st Player Turn
+Action Phase
+•	 An Event occurs; OR
+•	 Actions occur (any order):
+Movement / Pillaging / Building
+Combat Phase
+Battles / Siege Combat
+•	2nd Player Turn (as above)
+
+Winter
+
+•	Initiative (card play: NO Events)
+•	1st Player Winter Actions
+Wintering Movement
+•	Homing to Home City (free)
+•	Quartering to adj. City (free)
+•	Group Moves (cost 1 Action)
+Building
+Winter Maintenance
+Disbanding
+•	(2nd Player repeats as above)
+•	1st Player SiegeBreaking Combat
+Homing Battles
+(Win: enter City / Lose: Disband)
+
+Sorties
+•	(2nd Player repeats as above)
+•	1st Player Siege Combat
+Siege Assaults / Siege Attrition (triple)
+•	(2nd Player repeats as above)
+•	Year End
+•	Tribute Collection
+•	Victory Check
+•	Advance Year marker
+•	Collect  Shuffle cards
+
+City Representation
+
+• Combat Phase (6.0)
+
+Cities with white outlines (green/blue/purple)
+are loyal to Athens. Those with black-outlines
+(red/orange/yellow) are Loyal to Sparta.
+
+In the Combat Phase, battles and sieges for
+disputed areas (i.e., units of both sides present)
+are resolved one at a time, smallest battles first.
+
+Cities retain their Loyalty regardless of occupation or control. Cities Loyal to the enemy are
+termed Opposing Cities.
+
+Winter Season (9.0)
+
+White Cities are neutral and cannot be entered.
+Some scenarios specify other neutral Cities.
+
+Scenario instructions may specify additional
+neutral CityStates for specific scenarios. Entry
+into these is also prohibited.
+
+1.32 City/Town Nationality
+
+Offshore Seas -- clarifications
+
+Winter follows a different play sequence.
+•	Initiative
+• Winter Actions:
+Player 1 / Player 2 	
+• SiegeBreaking Combat: Player 1 / Player 2
+• Offensive Combat: Player 1 / Player 2.
+
+Unit labels are also color-coded by Nationality
+(the central symbol color).
+
+© 2011 GMT Games, LLC
+
+Most CityStates contained several cities. Only
+the most important is shown, but the given
+City Value includes all cities.
+
+Neutral CityStates
+
+Leucas (Ambracia): Gulf of Ambracia
+Lipara (Sicily): Tyrrhenian Sea
+
+HELLENES: Campaigns of the Peloponnesian War
+A unit must be in a Home City (same color/
+Nationality) to build up in strength. This is
+crucial to game play.
+Athenian Subject Cities are a lighter blue than
+Attica (Athens/Platea): they are not the same
+Nationality. Lacedaemon [red] and Corinth
+[orange] are also different Nations.
+
+1.33 Subject Regions
+
+Subject Cities are grouped into Subject Regions
+such as Ionia [see sidebar, p. 5]. Spartan controlled Subject Cities make other Cities within
+that Region more likely to Revolt (3.12).
+
+1.4 Area  City Control
+City control governs Wintering (9.21) and
+Tribute (9.51). Control of land and sea areas
+affects Retreats (6.4). Control is re-evaluated
+after each Action phase and Combat phase.
+Controlled cities / areas are termed Friendly.
+•	Sole occupation controls any area.
+•	Vacant CityStates are controlled by the
+side to which they are loyal (i.e., a conquered City left unoccupied reverts to its
+original owner!)
+•	Other vacant areas (including those containing towns) are uncontrolled.
+•	In cases of Siege (7.0), both sides occupy
+a CityState. Defenders controls the City;
+besiegers control the surrounding Province.
+
+2.0 THE BLOCKS
+Wooden blocks represent pro-Spartan and proAthenian forces, including allies.
+The large red and blue blocks are units, which
+are mobile forces. A Spartan unit label must be
+attached to the face of each large red block, and
+an Athenian unit label to each large blue block.
+Units normally stand upright, their identities
+hidden from the opponent. This adds surprise
+and bluff to the game.
+Units available for a scenario but not currently
+in play on the map are kept face-down in the
+friendly Recruit Pool.
+Smaller red/blue blocks are garrisons representing immobile City defenders (2.3). They
+are unlabeled and not considered ‘units’.
+Markers. Put Group marker A/B and S/T labels
+on large blue and red blocks as per 2.41. Attach
+Year, Prestige, Action, Civil War and Pillaged
+marker labels to the large black, orange and
+grey blocks as per 2.42.
+
+2.1 Unit Labels
+Labels show a unit’s Nationality, type, and
+movement/combat abilities.
+Greek units have one-color backgrounds [see
+sidebar]. Greek units arrive in Home Cities at
+minimum or cadre strength (1 cv) and remain
+in play until eliminated.
+
+Barbarian units have 2-color backgrounds
+with dark tan predominant [Persians have light
+tan predominant, see sidebar]. They arrive in
+home towns (colored dots) at maximum cv, and
+can make 1 free move from there, but disband
+in the next Winter (9.24).
+Sicilian units: (Greek/Barbarians with Home
+Cities/towns in Sicily), have distinctive background label colors, with barbarians 2-colored
+as above [see sidebar].
+Unit ID numbers (1–60) are shown to aid setup.
+For both sides, unit ID numbers are coded for
+the Scenarios (15.0) in which they appear:
+ID# 1–40		
+ID# 41–46	
+ID# 47+		
+
+3
+
+City Control
+A CityState is always controlled by its original
+owner unless occupied by an enemy block.
+Besieged Cities are controlled by the defender.
+
+Area Control
+Areas are controlled by the occupying player.
+Unoccupied areas that are not CityStates are
+uncontrolled. In Sieges, the besieger controls
+the land area of a CityState (i.e., its surrounding Province).
+
+Units
+
+431, 415  413
+415  413 only
+Sicily  415 only
+
+greeks
+
+Units with ID#s in white boxes can only appear
+under certain specified circumstances.
+
+2.11 Unit Nationality
+
+Each unit’s central symbol is color-coded to
+match its Home Cities/towns. This is crucial
+to game play. Only Nationality color-matching
+matters: historical text names are for historical
+interest only.
+
+Pro-Sparta
+
+Pro-Athens
+
+barbarians
+
+2.12 Combat Value
+
+Units have 1–4 steps of strength, called Combat
+Value or cv. A unit’s current cv is the number
+on its top edge when standing upright.
+
+Persia
+
+Greece
+
+sicilians
+
+Combat Value dictates the number of dice (d6)
+thrown for a unit in combat. A 4 cv unit attacks
+with four dice (4d6); a 1 cv unit would roll 1d6.
+For each step loss suffered, a unit is rotated 90
+degrees counter-clockwise to its next lowest cv.
+The sidebar shows a cavalry unit at 3, 2, and
+1 cv strength. 1 cv is termed cadre strength.
+
+Barbarian
+
+Greek
+
+2.13 Movement Range
+
+Each label has a number in a box showing that
+unit’s Movement Range in areas. Blue boxes
+show sea movement, white boxes show land
+movement. Red boxes show elite status with a
+greater chance of moving 1 extra area by Forced
+March/Sail (5.3).
+
+2.14 Combat Rating
+
+A unit’s Combat Rating is indicated by a letter
+and number, such as A1 or B2.
+Letters are unit Agility: “A” units attack before
+“B” units, etc., with defenders of equal agility
+preceding aggressors (defending “A”, then
+aggressor “A”, etc).
+The number is the unit’s power: its ability
+to damage and/or Rout opposing forces in
+combat (6.3).
+Example: A unit rated B1 inflicts 1 hit on the
+enemy for each 1 rolled. An A3 unit does this
+for each 1, 2, or 3 rolled.
+
+© 2011 GMT Games, LLC
+
+Greece
+
+Greek
+
+unit data
+
+Nationality
+[color]
+
+Combat Value
+[maximum 4]
+
+Name
+
+Land
+Combat
+Rating
+
+Unit Type
+Unit ID#
+Sea Combat Rating
+
+(Red=Elite)
+Land Movement (white)
+Sea Movement (blue)
+
+step reduction
+
+4
+
+HELLENES: Campaigns of the Peloponnesian War
+
+2.2 Unit Types
+2.21 Hoplites
+
+Hoplite units are the main Greek
+land forces, formed of tightly
+packed armored spearmen that
+fight as a unit (phalanx).
+Elite hoplites (as above) have better Forced
+March ability [red movement rating] and
+quicker Agility.
+
+2.22 Archers
+
+Archer units also include other
+missile land forces, like slingers
+and javelinists. Combat rating
+is A1, but maximum cv is low.
+
+2.23 Cavalry
+
+Cavalry is the fastest land unit,
+with A1/A2 combat ratings.
+Cavalry has special abilities in
+Retreats (6.41), making it ideal
+for scouting, blocking and raids.
+
+2.24 Infantry
+
+Infantry units represent lightly
+armed land forces that are more
+Agile (B1) in combat than (nonelite) hoplites, but less powerful.
+
+2.25 Barbarians
+
+Barbarians (includes Persians)
+are large non-Greek land forces
+that appear randomly and briefly
+in play. They have 2-colored,
+predominantly tan backgrounds
+(shown), and are usually less Agile than equivalent Greeks.
+They appear at full strength in home towns
+and immediately make make one free move
+from there, but must disband (9.24) in Winter.
+
+2.26 Fleets
+
+Fleets are the only units able to
+move to sea, fighting there using
+their sea combat rating [E or F].
+They can each carry to sea 1
+smaller (in cv) Greek land unit
+(which cannot fight there).
+Fleets can also occupy coastal land areas, fighting ther using their land combat rating [D1].
+Fleets must stop upon entering a land area.
+Elite fleets (above) have better Forced Sail
+ability [red movement rating].
+
+2.27 The Odrysians
+
+The strong Odrysia barbarian
+cavalry unit cannot appear if
+an Athenian Leader is in play
+[white box around #37]. Errata:
+this label was printed without the white box
+behind “Odrysia”.
+
+2.3 Garrisons
+Garrisons are small unlabeled 1/2” blocks
+representing 1 cv City defense forces which
+defend their City only (they cannot defend the
+surrounding province or resist enemy movement through it). They are not represented on
+the board until needed, but appear automatically in Cities that are Besieged (7.3) or that
+Revolt [see sidebar]. Garrisons can also be built
+in occupied opposing Cities (4.23) to control
+them if mobile friendly units leave.
+Garrisons are “blocks” but not “units”: they do
+NOT count against City Capacity but DO count
+as ‘defenders’ re Siege Attrition
+dierolls.
+
+2.4 Markers
+2.41 Group Markers
+
+Events
+Revolt*: Place a Spartan garrison in a
+qualified Subject City (must be vacant).
+Helot Uprising*: Place Athenian garrison
+in Sparta, Messenia or Pylos (if vacant).
+[* = NOT playable as New Year Events.]
+Plague Strikes: All units (except cadres) in
+the specified besieged City lose 1 cv.
+Plague Returns [Plague Strikes has occurred]: All units (except cadres) in the
+specified City lose 1 cv (Siege unneeded).
+Treachery: A Treachery Assault can be
+made against 1 besieged City (others can
+be Siege Attritioned), with defenders losing
+double defense. However, assaulters must
+Retreat if the City is not taken in a single
+Combat Round (Capitulation is allowed).
+
+Attach the label pairs lettered A  B to large
+blue blocks and the S  T labels to large red
+blocks. Use Group markers to relieve unit
+congestion when desired. Remove a Group
+off-map, placing a Group Marker block in its
+location and its twin off-map with the removed
+Group.
+
+Leader Ostracized: A current enemy or
+friendly Leader is deposed (return to deck).
+
+2.42 Game Markers
+
+Augury: Enemy units cannot Engage or
+Assault this season (Siege Attrition OK).
+
+The Year and Prestige labels go
+on black blocks. Action marker
+labels go on gray blocks, and Civil War / Pillaged marker labels go on orange blocks.
+
+3.0 THE CARDS
+Fifty five (55) cards are provided.
+431 Campaign: Use only cards #1–44, with silver or gold borders and coins.
+Sicily/415/413 Campaigns: Use only cards
+#12–55, with silver or bronze borders/coins.
+Each NewYear begins by dealing 6 cards facedown to each player.
+Players play 1 card in the NewYear plus 1 per
+Season (revealed simultaneously). Each card
+has an Action Value and an Event, and may be
+played for either purpose but not both (play the
+card with the operative end upright from your
+point of view).
+
+3.1 Events
+Events are always resolved before Actions.
+They are not playable in Winter, and many
+are only playable under specified conditions
+[as stated in italics within brackets].
+Red Events can be played only by Sparta, and
+blue ones by Athens. Green Events (including
+Leaders) can be played by either side.
+Event effects are detailed in the sidebar.
+
+© 2011 GMT Games, LLC
+
+Hunger: one besieged City suffers Siege
+Attrition on dierolls of 1–2 that season
+(Ports must also be blockaded).
+Earthquake: Enemy units cannot Move or
+Pillage that season (incl. Barbarian recruits).
+
+Atrocity: Enemy (+1 Leader) loses 2 Prestige.
+
+Continuing Events
+Continuing Event cards (with black bars)
+remain face-up in play until removed.
+Leaders: A friendly or enemy Leader is
+introduced (only one Leader per side can be
+in play: a current Leader must be Ostracized
+before being replaced).
+Civil War: An unbesieged City loses double
+defense for rest of current Year (place marker). Remove card from play next Year End.
+Athens Raises Taxes: Athens gains +1 Action/ Turn, but when playing Revolt Events,
+Sparta gets an additional Tax Revolt (added
+garrison in a qualified Subject City) for each
+such card in play. Athens can remove this
+card from play in any Year End.
+Persian Aid (13.0): Sparta gains +1 Action/Season, but loses 1 Prestige/ Year End
+(Tribute). Persian units  Spartan improved
+fleets may be Recruited but Revolts become
+more difficult. Cannot be removed.
+Peace Faction Ascendant: Peace Offers
+(14.22) become possible at 5+ Prestige and
+only cost –1 Prestige (for both sides).
+War Faction Ascendant: cancels Peace
+Faction, restores Peace Offers to requiring
+10+ Prestige and costing –2 Prestige.
+No Quarter: Athens can no longer recruit
+elite (E2) fleets. Sparta loses 1 Prestige/
+Year End. Cannot be removed.
+
+HELLENES: Campaigns of the Peloponnesian War
+Most Events affect only the current Player Turn.
+Continuing Events (black bars above/below
+title) remain in play until removed.
+Important: when an Event is played, that
+player will have no Actions and can only wage
+Siege Attrition combat that Turn (exception:
+a Treachery Event allows a limited Assault
+against one besieged city — see sidebar, p. 4).
+
+3.11 Leaders
+
+4.0 actions
+Cards played with coins upright provide Actions for that Turn equal to the number of coins
+shown (this may be increased by Leaders/
+Continuing Events in play, see sidebar p4).
+Actions cannot be saved for future use.
+Note: Players can use Action Markers to show
+where and how Actions are spent, see sidebar.
+
+Both sides begin every game with a Leader
+card in play (Leaders in play are kept face up
+on mapboard). Leaders with a Leader Value
+of +1 allow that side 1 extra Action per Player
+Turn (except during Events).
+
+Actions can be executed in any order desired
+(e.g., built units may move that Turn, or a unit
+may move home and then build).
+
+Example: Athens plays a 2-Action card with
+Pericles (+1 Leader) in play, yielding 3 Actions that turn.
+
+All units located in a single area (even a single
+block) compose a Group.
+
+A side cannot have more than one Leader in
+play. Therefore Leaders with 0 Leader Value
+must be removed before a better Leader can
+replace them. This cannot simply be done
+voluntarily: a Leader Ostracized Event must
+be played. Initiative order determines the result
+when two Leader events for the same side are
+played (the 2nd Leader event may be wasted).
+
+3.12 Revolts
+
+Revolts cause a Spartan garrison to appear in
+a vacant Athenian Subject City (light blue, see
+1.32). For Revolt purposes, the Aeolean Islands
+are also considered a Subject Region.
+There are 3 types of Revolts:
+•	Regional Revolt: A Revolt Event card is
+played, specifying a Revolt in a specified
+Subject Region [see sidebar].
+•	Spreading Revolt: Some Revolt cards
+give the Spartan player the option to have
+the Revolt occur in a Rebellious Subject
+Region (one already containing a Spartancontrolled Subject City, see 1.33) instead of
+in the Region specified on the card.
+•	Tax Revolt: When Regional or Spreading
+Revolt occurs, the Spartan player can place
+1 additional garrison in a qualified location
+for each Athens Raises Taxes card in play.
+
+3.2 Action Value
+All cards also have an Action Value of 1–3
+(coins), which allows a player that many Actions during his Player Turn (plus any applicable Leader/Continuing Event bonus).
+
+3.3 Initiative
+The cards played determine the order of play
+(Initiative) for that Season.
+The lower Action Value played goes first.
+Events (zero Actions) are always resolved first.
+If tied, Sparta goes first.
+Leader Value and Continuing Events do not
+affect Initiative.
+
+4.1 Group Movement
+For 1 Action expended, a player can either
+Move a Group or form one (Muster). See 5.0
+Movement for details.
+
+4.2 Building
+Building Actions can be used to Recruit new
+units in their Home Cities/towns, and to build
+units in Home Cities one step stronger.
+Building cannot occur in besieged Cities (7.2)
+or Ports that are besieged  blockaded (8.21).
+
+4.21 Reinforcements
+
+For 1 Action, a unit occupying a Home City can
+be increased by 1 cv. Units can build multiple
+steps per season if the Actions are available.
+
+4.22 Recruits
+
+For 1 Action, a random new unit can be raised
+in a friendly (1.4) Home City or town (1.32).
+Secretly select three blocks at random from the
+face-down friendly Recruit Pool (2.0). Place
+one in a Home City/town and return the others to the Pool (if none of the drawn units are
+legally placeable, return all three to the pool,
+the Recruit Action is wasted).
+Greek units arrive in Home Cities at cadre (1
+cv) strength (may build up further that turn).
+Barbarian units arrive at full strength in home
+towns (only!) and may immediately make a
+normal move from there at no Action cost.
+Rebel Units. Two units can be recruited in
+locations of Opposing Loyalty (if not enemy
+occupied). A pro-Spartan Aeolean Ids fleet can
+appear in Lesbos or Chios (capturing the City).
+A pro-Athenian Macedonia barbarian can appear in any Macedonian town (NOT in Pella).
+
+4.23 Detached Garrisons
+
+For 1 Action, a garrison may be built in an Opposing City occupied by friendly Greek units
+(not Barbarians). Garrisons maintain control
+of conquered Opposing Cities when occupying
+friendly units move elsewhere.
+
+© 2011 GMT Games, LLC
+
+5
+
+Subject Regions [* = Port]
+Euboea
+
+Chalcis 3*, Eretria 2
+
+Chalcidice
+
+Potidea 2*, Torone 2*, Stagira 1
+
+Thrace
+
+Amphipolis 3*, Abdera 1*, Maronea 2
+
+Propontis
+
+Byzantium 3*, Abydos 2*,
+Cyzicus 1, Sestos 1
+
+Ionia
+
+Miletus 2*, Ephesus 3*, Cyme 2,
+Erythrae 1, Cnidus 1*
+
+Sporades
+
+Samos 3*, Rhodes 2*
+
+Cyclades
+
+Naxos 2*, Andros 1*
+
+Western Islands
+
+Cephallenia 1, Zacinthos 1
+
+Aeolean Islands†
+
+Chios 3*, Lesbos 2*
+† Not a Subject Region but can Revolt.
+
+Actions Example
+
+Sparta plays a 3-Actions card.
+• they Build a fleet in Corinth from 2 to 3cv.
+• they Recruit, drawing 3 units from their
+Recruit Pool, placing a Theban (yellow)
+fleet cadre in Thebes, and returning the
+other 2 units to the Pool.
+• a Group of 6 units in Sparta is activated.
+Two units move to Corinth, 2 units move to
+sea, and 1 unit moves to Messenia.
+
+Action Marker Usage
+
+After Initiative cardplay, players can place
+one upright Action marker per available Action on their Action cards.
+During Actions, place Action markers on the
+map where Actions have been expended with
+the relevant edge upright from your POV
+(place face-down for Winter Maintenance) .
+To end your Actions phase, return Action
+Markers to the Action card, face-down.
+
+Group Movement
+
+Group Movement realistically reflects the
+slow and completely unreliable communications of the times. Only units actually located
+together could cooperate effectively.
+
+Unit Location: Cities  CityStates
+
+Only in cases of Siege is a distinction made
+between a City and its CityState regarding
+unit location. Otherwise, units in a CityState
+are considered to occupy both the Province
+and the City within.
+
+6
+
+HELLENES: Campaigns of the Peloponnesian War
+
+4.3 Pillaging
+Pillaging is a special Action in which units besieging an Opposing City devastate its territory
+and withdraw into an adjacent area (Loyal Cities cannot be Pillaged). Pillaging immediately
+gains Prestige. See 5.5.
+
+4.4 Winter Maintenance
+In Winter, any units not moved inside a friendly
+City must be Maintained (9.22) at the cost of 1
+Action each to avoid being Disbanded (9.23).
+
+5.0 movement
+A Group is defined as all friendly units in a single area (no limit). Players can move a Group
+or form one (Muster) at a cost of 1 Action.
+Group Move. Units of an activated Group can
+move to one or more destination area[s] within
+their Movement Ranges (or remain where they
+are). Units that move along the same route to
+a common destination are termed a Formation. Formations can Forced March/Sail (5.3)
+and enter enemy-occupied areas (Engage, 5.4).
+Muster. Units from different areas move into
+a friendly-controlled CityState, observing unit
+Movement Ranges. Mustering units cannot
+Forced March/Sail (5.3) or Engage (5.4).
+A unit can only move once per Player Turn
+(exception: 6.4 Retreats).
+Units move freely through friendly units, but
+generally must stop upon entering an area
+containing enemy units (see 5.4, Engaging).
+
+5.1 Land Movement
+Land units can move freely on land, except:
+• they cannot enter neutral areas (1.31/15.0).
+• besieged units (7.4) cannot move by land.
+Fleets may occupy coastal land areas only.
+They must stop upon entering a land area, so
+therefore can move only 1 space on land, following the coastline.
+Terrain has no effect on land movement.
+
+5.2 Sea Movement
+
+5.22 DeepSea Crossings
+
+When a fleet Formation (5.0) moves or Retreats
+across a DeepSea border (thick blue line), place
+a die on each such DeepSea border crossed.
+After all Actions (or Retreats) are complete, the
+opponent rolls 1 die in each case to see whether
+the fleet Formation encounters a Storm:
+•	In Spring/Winter: DR 1–3 equals Storm.
+•	In Summer/Fall: DR 1–2 equals Storm.
+•	In HighSummer: DR 1 equals Storm.
+If a Storm is encountered, the owner rolls for
+each individual fleet regarding Ship Damage.
+
+5.23 Ship Damage
+
+•	DR 1–3: Gale. Fleet (and any carried land
+unit) is eliminated (return to Recruit Pool).
+•	DR 4–6: High Seas. Fleet loses 1 cv (any
+carried land unit may have to reduce cv to
+remain smaller than its carrying fleet).
+
+5.3 Forced March/Sail
+Land units and fleets (with carried land units)
+can try to move 1 additional area beyond their
+normal movement range by Forced March/Sail.
+Note: Mustering units cannot attempt to Force
+March/Sail to their common destination City.
+Upon completing their normal unit movement,
+place units attempting a Forced March/Sail on
+the border to the additional area desired and
+a die within it, announcing “Forced March”
+(land) or “Forced Sail” (sea). After all Actions
+are done, the owner rolls one die per unit attempting to Forced March/Sail (carried armies
+succeed or fail with their carrying fleets).
+•	 Regular Units: DR 1-4 Fail; DR 5-6 Succeed
+•	Elite Units: DR 1-2 Fail; DR 3-6 Succeed
+Important: Units that Succeed can still decline
+the extra move (to preserve Group cohesion).
+
+5.4 Engaging
+Units entering an area containing unbesieged
+enemy units are Engaging and must stop.
+The above does not apply during Wintering
+Movement (9.21) or the Peace of Nicias (12.0).
+
+Only fleets (and carried land units) may move to
+sea. Units moving by sea must stop upon entering a land area. See also Sea Landings (6.6).
+
+Mustering units cannot Engage. Engaging units
+are aggressors; opposing units are defenders.
+Do not reveal any units until Combat (6.0).
+
+Sea Access: Fleets may enter or leave a coastal
+Province via any adjacent Sea. A besieged Port,
+however, can only be entered or exited via its
+single Offshore Sea (1.3).
+
+5.41 Formation Non-Coordination
+
+5.21 Sea Transport
+
+Separate Formations engaging an enemy Group
+fight separate battles. The owner selects which
+Formation fights the defenders first. If it loses,
+another Formation begins a new Battle with
+surviving defenders (Routed defenders recover), etc. Once any attacking Formation wins,
+all as-yet unfought Formations join it there.
+
+A fleet can carry one Greek land unit at sea,
+provided both units begin and end the turn in
+the same area. The cv of a carried land unit
+must be less than its carrying fleet (cv may be
+voluntarily reduced for Sea Transport).
+Barbarians cannot be sea transported.
+
+Groups that divide to move to a destination by
+different routes (e.g., fleets by sea and armies
+by land) become separate Formations (see 5.0).
+
+© 2011 GMT Games, LLC
+
+Disallowed Recruits
+
+Some units (Odrysians, see 2.27; Persians
+and Spartan improved [E1] fleets, see 13.2)
+can only be Recruited under certain circumstances. If drawn while ineligible, the choice
+is restricted to other drawn units.
+
+Rebel Units
+
+Macedonia and the Aeolean Islands can generate both pro-Sparta and pro-Athens units.
+The Aeolean Ids. fleets are Greek and can arrive normally as Recruits in Lesbos/Chios (if
+no enemy blocks present). The rebel Spartan
+fleet captures its arrival City and becomes a
+buildable Spartan unit (in its home city).
+Initially Athenian allies with independent
+fleets, both islands eventually rebelled.
+The Macedonia infantry units are Barbarian
+and therefore can only arrive in Macedonian
+towns, so the city of Pella cannot be captured
+by the arrival of the pro-Athenian rebel unit.
+Macedonia switched sides between Sparta
+and Athens several times, but mostly remained
+loyal to Sparta. When both Macedonian
+units are in play at once, this represents the
+struggle for control between its King Perdiccas and his brother Philip.
+
+Pillaging for Fun and Profit
+
+In classical times it was expensive to maintain
+armed forces in the field in winter time. Often
+a besieging army would abandon a siege in
+Autumn and ravage the enemy countryside
+before going home for the Winter.
+Watching homes, farms, and orchards being
+ruined sometimes tempted fortified troops to
+rashly sally out of a city to fight the enemy.
+
+Winter Maintenance
+
+Winter Maintenance is very expensive, but
+the only way to maintain a Siege in Winter.
+Sieges are three times more effective in
+Winter than in other seasons.
+
+Besieged Unit Movement
+
+Besieged units (7.2), being penned up in
+their City, cannot move by land. They can,
+however, Sortie (8.3) to fight besieging units
+in the surrounding Province (no movement
+Action required). Fleets (with carried land
+units) can exit a besieged Port via its Offshore
+Sea (7.4), engaging there if Blockaded (8.21).
+
+Fleets on Land
+
+Fleets on land are considered to have detached
+half their men to act as an inland infantry
+force while the other half guards their beached
+ships, as was commonly done.
+Fleets of the time normally spent the night
+ashore when possible. A fleet “at sea” thus
+represents ships that are patrolling that sea
+area by day and beaching at night.
+
+HELLENES: Campaigns of the Peloponnesian War
+Sorties. Besieged units cannot Coordinate with
+friendly outside relieving forces in a single
+Battle -- they are separate Formations.
+
+6.2 Combat Rounds
+
+5.42 Siege Assault Coordination
+
+Blocks attack in order of Agility (A/B/C/D etc),
+defenders preceding aggressors of equal agility.
+Defending “A” blocks attack first, then aggressor “A” blocks, then defending “B” blocks, etc.
+
+In Established Sieges, one moving Formation
+can join besiegers in a coordinated Siege Assault (8.1). [The besiegers await the arrival of
+the Formation before beginning the assault, so
+there is no coordination problem.]
+
+5.5 Pillaging
+For 1 Action, players can win Prestige by Pillaging an Opposing CityState where they have
+an Established Siege (7.2) from a prior Season.
+No friendly units may enter the Pillaged CityState that Player-Turn.
+To Pillage, place a Pillaged marker and withdraw all units of the besieging Group (as of the
+beginning of the turn) into one or more adjacent
+areas that currently contains no enemy units.
+Then record +1 Prestige on the Prestige track
+[+2 if Athens or Sparta].
+A CityState can only be Pillaged once per Year.
+
+6.0 COMBAT
+During Combat, Battles and then Sieges are
+resolved in those areas occupied by units of
+both sides. One Battle or Siege is resolved
+before starting another. Engaged units are not
+revealed until that Battle is being resolved.
+Combat costs no Actions.
+Resolve smaller Battles first, according to
+the number of units the Acting Player has in
+a Battle (count the ‘Primary’ Formation for
+multiple battles). The Acting Player chooses the
+order of resolving equal-sized battles.
+Then the Acting Player resolves any/all friendly
+Sieges established in prior Seasons, either by:
+• Siege Assault (8.1): a difficult type of battle
+against a fortified defender, only possible during Action turns (not during Event turns). OR:
+• Siege Attrition (8.2): low intensity ‘starvation’ warfare, resolved without revealing any
+units, possible during Event or Action Turns.
+
+6.1 Battle Sequence
+
+Fortifying. In new battles in a CityState, before
+units are revealed, the defender can decline
+combat and Fortify (7.1) units inside the City
+(within its Capacity): turn them upright and add
+a garrison. This establishes a Siege (7.2) condition: no further Combat occurs there that turn.
+Otherwise, begin Battles by revealing all blocks
+(tip forward). The Acting Player is the Aggressor, his opponent is the Defender.
+Battles are fought in successive Combat
+Rounds until one side either voluntarily Retreats (6.4), Panics (6.34), or is eliminated.
+
+A Combat Round consists of one attack (i.e.,
+dieroll, see 6.31) by each block involved.
+
+7
+
+The Diolkos at Corinth: 2 Seacoasts
+
+Corinth is the only Province with two discontinous seacoasts, but a ship skidway there allows
+fleets to enter or leave via either coast (fleets
+must stop upon reaching land as usual). Its
+Offshore Sea is the Gulf of Corinth.
+
+When all blocks in the Battle have attacked,
+a Combat Round ends. Repeat until one side
+Panics (6.34), Retreats (6.4) or is eliminated.
+The victor earns Prestige (14.11).
+Retreat Option. Once per Combat Round, at
+the time of his first unit attack of that Round,
+each player has the option to Retreat (6.4) all
+friendly units rather than continue the Battle.
+
+6.3 Combat Resolution
+
+Sea Transport
+
+6.31 Unit Attacks
+
+To effect a Sea Transport, a fleet must begin
+the turn in the same area as the land unit to be
+carried. The fleet carries the land unit across the
+sea and both units end movement in the same
+area whether at sea or having reached land.
+
+6.32 Hits
+
+Battle Array
+
+For each individual attacking unit in turn, roll
+a number of dice equal to its cv. Apply unit attack results immediately: Hits first, then Routs.
+1- power Blocks (A1, B1, etc) score a Hit for
+each dieroll of ‘1’. 2-power blocks (A2, B2,
+etc) score a Hit on each dieroll of ‘1’ or ‘2’.
+3-power blocks score Hits on dierolls of ‘1–3’.
+Step Losses. When a unit attacks, apply each
+Hit in turn to the currently strongest (largest
+cv, owner’s choice among equals) enemy unit.
+Hits reduce enemy unit cv by 1 (exception:
+Double Defense in Siege Assaults, 8.11).
+Units losing their last step are eliminated and
+removed to the friendly Recruit Pool.
+
+6.33 Routs
+
+1-Power blocks score a Rout for each dieroll
+of “6”. 2-Power blocks score a Rout for every
+dieroll of “5–6”. 3-Power blocks score Routs
+on dierolls of “4–6”.
+When a unit attacks, after applying Hits apply
+each Rout to the currently weakest (lowest
+cv, owner’s choice among equals) enemy unit
+remaining in the battle. Stand Routed blocks
+upright (tip back to preserve cv) -- they can
+no longer participate in that Battle (neither attack nor take battle losses). Routed units can,
+however, still take further losses from Pursuit
+(6.34) or Harrying (6.41) in a Panic or Retreat.
+Rout Recovery. Routed units suffer no aftereffects once that Battle has ended.
+Important: City defenders (8.1) cannot be
+Routed (ignore all Rout results).
+
+6.34 Panic
+
+When all units in a Battle have been Routed,
+that side Panics and must Retreat ( Pursuit attacks may apply). The victor gains 2 Prestige
+for winning a battle by enemy Panic (or by
+eliminating all enemy units).
+© 2011 GMT Games, LLC
+
+Tipping units forward maintains current cv in
+the battle array. When the battle ends, tip units
+back upright, again preserving current strength.
+
+Combat Round Example
+Spartan cavalry (A1)  hoplite (B2) units
+engage Athenian hoplites (C2)  archers (A1).
+One Combat Round consists of:
+•	Athenian archers (defending A1) attack;
+•	Spartan cavalry (aggressor A1) attack;
+•	Spartan hoplites (B2) attack;
+•	Athenian hoplites (C2) attack.
+
+Attack Example
+A 3 cv C2 hoplite unit rolls 3 combat dice:
+each 1–2 scores a Hit, and each 5–6 scores a
+Rout. A 3–4 is a miss. The dierolls are 1, 2,
+ 5, scoring 2 Hits and a Rout. The first Hit
+reduces the strongest enemy unit by a cv. The
+second Hit may apply to a different enemy unit
+if it is now the strongest after the first Hit was
+applied. The currently weakest enemy unit is
+then Routed.
+
+Eliminated Units
+Eliminated units are returned to their respective Recruit Pools (face down).
+
+Pursuit Example
+A mixed Spartan force of “A”, “B”, “C” and
+“D” units attacks a similar mixed Athenian
+force. The Spartans rout all Athenians units
+during their “B” unit attacks, causing a Panic.
+As they face a slow (“D”) Athenian rearguard,
+Spartan “B’s” and “C’s” that have not yet attacked may still attack before the Athenians
+Retreat. Apply all Hits usual, but ignore Routs.
+
+HELLENES: Campaigns of the Peloponnesian War
+
+8
+
+Pursuit. In Panics, the least Agile Panicked
+unit(s) become(s) the enemy Rearguard. All
+unrouted victorious units that are more Agile
+than the enemy Rearguard and that that have
+not yet attacked during that Combat Round
+can still attack in Pursuit. Apply Pursuit Hits
+normally but ignore any Rout results.
+All Panicked units must then Retreat (6.4). The
+victor then records his gain of 2 Prestige for
+winning a Battle by Panic.
+
+6.4 Retreats
+Once per Combat Round, players have the option to end the Battle and Retreat all friendly
+units. This option can only be exercised at
+the time when the first friendly unit attack of
+that Combat Round would occur. Retreating
+without Panic cedes 1 Prestige to the enemy.
+Skirmishes (14.11). No Prestige is lost for
+Retreating from a land (not sea) battle before
+suffering any Hits or Routs (termed ‘Retiring’).
+•	All units of the Retreating Group must
+Retreat into an adjacent area (but not necessarily all into the same area).
+•	Units can only Retreat into areas into
+which they can move (land units cannot
+retreat to sea without a carrying fleet).
+•	Aggressors can only Retreat back into the
+area from where they engaged.
+•	Defenders can Retreat into any adjacent
+areas except those from where they were
+engaged and those that are enemy-controlled.
+•	Fortifying: Units defending a controlled
+CityState can Retreat into the City and
+Fortify (7.1) if desired.
+•	Sieges: Besiegers making Siege Assaults
+(8.12) can only Retreat back into the surrounding Province. Sortiers (8.3) can only
+Retreat back into the besieged City. Units
+engaging besiegers from outside a City cannot Retreat into the City.
+•	Besieged City Defenders cannot Retreat,
+except fleets  carried land units from
+Ports into the Offshore Sea (if not enemyoccupied).
+•	Fleets Trapped on Land: Fleets on land
+defending against a Sea Landing (6.6)
+cannot Retreat except into a Port of that
+Province.
+•	Units unable to Retreat must remain in the
+Battle. If Panicked they are eliminated.
+•	Routed units can Retreat normally.
+•	Garrisons can never Retreat.
+•	Retreated units cannot fight again that turn.
+
+6.41 Cavalry Harrying in Retreats
+When a Retreat is declared, all unrouted Cavalry units of both sides get a bonus Harrying
+attack on enemy units before the Retreat is executed. Apply Hits normally, but ignore Routs.
+
+(In a Panic, both Pursuit and Harrying apply.)
+Harrying has NO Prestige effects.
+
+6.5 Sea Battles
+Sea Battles differ only in that:
+•	Only fleets can attack or take losses in Sea
+Battles (use E and F combat ratings in sea
+combat, E units going 1st).
+•	In Sea Battles, carried land units can neither attack nor absorb Hits/Routs, but must
+reduce cv as needed to remain weaker than
+their carrying fleet.
+•	Narrows. Fleets engaging across a narrows (double sea border) cannot attack in
+the 1st Combat Round (in effect, defending
+fleets get a “free” initial shot).
+
+6.6 Sea Landings
+Units engaging from sea to land (whether fleets
+or carried land units) cannot attack in the first
+Combat Round (in effect defending units get
+a “free” attack).
+Important: fleets on land defending against an
+enemy Sea Landing cannot Retreat!
+
+7.0 SIEGE
+7.1 Fortifying
+Some or all units defending a CityState can
+decline combat before units are revealed and
+Fortify inside the City. Turn these units flat,
+face-down, tipped back to preserve cv.
+Important: City Capacity (double City Value)
+is the maximum number of units able to fortify
+there (remember: garrisons do NOT count).
+Fleets can only fortify in Ports, not inland Cities. Units unable to fortify must fight.
+Declining combat and immediately Fortifying
+does not constitute a Retreat or a lost Battle.
+CityState defenders that fight can still Retreat
+into the City (and Fortify) later on during the
+Battle, though this would constitute a Retreat
+with resulting lost Prestige.
+
+7.2 Establishing Siege
+A state of Siege is established when City defenders have Fortified and enemy forces have
+sole occupation of the surrounding Province.
+In the Combat phase, add a City Garrison (7.3)
+to the face-down defenders. This indicates the
+Siege is now Established. No Siege Combat
+occurs in the initial Player-Turn of siege, but in
+subsequent Turns the besieged City is subject
+to Siege Combat (8.0) and Pillaging (5.5).
+Siege is the only situation where both
+sides can occupy the same area (always a
+CityState) without a mandatory Battle.
+The City Defenders are termed “besieged”, and
+the enemy units in the surrounding Province are
+termed “besieging” forces.
+© 2011 GMT Games, LLC
+
+Retreats
+Units can never Retreat into enemy-controlled
+areas (including vacant enemy CityStates) or
+into enemy-occupied areas (including Battles).
+
+Cavalry Raids
+In Retreats, unrouted Cavalry gets a free Harrying attack against enemy forces.
+Cavalry can engage enemy forces, Retreat
+(14.11) immediately, and still get a Harrying attack. Unless enemy cavalry or archers
+(‘A’ units) are present, there is no risk to the
+engaging cavalry (no enemy unit will be able
+to attack it before it Retreats).
+The phrase “Cavalry Raid” can be used as
+shorthand for the sequence:
+•	Cavalry Engages [reveal units]
+•	[Enemy “A” units attack, if present]
+•	Cavalry Retreats
+•	Cavalry Harrying [enemy first if present]
+In effect, unless enemy “A” units are present,
+Cavalry takes a free shot at the enemy, scoring
+Hits only (not Routs) with no Prestige effect.
+If enemy “A” units are present, however, they
+may Hit or Rout the raiding Cavalry before it
+can Retire, turning the Skirmish (no Prestige
+loss, see 14.11) into a Retreat (1 Prestige lost)
+or a Panic (2 Prestige lost).
+If a Cavalry Raid is made by Sortie (8.3) out of
+a besieged City, no Action need be expended!
+
+Offshore / Adjacent Seas
+A Port has 1 Offshore Sea (into which its
+symbol protrudes). A besieged Port still has
+access in or out via that sea (only).
+Units occupying an entire coastal Province (as
+opposed to being besieged in its Port) have
+access to all adjacent seas.
+
+Walled Cities and Sieges
+Walled cities of the day proved very difficult
+to take by assault. More often, they fell to attrition or some kind of treachery. Siege engines
+were in their infancy and catapults had not yet
+been invented.
+Siege warfare involved circumvallation, a
+process of building a containing wall around
+a fortified city. For port cities, a besieging
+fleet was also necessary to complete the siege.
+Sieges were often successful but rarely
+quickly. Cities often resisted siege for a year
+or two, but could not hold out indefinitely. But
+Siege has its own dangers and consumes time
+and resources.
+
+HELLENES: Campaigns of the Peloponnesian War
+
+7.3 City Garrisons
+
+Assaulting units take full losses.
+
+City Garrisons appear (at no cost) in friendly
+Loyal Cities when Siege is Established (remove
+them if the Siege is lifted).
+
+8.12 Siege Assault Retreats
+
+Permanent Garrisons may also be built (4.23)
+in captured Opposing Cities to maintain control
+if friendly units leave. Permanent Garrisons
+are NOT removed when a Siege is lifted.
+Garrisons are immobile 1 cv blocks that defend
+Cities only: they cannot move or defend outside
+their City (e.g., vs. Sea Landings or to impede
+enemy movement through the CityState). They
+DO NOT count against City Capacity (see 7.1).
+
+City Assaulters can only Retreat back into the
+surrounding Province, re-assuming besieging
+(upright) status.
+Besieged land units cannot Retreat (except by
+sea). Besieged fleets can Retreat from a Port
+into its Offshore Sea (unless enemy-occupied
+see 6.4), each Transporting (5.21) a friendly
+land unit if desired.
+
+8.13 Capitulation
+
+As for all City defenders, garrisons have A2
+combat ratings, double defense, and cannot be
+Routed (see 8.1). They must be the last block
+eliminated from the City.
+
+When a Siege Assault is declared, before all
+units involved are first revealed, the defender
+has the immediate option to Capitulate, conceding defeat to save Prestige. All defending units
+are eliminated (remove to the Recruit Pool), but
+assaulting units are undamaged.
+
+Only 1 garrison is allowed per City. They are
+not limited to blocks provided.
+
+Capitulation loses only 1 Prestige (where 2
+Prestige would be lost to a successful Assault).
+
+7.4 Besieged Unit Movement
+
+8.2 Siege Attrition
+
+Units besieged in a City cannot move. They
+can, however, Sortie [8.3] to engage besieging
+units outside the City walls (no move required).
+Fleets besieged in a Port can move into its
+Offshore Sea (carrying land units), precipitating a Sea Battle there if opposed or continuing
+movement if not.
+
+8.0 SIEGE COMBAT
+During Siege Combat, the Acting Player can
+wage either Siege Assault or Siege Attrition
+against each besieged City where Siege has
+been established in a previous Season. He may
+also Sortie (8.3)to engage enemy besiegers.
+
+8.1 Siege Assault
+Siege Assaults cannot occur during Event turns,
+only during Action turns.
+Exception: The Treachery Event (see sidebar,
+p. 4) allows one limited Treachery Assault.
+When a Player declares a Siege Assault, the defender has the immediate option to Capitulate
+(8.13), before units are revealed. Capitulation
+concedes defeat to save Prestige.
+If no Capitulation occurs, Assaults are fought
+like normal Battles, except all City defenders
+(including garrisons):
+•	assume an A2 combat rating,
+•	have Double Defense (below), and
+•	cannot be Routed.
+
+8.11 Double Defense
+
+In Siege Assaults, City defenders only lose
+one cv for every 2 Hits received. Once a block
+is assigned a Hit (i.e., a half-step loss) it must
+take the next Hit for a full step loss. However,
+half-step losses left over at the end of a Combat
+Round are lost.
+
+Siege Attrition is possible during either Event
+turns or Action Turns. No units of either side
+are revealed.
+To wage Siege Attrition, the besieger rolls 1
+die per besieged block (including garrisons).
+•	In Spring/ Summer/ HighSummer/ Fall,
+each “1” scores a Hit on besieged forces.
+•	In Winter, each “1, 2 or 3” scores a Hit,
+but besiegers must be Maintained (9.22)
+•	Each Hit is applied to the currently strongest (cv) besieged block (owner’s choice of
+equals). Garrisons are eliminated last.
+•	The besieger suffers no losses.
+
+8.21 Blockade
+
+A Port is Blockaded if enemy fleets occupy
+its Offshore Sea, but Athens is considered
+to Blockade all unoccupied Offshore Seas.
+Siege Attrition cannot be waged against a Port
+unless it has been blockaded as well as besieged
+since a prior Season. Building cannot occur
+in a Port that is both besieged and blockaded.
+
+8.22 Black Sea Grain
+
+The city of Athens is considered to be Blockaded if Spartan fleets occupy any of: the Hellespont, the Sea of Marmara OR the Saronic
+Gulf (note all 3 have a blue supply symbol).
+When blockaded and besieged as above, Athens
+is always subject to Winter rates (cv loss on DR
+1–3) for Siege Attrition.
+
+8.3 Sorties
+During Siege Combat of an Action Turn,
+friendly besieged units can engage besiegers in
+a land battle outside the City walls (neither side
+has double defense). Garrisons cannot Sortie.
+
+© 2011 GMT Games, LLC
+
+9
+
+Fortifying
+Fortifying is the withdrawal of defending
+units into a walled city, ceding control of
+the surrounding countryside to the besieger.
+
+City Control
+Upright units occupying a CityState (with no
+opposing units present) control it.
+If a CityState is vacant, it is controlled according to its loyalty. Thus, the conqueror
+of an opposing City must maintain a unit or
+garrison there (at the end of each Action or
+Combat phase) or the City will revert back
+to its original owner!
+In a Siege situation, units of both sides are
+present.
+•	Besieged [fortified] units (lying flat and
+face down) control the City.
+•	Besieging units (upright) control the
+surrounding Province (and friendly units
+can move through it without stopping).
+
+City Garrisons
+City Garrisons are always present in loyal
+Cities, just not represented until needed.
+
+Double Defense
+Defending units only lose one step for every
+two hits scored by attacking units. At the end
+of a Combat Round, accumulated half-step
+losses are canceled.
+To register a half-step loss on a block with
+Double Defense, rotate it 45 degrees counterclockwise. If a full step loss (90 degree rotation) is not achieved in that Combat Round,
+return it to its former cv.
+
+Capitulation: Honors of War
+In cases where a City voluntarily surrendered
+to a besieging force before blood was shed,
+lenient terms were usually granted.
+
+The Athenian Grain Supply
+The Long Walls enclosing Athens and its
+harbors Piraeus and Phalerum made Athens
+practically invulnerable to siege. However,
+with its huge population (hundreds of thousands, when all other Greek cities were tens
+of thousands), Athens was utterly unable to
+feed itself if denied food imports. The naval
+supremacy guaranteeing the delivery of its
+Black Sea grain supply was thus critical.
+Historically, Athens was finally defeated
+when the Spartan navy gained control of the
+Propontis and cut off its food supply.
+
+10
+
+HELLENES: Campaigns of the Peloponnesian War
+
+Sorties must be declared at the start of the
+Combat phase (turn Sortiers upright). They
+consume no Actions (as no “movement” occurs) but cannot occur during Event turns.
+Sorties cannot Coordinate (5.42) with outside
+Groups/Formations in a combined Battle
+against besiegers.
+Sortie Retreats. Sortiers can only Retreat back
+into the besieged City. Defeated besieging forces Retreat normally (6.4) from Sortie battles.
+
+9.0 WINTER
+Winter season (the last card played each GameYear) follows a different play sequence with
+several special rules in effect.
+Initiative cardplay is as usual.
+Then, Winter play sequence is as follows:
+•	 Player 1 does Winter Actions, then Player 2.
+•	Player 1 does SiegeBreaking Combat (if
+any), followed by Player 2.
+•	Player 1 does Winter Siege Combat, followed by Player 2.
+OverWintering. Units can survive Winter
+only if they are inside a friendly-controlled
+City (including captured Opposing Cities) or
+if they are Maintained (9.22). Otherwise they
+must Disband (9.24).
+Note: City Capacity (1.3) must be observed
+when OverWintering. Fleets can OverWinter in
+a coastal inland (non-Port) City to avoid Maintenance, even though they cannot fortify there.
+
+9.1 Winter Initiative
+Play an Action card only (Events cannot be
+played in Winter). The player with fewer Actions is the 1st Player (Sparta wins ties).
+
+9.2 Winter Actions
+The 1st Player executes his Actions (Wintering
+Movement, Building, Winter Maintenance and
+Disbanding) in any order. Then the 2nd Player
+does his Actions, before any combat occurs.
+
+9.21 Wintering Movement
+
+In Winter, only Group Moves into controlled
+Cities can be made. Neither Musters nor Pillaging is allowed, though fleets can carry land
+units us usual. Wintering Movement normally
+costs one Action per Group Move, but some
+moves are free.
+Wintering units pass freely through any enemy
+units encountered (with no effect on either
+group), except those blockading/besieging their
+destination City (must stop).
+Wintering forces can only challenge enemy
+besieging/blockading forces when Homing
+(9.212). Otherwise, Wintering units may not
+try to enter enemy-blockaded Ports by sea or
+
+enemy-besieged Cities by land.
+In Wintering Movement, all Forced Marches/
+Sails automatically succeed. DeepSea Crossings are rolled for as usual.
+
+CityState Occupants
+Units in unbesieged CityStates are considered
+to occupy the City or the Province, as desired.
+
+9.211 Quartering (free)
+Units NOT currently “inside” a controlled City
+(i.e., within its City Capacity) may make Wintering Movement into an adjacent controlled
+City (one area distant) at NO COST in Actions.
+
+Friendly Cities  Home Cities
+
+9.212 Homing (free)
+Units NOT inside a controlled Home City may
+make Wintering Movement to a controlled
+Home City at NO COST in Actions (using
+their full Movement Range, plus an automatic
+Forced March/Sail).
+
+Home Cities are those that are the same color
+coding as the unit(s) in question. Units can
+make free Homing moves to friendly controlled Home Cities in Winter.
+
+If the destination Home City is Besieged or its
+Offshore Sea is Blockaded (8.21) by the enemy,
+a Homing Battle (9.31) might be precipitated
+there. This is the ONLY case where engaging
+in Winter is allowed.
+9.213 Displacement
+If Wintering Movement overloads a City’s
+Capacity, units there that have not already
+made a Wintering Move may become eligible
+to make a free Quartering or Homing move
+(excess units are no longer “inside” the City
+and hence may qualify).
+Important: City Capacity is double the City
+Value: units in excess of this (owner’s choice;
+garrisons do not count) are outside the City
+for all purposes.
+9.214 Group Movement (1 Action)
+Units that cannot reach Winter shelter by
+Quartering or Homing can also use a normal
+Group Move Action to reach a controlled City.
+No Musters or engaging are allowed, but all
+Forced Marches/Sails automatically succeed.
+
+9.22 Winter Maintenance
+
+Units not within friendly-controlled Cities
+(this necessarily includes all besiegers) can
+OverWinter only if Maintained at a cost of 1
+Action per unit (otherwise they must Disband,
+9.24). Place an Action marker face-down near
+each unit being Maintained: the blank side up
+indicates a Winter Maintenance Action.
+
+9.23 Winter Building
+
+Winter Actions may be spent on Recruiting new
+units or adding cv to existing units in Home
+Cities only.
+Note: Barbarians recruited in Winter must
+immediately disband (9.24).
+
+9.24 Winter Disbanding
+
+All Barbarians on the map must now Disband
+regardless of location: remove them to the
+friendly Recruit Pool.
+Note: Barbarians that capture Cities will have
+to disband before collecting any Tribute.
+© 2011 GMT Games, LLC
+
+Friendly Cities are those that are friendly
+controlled, regardless of original Loyalty.
+Units can Quarter in adjacent friendly Cities
+in Winter.
+
+Wintering Movement
+At the end of the campaigning season, armies
+of the time normally returned home for Winter.
+Keeping forces in the field over Winter was
+very costly and unpopular. Since they were
+concerned with returning home, not fighting,
+units are allowed to pass through enemy forces
+without combat.
+Since it costs resources to keep units in the
+field over Winter (rather than the reverse), it
+makes no sense to charge an Action cost to
+return units Home for Winter.
+NOTE: In Winter, engagements ONLY occur
+when Homing units challenge enemy forces
+besieging/blockading their destination Home
+City. This means that, in Winter, enemy Sieges
+and Blockades can only be challenged by Sortie or by units returning to their Home Cities.
+
+Quartering Example
+Entering Winter, an Athenian fleet remains
+in the Hellespont, but Athens does not wish
+to maintain this unit at sea. A Homing Move
+to Athens would involve two dangerous
+DeepSea Crossings. It is, however, adjacent
+to the friendly Subject City of Abydos, and
+therefore makes a free Quartering move there
+to OverWinter.
+
+Displacement Example
+Entering Winter, an Athenian land unit and
+fleet are besieging Leucas but cannot be
+maintained. Too far from Athens for a Homing Move, they make Quartering moves into
+friendly City Stratus. However, there is already
+1 unit there, so its City Capacity (double the
+City Value of 1 = 2) is now exceeded.
+The original Stratus unit can now be considered “outside” the City due to inadequate
+Capacity, becoming eligible to make a Wintering move. It therefore makes a free Quartering
+move into Naupactis.
+
+HELLENES: Campaigns of the Peloponnesian War
+
+11
+
+All Greek units neither inside a friendly City
+nor being Maintained must also Disband.
+
+9.5 Year End
+
+OverWintering Fleets
+
+Exception: Unmaintained Homing units engaged in potential Homing Battles (9.31) do not
+disband yet. Units defeated in a Homing Battle
+(and unable to OverWinter) must then disband.
+
+9.51 Collect Tribute
+
+Both players collect Prestige equal to the total
+Value of all Opposing Cities they control (do
+not count Loyal Cities). Adjust the Prestige
+marker to conform to the new totals.
+
+Fleets can OverWinter in an [unbesieged]
+friendly CityState containing an inland City,
+despite the fact that they cannot Fortify there
+(7.1).
+
+9.3 Winter SiegeBreaking Combat
+In Winter, both players do Actions before any
+combat occurs. This allows all Wintering units
+to avoid Battle (avoiding Retreat and Prestige
+loss) and ensures that only Maintained units
+can resist enemy forces. Winter Siegebreaking
+Combat allows both players a chance to break
+Sieges before heavy Winter Attrition can occur.
+In this phase, both players in turn (initiative
+order) can initiate Homing Battles and Sorties
+against enemy Sieges that remain if force after
+Winter Actions (note that only Maintained
+enemy units can remain on Siege at this point).
+
+9.31 Homing Battles
+
+Homing units trying to reach a besieged Home
+City by land precipitate a Homing Battle in the
+surrounding Province.
+Note: Homing fleets could reach a besieged but
+unblockaded Port without fighting by entering
+it via its Offshore Sea.
+Homing fleets trying to reach a friendly Port via
+its blockaded Offshore Sea precipitate a Homing Battle there. If victorious (or unchallenged
+after enemy Winter Actions are executed) they
+may immediately move into the City.
+Homing Battles are resolved normally (usual
+Prestige effects apply). Formation Non-Coordination rules (5.41) still apply when more
+than one Group is engaging by Homing move.
+Homing units unsuccessful in Homing Battles
+must Disband.
+
+9.32 Winter Sorties
+
+Similarly, besieged units can now Sortie and
+attack enemy besiegers in the surrounding
+Province (no Action required to Sortie).
+
+9.4 Winter Siege Combat
+
+Important: In the 415 and 413 games, after
+War Resumes (12.11), each player’s Tribute is
+reduced by HALF (rounded down).
+
+9.52 Victory Check
+Prestige of 15+ wins immediately (14.21).
+A Player with Prestige of 10 or more can make
+a Peace Offer (14.22).
+If the Peace Faction Ascendant continuing
+Event is in play, a Player with Prestige greater
+than 5 can make a Peace Offer.
+
+9.53 Advance Year
+
+Remove Pillaged/Civil War markers and undesired Continuing Events (when allowable).
+Advance the Year marker.
+
+9.54 Reshuffle Unused Cards
+
+Collect and shuffle all cards except Continuing
+Events / Leaders remaining in play.
+
+10.0 NEW YEAR
+Begin each Game Year as follows.
+
+10.1 Year Start
+Deal 6 cards to each player.
+Both players secretly commit one card, face
+down, then reveal them simultaneously.
+
+10.2 New Year Events
+Events are resolved first as usual.
+Revolts and Helot Uprisings cannot be played
+as NewYear Events (errata: this prohibition is
+not noted on the Helot Uprising cards).
+Note: Since there is no NewYear combat, some
+Events like Treachery, etc. have no value. When
+2 Leaders for the same side are played, see 3.11.
+
+In initiative order, each player in turn does
+Siege Combat (Assault or Attrition) wherever
+he has Established Sieges in a prior Season.
+
+10.3 New Year Sacrifices
+
+However, Winter Siege Attrition scores Hits on
+dierolls of 1–3 (triple effectiveness).
+
+Actions played at NewYear are Sacrificed to
+an Olympian: place a spare garrison in the selected Olympian box. The Action Value of the
+Sacrifice is immaterial except in determining
+who Sacrifices first (3.3).
+
+Note that no unit can initiate combat in both
+Winter Combat phases: the first is composed of
+‘defensive’ siegebreaking combat initiated by
+the besieged party; the second is composed of
+‘offensive’ siege combat initiated by besiegers.
+
+No Actions can take place during NewYear.
+
+Sacrifices entitle a player to Appeal to that
+Olympian (see 11.0) later in the game for
+redress of some unfortunate game occurrence.
+Each player can accumulate 1 Sacrifice to each
+Olympian, but no more. Sacrifices carry over
+from Year to Year until used.
+
+© 2011 GMT Games, LLC
+
+Note: If this occurs and the CityState is attacked in the Spring, the fleet will be outside
+the fortifications and must fight a land battle
+(Retreating if it loses), as it cannot fortify in
+an inland City.
+Fleets can also make Wintering moves into a
+besieged Port, entering via its Offshore Sea. If
+enemy fleets are present in a home Offshore
+Sea, a Homing Battle results (these only occur
+when trying to break a Siege or Blockade to
+enter a Home City). If enemy fleets are present in the Offshore Sea of a friendly Port that
+is NOT a Home City, Wintering units CANNOT challenge the blockading enemy fleets
+to Winter there.
+Fleets can also make Wintering moves into an
+unbesieged Port without entering its Offshore
+Sea, by landing there from a different adjacent
+sea.
+
+Homing Example
+Entering Winter, two Athenian fleets are besieging Samos, which has revolted. Not wishing to
+maintain these units over Winter, Athens makes
+free Homing Moves to return them to Athens.
+They move right through the Paros Sea despite
+the presence of a maintained Spartan fleet there
+
+Homing Battles
+Homing Battles ONLY occur when Homing
+units attempt to break a Siege or Blockade of
+their target Home City. Otherwise the presence
+of enemy units is ignored as units are presumed
+to be only concerned with returning home or
+maintaining sieges.
+
+Homing Battle Example
+
+In the Homing Example above, the Spartans
+also have 2 maintained fleets in the Saronic
+Gulf, the Offshore Sea of target Home City
+Athens, PLUS one maintained Spartan unit is
+besieging Athens on land.
+Instead of engaging the 2 enemy fleets in the
+Saronic Gulf, the Athenian fleets opt to try to
+reach home by breaking the landward Siege,
+landing in Athens from the Andros Sea and
+precipitating a Homing Battle there against the
+besieging unit.
+This is a Sea Landing, and the 3cv Spartan B2
+besieger rolls 5,6 scoring 2 Routs. Both Athenian fleets must Retreat and disband, having
+failed to reach Home. They might have had
+better luck attempting to reach home via the
+Saronic Gulf.
+
+12
+
+HELLENES: Campaigns of the Peloponnesian War
+
+11.0 OLYMPIANS
+A player with a Sacrifice to an Olympian can
+Appeal to that Olympian for rectification of a
+specific type of unsatisfactory random result
+(dieroll, recruit draw, etc.) made by himself or
+by the opponent.
+Appeals must be made immediately after the
+random result, before play proceeds. They
+force the original player to re-roll or re-draw, as
+applicable, which then becomes the operative
+result. This expends the Sacrifice (remove the
+relevant block). Only one Appeal can be made
+to each Olympian per Player Turn.
+Appeals enable the following:
+Zeus: Discard  re-draw all 6 cards of a NewYear card draw (no re-shuffle).
+Apollo: Return all 3 Recruit blocks drawn
+and re-draw 3 blocks, OR have the opponent
+return a placed Recruit to his Pool and re-draw
+3 blocks.
+Ares: Re-roll the most recent unit attack and
+any desired subsequent attacks by the currently
+attacking friendly OR enemy agility class.
+Example: if friendly “C” units are attacking,
+the latest and all subsequent friendly “C” unit
+attacks may be re-rolled if desired.
+Demeter: Re-roll one entire friendly or enemy
+Siege Attrition dieroll (1d6/ defending block).
+Poseidon: Re-roll 1 Storm dieroll.
+Hermes: Re-roll all failed Forced March/Sail
+dierolls for one Formation of units that were
+Force Marching/ Sailing together.
+Hera: Immediately re-do (overrule) the result
+of an opponent’s Appeal to another Olympian.
+
+12.0 PEACE OF
+NICIAS
+The 415 and Sicily Scenarios begin with the
+following special rules in effect:
+1. Revolt, Uprising, Persian Aid and Athens
+Raises Taxes Events cannot be played. Rebel
+units (4.22) cannot be recruited.
+2. Within GREECE (only):
+a) All units must remain within home territory when on land (e.g., they cannot enter
+captured Opposing Cities), and cannot
+engage/besiege enemy forces (including
+in Home Cities that have been lost). City
+Capacity is triple the City Value.
+b) Units can travel freely at sea (passing
+through enemy units without stopping
+or combat), but must end movement
+within home territory or its Offshore Seas.
+Forced Marches/Sails always succeed.
+
+Sicily Campaign Prep: Pro-Athenian
+units may also end movement in Corcyran
+home territory or its Offshore Sea.
+3. Public Works: Athens loses 1 Action per Turn
+unless at least 6 non-Sicilian pro-Athenian
+units (termed “Expeditionaries”) are in Sicily
+at the beginning of its Player Turn.
+
+12.1 War Resumes
+In the 415 Scenario either player can break the
+Peace (canceling the above Peace of Nicias
+rules) by so declaring at the beginning of his
+Player Turn. This incurs a Prestige loss according to the current Year:
+Year
+
+415
+
+414
+
+413
+
+412
+
+411 410+
+
+Sparta
+
+–5
+
+–4
+
+–3
+
+–2
+
+–1
+
+0
+
+Athens
+
+–10
+
+–8
+
+–6
+
+–4
+
+–2
+
+0
+
+12.11 Reduced Tribute
+
+Once War Resumes, only HALF Prestige is
+gained from Tribute each NewYear: total Tribute, then halve (round down).
+
+12.12 Decelea
+
+When War Resumes, Thebes’ City Capacity
+remains at 12 (triple City Value).
+
+12.13 New Spartan Recruits
+
+When War Resumes, add Spartan units #41–46
+(Persians and E1 improved fleets with boxed
+yellow IDs) to its Recruit Pool.
+
+13.0 PERSIAN AID
+13.1 Persian Gold
+For each Persian Aid card in play (415+):
+•	Sparta +1 Action/Season.
+•	Sparta –1 Prestige/NewYear.
+
+The Olympians
+Zeus: Since Sacrifices occur after cards are
+dealt, players cannot Sacrifice to Zeus to throw
+in their cards from the current New Year’s card
+draw. The Sacrifice to Zeus must have been
+made in a previous Year.
+Hera: Only Hera can re-do an Appeal to
+an Olympian: A second Appeal to the same
+Olympian cannot be made in a Player-Turn.
+
+“Home Territory”
+Home territory means all cities/towns of the
+same color as the unit.
+
+Persian Aid  Revolts
+ONE Persian Aid card in play: Spartan Revolt
+cards can be used for Regional Revolts (as per
+the card) but NOT for Spreading Revolts in
+another Subject Region containing a Spartancontrolled City. One bonus Tax Revolt can still
+occur per Athens Raises Taxes card in play.
+TWO Persian Aid cards in play: Spartan Revolt cards cannot be used either for Regional
+Revolts (as per the card) NOR for Spreading
+Revolts. Tax Revolts are still possible: 1 bonus
+Tax Revolt occurs per Athens Raises Taxes
+card in play.
+THREE Persian Aid cards in play: No Revolts
+of any kind are possible (Athens can raise taxes
+with impunity).
+
+Decelea
+When war resumed, the Spartans began the
+practice of overwintering the Peloponnesian
+army in a fort at Decelea, in Boeotia near the
+Attican border, instead of returning home each
+winter and remustering in the Spring.
+
+13.2 Persian Intervention
+When Persian Aid cards are in play:
+•	Persian units can be Recruited, and units
+can enter Persia (Lydia and Phrygia).
+•	Spartan Improved Fleets (E1) can be Recruited (these cannot be Recruited if drawn
+unless Persian Aid is in play).
+
+13.3 Reduced Revolts
+1 Persian Aid card in play nullifies any Spreading Revolts (3.12). Regional and Tax Revolts
+are still possible if a Revolt card is played.
+A 2nd Persian Aid card in play also nullifies
+any Regional Revolts. Tax Revolts remain possible when a Revolt Event is played if Athens
+Raises Taxes is in play.
+3 Persian Aid cards in play nullify all Revolts.
+
+© 2011 GMT Games, LLC
+
+The Periclean Age
+The Peloponnesian War took place during (and effectively destroyed) the Greek
+Classical Age. The Classical Greeks made
+breathtaking advances in science, mathematics, philosophy, drama, sculpture, and
+government. Thucydides’ history of the
+Peloponnesian War, for example, is strikingly modern in its attitude of objective
+observation and studied rational analysis.
+But the Greek Golden Age, like all of ancient
+Greek history, was marked by ceaseless
+internecine warfare born of greed, pride
+and ambition. Even the great democracy of
+Athens waged war to oppress and enslave
+its weaker neighbors. Ironically, reactionary
+and militarized Sparta assumed the role of
+liberator of the Greeks.
+
+HELLENES: Campaigns of the Peloponnesian War
+
+14.0 VICTORY
+
+15.0 SCENARIOS
+
+14.1 Prestige
+
+15.1 The 431 Campaign
+
+Victory is won with Prestige, as recorded on the
+Prestige Track. Players gain Prestige by winning Battles, Pillaging and collecting Tribute.
+
+Athenian imperialism finally provoked a Spartan-Corinthian ultimatum in 431 BC. Athenian
+leader Pericles argued that war was less damaging than submitting to Spartan demands, and
+championed a passive war of attrition, relying
+on Athens’ Long Walls and naval supremacy to
+thwart and eventually discourage its enemies.
+
+Prestige usually begins at 0 (see Scenario descriptions). Move the Prestige Marker along
+the track to record Prestige changes. (Example:
+Athens gains 2 Prestige: move the block 2
+spaces towards Athens Wins.)
+
+14.11 Winning Battles
+
+Triumph: Players gain 2 Prestige when all
+enemy units in a battle are Panicked or eliminated (including when a City is carried by Siege
+Assault, but see 8.13 Capitulation).
+Trophy: Players gain 1 Prestige if the enemy
+Retreats from Combat without being Panicked
+(6.34), or when a City is captured by Siege Attrition or Capitulation (8.13).
+Skirmish: In land battles, no Prestige is gained
+when if the enemy “Retires” (Retreats before
+suffering any step loss or Rout). [In Sea Battles,
+Retreating always loses 1 Prestige.]
+
+14.12 Pillaging
+
+Players gain 1 Prestige for Pillaging (5.5) an
+Opposing CityState (2 Prestige for Pillaging
+Athens or Sparta).
+
+14.13 Tribute
+
+Collected at Year End. See 9.51.
+
+14.2 Winning the Game
+14.21 Enemy Surrender
+
+A player with 15 or more Prestige at Victory
+Check wins a Decisive Victory.
+
+14.22 Negotiated Peace
+
+A player with 10+ Prestige can make a Peace
+Offer. To do so, he reduces his Prestige by 2
+and each player rolls ONE die. If the 2 dice total
+is LESS THAN the resulting Prestige level, he
+wins the game by a Negotiated Peace. If not,
+play continues.
+
+This strategy was quickly undermined by a devastating plague that swept away much of Athens
+and Pericles himself. Ten years of inconclusive
+war was finally ended by the Peace of Nicias.
+Duration: 431–422 BC (10 Years).
+Playing Time: 4 hours.
+Neutrals: Argos, Achaea, Persia, Sicily.
+Units: Both sides use units #1–40.
+Cards: Use Gold  Silver bordered cards only
+(cards #1–44).
+
+Setup: Athens
+
+Units: See the 431 Setup card—Athens. Deploy
+the units shown in the specified CityState (4
+units are besieging Potidea) or anywhere within
+a specified Nation. Units #1–40 not shown go in
+the friendly Recruit Pool, face down.
+Note: when a Setup card specifies a location that
+is both Nation and a CityState (e.g., Corinth),
+the Nation is indicated.
+Leader: Pericles (+1). Remove card from deck,
+place face-up in play.
+
+Setup: Sparta
+
+Units: See the 431 Setup card—Sparta. Deploy
+the units shown in the specified CityState (2
+units + garrison besieged in Potidea) or anywhere within a specified Nation. Units #1–40
+not shown go in the friendly Recruit Pool, face
+down.
+Captured City: Potidea [besieged].
+Leader: Archidamos (0). Remove card from
+deck, place face-up in play.
+
+If Peace Faction Ascendant is in play, Peace
+Offers can be made with 5+ Prestige and cost
+only 1 Prestige to make.
+
+Game Start
+
+14.23 Exhaustion
+
+431 Special Rules
+
+At the end of a Campaign, evaluate Victory as
+given below.
+
+14.24 Victory Level
+Major Victory: 10+ Prestige
+Minor Victory: 5+ Prestige
+Draw: 0–4 Prestige
+
+Place starting forces/Leaders. Shuffle remaining
+cards, deal 6 to each player.
+1.	The Odrysia A3 cavalry unit (#37/white
+namebox) can only be recruited when Athens
+has no Leader in play.
+2.	Civil War is not playable against Athens
+while Pericles is Leader.
+3.	Pericles can only be Ostracized if Athens
+was Pillaged in the previous Season. Pericles
+dies (remove from deck) on the 2nd occurrence of Plague in Athens (no further Plague
+can occur).
+© 2011 GMT Games, LLC
+
+13
+
+Prelude: 490-432 BC
+
+After the famous Greek victories over Persia
+in 490-480, Athens formed the Delian League
+to ensure Greek naval control of the Aegean,
+but this evolved from a voluntary alliance into
+an empire.
+In 433, Corinth (commercial rival to Athens
+and longtime member of the opposing Spartan
+League) clashed with its colony Corcyra over
+the city of Epidamnus. Feeling the winds of war,
+Athens backed fellow naval power Corcyra,
+earning the undying enmity of Corinth.
+In revenge Corinth fomented a revolt from Athens in its former colony Potidea, then lobbied
+the Spartan League to send aid against the resulting Athenian siege, arguing that Athens had
+grown too powerful and threatened to dominate
+all Greece. Sparta reluctantly supported its main
+ally and war began.
+
+The Archidamian War: 431-422 BC
+
+So-called because King Archidamos commanded the Spartan League, this campaign
+began with Potidea in revolt and already under
+Athenian siege. Thebes opened the proceedings with a failed sneak attack on longtime foe
+Platea. Mutual invasion and pillage followed,
+Sparta overland into Attica, and Athens by
+sea into enemy territory. In 430 a devastating
+plague struck Athens, eventually carrying away
+its great leader Pericles along with a third of its
+population. Lesbos revolted but fell to Athenian
+siege along with Potidea, while Platea fell to
+Spartan siege.
+The war spread to central Greece, with campaigns in Acarnania, Leucas, Zacinthos, Ambracia, and Boeotia. Civil War broke out twice
+in Corcyra, but with Athenian naval support the
+democrats prevailed. En route there, an Athenian fleet was blown ashore at Pylos, a natural
+harbor 75 miles from Sparta, and the decision
+was made to fortify the place. A Spartan land/
+sea attack failed and Spartans isolated on the
+island of Sphacteria in the harbor mouth were
+defeated and captured.
+Meanwhile, Brasidus, Sparta’s most aggressive commander, took a Spartan army north to
+Chalcidice, fomenting revolt there and in Amphipolis. Cleon, Athen’s most aggressive leader,
+replied by reconquering several revolting cities.
+The two met at Amphipolis, where Athens was
+routed but both leaders died in the battle.
+War weariness, the death of the two most bellicose war leaders, and the impending end of
+Sparta’s 30-year truce with its arch-enemy
+Argos led to a negotiated peace in 422 BC.
+
+14
+
+HELLENES: Campaigns of the Peloponnesian War
+
+15.2 The Sicily Campaign
+
+15.3 The 413 Campaign
+
+The Peace of Nicias unraveled within a few
+years. With Sparta’s ‘alliance’ to Athens and
+the end of its 30 year truce with Argos, the
+Spartan League dissolved into a melee of
+CityStates jockeying for position. Elis and
+Mantinea joined with Argos, fought Sparta and
+lost. Corinth and Thebes never accepted a status
+quo that left Athens unbowed. Sparta’s noncompliance with the peace terms brought the
+anti-Spartan policies of Alcibiades into prominence in Athens. Finally Athens succumbed to
+temptation and sent a major expedition against
+Syracuse, a faraway neutral city almost as large
+and rich as itself. Disaster ensued.
+
+Athens had just lost half its fleet and a third
+of its army in the disastrous misadventure in
+Sicily. Sparta saw its chance, reassembled
+the League in its original form and rekindled
+the war. Aided by Persian gold and revolts in
+Rhodes, Chios and elsewhere, Sparta built
+fleets and took the offensive at sea. After naval skirmishing off Ionia, Sparta moved north
+toward the Propontis, threatening the Athenian
+food supply.
+
+Duration: 415–413 BC (3 Years).
+
+Alcibiades returned to help Athens win a series
+of naval battles, but finally it met with disaster
+in the Hellespont. With its grain supply cut off,
+Athens had to surrender.
+
+During this period, the long-established alliance
+structures broke up and reformed. Argos, Elis and
+part of Arcadia allied with Athens. In 418, Sparta,
+Corinth and Thebes first marched against Argos
+(which was saved from defeat by a last minute
+truce), then into Arcadia, defeating Argos/Athens
+at Mantinea before Athenian reinforcements could
+arrive. By sparing the elite Argive “1000”, Sparta
+gained Argos as an ally, but a harsh oligarchy it
+established there was overthrown a year later.
+
+Duration: 413–404 BC (10 Years). 	
+
+The Syracuse Expedition: 415-413 BC
+
+Playing Time: 2 hours.
+Neutrals (no entry): Achaea, Persia, [in Sicily]
+Messana, Rhegium, Acragas. Gela is neutral
+unless/until any Gelan unit leaves the City.
+Units: See the Sicily Setup card for units used
+in this scenario.
+Cards: Use Bronze  Silver bordered cards
+only (cards #12–55).
+
+Setup: Athens
+Units: See the Sicily Setup card. Deploy the
+units shown where specified. Set the Recruit
+Pool aside, face down.
+Captured Cities: Leucas, Pylos.
+Leader: Alcibiades (+1). Remove card from
+deck, place face-up in play.
+
+Setup: Sparta
+Units: See the Sicily Setup card. Deploy the
+units shown where specified. Set the Recruit
+Pool aside, face down.
+Captured Cities: Platea, Amphipolis.
+Leader: Agis (0). Remove card from deck,
+place face-up in play.
+
+Game Start
+Place starting forces/Leaders. Shuffle remaining cards, deal 6 to each player.
+
+Sicily Special Rules
+1.	Peace of Nicias rules (12.0) are in effect and
+the Peace cannot be broken.
+2.	Neutral Sicily. In SICILY (see 1.0), Actions
+cost double and Pillaging gains no Prestige
+unless non-Sicilian pro-Athenian “Expeditionary” units have already been in SICILY
+that Year (i.e., in a previous Season).
+3.	Units starting in Athens can’t move until 414.
+4.	Athens loses 1 Prestige each Year End due to
+the Tribute differential in GREECE (Spartan
+Tribute 4 / Athens Tribute 3).
+5.	Units recruited in GREECE can go to SICILY. Sicilian units cannot leave SICILY.
+
+Playing Time: 4 hours.
+Neutrals: Achaea, Persia, Sicily. Gela is neutral unless/until any Gelan unit leaves the City.
+Units: Both sides use units #1–46.
+Cards: Use Bronze  Silver bordered cards
+only (cards #12–55).
+
+Setup: Athens [Prestige: +3]
+Units: See 413 Setup card—Athens. Place the
+units shown where specified. Units #1–46 not
+shown go in the friendly Recruit Pool, face
+down.
+Captured Cities: Leucas, Pylos.
+Leader: Proboulois (0). Remove card from
+deck, place face-up in play.
+
+Setup: Sparta
+Units: See 413 Setup card—Sparta. Place the
+units shown where specified. Units #1–46 not
+shown go in the friendly Recruit Pool, face
+down.
+Captured Cities: Platea, Amphipolis.
+Leader: Agis (0). Remove card from deck,
+place face-up in play.
+
+Game Start
+Place starting forces/Leaders. Shuffle remaining cards, deal 6 to each player.
+
+413 Special Rules
+1.	Sparta has broken the Peace and lost 3 Prestige. War Resumes (12.1) is in effect:
+• Reduced Tribute (halved, round down).
+• Decelea (Thebes City Capacity = 12).
+2.	Persian units and Spartan improved (E1)
+fleets cannot be recruited unless Persian
+Aid is in play. Persian territory can then be
+entered and Revolt rules are altered (13.0).
+3.	The Odrysia A3 cavalry unit (#37/white
+namebox) can only be Recruited if Athens
+has no Leader in play.
+
+© 2011 GMT Games, LLC
+
+The Peace of Nicias: 421-415 BC
+
+Peace terms included a defensive alliance between
+Athens and Sparta, and an exchange of hostages
+and conquered cities (which was not honored on
+the Spartan side, soon bringing a dissatisfied
+faction led by Alcibiades to power in Athens).
+
+In 415, two cities in Sicily requested Athenian
+aid in a struggle with Syracuse, a city almost
+as large and powerful as Athens or Corinth, one
+with Dorian (Spartan) sympathies, and a primary
+supplier of food to the Peloponnese. Sensing a
+chance to bring Sparta to its knees economically
+(and add to its empire), the Athenian assembly
+voted to send a sizeable expedition under Nicias
+(who opposed it).
+After winning an early advantage and besieging
+Syracuse, the expedition was utterly defeated with
+the loss of half Athen’s fleet and 1/3rd of its army.
+Upon learning this in 413 BC, Sparta immediately
+reconvened its old alliance to restart the war.
+
+The Decelean War: 413-404 BC
+
+In the second phase, the main Peloponnesian army
+was based in Decelea, Boeotia (instead of going
+home every winter as had been the case). Revolts
+against Athens became more frequent, and it was
+hard pressed to cope with the spreading rebellion.
+In addition, Sparta gained Persian aid in exchange
+for renouncing Greek Ionia, and used this to
+build a fleet large enough to challenge Athens.
+A protracted sea war resulted, featuring several
+major sea battles. Athens won most of these, but
+was continually out-built in ships, finally losing
+its entire fleet in the Hellespont. Without naval
+supremacy, a besieged Athens could no longer
+feed itself and surrendered.
+
+Aftermath: 403-370 BC
+
+Sparta installed a murderous tyrannical regime in
+defeated Athens, but Athenian rebels reinstituted
+democracy within a year. Within a decade, Athens
+had recovered its fleet, walls, and independence.
+Spartan hegemony lasted less than 3 years. Empire predictably undermined Spartan values and
+institutions, and raised enemies and former allies
+alike against it. Thirty years later its power was
+irrevocably broken at the great battle of Leuctra.
+Despite its scientific, political, intellectual and artistic achievements, the great promise of Classical
+Greece was never realized, as it never coalesced
+into a single state. Many of its discoveries were
+lost to mankind and not rediscovered till 2000
+years later.
+
+HELLENES: Campaigns of the Peloponnesian War
+
+15.4 The 415 Campaign
+This long scenario combines the Sicily and
+413 Campaigns, adding the forces in Greece
+missing from the Sicily scenario.
+Facing a negative Tribute situation (–1 /Year),
+and a large Prestige cost to break the Peace,
+Athens must decide whether the opportunity in
+Sicily is worth the risk. Conquest of Syracuse
+virtually guarantees victory, but it is far away
+and more powerful than it appears.
+Duration: 415–404 BC (12 Years).
+Playing Time: 6 hours.
+Neutrals: Achaea, Persia; [in Sicily] Messana,
+Rhegium, Acragas. Gela is neutral unless/until
+any Gelan unit leaves the City.
+Units: ALL units of both sides are used.
+Cards: Use Bronze  Silver bordered cards
+only (cards #12–55).
+
+Setup: Athens
+Units: See 415 Setup card—Athens. Place
+the units shown where specified. All units not
+shown go in the friendly Recruit Pool, face
+down.
+Captured Cities: Leucas, Pylos.
+Leader: Alcibiades (+1). Remove card from
+deck, place face-up in play.
+
+Setup: Sparta
+Units: See 415 Setup card—Sparta. Place the
+units shown where specified. All other units go
+in the friendly Recruit Pool, face down, except
+#41–46 which are set aside until War Resumes.
+Captured Cities: Platea, Amphipolis.
+Leader: Agis (0). Remove card from deck,
+place face-up in play.
+
+Game Start
+Place starting forces/Leaders. Shuffle remaining cards, deal 6 to each player.
+
+Strategy Notes
+
+The Peloponnesian War was not a quick war: it
+lasted 27 years. A sea power confronted a land
+power, neither eager to challenge its opponent
+on its own “turf”. Both sides viewed it as a war
+of attrition, as should players. Though quick
+decisions are possible, this is usually the result
+of a mistake (for example, a major city being
+left under-defended). While always ready to
+seize opportunity, players should be prepared
+to campaign patiently.
+A game Year passes quickly, and then units must
+Winter. Game Years should be thought of as
+short, sharp campaigns with limited and focused
+objectives. Over-dispersion of effort can reduce
+prospects for that Year.
+Upon receiving cards, players should decide
+on a campaign plan for the Year and attempt to
+execute it. Unforeseen events and opportunities may arise, but an overall plan ensures that
+something may be accomplished unless a better
+option appears.
+Use of Events should be carefully considered, as
+their use reduces the effective length of the Year,
+making effective campaigning difficult; bunched
+Events in some Years and longer campaigns in
+other Years may be preferable.
+While establishing Siege is key to most offensive
+operations, a besieging army must not be left
+exposed to counterattack by superior enemy
+forces. A lost battle is almost as damaging as
+a lost city. A good response to enemy Siege is
+to form a superior army within striking range,
+threatening to relieve the City before it can be
+reduced. [Of course, with hidden value units,
+“superiority” is often uncertain.]
+While it is obviously advantageous to build
+up strength before operations, remember that
+captured Cities contribute Prestige every Year:
+early City captures may quickly dominate the
+Prestige picture.
+
+415 Special Rules
+
+Credits
+
+1.	Peace of Nicias rules (12.0) are in effect. The
+Peace can be broken (12.1).
+2.	Neutral Sicily. In SICILY, Actions cost
+double and Pillaging gains no Prestige unless
+non-Sicilian pro-Athenian “Expeditionary”
+units have already been in SICILY that
+Game-Year (i.e., in a previous Season).
+3.	Sicily Expeditions. For Athens, only the 1st
+Expedition (see 415 setup card) can enter
+ITALY or SICILY in 415. Only the 2nd Expedition can do so in 414, but it cannot leave
+Athens until 414 or War Resumes.
+4.	Until Persian Aid (13.0) is in play, Persian
+units and Spartan improved (E1) fleets can’t
+be Recruited, nor Persian territory entered.
+5.	The Odrysia A3 cavalry unit (#37) can only
+be Recruited if Athens has no Leader in play.
+6.	Sicilian units cannot leave SICILY.
+
+Game Design: Craig Besinque
+Game Development: Joel Toppen
+Art Director: Rodger MacGowan
+Package Design: Rodger MacGowan
+Artwork: Mark Simonitch, Donal Hegarty
+Rules, Example of Play, Charts Layout:
+Neil Randall and Mark Simonitch
+Assistance: Ron Hodwitz, Don Clarke, 	
+Paul Heldrup, Mats Eden, Johannson
+Tee, Vincent Lefavrais, Chris Farrell,
+Neil Randall. Tim Taylor, Ken Hole, Jeff
+Kuhn, Mark Kwasny, Mike Hoyt, Alex
+Besinque, Jeremy Murphy, Rayn ButtGrau, Gary Wright, Cody Sandifer
+Production Coordination: Tony Curtis
+Producers: Tony Curtis, Rodger MacGowan, Andy Lewis and Mark Simonitch
+© 2011 GMT Games, LLC
+
+15
+
+Index
+Archers................................................. 2.22
+Barbarians............................ 2.1, 2.25, 4.22
+Blockade.............................................. 8.21
+Borders............................................ 1.1, 1.2
+Building (Actions)................................. 4.2
+Cards...................................................... 3.0
+Cities ( Control).................................. 1.3
+Capitulation . ....................................... 8.13
+Cavalry........................................ 2.23, 6.41
+Combat................................................... 6.0
+Combat Rating..................................... 2.14
+Control (City/Area)................................ 1.4
+DeepSea Crossings............................... 5.22
+Disbanding........................................... 9.24
+Double Defense.................................... 8.11
+Events..................................................... 3.1
+Fleets.................................................... 2.26
+Forced March/Sail.................................. 5.3
+Fortifying............................................... 7.1
+Garrisons................................ 2.3, 4.23, 7.3
+Greeks........................................... 2.1, 4.22
+Group Movement................................... 4.1
+Harrying (cavalry)................................ 6.41
+Hits....................................................... 6.32
+Home City/Town.................................. 2.11
+Hoplites................................................ 2.21
+Infantry................................................. 2.24
+Initiative................................................. 3.3
+Leaders................................................. 3.11
+Loyalty (City)....................................... 1.31
+Movement.............................................. 5.0
+Muster.................................................... 5.0
+NewYear............................................... 10.0
+Olympians (Appeals)........................... 11.0
+Peace Offers....................................... 14.22
+Peace of Nicias..................................... 12.0
+Persian Aid........................................... 13.0
+Pillaging............................... 4.3, 5.5, 14.12
+Ports....................................................... 1.3
+Prestige................................................. 14.1
+Quartering / Homing............................ 9.21
+Rebel units........................................... 4.22
+Recruiting ........................................... 4.22
+Retreats.................................................. 6.4
+Revolts................................................. 3.12
+Rout...................................................... 6.33
+Sacrifice (Olympians).......................... 10.3
+Scenarios.............................................. 15.0
+Sea Areas  Borders.............................. 1.2
+Sea Battles.............................................. 6.5
+Sea Landings.......................................... 6.6
+Sea Transport....................................... 5.21
+Siege....................................................... 7.0
+Siege Combat......................................... 8.0
+Sorties.................................................... 8.3
+Tribute....................................... 9.51, 12.11
+Trophy / Triumph............................... 14.11
+Victory.................................................. 14.0
+Winter..................................................... 9.0
+Wintering Movement........................... 9.21
+Winter Maintenance..................... 4.4, 9.22
+
+HELLENES: Campaigns of the Peloponnesian War
+
+16
+
+Prestige Table
+
+Tribute (Controlled opposing Cities only): +CityValue each New Year.
+Battles: Trophy (enemy Retreats)
+
++1
+
+Triumph (enemy Elim/Panicked)
+
++2
+
+Sieges: City taken by Attrition/Capitulation
+
++1
+
+City taken by Assault
+
++2
+
+Pillaging (opposing CityStates only)
+
++1
+
+Pillaging (of Athens/Sparta)
+
++2
+
+Sequence of Play - Game Year
+
+Appeals to Olympians
+
+New Year
+
+Zeus—Cards
+
+•	
+•	
+
+Deal 6 cards to each player
+New Year Event / Sacrifice
+
+Spring/ Summer/ HighSummer/ Fall
+
+•	Initiative (card play)
+•	1st Player Turn
+Action Phase
+•	 An Event occurs; OR
+•	 Actions occur (any order):
+Movement / Pillaging / Building
+Combat Phase
+Battles / Siege Combat
+•	2nd Player Turn (as above)
+
+Winter
+
+•	Initiative (card play: NO Events)
+•	1st Player Winter Actions
+Wintering Movement
+•	Homing to Home City (free)
+•	Quartering to adj. City (free)
+•	Group Moves (cost 1 Action)
+Building
+Winter Maintenance
+Disbanding
+•	(2nd Player repeats as above)
+•	1st Player SiegeBreaking Combat
+Homing Battles
+
+413/415 Special Rules
+
+Immediately discard  re-Draw all 6 cards of
+a New Year's card draw (no reshuffle).
+
+Apollo—Recruits
+
+Return all 3 drawn Recruit units and re-draw
+3 new blocks. OR: Have the opponent return a
+just-placed Recruit and re-draw 3 new blocks.
+
+Ares—Combat
+
+Re-roll the latest and any subsequent unit
+attacks by the currently attacking friendly or
+enemy Agility class (A/B/C).
+
+Demeter—Siege Attrition
+
+Re-do one entire Siege Attrition dieroll (1 D6/
+defending block).
+
+Poseidon—Storms
+
+Re-roll one Storm dieroll.
+
+Hermes—Forced March
+
+Re-roll all failed Forced Marches/Sails of one
+Moving Group.
+
+Hera—Appeals
+
+Re-do (overrule) a just-resolved opponent's
+Appeal to another Olympian.
+
+(Win: enter City / Lose: Disband)
+
+Sorties
+•	(2nd Player repeats as above)
+•	1st Player Siege Combat
+Siege Assaults / Siege Attrition (triple)
+•	(2nd Player repeats as above)
+•	Year End
+•	Tribute Collection
+•	Victory Check
+•	Advance Year marker
+•	Collect  Shuffle cards
+
+Spring–Fall
+Winter
+
+Season
+
+Storm†
+
+No Storm
+
+Spring/Winter
+
+1–3
+
+4–6
+
+Summer/Fall
+
+1–2
+
+3–6
+
+HighSummer
+
+1
+
+2–6
+
+† Check each fleet for ship damage
+
+Ship Damage (from Storms)
+Die-Roll
+
+Siege Attrition
+Season
+
+Storms (Deep Sea Crossings)
+
+Die-Roll
+
+Result
+
+1
+
+1 cv loss
+
+1–3
+
+1 cv loss
+
+Result
+
+1–3 (Gale}
+
+Fleet Eliminated
+
+4–6 (High Seas)
+
+Fleet –1 cv*
+
+* Carried land unit may have to reduce cv to
+remain smaller than its carrying fleet
+
+GMT Games, LLC
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+© 2011 GMT Games, LLC
+
+Peace of Nicias (12.0)
+•	No Revolt, Helot Uprising, Persian Aid or
+Taxes events. No Rebel unit recruitment.
+•	On land, units must remain at Home; City
+Capacity = triple City Value. All Forced
+Marches succeed
+•	At sea, units may move freely without conflict but must end movement at Home or its
+Offshore Sea. All Forced Sails succeed.
+•	Athens –1 Action/ turn (Public Works) unless Sicily Campaign in effect (6+ Expeditionary units in Sicily).
+War Resumes (12.1)
+•	Breaking the Peace incurs a Prestige cost.
+Year
+
+415
+
+414
+
+413
+
+412
+
+411
+
+410+
+
+Sparta
+
+–5
+
+–4
+
+–3
+
+–2
+
+–1
+
+0
+
+Athens
+
+–10
+
+–8
+
+–6
+
+–4
+
+–2
+
+0
+
+•	Reduced Tribute: half Tribute, round down.
+•	Decelea—Thebes' City Capacity = 12.
+•	Add Persians/E1 fleets to Spartan Recruit
+Pool.
+Sicily Neutral
+[No non-Sicilian pro Athenian ‘Expeditionary’
+units have been in Sicily this year.]
+•	Actions in Sicily cost double.
+•	No Prestige for Pillaging in Sicily.
+[The above rules are canceled if Athenian Expeditionaries have been in Sicily in a previous
+Season this Year.]
+Persian Aid  Revolts
+•	1 Persian Aid—No Spreading Revolts.
+•	2 Persian Aid—No Regional Revolts.
+•	3 Persian Aid—No Revolts of any kind.
+
+Forced Marches / Forced Sails
+Unit
+
+Failure†
+
+Success*
+
+Regular
+
+1–4
+
+5–6
+
+Elite
+
+1–2
+
+3–6
+
+† Unit remains in previous area
+* Unit can move one extra area (or not)
+
+</rulebook>
+			
+						                           
+						               													<description>Hellenes: Campaigns of the Peloponnesian War (GMT Games) is 2 player game on the Peloponnesian War of the Greek classical age designed by Craig Besinque (EuroFront series). Based on a variant of the Hammer of the Scots/Liberty system, Hellenes features good historical flavor, fast play, and lots of options for both players.&amp;#10;&amp;#10;One player plays Sparta, the dominant land power of the era; the other plays Athens, the dominant sea power. Each side also seeks the allegiance of minor Greek city-states and barbarian tribes: some that persevere and others that come and go. Revolts, sieges, leaders, wintering, and civic discord all play important roles.&amp;#10;&amp;#10;The object of the game is to erode enemy prestige to the point of Surrender by capturing cities, winning battles, and devastating enemy territory with raids. Walled cities are very strong in defense, leaving Siege as a common method of reduction. But if a Siege is broken by a relieving force, the lost battle reduces the besieger's prestige!&amp;#10;&amp;#10;The map depicts Ancient Greece in the Aegean area, including the Peloponnese, continental Greece, Macedonia, Thrace and Ionia. A separate area on the map contains Sicily. Units include fleets, cavalry, archers, infantry and hoplites. Cards drive military actions and special events. Each card has both an Action value and an Event, and can be played for either purpose but not both. Actions include unit buildup, adding new units and group movement. Events include leader change, plague, barbarian uprisings, revolts, civil unrest, etc.&amp;#10;&amp;#10;Hellenes includes 4 scenarios: The 431 BC Campaign (10 turns), The Sicily Campaign (5 turns), The 415 BC Campaign (12 turns), and The 413 BC Campaign (10 turns).  Each one plays in about 3-6 hours.&amp;#10;&amp;#10;Designer: Craig Besinque&amp;#10;Developer: Joel Toppen&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24921" value="Ancient: Sparta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18614" value="Cities: Athens (Greece)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6137" value="Components: Block Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10640" value="Country: Greece" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58052" value="History: Peloponnesian War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65387" value="Region: Aegean Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62" value="Craig Besinque" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24469" value="Donal Hegarty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="505" />
+			<average value="7.44806" />
+			<bayesaverage value="5.9175" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3068" bayesaverage="5.9175" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="234" bayesaverage="6.84712" />
+												</ranks>
+
+			<stddev value="1.35668" />
+			<median value="0" />
+			<owned value="1304" />
+			<trading value="70" />
+			<wanting value="63" />
+			<wishing value="265" />
+			<numcomments value="275" />
+			<numweights value="75" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,2911 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22604">
+         <thumbnail>https://cf.geekdo-images.com/q5c_53j2tPIJiAATwl4xIw__thumb/img/4NXDVPwaMaPEpQbmtLqWTiZzPQE=/fit-in/200x150/filters:strip_icc()/pic453474.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/q5c_53j2tPIJiAATwl4xIw__original/img/Wp0xj33A8ZFaWunOO2qezXE4L5Y=/0x0/filters:format(jpeg)/pic453474.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Halls of Montezuma" />
+				<rulebook>The Halls of Montezuma
+
+Rules of Play
+Contents
+1.0	
+2.0	
+3.0	
+4.0	
+5.0	
+6.0	
+7.0	
+8.0	
+9.0	
+10.0	
+11.0	
+12.0	
+
+Introduction.........................................................................2
+13.0	 Placement Actions, Fortifications, and Fortresses................12
+Components.........................................................................2
+14.0	 Naval Movement, Squadrons, Port Seizure, and Blockade...13
+Game Concepts....................................................................4
+15.0	 Armies................................................................................14
+Set Up and Sequence of Play................................................5
+16.0	 Raids and Guerillas.............................................................14
+Political Will and Victory.....................................................6
+17.0	 Discarding and Holding Cards...........................................14
+Supply and Control..............................................................6
+18.0	 Governmental Status/ End Turn Phase, War Declaration, and .
+Random Events Phase and Action Cards..............................7
+	
+Revolts................................................................................15
+© 2008 GMT Games, LLC
+Deal Cards Phase and Strategy Cards....................................7
+19.0	 Comprehensive Example of Play.........................................16
+© 2008 GMT Games,
+Action Phase.........................................................................8
+	 LLC
+Credits ..............................................................................19
+Activation Action, Reaction, and Movement into Battle.......9
+20.0	 Designers' Notes.................................................................20
+Battle..................................................................................10
+21.0 Card Histories ....................................................................21
+Events.................................................................................12
+22.0	 Rules Index .......................................................................24
+
+© 2008 GMT Games, LLC
+© 2008 GMT Games, LLC
+
+1
+
+The Halls of Montezuma
+
+The game begins during the period of diplomatic crisis over the
+southern border of Texas. During this time, both players may move
+and engage in combat, but will have limited flexibility in what can be
+accomplished. At some point, the US will declare War, giving both
+players more cards to use and more options.
+The rules are organized largely according to the Sequence of Play, found
+in section 4.0. Major game concepts are found in the rules section where
+they are most prominent. The victory conditions are presented first so
+players know their goals, although victory is checked at the end of the
+Turn. The rules are focused on what you, the players, may do. If what
+you want to do is not stated, then you may not do it. Concentrate on
+what the rules allow.
+The Halls of Montezuma includes:
+•	 One 22” x 34” map
+•	 Two counter sheets
+•	 Three player reference cards
+•	 80 Strategy and 30 Action cards
+•	 2 ten-sided dice
+•	 This Rulebook
+If there are any components damaged or missing, please contact us at:
+GMT Games
+P.O. Box 1308
+Hanford, CA 93232-1308
+If you have any questions about the rules, we’ll be glad to answer them
+if you send them to the address above with a self-addressed, stamped
+envelope. For faster response, contact the developer at stratdeveloper@
+nac.net, or see us online at talk.consimworld.com. We're in the "PostNapoleonic" folder of the "Individual Games" discussion forum.
+References to other rules are noted in parentheses. For example, a
+reference to the rule for seizing a port is noted thus:
+
+2.0 	COMPONENTS
+2.1	 The Map. The game map represents the theater of war; Units move
+from Space to Space (or Zone) as they campaign. Spaces are marked
+for terrain and for other game purposes, as noted below and on the
+map Legend.
+a.		 Map features. Features of note on the map are:	
+•	 Spaces cost 1 or more Movement Points (MP) to enter, taken
+from a moving Unit’s/Force’s Movement Allowance (MA), as
+the Unit/Force enters the Space (10.2). Each Space’s terrain
+is as indicated on the Map Legend.
+•	 For rules purposes, “in Mexico” means anywhere on the map
+except for the Zones and Texas Spaces.
+•	 Spaces marked with the Indian symbol are the points of origin
+for Raids.
+•	 Spaces can be controlled; every Space is under control of one
+player or the other at all times during the game (6.7 and Set
+Up card).
+
+b.		 Fortresses. The game’s two fortresses, Mejico and Vera Cruz, are
+marked on the map; each has an inherent artillery Unit (13.3).
+c.		 Connections. Connections allow movement from Space to Space
+at the MP cost listed on the Terrain Effects Chart.
+d.		 Zones and Movement Arrows. Zones represent larger areas of
+land than normal Spaces. They function identically to Spaces,
+except as noted. Entry into and exit from Zones are by Movement Arrows. Units are able to move in either direction across
+such Arrows.
+e.		 Holding Boxes. Each Leader has a command Box. Place all Units
+and Subordinate Leaders under a Leader in his Command Box.
+Place Guerillas not presently in play in the Guerillas Holding
+box.
+f.		 Charts and Tables. Charts and tables necessary to play the game
+are printed around the edges of the Map and on the player aid
+cards.
+g.		 Information Track. Mexican Political Will (PW) is the key to
+victory (5.1). The track of boxes numbered 0 to 35 is used to
+mark the current PW, as well as the US Blockade and Bellicosity
+levels. Use the Firepower (FP) markers on this track to calculate
+FP in Battle.
+h.		 Battle Diagrams. Each player has a Battle diagram facing his
+side of the map. Use these to determine total Firepower in Battle
+(11.2.f ). Place Units in the appropriate boxes per the Battle
+Sequence.
+j.		 Mexican States. Mexico is made up of a number of States, separated by the darker boundaries. Each Space in a State contains
+the State’s abbreviation, and is faintly color-coded. Each State
+also has a corresponding status box, which contains the State’s
+name, the State control number (6.9), and boxes for the State
+control and Civic State markers. The States of Queretaro and
+Guanajuato share a status box owing to space limitations. Place
+the markers for both states in the box; both have a State control
+number of ‘2’.
+2.2	 Units and markers. The game includes two 8 ½” by 11” countersheets. These two sheets contain all the Units and other markers to be
+placed on the Map. The play aid card includes a visual representation
+and explanation of the Units.
+a.		 Combat Units. Combat Units (“Units”) are of three types, Infantry, Cavalry, and Artillery. All combat Units except Guerillas
+have two steps. To indicate that the Unit has lost a step, flip it
+to its one-step side, or eliminate a Unit already on its one-step
+side. The single-step side of the Unit has the white band under
+the unit’s strength.
+
+Reduced
+Strength bar
+
+© 2008 GMT Games, LLC
+
+Commitment
+Symbol
+
+Unit
+Firepower
+
+Artillery
+
+The Halls of Montezuma is a two-player game based on the MexicanAmerican War—a war that began as a struggle for Texas but soon
+changed into two nations battling for empire. One player is the United
+States and the other is Mexico. The game attempts to recreate the
+War from the point of view of the policy makers of both nations in
+the conflict, without too much complexity. Thus, we have abstracted
+certain real world factors to make the game playable in about two to
+three hours, while retaining what we deemed to be essential features
+of the historical situation.
+
+•	 Transit Spaces count for all purposes as normal Spaces except
+when specifically noted in the Rules. Transit Spaces are never
+controlled for any purpose.
+•	 Transit Spaces can cause attrition (10.2.d).
+•	 If three or more Spaces and/or Transit Spaces are part of a
+triple connection, all are adjacent to each other.
+
+Cavalry
+
+1.0 	 Introduction
+
+Infantry
+
+2
+
+Unit
+Identifier
+
+The Halls of Montezuma
+
+a
+
+a
+
+a
+
+d
+
+d
+d
+
+3
+
+a
+
+j
+j
+
+d
+a
+
+d
+
+a
+
+a
+
+d
+
+a
+
+a
+
+a
+
+a
+
+a
+
+c
+
+a
+
+c
+
+j
+
+c
+
+h
+e
+j
+
+j
+j
+
+j
+
+j
+g
+
+j
+
+j
+
+j
+
+j
+
+h
+
+c
+
+b
+d
+
+b
+
+a
+
+j
+
+e
+
+j
+
+j
+
+j
+
+d
+j
+
+1.	 I	 nfantry Units are regiments of foot soldiers, between 300
+and 1000 troops. Each strength point represents about 300
+to 500 men. Infantry Units include:
+•	 Regulars: Professional, trained infantry.
+•	 Activa Militia (Mexico) and Volunteers (USA): Regiments
+raised by Mexican and American States, less experienced and
+not well trained. Generally, may not be committed in Battle.
+•	 Zapadores (Mexican sappers): These troops give an advantage in Battle involving fortifications (11.2.f and the
+Battle Results Table).
+•	 Guerrillas: Irregular troops skilled in hit-and-run tactics.
+•	 Marines: Marines generally function as normal Infantry
+Units. In addition, US Marines have special rules for Amphibious Landings (14.2.c).
+
+State
+Volunteers
+
+Infantry /
+Artillery
+
+Guerrilas
+
+Marines
+
+Design Note: The minimal difference in FP between Units at full
+and reduced strength reflects the use of Unit reserves, discipline,
+and cohesion. The step loss represents more a loss of cohesion rather
+than a loss of men. Being returned to Regroup does not mean all
+the soldiers have been killed, but that the Unit has lost its cohesion
+and needs to be reorganized.
+
+Regulars
+
+Play Note: The Combat strength for many Units is the same on
+both their full and reduced strength sides. If a player has one of each
+type in a Battle, add 1 to the Force’s FP.
+
+Zapadores
+
+The small boxed letters on the map correspond to the features described on p. 2
+
+Play Note: US Units marked with a red band at the top of the
+Counter (US Regulars & State Militias) enter play only after the
+US has declared War on Mexico.
+2.	 Cavalry Units represent regiments of 100 to 1000 mounted
+troops, 200 to 300 mounted men per strength point. Cavalry
+may withdraw before Battle per 11.2.b. Cavalry receives
+benefits per the play of Strategy cards.
+3.	 Artillery Units represent 20 to 25 guns per strength point.
+The US 1st through 4th Artillery Units are considered both
+Artillery and Infantry.
+b.		 Leaders. Leaders command Units. Leader counters carry stars
+and ratings. The stars are used for combat commitment, replacement attempts, and other functions. The reverse of most Leader
+counters is marked “REPL”; this side is used in case a Leader
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+4
+
+OPS Value
+
+dies in Battle (11.3). Santa Anna’s replacement is Valencia, who
+has a separate counter. Each Leader is rated for:
+•	 Strategy—How easy it is to Activate a Leader and get him
+moving (1 = easiest, 4=most difficult).
+•	 Command—The number of Units he can command for
+movement (3.5). This rating also denotes rank—subordinate
+Leaders must have the same or lower command rating as the
+Force Commander.
+•	 Tactics—His ability in Battle and troop management.
+
+Blue=US Event
+Green=Mex Event
+Blue/Green=Either
+
+Game Period
+Indicator
+Headline
+and Text
+
+Strategy
+Command
+Tactics
+
+Leaders may be left alone in a Space; Leaders alone may NOT
+enter a Space with enemy Units. If an enemy Unit/Force enters
+a Space with a Leader alone, and that Space does not contain
+a fortress (13.3), that Leader must be placed with a friendly
+Unit/Force within 5 Spaces. If no such Unit/Force exists, the
+Leader is eliminated and his replacement becomes available in
+the Leader Pool (3.2).
+Design Note: Valencia was the military and political rival to Santa
+Anna. In the Event of the latter’s demise, Valencia would have been
+the obvious new political choice of the Army and people of Mexico.
+In our view, Santa Anna was not spectacular in battle—hence his
+rating of ‘1’.
+2.3	 Markers. Markers are included for fortifications, control of Spaces,
+raided Spaces, game record tracks and the effects of various Events.
+Their use is explained in the applicable rules or on Event cards. The
+markers included are an absolute limit except for the Space control
+markers. Key markers are:
+a.		 Fortifications. The game includes three types of fortifications,
+two of which are on markers—fieldworks and forts. Place fieldworks and forts with their “?” side up—although the owning
+player may look at the marker’s face at any time. Fortresses are
+printed on the map at Mejico and Vera Cruz.
+
+Forts
+
+Fieldworks
+
+b.		 State Control/Civic State. These markers determine whether
+a Mexican State is under US or Mexican control (6.9) and is
+“Calm” or in “Revolt” (18.4).
+c.		 Space control. These indicate which side controls a Space (6.7).
+2.4 The Die. A ten-sided die is used to resolve combat and a number
+of other game mechanics. Read the ‘0’ as zero, not ten.
+2.5 Player Aid Cards. The Player Aid Cards contain the charts and
+tables to play the game. The Turn Record track allows players to track
+the game Turn. This track also includes each Turn’s mandatory Events
+(7.1.a), the War die roll modifier (18.3.a), the declaration of War Political Will cost (18.3.b), and the end game die roll (18.7) for each Turn.
+2.6 The cards. The 110 playing cards are divided into two smaller
+decks. The 30 Action cards cause random Events and determine
+movement/attrition of active Units /Forces. The Strategy deck has two
+sets of cards—Crisis and War, distinguished by the red “Crisis” band
+across the top of the cards for use during the Crisis Period. Add the
+War strategy cards to the deck after the US declaration of War (18.3).
+When in conflict, the card’s text prevails over the rules.
+
+Movement Chart
+Response
+Card
+Indicator
+
+Supply Event
+Indicator
+
+Remove
+Indicator
+
+Naval
+Capability
+Indicator
+
+3.0	 GAME CONCEPTS
+3.1	 Key Terms. The following terms are crucial to play of the game—
+the rules reference indicates the location of their main explanation.
+They are capitalized throughout.
+•	 Space—one of the locations on the map into which Units can
+move (2.1).
+•	 Unit—one of the playing pieces representing the troops which
+fought during the War (2.2.a).
+•	 Leader—any of the generals available to move Units around
+(2.2.b).
+•	 Regroup—where Units not in play are placed—a coffee mug
+would work perfectly (3.2).
+•	 Commander—a Leader in command of a Force (3.5) or Army
+(15.0).
+•	 Force—one or more Units (and Leaders) under a Commander;
+may be an Army (3.5).
+•	 Event—the actions described on the face of a card (7.1b and 12.0);
+Event titles are printed in Italics.
+•	 Battle—combat between Units and Forces, occurring during
+activation and movement (11.0).
+•	 Army—a Force with an Army marker placed by card play (15.0).
+•	 War—the game begins during the period of Crisis over the border
+of Texas; during the game the US declares War in one of a variety
+of ways (18.3).
+3.2	Regroup/Leader Pool. Each side should have a container (a mug)
+as its Regroup box. Place Units available but not in play in Regroup;
+place Units eliminated during play back into Regroup. Place Leaders
+available but not yet in play at any convenient location on the table.
+Do not place Scott or Santa Anna in these Leader Pools. Draw Units
+from Regroup and Leaders from the Leader Pool randomly, unless
+specifically stated (e.g., the Scott Invades Event requires a Marine Unit).
+3.3	 Stacking. No more than 15 Units, plus any number of Leaders
+and markers, may end an Action or Phase in one Space. If more are
+present, the owning player must eliminate Units in excess of 15. Players
+may always inspect the contents of enemy stacks. The Baggage Train
+does not count towards stacking. 	Zones have no stacking limit.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+3.4	Reinforcements. Players receive reinforcements during the course
+of the game; most arrive by card play, but some arrive by mandated
+Event. Place reinforcement Units at full strength, drawing them from
+Regroup. The player must take the number of Units indicated, unless
+Regroup is empty. In this case, the reinforcements are lost. Except for
+Scott and Santa Anna, randomly draw reinforcement Leaders from
+the Leader Pool. Unless stated on the card, place reinforcements as
+follows:
+•	 US reinforcements—New Orleans or any friendly, in supply
+Texas Spaces.
+•	 Mexican reinforcements—any friendly, in supply Political Will
+Cities.
+3.5	 The Force. A “Force” is any group of Units and Leaders subordinate to a particular Leader (the “Commander”). An “Army” is a Force
+with an Army marker. Unless otherwise specified, the term “Force”
+applies to Forces and Armies. The number of Units allowed in a Force
+is the “Force activation limit”. A Force need not include all the Units
+in a Space.
+a.		 Designation. Designate a Force at the moment of activation,
+interception or avoiding battle. A Force contains a Commander,
+no more than one subordinate Leader, and a number of Units up
+to the Commander’s command rating. An Army is a Force with
+an Army marker, and contains a Commander, any number of
+subordinate Leaders, and Units up to the total of the combined
+command ratings of the Commander and one subordinate. The
+Baggage Train does not count towards stacking.
+b.		 Timing. Forces need not be designated except as described in
+3.5.a. At all other times, any number of Leaders and Units can
+coexist in a Space (up to the stacking limit of 15 Units).
+3.6	 Santa Anna. At start, place the Santa Anna Leader counter in the
+“In Exile” box. Santa Anna is governed by the following:
+a.		 Initial Placement. Santa Anna comes out of Exile and enters
+play on the first of the following to occur:
+•	 Action card Event: Santa Anna Returns from Exile is played
+during the Random Events Phase (7.0).
+•	 Strategy card Event: Santa Anna Elected President is played
+during the Action Phase (9.0).
+•	 Declaration of War: Place Santa Anna with 4 Units in Mejico
+fortress at the beginning of the Turn following the US declaration of War—immediately if the US player declares War at
+the beginning of a Turn (18.3.b).
+b.		 Return to play. After removal by Santa Anna in Exile, place him
+back in the "Exiled" box. Roll the die during the Random Events
+Phase. On a 5 or higher, place Santa Anna in Mejico fortress. If
+the roll was 4 or lower, roll again next turn. Santa Anna Elected
+President also returns him to play if in exile.
+c.		 Normal leader. In all other respects, Santa Anna is a normal
+Leader.
+3.7	 Initiative. From the beginning of the game until the nations are
+at War, Mexico has the initiative. From the moment the US declares
+War until the end of the game, the US has the initiative.
+
+4.0	 SET-UP AND SEQUENCE OF PLAY
+4.1	 Game Set-up. Refer to the Set Up card to prepare for play.
+4.2	Turn Sequence of Play. Each game Turn consists of a series of
+Phases; complete all Phases and their Segments in the order stated.
+A.	 	Random Event Phase (7.0).
+•	 Implement all Events noted on the Turn Record track, in the
+order stated.
+
+5
+
+•	 The players alternate drawing and executing four action cards
+each, initiative player first. Execute each Event immediately
+(7.1.b).
+•	 Roll for Santa Anna’s return (3.6.b).
+•	 The US player may declare War, paying the Turn’s PW penalty
+(18.3.b). From Turn 4 on, reactivate an inactive squadron
+(14.3).
+B.	 	Deal Cards Phase (8.0).
+•	 Deal each player the appropriate number of Strategy cards
+(8.1).
+•	 Beginning with the initiative player, each player may draw
+one extra card, moving the PW marker 1 in the other player’s
+favor.	
+C.	 Action Phase (9.0).
+•	 The players alternate playing Strategy cards, the initiative
+player determining who plays first (7.1.b).
+•	 Each card play allows the player to engage in one action at
+the player’s discretion:
+1.	 Activate Leaders, Units, and Forces to move (10.0), suppress revolts (10.3), establish control of a Zone (10.4),
+resolve a siege (10.5) and engage in Battle (11.0).
+2.	 Execute the Event on the card (12.0).
+3.	 Place control markers (13.1), fortifications (13.2), replacements (13.4), or the Baggage Train (13.5).
+4.	 Make a Naval Move (14.1), conduct an Amphibious
+Landing (14.2), Activate a squadron (14.3), or Seize a
+Port (14.4).
+5.	 Organize an Army (15.0).
+6.	 Raid Spaces (16.1) or Hide/Reveal a Guerilla (Mexican
+player only—16.5).
+7.	 Discard or Hold a card (17.0).
+•	 Execute the Supply Event (9.2) on play of Logistics or a Strategy
+card with the Supply Wagon icon. The Supply Event automatically happens on play of the Logistics card. If another card with
+the Supply Wagon card is played, roll the die—if the roll is
+less than or equal to the OPS value of the card, the Supply
+Event takes place. Each Turn does not have to have a Supply
+Event; the Turn may have a maximum of one.
+•	 The Action Phase ends per 9.0.
+D.	 Governmental Status/End Turn Phase (18.0).
+•	 Spaces may change control because of the presence of enemy
+Units/Forces (18.1).
+•	 Remove isolated control markers and determine which Mexican States are under US control (18.1.a–b).
+•	 The Mexican player determines if the Mexican government
+collapses (18.2).
+•	 If the US is NOT at War, the US player rolls on the Declaration of War Table (18.3.a).
+•	 Both players determine if any active revolts spread (18.4.a).
+•	 Change PW for raids, State control, and revolts; remove Raid
+markers (18.5).
+•	 Check for victory (5.2).
+•	 On turns so noted on the Turn Record track, roll to see if the
+game ends; if the game ends, check victory (18.7).
+•	 Shuffle all Action cards and move the Turn marker to the
+next Turn.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+6
+
+5.0	 POLITICAL WILL AND VICTORY
+5.1	 Mexican Political Will. The Mexican Political Will track is a
+quantitative measure of Mexico’s willingness to fight the US. Various
+Events throughout the game add and subtract points from
+Political Will, as noted on the PW Chart. When a PW award
+benefits Mexico, move the marker up the track; when the
+award benefits the US, move the marker down.
+a.		 Raids (16.0). Each raid is worth ½ PW (16.4.a).
+b.		 Political Will Cities. Whenever a PW city changes control, PW
+will change. Roll the die; add the PW modifiers from the PW
+city’s marker and from the map, subtract one if Santa Anna is
+President, and refer to the City Conquest Table to determine
+the PW effect.
+c.		 Battle. Battle affects PW per the PW Chart; all effects are cumulative.
+d.		 States in revolt or under US control. The Mexican player loses
+PW each Turn for each State in revolt and/or controlled by the
+US player (18.5.b).
+5.2	 Victory. Determine victory during the Government Status/End
+Turn Phase. Check to see if one of the two situations below applies:
+a.		 Sudden Death. A player fulfills his nation’s Sudden Death Victory conditions by occupying Spaces. Occupying a Space means
+that the Space is in supply, has at least one friendly Unit in the
+Space, and is under friendly control. If a Zone is involved, enemy
+Units may also be present.
+•	 The US wins if the US simultaneously occupies Vera Cruz,
+Mexico City, Saltillo, Alta California, and Monterrey, and has
+more Units in the Disputed Zone.
+•	 Mexico wins if Mexico occupies five or more Texas Spaces
+and has at least one Leader and two more Units than the US
+in the Disputed Zone.
+b.		 PW Victory. If the game ends at the end of a Turn per 18.7, the
+Mexican player wins unless one of the following two conditions
+applies:
+•	 Mexican Government Collapse. If the Mexican Political Will
+is 10 or less, the US wins (18.2). 	
+•	 No Government Collapse. If the Mexican Political Will is 1
+or less, the US wins.
+5.3	Tournament Bidding. In tournaments, or if both players want
+to play the same side, each player should write down a bid of at least
+0 Political Will points. The higher bidder plays the favored side, unless
+the losing player wishes then to bid higher than the current high bid.
+Bidding may proceed with the players alternating, until one player
+concedes the bid. The winner plays the favored side; change the Political Will by an amount equal to the bid in favor of the bid’s loser.
+
+6.0	 SUPPLY AND CONTROL
+Design Note: We have modeled the logistics in the game with some randomness to capture varied factors in an abstract sense, such as weather, local
+road conditions, low level raiding, and, simply put, bad management of
+the supply lines and bases. Like any good strategist, you are always going to
+be concerned with your supply lines, but the “supply line test” in the game
+happens in an uncertain way to generate sufficient tension without making
+the game-play so calculating. You can push your Forces further from the
+base of operations, perhaps to exploit an enemy weakness, but in this game
+you can’t rely on a specified timing of the Supply Event. Instead, a player
+could see a Force sitting beyond its limit or recently cut off and play a card
+to attempt to trigger the Supply Event—this makes the strategy card with
+
+a high OPS number a valuable card to play when the conditions are right.
+In this game, as Mexico retreats to interior lines and difficult terrain, the
+Americans could get tempted to do too much without safeguarding their
+supply line.	
+Success in the game revolves around supply and control. Supply allows Units and Forces to function at full effect. Control of Spaces and
+States allows tracing supply, affects PW, and other aspects of the game.
+Because supply and control issues affect many activities in many phases,
+they are presented here. The Supply Event, when the supply status is
+checked for all Units and Forces, is executed per 9.2.
+6.1	 Supply Status. Supply requires tracing a supply line from a Space
+to a supply source. If a Space is in supply, all Units and Forces in the
+Space are in supply. Check supply during the Action Phase on execution of the Supply Event (9.2). A Space must also be in supply at other
+times noted in the rules, including, for example, building fortifications,
+taking replacements, establishing control over Spaces, and engaging in
+Battle.
+6.2	 Supply Lines. A supply line is an unbroken chain of up to five
+eligible Spaces from the Space being checked to a supply source. The
+Space being checked does not count towards the length of the supply
+line, but the supply source Space does. A Rough connection costs
+two towards the length of the supply line. Supply lines may be traced
+through Spaces and Transit Spaces. Each Space must be friendly; no
+Space may contain an enemy Unit. In addition, each Space must be
+•	 either clear terrain or non-clear terrain containing a friendly fortification or Baggage Train,
+•	 free of a Raid marker, unless a friendly Unit or Baggage Train is
+in the Space, and
+•	 not in a State in revolt, unless the Baggage Train is in the Space.
+6.3	 Supply Sources. A given supply source may supply any number
+of Units. Trace supply to the following sources:
+•	 United States—a friendly Texas Space, a port (6.4.a), a Zone (6.4.b
+and 6.4.c), the beachhead or the U.S. Baggage Train marker (6.5).
+•	 Mexico—a friendly PW City, a Zone (6.4.b & 6.4.c), Sonora State
+(6.4.d), or the Mexican Baggage Train (6.5).
+6.4	 Supply source details. Apply the following as appropriate:
+a.		 Ports. One port per coast may serve as a supply source for one
+US Force (but NOT an Army). Supply must be traced
+to it normally. The Beachhead marker allows a second
+port to serve as a supply source for any number of
+Forces (including Armies). Supply through a port
+requires the appropriate squadron to be active. If the squadron is
+seizing a port (14.4), it is considered active for supply purposes.
+b.		 The Disputed Zone. Up to three Units of each side are automatically in supply in the Disputed Zone. A player with at least as
+many Units therein as the other player may trace a supply line
+through the Disputed Zone, which counts as three Spaces.
+c.		 Alta and Baja California. One Unit from each side is automatically in supply in each of Alta California and Baja California. A
+player controlling Alta California may use it as a supply source
+for one Force outside the Zone, including by sea per 6.4.a. The
+Force supplied from Alta California may be a different Force
+for each supply check.
+Example: During a Supply Event early in the Action Phase, a Force
+in Space X is supplied from Alta California. During the next card
+play, another Force moves from Space Y—in supply from a Texas
+Space—and engages in combat in Space Z, which can trace supply
+to Alta California. The Force suffers neither movement attrition nor
+the adverse Battle effect of being out-of-supply.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+d.		 Sonora. During the Supply Event only, three Mexican Units are
+automatically in supply in Sonora State. All other Units trace
+normally.
+e.		 Raid markers. A raid marker in a supply source Space prevents
+use of the Space as a supply source, unless a friendly Unit or the
+Baggage Train is in the Space.
+6.5	 The Baggage Train. Each player has one Baggage Train, which is
+used as follows:
+a.		 Supply Source. The Baggage Train is a supply source in any
+type of Space or Transit Space. Trace a supply line into and out
+of the Baggage Train’s Space regardless of terrain. The friendly
+Baggage Train must itself trace a valid supply line to another
+friendly supply source (the US Baggage Train may trace to the
+Beachhead marker, and vice versa). Even if out of supply, the
+Baggage Train may be eliminated during the Supply Event to
+supply all Units /Forces which can trace to it.
+b.		 Movement and Capture. The Baggage Train moves only as
+part of a Force, at the Force’s MA. The Baggage Train does not
+count against the Force activation limit. A Baggage Train may
+be left alone in a Space; if one or more enemy Units enter that
+Space, the Baggage Train is immediately captured. Move the PW
+marker 1 Space in favor of the capturing player. The Baggage
+Train reenters on play of a Strategy card (13.5).
+c.		 Beachhead. The US Beachhead functions as an immobile Baggage Train in the port Space.
+
+6.6	Out-of-supply Effects. During the Supply Event (9.2), the owning player eliminates one-half (rounded up) of all steps in each out-ofsupply Space. If present, at least one Cavalry step must be eliminated.
+If any connection to the Space is a River Connection, eliminate one
+less step. In addition, at the moment of certain game activities, check
+the supply status of the Unit/Force involved. An out-of-supply Unit/
+Force
+•	 May not build forts/fieldworks, take replacements, or establish
+control over Spaces.
+•	 Takes movement attrition if it moves.
+•	 Suffers a FP penalty in Battle.
+6.7	 Space control. All Spaces are controlled by one side or the other
+at all times during the game. "Friendly" refers to anything belonging
+to your side, "enemy" to anything beloning to the other player. Use
+the control markers primarily in the other player's country. Use them
+within your own country for clarity. Removal
+of an enemy control marker in your own
+country is the equivalent for all purposes to
+placing one of your own.	
+a.		 Spaces. Control of Spaces changes through (a) winning a Battle
+(11.2.j), (b) the Place control marker action (13.1), or (c) occupying the Space at the end of the Turn (18.1).
+b.		 Transit Spaces. Transit Spaces cannot be controlled; trace supply lines through them normally. Transit Spaces may be raided;
+Raid markers block supply lines for both sides. Moving into or
+from one or more transit Spaces results in a movement attrition
+check (10.2.d).
+c.		 Isolated control markers. During the Governmental Status
+Phase, isolated control markers are removed (18.1.a).
+
+7
+
+Play Note: A player need only place control markers in the player’s own
+country for purposes of clarity. Friendly Spaces in a player’s own country
+can never be isolated.
+6.8	 Zone control. At start, Mexico controls Baja and Alta California
+as well as Yucatan. The US controls New Orleans. The Disputed Zone
+is never controlled, but both sides may use it as if it were friendly.
+Change control of a Zone per 13.1.
+6.9	 State control. All Mexican States, including Yucatan, Baja
+California, and Alta California Zones, begin the game under Mexican
+control. Each State has a State control number in its State Status Box.
+If the US controls Spaces in the State greater than or equal
+to this number, the US controls the State. The US controls
+a Zone when the US has the only Units in the Zone. State
+control affects PW and Mexican Government collapse.
+
+7.0	RANDOM EVENTS PHASE AND
+ACTION CARDS
+7.1	 The Random Events Phase. The Random Events Phase includes
+both mandated Events (printed on the Turn Record track) and Action
+card Events. Conduct the Phase as follows:
+a.		 Mandated Events. First, execute all Events on the Turn Record
+track in the order stated; some may not apply in particular situations.
+b.		 Action cards. Next, the players alternate drawing two Action
+cards each, beginning with the initiative player. Execute each
+Event immediately, regardless of beneficiary.
+•	 The player of the card receives friendly reinforcements when
+a card has reinforcements for both players.
+•	 Each player receives reinforcements from a maximum of
+one card per Random Events Phase. On drawing a second,
+continue drawing until a non-reinforcement card is drawn.
+Returns from Exile counts as a Mexican reinforcement card.
+c.		 Santa Anna’s return. If Santa Anna was exiled during play, roll
+to see if he returns (3.6.b).
+d.		 War. The US player may declare War (18.3.b).
+7.2	 Action cards. In addition to Random Events, Action cards also
+determine the Movement Allowances (MA) for moving Units and
+Forces. Reshuffle the Action deck at the beginning of each Turn. In
+addition, if the Action deck is exhausted during the Action Phase, the
+deck should be reshuffled. To reshuffle the Action deck, combine both
+undrawn cards and played cards and shuffle.
+
+8.0	DEAL CARDS PHASE AND
+STRATEGY CARDS
+The Strategy cards drive play of The Halls of Montezuma. The players
+move, fight, build forts, execute Events and do virtually everything
+else through the play of cards. The information included on the face
+of each Strategy card indicates the Operations Level of the card (OPS),
+an Event, the ability to naval move a Force, and the possibility of a
+Supply Event. The American player may play the Event on the card if
+the Event symbol is in Blue or in both colors; the Mexican player may
+play the Event if the symbol is in Green or both colors.
+8.1	Deal cards. Each player receives a hand of cards in the Deal cards
+Phase. A held card (17.2) counts towards the hand. Determine hand
+size as follows:
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+8
+Crisis Period
+
+The number indicated on the Turn Record
+track, Tejas! forming part of Mexico's hand
+on Turn 1
+
+War before Mexican
+government collapse
+
+Both players: 9 cards
+
+War after collapse
+
+Mexican player: 7 cards
+US player: 9 cards
+
+8.2	 Strategy card deck. At the beginning of the game separate the
+thirty Crisis Strategy cards from the fifty War cards (2.5). Set the War
+cards aside, and shuffle the Crisis cards to form the Draw pile. Use
+only the Crisis Strategy cards until the US declares War. When the US
+declares War, add the rest (18.3.e).
+8.3	 Strategy card play. Place each card played into a discard pile,
+unless the card is removed. Players may always check the number of
+cards left in the deck or in the other player’s hand, and examine the
+discarded or removed cards. A card may be played for ONE Action
+per Action Phase.
+a.		 Removal. Remove the cards marked “Remove” from play when
+played for their Event.
+b.		 Reshuffle. To reshuffle, take the discard pile and combine it with
+any undealt cards, and shuffle. If the deck is reshuffled during
+the Deal cards Phase, resume dealing at the point at which the
+deck was exhausted. Use the Reshuffle marker as a reminder.
+The deck is reshuffled in three situations:
+•	 Deck Exhaustion—the draw pile runs out of cards when
+more are needed for the deal.
+•	 “Reshuffle” card—at the end of any Turn in which a card
+marked “Reshuffle” is played for an Event.
+•	 Declaration of War—When the US declares War, reshuffle
+the new, combined deck.
+c.		 Response cards. Some Events respond to the actions of the other
+player as described on the card. When a response card is played
+as an Event, do not check for the Supply Event.
+d.		 Supply Event check. Check for the Supply Event each time a
+card with the Supply Wagon icon is played (9.2). The Supply
+Event does not occur when a card is played in response.
+
+9.0	 ACTION PHASE
+During the Action Phase, players alternate playing Strategy cards. The
+player with the initiative determines the first player. Each card allows
+one action to take place. The Action Phase ends when one of the following occurs: (a) both players have played all their cards (including
+holding the last one) or (b) one player has held the last card, and the
+other has played them all.
+9.1	 Actions. Each card play allows the player to execute one of the
+following actions, as detailed in 9.3–9.9:
+•	 Activate Leaders, Units, and Forces to move, engage in Battle,
+suppress revolts, or place a control marker in a Zone.
+•	 Execute the Event on the card.
+•	 Place/Remove control markers, fortifications, replacements, or
+the Baggage Train.
+•	 Make a Naval Move with a Force, Activate a squadron, or Seize
+a Port.
+•	 Organize an Army.
+•	 Raid Spaces or Hide/Reveal a Guerilla (Mexican player only).
+•	 Discard or Hold a card.
+
+9.2	 The Supply Event. Play of Logistics automatically dictates the
+execution of the Supply Event. On play of any other card bearing the
+Supply Wagon icon, roll a die. If the roll is less than or equal to the
+OPS value of the card, execute the Supply Event. Subtract 1 from the
+die in all Heat Turns. No more than one Supply Event takes place per
+Turn. During the Supply Event:
+•	 Check supply for each Space containing a Unit or Force,
+•	 Eliminate one-half (rounded up) of all steps in each out-of-supply
+Space, including at least one cavalry step if present. Reduce the total
+step loss by one if the Space has at least one Rio Grande connection to it (this does not prevent the cavalry step loss required), and
+•	 Check for the effect of the Blockade—roll a die; if the roll is less
+than or equal to the Blockade level, draw one Mexican Unit from
+Regroup and remove it from the game.
+9.3	 Activation. Either player may use a card for OPS to activate
+Leaders alone, or a Unit/Force in a Space. Active Forces may move
+(10.0), suppress revolts (10.3), establish control over a Zone (10.4),
+resolve a siege (10.5), and engage in Battle (11.0). Draw an Action
+card to determine the movement allowance (MA) for individual Units
+or Forces (10.1). An out of supply Unit/Force may be activated.	
+•	 Leaders alone. Each Leader activated costs 1 OPS.
+•	 Individual Units. Activate one combat Unit with the play of any
+OPS value card. The Unit activated may be anywhere on the Map.
+•	 Force. Activate a Force using a Strategy card with an OPS value
+greater than or equal to the Force Commander’s Strategy rating.
+Play and Design Note: Lower rated (that is, better) Leaders tend to move
+greater distances than higher rated Leaders; all Leaders can fail to move,
+but higher rated ones are more likely to. The Action cards account for the
+probabilities associated with command, aggressiveness, and command
+failure. Note that an Army is always guaranteed to move at least one Space.
+9.4	 Events (12.0). A player plays a card for its Event when the Event
+symbol is in the player’s color or in both colors. Events may be played
+freely within the conditions on the card.
+9.5	 Placement (13.0). The placement action allows players to establish
+control over Spaces, build fieldworks or forts, place replacements in a
+Force, or return the Baggage Train to play.
+9.6	Naval activation/Movement (14.0). Play of any OPS value card
+allows a Leader or Unit alone to move from friendly port to friendly
+port. Play of a 2, 3, or 4 OPS card allows the US player to activate a
+squadron. Play of a 4 OPS card allows either player to move a Force
+from port-to-port or the US player to conduct an Amphibious Landing.
+9.7	Organize (15.0). Play of a 2, 3, or 4 OPS value card allows a
+player to organize an Army.
+9.8	Raid (16.0). Play of any card allows a player to conduct Indian
+and Guerilla raids up to the card’s OPS value ­­­(16.2). In addition, the
+Mexican player may hide or reveal a Guerilla Unit (16.5).
+9.9	Discard/Hold (17.0). Discarding a card counts as the player’s
+Strategy card play. A player may hold a card if only one card remains
+in hand. The card may be held for play later in the current Action
+Phase, or until the next Turn.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+10.0	 ACTIVATION ACTION,
+REACTION, AND MOVEMENT INTO
+BATTLE
+Units/Forces move when activated per 9.3. Units move with the Movement Allowances (MA) determined by 10.1. A Leader, Unit, or Force
+is active until it has spent all its MP or stops for some other reason.
+Determine the MA and engage in the activites outlined in 10.2–10.5.
+Reaction may occur per 10.6–10.8.
+10.1 Movement Allowances. Leaders moving alone have an MA of
+10 Movement Points (MP). For Units and Forces, draw an Action
+card to determine the MA. Refer to the Movement Chart, and find
+the Commander’s Strategy Rating. The number below it is the MA.
+Units moving alone have a Strategy Rating of 4. An underlined MA
+causes attrition. An Army (15.0) always has a minimum of 1 MP, even
+if the Action card lists an MA of ‘0’. Subtract 1 from listed MA for all
+Armies, to the minimum of 1.
+10.2 Movement. Leaders/Units/Forces move from Space to Space,
+spending MP per the Terrain Effects Chart to use connections and enter
+Spaces. The MA may never be exceeded in a given activation, and MP
+may not carry over from activation to activation. Reaction­—interception (10.6) and avoiding Battle (10.7)—occurs during movement.
+Battle costs an activated Force MP to determine Battle Type (11.2.a).
+a.		 Special cases. Apply the following as appropriate:
+•	 Movement into a Zone costs all remaining MP.
+•	 Movement out of a Zone costs 1 MP plus the cost to enter
+the Space.
+•	 After play of Topographic Engineers, American Units and Forces
+may move through a Rough or Jungle Space but must then stop
+in the next Space entered; they always stop in Rough/Jungle.
+•	 Units may be dropped off but not picked up during activation
+and movement.
+•	 A moving Unit/Force may freely move into or through enemyControlled Spaces.
+•	 An Army may spend an extra MP in an enemy Space to make
+it friendly.
+b.		 Enemy occupied Spaces. Enemy-occupied Spaces contain either
+enemy Unit(s) or unoccupied fortifications. Apply the following
+as appropriate:
+•	 Units and Leaders moving alone may not enter enemyoccupied Spaces.
+•	 Leaders alone in a Space (except for a fortress—see 13.3)
+do not hinder enemy movement; retreat or eliminate such
+Leaders (2.2.b).
+•	 The moving Force must attack any enemy Unit(s) in the
+Space (11.0).
+•	 A Force enters a Space containing an enemy fort or fieldworks
+(but no Units) by paying the normal MP cost.
+•	 A Force leaves a Space containing an enemy fort or fieldworks
+by paying 1 MP; see 13.3 for fortresses.
+•	 Units /Forces enter Zones freely regardless of the presence of
+enemy Units.
+•	 Mexican units may never enter New Orleans.
+c.		 Movement Attrition. Movement attrition causes an active Unit/
+Force to lose 1 step. Units suffer movement attrition in six ways.
+Attrition is cumulative, but never eliminates the last step in the
+moving Unit/Force. Units suffer movement attrition only if they
+expend 1 or more MP. Determine attrition in the last Space of
+movement, before paying MP for Battle (if enemy-occupied).
+
+9
+
+A moving Unit/Force must take attrition when it moves
+•	 during a Heat Turn.
+•	 using an underlined MA on the Action card (10.1).
+•	 after play of some Strategy cards.
+•	 when activated in an out-of-supply Space (6.6).
+•	 in a State in revolt (18.4).
+•	 in one or more Transit Spaces and fails the Transit Space roll
+(10.2.d).
+d.		 Transit Space attrition. Transit Spaces may cause attrition. Roll
+a die at the end of movement. If the roll is less than or equal to
+the number of transit Spaces moved from, through, or into, the
+activated Unit/Force takes movement attrition.
+e.		 Movement into Battle. Battle occurs when an active Force enters a Space containing one or more enemy Unit(s). The enemy
+unit(s) may already be in the Space, or they may intercept into
+it.
+f.		 Movement into and out of Zones. Battle is never required in
+a Zone; both players may have Units/Forces in the same Zone.
+Activate a Unit/Force normally in a Zone.
+g.	 	 Guerilla Units. Guerrillas alone move as Units alone, except
+they may enter Spaces containing enemy Units. Only Canales
+may lead Guerillas as a Force (and never as an Army). Canales
+may be subordinate to another Leader. On entry, place Guerilla
+Units in Rough Spaces. Guerrillas may be in a Force with other
+Units.
+Design Note: Guerilla Units are a potential Mexican asset; there is, however, no framework of central control over their operations. The Guerillas
+are always there, so to speak, but only have an impact when the Mexican
+player expends resources in a manner that exerts control. In effect, any card
+becomes a “Guerillas Attack” response card.
+10.3 Revolt Suppression. Either player may suppress revolts during
+the Action Phase. Activate a Force normally. The Force may move
+before suppressing the revolt, but suffers movement attrition. Once
+the Force has stopped in a Space in the State in revolt, determine its
+remaining MA (which can be ‘0’). Then, roll a die. Subtract the Force
+Commander’s Tactics rating. If the net die roll is equal to or less than
+the remaining MA, the suppression attempt succeeds. If the unmodified roll is ‘9’, then the Force loses a step. A Force receiving ‘0’ MP as
+a result of the Action card may attempt to suppress with an MA of 0.
+An underlined MA causes movement attrition.
+10.4 Control of Zones. A Force in an enemy-controlled Zone may
+place a friendly control marker in the Zone if no enemy Units are
+present. Activate the Force normally. Establishing control of a Zone
+costs the entire MA of the Force (even if ‘0’). An underlined MA causes
+movement attrition.
+10.5  Siege. Siege occurs when a US Force is activated in a fortress
+Space containing no other Mexican Units (13.3). Activate the Force
+and draw the Action card. As long as the MA is not ‘0’, the Force may
+attack the fortress; take attrition normally. This activation may be intercepted. Resolve Battle against the fortress normally. The fortress is
+destroyed if the US wins the Battle and inflicts at least two step losses
+on the fortress. Place a US fieldworks marker and control marker in
+the Space (if the Space is in supply).
+10.6 Reaction Movement. During an activation, the opposing player
+may engage in reaction movement—Interception or avoid Battle. Reaction in Zones is covered in 10.9. Each Space a moving Unit/Force
+enters allows interception and avoidance, which may be made in either
+order. Reaction takes place after the MP is spent to enter the Space but
+before determining attrition and Battle Type. To intercept or avoid,
+roll a die and add the reacting Force Commander’s Tactics rating. On
+a roll of 5 or higher, the reaction move is successful.
+
+© 2008 GMT Games, LLC
+
+10
+
+The Halls of Montezuma
+
+10.7 Interception. Interception occurs when the active enemy
+Unit/Force enters a Space adjacent to a friendly Force. Designate the
+intercepting Force and roll the die. If the roll is successful, place the
+intercepting Force in the Space the enemy enters; the subsequent Battle
+is a Hasty Attack (11.2.a). If the attempt fails, the Force remains in its
+Space; it may attempt to intercept again during the same activation.
+a.		 Eligibility. Make no more than one interception attempt into
+each Space a moving Unit/Force enters. An intercepting Force
+need not include all Units in a Space, but it may not exceed
+the Force activation limits. Otherwise, a given Unit or Leader
+may be part of any number of interception attempts during an
+activation or Action Phase.
+b.		 Interception Details. The following provisions apply to all
+interceptions:
+•	 An intercepting Force receives the benefit of any friendly
+fortification in the Space.
+•	 Interception adds 1 to the defender’s Efficiency die roll
+(11.2.g).	
+•	 A Force may intercept into a friendly-occupied Space.
+•	 An intercepted Guerilla Unit attacks the intercepting Force,
+but must retreat after the Battle (if it survives)—the intercepting Force in this case never retreats.
+•	 Leaders moving alone may not be intercepted.
+10.8 Battle avoidance. When an active Force moves into Battle, one
+Unit alone or one Force in the Space may attempt to avoid Battle.
+An avoiding Force need not include all Units, but Units remaining
+behind may not avoid Battle themselves. If the roll is successful, place
+the avoiding Unit/Force in any adjacent Space which neither contains
+enemy Units nor was the Space the active Force moved from.
+a.		 Failure Penalty. A Unit/Force which fails its avoid Battle roll
+may not commit Units in the subsequent Battle. In addition,
+lower its Battle Efficiency roll by 1.
+b.		 Mexican avoidance in Rough and Jungle. A Mexican Unit or
+Force in a Rough, Jungle, or Rough/Jungle Space automatically
+avoids Battle prior to the play of Topographic Engineers.
+c.		 Avoidance from a Fort/Fortress. A Unit/Force may avoid out
+of a fort/fortress normally. If the avoid roll fails, however, it is
+attacked in the Space without benefit of the fortification. Ignore
+Unit(s) left behind during this Battle. If the Unit/Force which
+failed to avoid also loses the Battle, it retreats back “into” the fort/
+fortress. The attacking Force may then attack the fort/fortress
+in a Pitched Battle. If it does not so attack, place the attacking
+Force in the Space it entered from. This rule allows two Battles
+in the same Space.
+d.		 Destination of avoiding Units. Place the Unit/Force successfully
+avoiding Battle in an adjacent Space which (a) does not contain
+enemy Units, and (b) was not the Space from which the active
+Force entered the Space. An avoiding Unit/Force may always
+avoid into an adjacent Zone.
+e.		 Continued Movement. If the avoid attempt empties the Space,
+the active Unit/Force may continue moving. If the active Force/
+Unit again enters any enemy-occupied Space, another avoid
+Battle attempt may be made. A Unit/Force may avoid Battle
+any number of times during an activation, unless in a Zone. In
+a Zone, if the active Force contains more cavalry, the defending
+Unit/Force may avoid Battle only twice (10.9).
+f.		 Avoidance Limitations. An intercepted Force may not avoid
+Battle. A Force which fails an interception attempt may not
+avoid Battle if the active Force moves into its Space.
+
+10.9 Reaction and Zones. Units may intercept out of a Zone. Units
+may avoid combat into a Zone. A Force in a Zone may attempt to
+intercept Forces moving into the Zone. When a Force moves out of a
+Zone, it may be intercepted in the Space it enters either by a Force in
+the Zone or in an adjacent Space. To attack an enemy Unit/Force in
+the Zone, the activated Force designates the target, spends 1 MP and
+rolls to intercept. If successful, the enemy may attempt to avoid Battle,
+either remaining in the Zone or moving into an adjacent Space. The
+active Force may be intercepted by another enemy Force in the Zone.
+If the enemy avoids Battle, the active player may repeat the attempt,
+up to its MA. Battle occurs when the enemy fails to avoid Battle. If
+the active Force has more Cavalry steps than the avoiding Unit/Force,
+the avoiding Force may avoid Battle only twice, at which point it must
+leave the Zone into any adjacent Space. The active Force may move
+into that Space if it has MP remaining. The Unit may avoid normally
+once outisde the Zone.
+
+11.0	 BATTLE
+Design Note: The Battle rules attempt to reflect several factors prominent
+in the Mexican War. First of all, many of the Battles during the War were
+not decisive tactically and resulted in low levels of casualties. The Americans
+had clear advantages, reflected in certain Battle card events. The Mexican
+artillery was less than effective because of bad powder and out-dated doctrine. Leadership was a major factor favoring the United States, with the
+Americans getting the tactical ratings advantage and the special Officer
+cards. The firepower is roughly the Force size, except that players can augment firepower with the commitment rules, and the Mexican player will
+not get as much as he wants from the Activa Militia. Players will discover
+that their Forces display resiliency in Battle at first, but once the step losses
+mount, a Force will collapse quickly.
+11.1 Initiation of Battle. Battle occurs when an active Force (“the
+attacker”) moves into a Space containing enemy Units (“the defender”),
+and the defender does not avoid Battle. Battle is mandatory and all
+Units in the Space must participate. Cavalry and Guerillas may be
+able to withdraw from combat (11.2.b). Battle may occur twice in a
+Space in the Event of a failed avoidance attempt out of a Space with
+a fort or fortress (10.8.c).
+11.2 Battle Sequence. Place the “Battle Space” marker on the map.
+Move all Leaders and Units to the Battle Diagram area on your side of
+the map, and use it and the FP markers to resolve the Battle; the FP
+markers will help distinguish between FP based on Units and total FP.
+Each Battle follows the sequence in 11.2. Sections 11.3 – 11.9 cover
+specific situations as appropriate.
+a.		 Determine Battle type. The attacker determines the Battle Type
+by spending movement points after entering the Battle Space.
+The Battle Types, movement costs, and Firepower (FP) effects
+on the attacking Force are:
+Type of Battle
+
+MP
+cost
+
+FP
+effect
+
+Column of Route
+
+0
+
+–5
+
+Hasty Attack
+Normal Attack
+
+1
+2
+
+–3
+–2
+
+Pitched Battle
+
+3
+
+–0
+
+Other effects
+Attacker may not commit
+any units
+Required if intercepted
+—
+Add 1 to Post-Battle results
+roll regardless of winner
+
+Design Note: the time scale for an OPS card is somewhat abstracted
+but covers roughly 10 to 14 days of historical time. The expenditure
+of movement points for the Battle Type represents scouting activities,
+maneuvers to take advantage of good ground, and other factors.
+After the MP are spent, compare the best tactics rating on each
+side. Change the Battle Type one in favor of the Force with the
+higher Tactics Rating, or, if the Battle Type is already the best
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+for that Force, add half a die roll (rounded up) to the Force’s
+Firepower. A subordinate's Tactics Rating may be used. This
+adjustment is also made in a Battle following interception.
+Example: The Defender has the higher Tactics rating in a Hasty
+Attack. The Attack is resolved as a Column of Route.
+b.		 Withdrawal. Cavalry and/or Guerillas alone in a Space may be
+able to withdraw from Battle. The activated Force may continue
+moving after a Withdrawal. Withdrawal takes place after spending MP for Battle Type. Withdrawing Units are placed in any
+adjacent Space not containing enemy Unit(s). Withdrawal may
+be repeated if the active Force moves into a new Space.
+•	 Cavalry may not withdraw in a Zone.
+•	 Guerilla Units may only withdraw from a Rough Space.
+•	 Units may not withdraw into the Space from which the active
+Force entered.
+c.		 Guerilla arrival. The Mexican player may discard a Strategy
+card and add a hidden Guerilla Unit to the Space (16.5). This
+play puts the attacking US Force out of supply for this Battle.
+Guerillas brought in this way do not count against stacking for
+the duration of the Battle. They may join a Battle in a fortification.
+d.		 Battle Events. Both players may play one or more Response
+Event cards. The attacker plays all desired cards first. After the
+defender plays cards, the attacker may only play cards directly
+responding to a defender’s card.
+Example: After the attacker plays cards, the defender plays Bombardment. The attacker is holding Artillery Duel, but may not play
+it for this Battle, because the attacker always plays his cards first,
+and Artillery Duel is not a response to Bombardment.
+e.		 Lead and Committed Units. Each side must designate a lead
+Unit—only Guerillas are ineligible to be leading Units. Each
+may then commit one or two Units. Only Units bearing the
+commitment symbol may be committed. A one-star Force Commander may commit one unit; a two-star Force Commander
+may commit two. Each committed Unit loses one step after
+calculating FP; this loss does not count towards determining
+victory in Battle. The attacker commits Units first.
+Design Note: Units which cannot be committed are less experienced
+(e.g., in the case of the Mexican Activa Militia infantry Units) or are
+limited due to combat doctrine and resources (e.g., artillery Units).
+f.		 Firepower total. Each player totals friendly firepower (FP) per
+the Firepower section of the Battle Results Table. For purposes
+of determining an attacking Force’s supply status, trace supply
+from the Space from which the Battle is launched, not from the
+Battle Space. The defending Unit/Force traces from the Battle
+Space.
+g.		 Efficiency and Leader/Artillery Loss. Each player rolls one die,
+applies all applicable modifiers, and compares the modified roll
+to the Efficiency Roll column of the Battle Results table. Next to
+the result is a description of the troops’ performance. If a player’s
+Efficiency die roll was a natural ‘2’ or ‘7’, a Friendly Leader Loss
+is possible per 11.3. If the Mexican player’s Efficiency Die roll
+was a natural ‘9’, Mexico loses one additional artillery step (if
+present); this step does not count towards determining victory.
+h.		 Casualties. Each player then cross-references the Efficiency result
+with friendly FP. The result is number of step losses inflicted on
+the enemy.
+i.		 Victory, Post-Battle Losses, and Retreat. The winner is the side
+which inflicted the higher total of losses on the Battle Results
+Table. If the total is tied, the defender wins. If the winning Force
+was eliminated by the Battle result, restore one step of the win-
+
+11
+
+ner’s choice to the Space. Conduct Post Battle Losses, and then
+the loser retreats (11.5).			
+j.		 Aftermath. Adjust Political Will (5.1). Guerillas must return
+to the nearest Rough Space (if such Spaces are equidistant, the
+Mexican player decides where to place the Units). If Canales is
+in the Space, Canales may move with the Guerillas. The winner
+places a friendly control marker in the Space.
+11.3 Leader Loss. If a player’s Efficiency roll was a natural ‘2’ or ‘7’,
+roll the die for each Friendly Leader, adding his Tactics Rating. An
+Army Commander may reroll this roll once. If the modified roll is 5
+or higher, roll again and consult the Leader Loss Table. Santa Anna
+and Scott are treated normally for Leader Loss purposes.
+11.4 Step Losses. The owner chooses which specific Units take losses.
+•	 A player may not eliminate any reduced Units before reducing all
+full-strength Units in the battle.
+•	 Each committed Unit takes one step loss before assigning casualties.
+•	 Return eliminated Units to Regroup.
+•	 If all Units on a side are eliminated in a Battle, place surviving
+Leaders in the Leader Pool.
+11.5 Post Battle Losses and Retreat. If the difference in step losses
+between the winner and loser is five or more, check for post-Battle
+losses. Count all steps lost in the Battle for any reason.
+a.		 Post Battle Losses. The losing player rolls one. Subtract the
+losing Commander’s Tactics rating and add one if this was a
+Pitched Battle. Refer to the Post Battle Results table. The losing
+Force takes the noted additional losses. If the roll is a natural
+‘9’, the losing Force routs as follows:
+•	 Eliminate a Unit/Force with 5 or fewer steps,
+•	 Eliminate one-half the steps in Forces with 6 or more steps
+(rounding up), losing one step from each type if present,
+•	 Check for Leader Loss again, and
+•	 Place all surviving Leaders and Units in a friendly, supplied
+Space within 5 Spaces of the Battle Space (if no such Space
+exists, all survivors are eliminated, Leaders going to the Leader
+Pool).
+b.		 Retreat. The surviving losing Unit/Force retreats one Space.
+Retreating Units need not remain together. Units unable to
+retreat are eliminated.
+c.		 Retreat priorities. The attacker must retreat to the Space from
+which it moved into Battle. A retreating defender may retreat to
+an adjacent Space, Transit Space, or Zone, but not into a Space
+containing one or more enemy Units. Retreat to a friendly Space
+over an enemy Space. Choose one closer in MP to a friendly
+supply source if several eligible Spaces are available. The defender
+may retreat into the Space from which the attacking Force entered only to avoid elimination.
+d.		 Specific situations. The following apply to retreats as noted:
+•	 Guerillas must retreat to the nearest Rough Space. Canales
+may retreat with regular Units or with the Guerillas.
+•	 A Force defending in (a) a fort or fortress, or (b) rough, jungle,
+or rough/jungle terrain may take one additional step loss to
+cancel a retreat. The attacker wins the battle, receives any PW
+benefit, and returns to the Space from which it entered Battle.
+•	 U.S. Units retreating from a failed Amphibious Landing must
+return to the port of origin.
+e.		 Surrounded retreating Force. If all Spaces adjacent to the Battle
+Space contain Units from the winning side, then (a) eliminate
+all retreating Artillery Units, (b) eliminate half (rounding up)
+of the retreating side’s remaining steps (owner’s choice), and (c)
+place the survivors in a friendly Supply Source within 5 Spaces
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+12
+
+of the Battle Space. If no such Space exists, then place survivors
+in Regroup/Leader Pool.
+11.6 Overrun Battle. An attacking Force may continue movement
+after Battle if (a) it suffered no losses on the BRT, (b) all enemy Units
+were eliminated, and (c) no enemy fortification is in the Space.
+11.7 Fortifications. Enemy fortifications are never eliminated in
+Battle. See 13.2.b for moving out of a Space containing a fort or
+fieldworks, and 13.3 for fortresses.
+
+12.0	 EVENTS
+12.1 Events. Each Strategy card contains an Event. Follow the card’s
+text to execute the Event. The circle around the card’s OPS number is
+color-coded to indicate which player may play the card for the Event:
+blue for the US, green for Mexico, and both for either player. Play
+each Event according to the text of the card. An Event allowing the
+player a number of OPS after the Event permits use of those OPS for
+any purpose allowed by the rules. Apply the following as appropriate:
+a.		 Reinforcements and replacements. Place Event reinforcements
+per 3.4. Some Events give the player replacement points, steps
+or Units. All replacements must be placed in supply. Play of a
+card granting replacements does not affect the ability to play a
+card for replacements (13.4), and vice versa.
+b.		 Mandatory Events. Play of either Logistics and/or Santa Anna
+Elected President for the Event is mandatory. The player holding
+the card may determine the timing of such play(s). These cards
+may not be held until the next Turn.
+c.		 Remove and Reshuffle. Remove cards marked "remove" from
+play when played for the Event. When played as Events, cards
+carrying the notation “Reshuffle” cause the Strategy deck to be
+reshuffled at the end of the Action Phase.
+Play Note: If a reshuffle card is played during the Turn in which
+the At War cards are added to the deck, the Reshuffle in effect has no
+effect–but make sure you add the Reshuffle card to the deck (unless
+removed from play).
+d.		 Response Events. Some cards have a blue “Response” bar at the
+top. Play the Event as indicated by the card. Response Events
+do not replace a normal card play in the Action Phase. When
+played in response, these cards do not trigger the Supply Event.
+e.		 Officers. The US player has four “Officer” cards. Play during
+the Battle sequence (11.2.d). Play no more than one “Officer”
+Event per Turn. When played, place the corresponding Officer’s
+counter in the Force Commander’s Holding Box; the Officer
+remains with that Force Commander until removed. Mexican
+play of No Future Glory cancels one Officer card play or officer
+present in a given battle—remove the counter from play. During
+each Battle, including the current one, use the Officer for either
+Chief of Staff or Field Command. Use no more than one Officer
+in each capacity during a given Battle. Remove all Officers in
+a Force if the Force loses a Battle, even if their effects were not
+declared for that particular combat. The Officer effects are:
+•	 Chief of Staff—Add 1 to the Efficiency Die roll.
+•	 Field Command—Add the results of 1 die roll to the Force’s
+FP for the current Battle.
+
+13.0	 PLACEMENT ACTIONS,
+FORTIFICATIONS, AND FORTRESSES
+A card of any OPS value may be played to place control markers, build
+fieldworks, take replacements, or return the Baggage Train to play.
+
+13.1 Place control markers. Play any card to establish control over
+enemy Spaces or Zones. Each OPS point on the card played allows
+placement of one control marker in one Space; spending all OPS allows placement of control in a Zone (10.4). Control of a Space may
+be changed if either:
+•	 a friendly Force is in the Space/Zone, or
+•	 the Space is adjacent to the Space and no enemy Force is presently
+able to intercept into the Space (Control of Zones may not be
+changed from adjacent Spaces).
+Play Note: Place control markers in Spaces in your own country for clarity
+only; unless an enemy marker is in the Space, you control it.
+13.2 Build a fortification. Fortifications are fieldworks, forts, and
+fortresses (2.3.a). No Space may contain more than one fortification,
+except for forts under-construction (13.2.b) and destroyed fortresses
+(10.5). Do not place fortifications in Transit Spaces. Build fortifications
+in friendly supplied and occupied Spaces only.
+a.		 Fieldworks and Forts. To build a fortification, randomly draw
+a fortification of the appropriate type, examine it, and place it
+face down in the Space. If any Leader in the Space has a Tactics
+rating of either ‘1’ or ‘2’, then draw two, examine them, place
+one, and return the other to the fortification pool. Flip the
+fortification face up when a Battle occurs in the Space.
+•	 Build a fieldworks in a Space without another fortification.
+•	 Build a fort in a Space containing a friendly fieldworks. Place
+an “Under Construction” marker on the Fort. On a subsequent card play, remove the marker and the fieldworks; the
+fieldworks retains full capability until removal. It thus takes
+two card plays to complete a fort.
+b.		 Destruction. An active Force may remove enemy unoccupied
+fieldworks and forts by spending 1 MP in the Space. A player
+may demolish any friendly fort or fieldworks on the map whenever it is his opportunity to play a Strategy card (except in reaction). The demolished fortification is immediately available to
+be built elsewhere.
+13.3 Fortresses. The fortresses are Mejico and Vera Cruz. Fortresses
+are printed on the map, and are destroyed only by siege (10.5). A US
+Force moving into a fortress must stop. If Mexican Units are present,
+Battle follows normally, adding the FP of the inherent Units (13.3.a).
+Once no other Mexican Units are in the Space, the US Force, in a
+subsequent activation, may resolve the siege per 10.5. When other
+Mexican Units defend in a fortress, the fortress' inherent steps may
+not be taken as Battle or Post Battle losses. A successful siege destroys
+a fortress; after destruction, fieldworks and forts may be built in the
+Space normally.
+a.		 Inherent Units. Each fortress has an inherent two step artillery
+Unit. Fortresses’ inherent Units may neither intercept nor avoid
+Battle. The inherent FP is added at full-strength to any Mexican
+defense in the Space. Neither Unit may be committed. Once the
+US controls a fortress, its inherent Unit is considered eliminated
+from the game.
+Historical Note: The fortress at Vera Cruz had about 135 guns
+installed. Mexico City had inherent artillery defenses (not as many
+as Vera Cruz) but suffered from a shortage of well-trained artillerists.
+b.		 US control. The US maintains control of a fortress Space provided a supplied Unit in a fieldworks or fort remains in the Space.
+At the end of a successful siege, the US places a fieldworks in
+the fortress space automatically (10.5).
+13.4 Replacements. Any card may be played for replacements using
+the card’s OPS value. No more than one replacement Action may be
+undertaken by each player during a given Turn; use the friendly “No
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+Repl./Repl. Taken” marker as a reminder. Designate one in supply
+Leader to receive the replacements. The US player may NOT take
+replacements until War has been declared.
+a.		 Procedure. Designate the Leader to receive replacements. Roll
+the die once for a one-star Leader, and twice for a two-star. Take
+the higher of the two rolls and add the OPS value of the card.
+The sum represents the replacement points, which can be spent
+as follows:
+•	 1 point for 1 infantry step.
+•	 2 points for 1 cavalry or US mixed infantry/artillery step.
+•	 3 points for 1 artillery step.
+•	 Points equal to command value for 1 available replacement
+leader. Only one REPL Leader may be taken in a given replacement action.
+b.		 Placement. First, the active player may flip any reduced Units
+in the Space to full strength, paying the replacement point
+cost. Then, draw Units out of Regroup one at a time, and pay
+replacement points to place it in the Space at either reduced or
+full strength. Placement of a drawn Unit with at least one step is
+mandatory, unless insufficient replacement points are available,
+in which case another Unit may be drawn. Newly added Units
+may bring the size of the Force above the Leader's force activation limit. Units drawn but not taken are returned to Regroup.
+Example: The American player plays a 3 OPS card for replacements,
+and designates Scott to receive replacements. The U.S. player rolls two
+dice and gets results of 3 and 7. He takes the 7 roll, adds 3 for a total of
+10, and flips two cavalry Units to full strength (cost of 4) and draws an
+artillery combat Unit (placed on its reduced side at a cost of 3) as well as
+two Infantry Units (one placed at full strength, one at reduced, at a cost
+of 3 more replacement points).
+Design Note: Replacement Units are randomly drawn because the Commander on the ground would have little control over which Units higher
+authorities would send to his support.
+13.5 Baggage Train. When the friendly Baggage Train has been
+removed from the map, a player may return it to play via a Strategy
+card (9.5). Place it in any friendly, in supply Space containing a
+friendly Force.
+
+14.0	NAVAL MOVEMENT, SQUADRONS,
+PORT SEIZURE, AND BLOCKADE
+14.1 Naval Movement. The game has two coasts, East and West. The
+corresponding squadron must be active for all US naval movement.
+Naval Movement between the coasts is never permitted. To make a
+Naval Move, play a Strategy card and move the Leader/Unit/Force from
+one friendly, supplied port to another, unless an Amphibious Landing
+is taking place (14.2). A Leader/Unit/Force that makes a naval move
+may not perform any other movement during the same activation.
+Any Battle is considered a Column of Route attack.
+a.		 Unit/Leader. On play of any OPS value card, one Unit or Leader
+may move from port-to-port.
+b.		 Force. On play of a ‘4’ OPS card, a Force (but not an Army)
+may make a naval move.
+c.		 Army. An Army may make a naval move only on play of Scott
+Invades.
+d.		 Mexican Naval capability. The Mexican player may make a
+naval move only when the US squadron for the corresponding
+coast is inactive (14.3) or seizing a port; from Turn 4 to the end
+of the game, both are active except by card play or if seizing a
+port (14.4).
+
+13
+
+14.2 Amphibious Landings. Amphibious Landing is available to US
+Forces only. Play a 4 OPS card and move a Force from a friendly to
+a Mexican port. At least one Marine Unit must be included (14.2.c).
+Conduct reaction and Battle normally during a landing. If the US wins
+the Battle or the port Space is empty, the US player places a control
+and the Beachhead marker. The Beachhead is an immobile Baggage
+Train.	
+a.		 Landing Failure. A Force failing to win a Battle in the Amphibious Landing returns to its port of origin.
+b.		 Scott Invades. This card allows a special Amphibious Landing
+per the card’s text. The Units in the landing Force or Army can be
+drawn from Regroup, New Orleans, or any in-Supply Space(s).
+Units up to Scott’s command Rating may be drawn. If Scott is
+in command of a previously-built Army, the Army participates
+in the landing. Marines must be included.
+c.		 Marines. The following provisions apply to all US Amphibious
+Landings.
+•	 One or more US Marine Units must be in the landing Force,
+•	 At least one US Marine must be committed in any Battle in
+the landing Space, and
+•	 The Marine Unit included in a landing made per Scott Invades
+may be drawn per 14.2.b.
+Play Note: You may search Regroup for a Marine Unit for Scott Invades,
+even if one is already on the map, thereby bringing two for this Event.
+14.3 Activate Squadrons. Each coast has a corresponding US squadron; both begin the game inactive. A squadron becomes active on play
+of a 2, 3, or 4 OPS card. Both squadrons automatically activate at the
+beginning of every turn from turn 4 onward. On each squadron’s first
+activation during the game, increase the Blockade Level by one. If a
+coast’s squadron is either inactive or seizing a port (14.4), the Mexican
+player may make naval moves along that coast.
+14.4 Seizing a Port. An active squadron may seize a Mexican-controlled port on play of a Strategy card (9.6). Such a Port may be seized
+if the Space contains no more than two Mexican steps and neither is
+Artillery. The squadron is still active even after seizing a port, but the
+Mexican player may make naval moves on that coast. A squadron
+engaged in seizing a port is active for tracing supply by sea.
+a.		 Effects. Apply the following effects when a port is seized:
+•	 Place the squadron on the Port and raise the blockade level
+by 1.
+•	 Place a US control marker in the Space.
+•	 Any Mexican steps remain in the space.
+b.		 End seizure. When a port seizure ends, place the squadron
+marker back in the squadron box. The squadron remains active
+unless deactivated by Event. The blockade level increase remains
+even after the seizure ends. The port seizure ends when
+•	 A Mexican Artillery Unit moves into the Space,
+•	 The US player activates the squadron by card play, or
+•	 An Event deactivates the squadron.
+14.5 The Blockade. Track the blockade of Mexico on the Information track. The blockade level modifies the die roll on the Mexican
+Government Collapse Table (18.2). In addition, during each Supply
+Event (9.2), roll a die against the blockade level to determine if a
+Mexican Unit is removed from the game. The blockade starts at ‘0’,
+and increases by one when:
+•	 Each squadron activates for the first time during the game.
+•	 A port is seized by a squadron.
+•	 An Event increasing the blockade is played.
+
+© 2008 GMT Games, LLC
+
+14
+
+The Halls of Montezuma
+
+15.0	 ARMIES
+Design Note: The Army markers represent an extra level of organization,
+command staff, and artillery park, with attending increases in political
+prominence of a Force and reductions in maneuverability. The design does
+not force players to build armies. However, the Political Will
+benefit and extra firepower make them attractive even if they
+are a double-edged sword offering a lower movement rate and
+the possibility of PW loss if you lose in battle.
+15.1 Army Organization and Retention. Place and keep Army
+markers on the map as follows:
+•	 Organization. Play of a 2, 3 or 4 OPS card allows the organization
+of an Army in a friendly, in-Supply Space provided at least one
+Leader and one Unit is in the Space.
+•	 Retention. Each Army needs at least one Leader and one Unit. At
+all times, if the last Leader in an Army is eliminated, then the Army
+marker is removed. When an Army is reduced to one Leader as a
+result of Leader Loss in Battle, you may draw one Leader from the
+Leader Pool and place him in the Army. Santa Anna and Scott may
+not be so drawn unless in the pool because of Leader Loss. If all
+Units in an Army are eliminated, remove the Army, roll for Leader
+loss (again), and place surviving Leaders in the Leader Pool. An
+Army marker removed for any reason may subsequently be rebuilt.
+15.2 Army Movement. When activated, subtract 1 from the MA
+printed on the Action card for all Armies. An Army always has a minimum of 1 MP, even if the Action card lists an MA of ‘0’. Armies activated for movement may place control markers at a cost of 1 MP each.
+15.3 Armies in Battle. An in supply Army adds 3 to friendly FP in
+Battle. If an Army wins a Battle, move the PW marker 1 in its side’s
+favor. If an Army loses a battle, move the PW marker 1 against its side.
+
+16.0 	RAIDS AND GUERILLAS
+Design Note: The rules on raiding bring out the effects of varied Indian
+and Guerilla activities that were mostly a “side-show” during the course
+of the war. The action cards “deliver” Indian Units and Guerilla Units
+to the players randomly, since the U.S. and Mexico did not have direct
+control over such Units or attempt to organize them. The raid mechanics
+here are adapted from Wilderness War, altered for the Mexican War.
+16.1 Raids. The game includes five Raid markers plus one for Local
+Militia Raid. Raid opportunities occur either by play of an Action or
+Strategy card (16.2). Once placed, Raid markers are only removed
+during the Victory Check Phase.
+a.		 Where to Raid. Both players may place raid markers in enemyControlled or occupied Spaces, as well as Baja California, Alta
+California, and Yucatan Zones. The Mexican player may also
+raid the Disputed Zone. The target Space/Zone must be
+•	 Within 10 MP of the Indian Space used for the raid, or
+•	 Within 6 MP of the Guerilla Unit’s Space—the Unit moves
+to the raided Space.
+b.		 Other Raid Specifics. Spaces containing either fortifications or
+friendly Units may not be raided. At a given raid opportunity,
+trace each Indian Raid from a different Indian Space and use
+each Guerilla once. Raids may take place during the Armistice
+(after play of that Strategy card). No more than five Guerilla/
+Indian raids occur in any one Turn; Local Militia Raid is a sixth
+possible raid. Canales may join a Guerrilla raid.
+16.2 Raid Particulars.	
+
+b.		 Raiding via Strategy card. The play of a Strategy card for
+Raiding allows raid attempts up to the OPS value of the card.
+Each raid attempt may involve either an on-map Guerilla or an
+Indian Space. After designating each target Space, follow the
+Raiding procedure in 16.3.
+c.		 Event. The Local Militia Raids Event allows the automatic placement of a Raid marker by the Mexican player.
+16.3 Raiding Procedure. For each Strategy card raid, roll a die,
+and modify as noted below; all applicable modifiers are cumulative.
+If the net roll is ‘5’ or more, place the Raid marker. If an enemy Unit
+is in the Space, eliminate a Guerilla Raider on an unmodified roll of
+‘0’ or ‘1’. Raiding Guerrillas move to the nearest Rough Space or the
+Hidden box per 16.5.
+•	 +1	
+•	 –1	
+•	 –1	
+•	 + ?	
+
+For a Guerilla Raid, if Canales is in the Space.
+If an enemy Unit is in the Space.
+If the Space contains an Enemy Leader.
+The OPS value of the card played to make the Raid.
+
+16.4 Raid Effects.	
+a.		 PW effect. Each successful Raid awards the Raiding player ½
+PW point at the end of the turn. Add up each side’s raid total,
+subtract the smaller from the larger, round fractions up, and
+move PW in favor of the side with the larger total. Remove the
+raid markers during the Government Status/End Turn Phase.
+b.		 Other effects. A Raid marker converts the Space into a Transit
+Space until removed. A Raid marker blocks a supply line for
+either player unless a friendly Unit or Baggage Train is in the
+Space. Spaces with Raid markers may not be raided again until
+next Turn.
+16.5 Guerillas. Guerillas move normally. Canales is the only Leader
+who may command Guerillas in a Force. One Guerilla Unit may be
+hidden either by play of a Strategy card during the Action Phase or
+after a raid--place it in the box on the Turn Record Track. No more
+than one Guerilla may be hidden at a time. The Unit may be returned
+to the map either by a Strategy card play during the Action Phase or
+during Battle (11.2.c). Bringing a Guerilla out of hiding during Battle
+places the US Unit/Force out of supply. Guerillas may only enter
+Spaces in Mexico.
+Design Note: The raiding rules simulate the fact that the politically prominent raids were not very frequent, and that there were limited resources
+and windows of opportunity for raiding especially given the abstracted time
+scale for the play of an OPS card. Limiting the raids allowed to 6 total
+between the two players alters the attractiveness of raid attempts as a Turn
+proceeds (simulating weather problems, local command paralysis, shifting
+sentiments of raiders, etc.). This also limits Raid Political Will Points to
+a maximum of 3 Political Will Points if only one side raids successfully.
+
+17.0	DISCARDING AND HOLDING
+CARDS
+17.1 Discards.	 Place a card in the discard pile and take no action.
+Do not discard cards marked “Mandatory”. Discard of “Remove” cards
+does not cause removal. No Supply Event may be triggered.
+17.2 Held cards. A player with one card remaining may hold it. This
+card may be played anytime later in the Action Phase, or held until
+the next Turn. Once each player has one card remaining, each either
+plays it normally or holds it until next Turn. A card held for the next
+Turn counts against hand size.
+
+a.		 Action card. A player drawing an Indian Raid card during the
+Random Events Phase places up to the indicated number of raid
+markers.
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+18.0	 GOVERNMENTAL STATUS / END
+TURN PHASE, WAR DECLARATION,
+AND REVOLTS
+Design Note: There are two major political features of the War built
+into this design. The Mexican government was a fragile entity. The game
+models this in two ways—the Mexican player has an array of presidential
+personalities to handle, reflected through Events, and faces the possibility of collapse of central authority; Mexican states can also descend into
+revolt. Some of the fighting pre-dated “official” declaration of War due to
+antiquated communications and bureaucratic and political turmoil in
+the United States. Thus, we model the level of U.S. bellicosity to account
+for the effect of certain military and political events, starting the game
+with the period of crisis and increasing hostility which will result in a US
+declaration of War.
+During the Governmental Status/End Turn Phase, execute the procedures in 18.1–18.5 in the order stated.
+18.1 Determine control. Each player gains control of all enemy
+Spaces now containing a friendly Unit/Force, regardless of supply.
+Then, simultaneously remove all isolated friendly control markers.
+Third, check each Mexican State for US control. 	
+a.		 Isolated control markers. An isolated control marker is one
+which is (a) in the other player’s country, (b) not in supply, and
+(c) in a Space not currently occupied by a friendly Unit. Removal
+is deemed simultaneous.
+b.		 State control. If the number of US controlled Spaces in a State
+is equal to or greater than the State control number, flip the
+State control marker to the US side. If the number of Spaces
+controlled by the US is less than the number, Mexico retains or
+regains control of the State.
+18.2 Mexican Government Collapse. If Santa Anna is President,
+skip this step. If Santa Anna is not President, the Mexican player rolls
+one die and modifies the result per the Collapse Table. Once Collapse
+occurs, skip this step. The Table gives three possible results:
+•	 Stable—If on the “Unstable” side, flip the marker to “Stable”.
+•	 Unstable—Flip the PW marker to “Unstable” and add 1 to the
+Collapse roll on the next turn.
+•	 Collapse—Reduce PW by 5; 7 cards during each subsequent
+Draw Cards Phase.
+If the Mexican Government collapses during a Turn, the Mexican
+player does NOT lose any Strategy cards that Turn.
+Design Note: When Santa Anna was in power, the strategic will of Mexico
+was, in essence, his own will, which could not collapse.
+18.3 United States Declaration of War. During the Government
+Status Phase, the US rolls for War on the War declaration Table. The
+ways by which the US declares War are all in this section:
+a.		 War Declaration Table. The US player rolls one die. Modify
+the roll as indicated and apply the result. US Bellicosity changes
+as follows, to a minimum of 0 and maximum of 5:
+•	 The first time when more Mexican than American Units are
+in the Disputed Zone; reduce bellicosity by 1.
+•	 Play of Santa Anna Returns from Exile and Santa Anna Becomes
+President each increases bellicosity by 1.
+•	 Play of Strategy cards for the Event during the action phase,
+per the card’s text.
+
+15
+
+b.		 Beginning of Turn. The US player declares War for the PW
+penalty noted on the Turn Record track during the Random
+Events Phase. War is declared automatically at the beginning
+of Turn 7.
+c.		 Automatic declaration of War. The US declares War immediately if Santa Anna commands a Force and enters any Texas
+Space.
+d.		 Strategy card. Some Events allow the US player to roll on the
+War declaration Table.
+e.		 Consequences of declaration of War. Add the War cards to the
+Strategy deck, reshuffle the deck, and add the At War Units to US
+Regroup at the beginning of the next Turn. After War is declared,
+both players receive 9 cards in the Deal cards Phase, but do not
+add cards in the middle of the Turn. If War is declared during
+the Action Phase, the US player may play a card for replacements
+later in that Action Phase. If he has not yet entered play, place
+Santa Anna and four Units in Mejico fortress at the start of the
+following Turn.
+18.4 Revolts. Finally, check for the spread of revolts. Revolts are
+suppressed during the Action Phase (10.3).
+a.		 Spread. Alternating between the Mexican player and the US
+player, designate a State in revolt and roll one die. The revolt
+spreads on a roll of 8–9 (or 7–9 if the Mexican Government
+has collapsed). The rolling player flips the Civic State marker in
+any one “Calm” State adjacent to the State being checked. If no
+adjacent State is “Calm”, then the revolt cannot spread. States
+are adjacent if at least one connection exists between Spaces in
+each State. Alta California, Baja California, and Yucatan are all
+States.
+Play Note: You may select a state with no adjacent “Calm” states.
+b.		 Effects. When a Mexican State goes into revolt, flip the Civic
+State marker from its ‘Calm’ side to its ‘In revolt’ Side. A State
+may go into revolt any number of times during the game. Revolts
+affect the actions of both players in each Space/Transit Space in
+a State in revolt as follows::
+•	 No supply line may be traced into or through the Space unless
+the Baggage Train is present.
+•	 It is treated as enemy-controlled for retreat purposes.
+•	 No Unit may take replacements in the State.
+•	 A Unit/Force expending one or more MP in the State suffers
+movement attrition (10.2.c).
+18.5 PW Changes. Change PW for raids, revolts, and States under
+US control.
+a.		 Raids. Award raid PW per 16.4.a and remove the raid markers.
+b.		 State Control, Revolts and PW. Total the number of States in
+revolt and/or under US control, and halve the result. If a State is
+both in revolt and under US control, count it once. Round the
+halving down if the Mexican Government has NOT Collapsed,
+round up if it has. Reduce PW by the result.
+18.6 Victory Check. Determine if Victory per 5.2 has been achieved.
+18.7 End of Game Segment. At the end of Turns 6 through 9, roll
+one die. The game ends if the roll is greater than or equal to the number on the Turn Record track. The game ends regardless at the end of
+Turn 10. If the game continues, shuffle the Action deck, and go on
+to the next Turn.
+Play Note: Given the sequence during this last phase, if the game ends
+per 18.7, the Mexican player will win.
+
+© 2008 GMT Games, LLC
+
+16
+
+The Halls of Montezuma
+
+U.S.
+
+Mexico
+
+19.0	COMPREHENSIVE EXAMPLE OF PLAY
+
+It is the beginning of Turn 2. The US has yet to declare war. During
+Turn 1, Kearney moved into the Disputed Zone after the play of Tejas!
+and defeated the Mexican unit placed there. Thereafter, Settlers allowed
+two US Units to be placed in that Zone. Meanwhile, the Mexican player
+took replacements at Monterey—sending them to Arista. Kerney then
+moved out out of the Disputed Zone to San Antonio. Ampudia built a
+fieldworks. Finally, Taylor attempted to attack across the Rio Grande,
+but was stopped when the action card gave him ‘0’ MP.
+
+At start of Turn 2:
+Mexico
+
+Arista, 1st Light, 7th Dragoons, (1st Mtd, 1st PC, 6th Artillery) and
+the Baggage Train in Presidio del Rio Grande.
+Ampudia, 2nd, 4th, 6th, 10th Infantry, 9th Dragoons, Zapadores,
+Army of Tejas, and +2 fieldworks in Matamoros.
+
+US
+
+Kearney, 1st Infantry, 1st Dragoons, Bragg and Taylor Artillery.
+Taylor, 1st – 4th US Artillery, 5th and 7th Infantry, 2nd Dragoons,
+Army of Observation, the Baggage Train, and a +2 fieldworks in Fort
+Brown.
+
+Random Events Phase
+
+1.		 The US takes standard reinforcements and places Worth and the
+3rd Infantry in San Antonio. Mexico receives the Guard, the 2nd
+Marines, and the 3rd Artillery, as well as leaders Lombardini and
+Leon. Leon and the 2nd Marines are placed in Vera Cruz to be
+able to move to Yucatan to suppress the revolt. Lombardini and
+the other Units are placed in Monterey.
+2.		 The Mexican player draws an Action card. It is Riots (card 1), and
+the die roll is a ‘5’—no effect. The US player then draws Reinforcements (17), and receives one Leader and two Units, placing
+
+them in Encinas. Mexico then draws Reinforcements (14), and
+places Canales and the 5th and 8th Dragoons in Saltillo. Finally,
+the US draws Riots (29), rolls a 6, and places Cohahuila State in
+Revolt.
+Since there are no wounded leaders, and the US player decides not to
+declare war for the +5 PW penalty, the Random Events Phase ends.
+
+Deal Cards Phase
+
+Each player receives five cards.
+•	 Mexico’s hand includes Nicholas Trist, Operational Exhaustion, Bad Weather, Pacific Squadron, and Forced March.
+•	 The US hand includes Guerillas Go Home, Malaria, Negotiations Break Down, Dysentery, and No Quarter.
+
+Actions Phase
+
+1.		 The Mexican player has the initiative, and decides to go first. His
+first concern is the revolt in Cohahuila, which cuts the supply line
+for Arista’s Force, and may make it difficult to follow through on
+his planned invasion of Texas. Therefore, he plays Bad Weather for
+2 OPS to activate Arista, to suppress the revolt. He draws Political Insight (21) to determine the MA. Cross-referencing Arista’s
+Strategy rating of 2 with the MA row, he sees this Force has 5 MP.
+He chooses not to move the Force, thus avoiding movement attrition. The suppression die roll is ‘7’—the revolt is not suppressed.
+2.		 The US, wanting to lessen the threat of the advanced Mexican
+Forces, plays Dystentery as an Event. It carries a Supply Wagon
+(the “Chuck Wagon”) icon, this requiring a Supply Event check.
+The die roll is ‘7’, greater than the card’s OPS of ‘2’—no Supply
+Event occurs. The die roll for the Event is a ‘9’—Mexico must take
+a step loss in two units. He chooses the 2nd Infantry in Vera Cruz,
+and the Mejico Unit in Mejico fortress.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+3.		 Mexico will again attempt to suppress the revolt. After play of
+Pacific Squadron, the Action card Reinforcements (13) gives
+Arista 7 MP. The die roll of ‘1’ suppresses the revolt.
+4.		 The US plays Guerillas Go Home, rolls a ‘5’ for the Supply
+Event check—the Event doesn’t happen—and activates Kearney
+and four Units, leaving Worth and the Taylor Artillery behind in
+San Antonio. The Action card Heat (20) gives Kearney an MA
+of ‘7’, but he must take a step loss to movement attrition for
+the underlined MA. The US player moves Kearney’s Force south
+across the Rio Grande to Palo Blanco for 5 MP. Lombardini does
+not intercept and Kearney moves into Monterey for 1 more MP.
+Canales attempts to intercept, but the die roll of ‘0’ prevents that.
+The Mexican player decides to stand at Monterey, leading to a
+Battle. The US player eliminates one step from the 1st Infantry for
+the movement attrition. The US player then rolls a ‘5’ for Transit
+Space attrition; since Kearney moved in 2 Transit Spaces, there is
+no attrition.
+
+17
+
+The Battle of Monterey
+1. The US player spends 1 MP to declare a Hasty Attack. Because
+Kearney’s tactics rating is better than Lombardini’s, the Battle Type
+is increased one level in the US player’s favor, to a Normal Attack.
+2. 	 The Mexican force may not withdraw, and no Guerillas may be
+added because none are yet in play.
+Neither player has Battle Events to play.
+3. The US designates the 1st Dragoons as its lead Unit (3 FP), and the
+3rd Infantry as its committed Unit (4 FP). The other two Units
+count 1 each for FP for 2 more FP based on Units. The US FP is
+increased by 1 for combined arms, and reduced by 2 for the Normal
+Attack. The US Force is in supply through the three Transit Spaces
+to San Patricio, tracing from Palo Blanco. Total US firepower is 8.
+4. Mexico designates the 3rd Artillery as its lead Unit (1 FP) and the
+Guard as the committed Unit (8 FP). Mexico therefore has 9 FP.
+
+© 2008 GMT Games, LLC
+
+18
+
+The Halls of Montezuma
+
+5. Both players flip their committed Units for the required step
+loss—this can be done later, but doing it now makes sure they
+remember to do so.
+6. The US efficiency roll is 5, while the Mexican roll is 4. The US roll
+is increased by 1 for Kearney’s tactical rating. Neither roll results in
+Leader/Artillery Loss. Both players’ Forces efficiency is rated ‘Poor’.
+The 8 FP of the US force inflicts 1 step loss on the Mexican Force,
+while the 9 FP of the Mexican force inflicts 2 step losses on the
+US. Mexico flips the 3rd Artillery, while the US flips Bragg artillery
+and the 1st Dragoons. The US player then plays No Quarter as a
+Response event, and eliminates the 1st Infantry—PW goes down
+to 29, while Bellicosity increases to 1. The card is removed from
+the game. Since the difference in step losses is less than 5, no Post
+Battle Results roll is made. Kearney retreats to Palo Blanco. The
+
+Battle itself has no PW effect because neither side is an Army nor
+has 5 or more Units.
+7.		 Despite the temptation, the Mexican player decides to get some
+replacements to Arista, and plays Operational Exhaustion. The
+Supply Event roll is a ‘9’. The replacement die roll is a ‘6’, giving
+Arista 8 replacement points. The Mexican player flips the two
+cavalry units for 4 points, and then draws Units, pulling the 3rd
+Light and placing it at full strength for 2 points and then the 4th
+artillery. Because he does not have at least 3 replacement points
+remaining, he may draw another unit, and pulls the 4th Light. He
+is able to place it at full strength, spending the full 8 replacement
+points.
+8.		 The US player breathes a sigh of relief and plays Malaria to activate
+Kearney. California War (5) gives Kearney 3 MP. He moves back
+across the Rio Grande to the Transit Space, rolling a ‘3’ for Transit
+Space attrition.
+9.		 Mexico then plays Forced March to build an Army, after making
+a Supply Event check. The roll of ‘2’ triggers the Supply Event—but
+at this point everyone’s back in supply, so no steps are lost. The
+Army of Mejico is built with Arista.
+10.	The US plays Negotiations Break Down. Since the DZ contains
+no Mexican Units, PW is reduced by 1 to 28.
+11.	To end the Action Phase, Mexico plays Nicolas Trist to activate
+Canales. The chuck wagon is ignored, because the Supply Event
+has occurred this Turn. He activates Canales, and draws Rough
+Seas, giving him 6 MP—Canales moves north to join Arista on
+the Rio Grande.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+Governmental Status/End Turn Phase
+
+1.		 No Spaces change control this Turn, nor are any control markers
+isolated. The Mexican player rolls a 9 on the Collapse table. The
+only applicable modifier is the +1 for the revolt in Yucatan—which
+brings the roll to 10, resulting in a “Unstable” result—this roll
+will gain an additional +1 modifier next turn. The US then rolls
+3 on the War Declaration Table. This roll is modified by +1 for
+bellicosity, +1 for the elimination of a US Unit in Battle, and +1
+for Turn to a net roll of ‘6’. The US does not declare war.
+2.		Yucatan is the only State in revolt. The Mexican player designates
+that State and rolls a 1—the revolt does not spread. If any raids
+had taken place, markers would be removed and PW awarded right
+now. Because only 1 State is either in revolt or under US control,
+and the Mexican government has not collapsed, no PW is lost this
+turn (the ½ PW award is rounded down to 0). Since neither side
+has achieved any victory conditions, play goes on to the next Turn.
+Source map: Mapa de los Estados Unidos de Méjico : segun lo organizado
+y definido por las varias actas del congreso de dicha républica y construido
+por las mejores autoridades. 1847—Disturnell, John, 1801-1877.
+http://hdl.loc.gov/loc.gmd/g4410.ct000127
+
+CREDITS
+
+19
+
+Designer: Michael Welker and David Fox
+Developer: William Cooper
+Art Director: Rodger B. MacGowan
+Map Art and Card Logo: Tim Schleif
+Final Counter Art: Rodger B. MacGowan
+Rules Layout: Neil Randall
+Card and Charts Layout: Mark Simonitch
+Box Cover Artist: Rodger B. MacGowan
+Playtesters: Richard Simon, Chris Atkins, Greg Mourad, Rob
+Bottos, John Haas, David Imparato, Chris Janiec, Jim Lawler, Ken
+Schultz, Thomas Cadenhead, Joshua Meah, Pete Skaar, John Foley,
+Jeff Schulte, Alan Sundberg, Steve Valone, John Christopher, David
+Mattson, Harvey Mossman, Peter Stein, Ben Hull.
+Proofreaders Extraordinaire: Kevin Duke, Robin Griller, Aaron
+Silverman, Brad Stock, Michael Debije
+Production Coordination: Tony Curtis
+Special thanks go to Anton Adams for his help with many aspects of
+the game. Thanks also go to Michael Fitzgerald, Ph.D. who helped
+out with many broad historical issues.
+
+© 2008 GMT Games, LLC
+
+20
+
+The Halls of Montezuma
+
+20.0	DESIGNERS’ NOTES
+A lot of wargamers like design notes—and many are scattered here
+and there in this rules booklet. Others want to see some design notes
+in one place. We’ve attempted to cater to both preferences, so here are
+some design thoughts with a ‘big picture’ perspective (let’s call this
+the Macro notes and the various in-rule comments the Micro notes).
+The Halls of Montezuma has a long, involved history. The idea to do a
+strategic-level game for the Mexican-American War came up sometime
+in 2002. Initially, some buzz arose about a strategy game for Gringos—
+something that would be similar to the interesting and innovative
+mixture of battles and campaign-level game included in Risorgimento.
+But David and I were pretty adamant about doing the game as a carddriven game in the tradition of We The People, For The People, and so
+on. Our first game with GMT (Thirty Years War: Europe in Agony) was
+a great experience, as something just came together when I morphed
+from developer to codesigner. To be clear, there were some downsides
+to being in that sort of a mode, as I couldn’t juggle both angles of approach to that game. Well, in any case, some six years later Thirty Years
+War is out of print, so it’s about the right time for a new game, right?
+The GMT principals then gave us a green light to do the game as a
+standalone. In mid-2002 I had the basic ideas in place: a game nearer
+the We The People level of complexity, Mexico had to be able to win
+(since it wouldn’t be a solitaire game), events (at least some) not
+dependent on card draws, an operational tempo and battle system
+that revealed the difficulty of waging war in the region, amphibious
+operations (but not overly-focused), and all the political, economic,
+logistics, social, and technological factors in the events, mechanics, and
+atmosphere. In particular, I wanted the players to feel like high-level
+strategists with little control over local events and actions. In addition, the design had to instill frustration—enabling the players to feel
+like commanders of the era, in which plans were always imperfect,
+disease was around every bivouac, and the guerillas could show up at
+any moment.
+Wargame design is complicated. But I got great advice: design it, play
+it, design it more, play it more. And remember—a game design is
+never finished, only published. So, as I reflect on the overall ideas on
+my agenda, there are a few issues to review (but not all of them—hey
+I need some leftovers for an article somewhere!):
+1. The interesting leaders from the Civil War era cut their teeth
+here—so they can appear at particular moments and then fade away
+from sight.
+2. I also wanted a tactical system that rewarded planning but was based
+on command efficiency as the major determiner of battle victory: getting more lethal firepower at the right place and time. Many of the
+war’s battles were small, indecisive, low-casualty affairs. A few, however,
+were larger, more deadly, and decisive. The system had to allow for
+both ends of this spectrum. At first I tried an algorithm much like the
+army-size methodology found in For The People. However, my initial
+testing indicated that the forces were too robust in large battles, and
+the ratings system did not adequately yield the feeling of lack of control
+and the wider variations I needed to make every engagement feel very
+risky. After about seven iterations of the combat system, I decided to
+combine control and uncertainty in a simple yet effective combination. FP is dependent on planning and concentration of Force (and
+can fade away with the wrong cards), while the uncertainty emerges in
+the efficiency die (and Bill thought of some ‘period language’ to add
+some color to the efficiency result). The end result betrays the influence of many approaches to combat systems. You’ve got a firepower
+calculation that is a distant cousin to the method in Thirty Years War.
+The movement to pitched battle is a mix of the ideas found in Joe
+
+Balkoski’s Great Campaigns games as well as Kevin Zucker’s really
+amazing designs. Finally, as I scan my shelf of card-driven games, I
+am reminded of the master—Mark Herman—you will find that the
+efficiency roll is clearly related to the combat mechanic found in his
+game Empire of the Sun.
+3. Action cards for the independent events (as well as several ways to
+capture the chaos of Mexican politics) and the uncertainty of local
+operations—these cards combined the two notions very easily and
+remained in the design from early stages.
+4. The crisis and the war declaration—I wanted to make sure the early
+battles could happen along with a potential invasion of Tejas, all before
+the U.S. showed its teeth—sharp teeth indeed once Winfield Scott
+figured out the land war was likely to be a close call.
+5. Mexican political will—I needed a victory system that included
+sudden death and an end-game uncertainty to keep the U.S. player
+on his toes—many gamers with historical hindsight would likely wade
+into the game with a lot of confidence. I needed to make things risky
+as well as frustrating—all in the context of a ticking clock, since my
+reading is that domestic issues were likely to make Americans tired of
+the war rather quickly. Originally a sliding scale similar to Wilderness
+War, we realized at Origins 2004, thanks to Ken Schultz and Thomas
+Cadenhead, that tracking Mexican PW only, and giving the US the
+incentive to reduce it, was key to the game’s tempo of play.
+6. Unpredictable supply—Supply is randomized and can catch you
+sleeping—we wanted that unpredictability from the beginning. The
+system is easy enough to track (especially if the non-active player is
+watching the card to remind both players to check supply) and makes
+the strategy cards slightly different than other games of the genre.
+7. What else can I mention to fit this to seven points?? Santa Anna
+(or Ana)? Revolving-door politics? Dysentery? Well, I hinted here at
+a few things, but I’ll leave the controversies to the internet… see you
+at Consimworld.
+Now that I have mentioned Mark Herman (up there in point 2),
+I should ensure the following is in print: Mark, your game designs
+entertain me (us!) and challenge us—they range from the fascinating to the complex, and the latter is a sign that you believe in our
+intelligence. You have trusted us to enjoy your games and see history
+as you do. Your work is my major inspiration—I hope that Halls of
+Montezuma might cross your game table one day, downstairs in your
+war room on that well-lit table. This game is my own atypical way
+of saying, “Thank you!” (And to be more specific, thank you for the
+advice I mentioned above).
+Before I depart so you can play the game with a buddy, I should mention something regarding the six year design and development process.
+There were some hurdles. I have had two more kids since starting the
+work (that makes 7 kids and 2 game designs… my plan is to make it all
+even-Steven within 5 years). Also, in 2003 my van was stolen in the wee
+hours of New Year’s, and (don’t ask me why) the only prototype game
+was in a briefcase in the back. I had to begin from scratch; then, I was
+expatriated to Austria to teach there and provide ‘touring’ services for
+American students visiting Austria, Italy, and other wonderful locales.
+The upside: I witnessed the 200th anniversary of the battle of Austerlitz.
+The downside: I was too busy to work on the game from early 2005
+to the end of 2006. Thankfully, play testing was underway. We made
+it to P500, and then Bill Cooper (who developed Europe Engulfed…
+so I knew we were in great hands!) fine-tuned, supervised play tests,
+and even used the game in his classes.
+And, thank you for being patient. I hope you enjoy the game.
+MW
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+
+21.0	 Card Histories
+1		
+Polk Addresses Congress: After learning of the Thornton
+Affair, in May, 1846 President Polk called for a joint session of Congress
+and requested a declaration of war against Mexico, saying, “The cup of
+forbearance had been exhausted even before the recent information from the
+frontier of the Del Norte [Rio Grande]. But now, after reiterated menaces,
+Mexico has passed the boundary of the United States, has invaded our territory
+and shed American blood upon the American soil. She has proclaimed that
+hostilities have commenced, and that the two nations are now at war.”
+2			No Quarter!: The brutal nature of the Mexican-American War
+was made clear by the tendency of both sides to use lethal force, particularly
+in the killing of prisoners of war. Santa Anna´s bloody attack on The Alamo,
+giving no quarter to the surrendering Americans, gave rise to a wave of
+pro-nationalism and anti-Mexican sentiment, particularly in Texas; giving
+no quarter in the Mexican War was expected to be a furthering of Santa
+Anna’s policy from the earlier battle.
+3			
+Fremont Declares Bear Flag Republic: Lieutenant Colonel
+John Charles Fremont led an American force of 300 men into Alta
+California in June, 1845, capturing Santa Barbara and declaring the shortlived Bear Flag Republic, with Fremont as military governor. The Bear
+Flag Republic would eventually become the American state of California.
+4			
+Settlers: Despite the ongoing hostilities, American settlers moved
+into the former Mexican territories of Nuevo Mexico and Alta California
+at a steady rate.
+5			
+Guerillas Go Home: Mexican guerilla bands frequently
+disbanded as individuals went home to tend to their crops or defend their
+farms from hostile Indians.
+6			Nicholas Trist, State Emissary: Nicholas Trist was named
+emissary to Mexico by President Polk to negotiate the end of the war.
+Both Polk and General Winfield Scott soured of Trist’s performance and
+he was called home in 1848. Trist ignored the President’s instructions and
+negotiated and signed the Treaty of Guadalupe Hidalgo in January, 1848,
+which would eventually be approved by both nations.
+7 			
+Minor Revolt in Baja/17 Baja Revolts Suppressed/19 Provincial Revolt Suppressed/28 Provincial Revolt/42 Major Revolt in Baja!
+The government of Mexico was far from stable during its war with the
+United States. Control over the provinces from Mexico City was almost
+non-existent; the province of Yucatan had revolted in 1841 and declared
+itself neutral at the outbreak of hostilities. Several other provinces, such as
+Baja California and Alta Mexico, revolted against the central government,
+often with covert American encouragement.
+8			
+Manifest Destiny: A term first used in 1845 by journalist John
+L. O’Sullivan while urging American annexation of Texas, “ And that claim
+is by the right of our manifest destiny to overspread and to possess the whole of
+the continent which Providence has given us for the development of the great
+experiment of liberty and federated self-government entrusted to us.”
+9			Thornton Affair: In April, 1846, American Captain Seth
+Thornton led a company of dragoons on a scouting mission near future
+Brownsville, Texas. Thornton encountered a brigade of Mexicans under
+Colonel Anastasio Torrejon and was captured along with several of his
+officers and men. After news of this reached Washington, President Polk
+called a joint session of Congress and asked for a declaration of war with
+Mexico.
+10		Remember the Alamo!: The Alamo was a fortified chapel in
+San Antonio, Texas, defended by Texans during their revolution against
+the Mexican government in 1836. The Alamo was captured and the entire
+Texan garrison wiped out by a Mexican army commanded by Antonio
+Lopez de Santa Anna. “Remember the Alamo!” became a rallying cry for
+American troops and Texas volunteers during the Mexican-American War.
+
+21
+
+11		Tejas!: The Department of Tejas, formerly the Mexican State of
+Coahuila y Tejas, seceded from Mexico in 1835 and soon afterward became
+the independent Republic of Texas. Mexican President Jose de Herrera
+sent troops into the Disputed Zone in 1845 to oppose the Republic of
+Texas’ claims on Mexican land south of the Rio Grande river.
+12		
+Santa Anna Elected President: The mercurial Antonio Lopez de
+Santa Anna was President of Mexico eleven times in 22 years between 1833
+and 1855. Santa Anna declared himself President in 1847, simultaneously
+running the Mexican government and Mexican army.
+13		
+Whigs Oppose War: American political opposition to President
+Polk’s drive towards war was strong, particularly among the opposition
+party Whigs, whose numbers included Illinois Representative Abraham
+Lincoln. Massachusetts Senator Daniel Webster was the leader of the Whig
+anti-war movement.
+14		Operational Exhaustion: As American armies advanced further
+into northern Mexico, their increasingly tenuous supply lines meant long
+delays in pushing forward badly needed supplies and reinforcements.
+15, 27.	 Local Militia: Local Mexican militia units were frequently called
+up to fill in the regulars’ ranks before a battle.
+16		
+Indian Uprising: While the Mexican and American militaries
+clashed on the battlefield, Indian tribes located in the Disputed Zone
+raided American forts, waystations, and Baggage Trains.
+18		
+Baptism of Fire: At the start of hostilities, both the United States
+and Mexico had very small national armies and rapidly built up their forces
+with influxes of raw volunteers. These green troops, led by inexperienced
+officers, would take heavy losses as they learned the harsh lessons of war.
+20		
+Bad Weather: Although he endeavored to maintain a calm
+façade, the General seethed inwardly as the rain continued to pour down,
+turning the road into a bog and slowing his army’s march to a crawl. And
+so was lost a great opportunity, perhaps never to be regained.
+21		
+Low Ammo: “We are out of ammunition, General!” the Colonel
+cried. The General nodded grimly and pointed his sword at the enemy.
+“Very well then, we will give them the bayonet.”
+22		
+Light Casualties: Sensing a disadvantage, the General broke
+off the battle before his force became heavily engaged, saving his army to
+fight another day.
+23 		Dysentery/26 Malaria/78 Yellow Fever: Disease took a heavy
+toll of armies in this era, and a combination of the hot Mexican climate,
+inferior hygiene, and poor camp discipline by such large numbers of
+volunteers and militia troops only made the danger worse. Over 80%
+of American military deaths during the war came from disease or other
+non-combat causes.
+24, 68	 Forced March: Under the General’s stern eye the soldiers trudged
+onward, canteens empty and banners hanging limp in the blazing heat,
+their route of march marked by discarded gear, fallen exhausted men, and
+dead mules.
+25		
+Leading from the Front: “Steady, boys, steady !” the General
+cried, the morning sun flashing on his sword. “Three cheers for the old
+flag and follow me, one more charge and we’ll take those guns !”
+29		Negotiations Break Down: Prior to the outbreak of war,
+President Polk sent John Slidell to Mexico in 1845 to negotiate American
+purchase of Nuevo Mexico and Alta California. The Mexican government
+quickly dismissed Slidell’s offer, and attempts to resolve American demands
+on Mexican territory short of war ended. During the American Civil War,
+Slidell was one of the Confederate ambassadors to Europe imprisoned
+by the United States in the Trent Affair that nearly led to war with Great
+Britain.
+
+© 2008 GMT Games, LLC
+
+22
+
+The Halls of Montezuma
+
+30		
+Good Ground: In a flurry of dust the scout reined his mount
+to a halt. “That’s danged good ground ahead, General !” he barked, eyes
+flashing. “Best ground I’ve seen all day. Get a battery of guns up on that
+ridge and I reckon you can stop anyone from crossing the river.”
+31		
+Political Capital: Admittedly an anachronistic term, political
+capital is based on a public figure’s favorable image among the populace
+and among other important personalities in or out of the government.
+Political capital must be spent to be useful, and will generally expire by the
+end of a politician’s term in office. In addition, it can be wasted, typically
+by failed attempts to promote unpopular policies which are not central to
+a politician’s agenda. In the context of the Mexican War, political capital
+in both nations was highly variable, and thus unpredictable.
+32		Commodore Perry: Matthew C. Perry, Commodore of the
+American navy’s Home squadron. Perry relieved David Connor as
+commander of the Home squadron after the capture of Veracruz in 1847,
+afterward taking the Mexican ports of Tuxpan and Tabasco. Perry would
+later gain fame as the leader of the American squadron that sailed to Japan
+in 1853 and opened up that country to outside contact.
+33		Topographic Engineers: Topographical engineers were first
+appointed during the War of 1812. Lack of appropriations caused the
+corps to fall out of service during the Mexican War. The event card presents
+a ‘what if ’ possibility, wherein the corps becomes active and produces
+accurate maps for frontier campaigning in the largely unknown terrain
+of Mexico.
+34		Robert E. Lee: Lee needs no introduction. He began the Mexican
+war as a First Lieutenant on Winfield Scott’s staff, fought in all of Scott’s
+major battles, and received brevet promotions for bravery to the brevet
+rank of Colonel.
+35		Naval Bombardment: The American Home squadron, initially
+under the command of David Connor but soon replaced by Matthew
+Perry, was a significant weapon for the Americans in their campaign to
+capture Mexico’s Gulf ports.
+36		
+Blockade Declared: After the declaration of war the American
+Navy’s Home squadron under Commodore David Connor quickly
+established a blockade of the Mexican Gulf coast. Facing overwhelming
+American naval superiority, the Mexican Navy sold its largest two warships
+to British commercial lines and offered no significant opposition.
+37		
+War Appropriations: The U.S. Congress passed legislation
+authorizing the calling up of volunteers to support the war effort.
+Financially, the war cost the US $147 million, including $73 million for
+direct costs, $64 million for veterans’ benefits, and $10 million in interest
+charges on war loans. A total of 101,000 American soldiers were mobilized,
+including 27,000 regulars and 74,000 volunteers; the typical volunteer
+served for 10 months. Deaths in battle totaled 1549; another 11,000 died
+from disease and accident.
+38		Texas Rangers: The official police force and militia of the
+Republic of Texas, the Texas Rangers were mustered into federal service in
+1846. They were invaluable as scouts and fighters against Mexican guerillas
+and hostile Indians, to whom they showed little mercy.
+39		
+Marines: “From the Halls of Montezuma/To the shores of Tripoli
+/We fight our country’s battles /In the air, on land, and sea.” Scott’s army
+included elements of the United States Marines, who participated in the
+capture of Veracruz and later the storming of Chapultepec Castle during
+the siege of Mexico City.
+40		
+Flying Artillery: Thanks to the innovations of Major Samuel
+Ringgold, the “Father of Modern Artillery,” American artillery batteries
+were highly mobile and easily moved across the battlefield. They were
+dubbed “Flying Artillery” for their speed of action.
+41		
+Santa Anna Exiled: After the American capture of Mexico
+City in August, 1847, Mexican President Santa Anna resigned his office
+
+and was shortly afterward removed from command of the remnant of
+the Mexican army by acting President Manuel Pena y Pena. As the treaty
+ending the Mexican War entered its final negotiations, Santa Anna was
+exiled to Jamaica in May, 1848. He was destined to return and become
+president of Mexico one final time in 1853.
+43		
+U.S. Grant: Hiram Ulysses Grant—known to history as Ulysses
+Simpson Grant due to a clerical error while he was a cadet at the United
+States Military Academy—future commander of all Union armies during
+the American Civil War and President of the United States. Served on
+both Zachary Taylor’s and Winfield Scott’s staffs during the Mexican
+War, receiving brevets for bravery at the battles of Molino del Rey and
+Chapultepec. Be sure to read Grant’s memoirs for a revealing look at the
+life of a staff officer during the Mexican-American War.
+44		
+Thomas J. Jackson: The future “Stonewall” Jackson of American
+Civil War fame. Thomas Jackson was a Second Lieutenant in the 1st
+United States Artillery Regiment in 1846, with whom he fought in all
+of the major battles of Winfield Scott’s campaign. He earned two brevet
+promotions for bravery and finished the war as a brevet Major.
+45		Commodore Connor: David Connor, Commodore of the
+American Home or Atlantic squadron from 1846 to 1847. He led
+American naval forces during the siege of Veracruz.
+46		Oregon Treaty: Disputes between the United States and Great
+Britain over the location of the northern border of American-controlled
+Oregon Territory were long-standing and by 1846 some American
+politicians were openly calling for war with Britain over the issue. Hence
+the slogan, “Fifty-four Forty or Fight !” In 1846, President Polk agreed to
+set the boundary at the 49th Parallel and signed the Oregon Treaty, freeing
+up American troops who had been guarding the border to transfer south
+for service against Mexico.
+47		
+Pierce Reinforces: General Franklin Pierce, another future
+American President, landed a brigade of fresh American troops at Veracruz
+in June, 1847 and marched overland to reinforce Winfield Scott’s army.
+48		
+Pacific Squadron: The American navy’s Pacific squadron,
+commanded by Commodores John D. Sloat and Robert F. Stockton during
+the Mexican War. Sloat and Stockton were instrumental in leading the
+American capture of Alta California.
+49		
+P. G. T. Beauregard: Pierre Gustave Toutant Beauregard,
+future Confederate general from Fort Sumter onwards, was an engineer
+Lieutenant on Winfield Scott’s staff at the start of the Mexican War. He
+fought in all of Scott’s battles, was wounded at Chapultepec, and received
+brevet promotions to Major for bravery.
+50		Close Action: A naval term indicating the signal for engagement
+of enemy ships with the purpose of their capture or destruction.
+51		
+Scott Invades: Winfield Scott led American troops in every war
+from the War of 1812 to the American Civil War, serving on active duty
+at the rank of General longer than any other in American history. With
+Zachary Taylor’s campaign in northeastern Mexico running out of steam,
+in October, 1846 Winfield Scott presented a plan calling for the capture of
+the Mexican port of Veracruz to use as a base for a small army of regulars
+to advance on Mexico City along the same route used by Hernando Cortes
+centuries earlier. Looking for a way to force a decision on the Mexican
+government, President Polk allowed Scott’s plan to move forward.
+52		Tejas Volunteers:  After war was declared against Mexico, there
+was some confusion in Washington about how to prosecute it. General
+Taylor began having significant successes against the northern Mexican
+troops just across the Texas border, but there was doubt that he could
+proceed all the way to Mexico City, a thousand miles away. It was therefore
+decided that several strategies should be attempted. General Zachary Taylor
+was to continue building the strength of his army (mainly from Texas
+volunteers) and to continue marching from the north as circumstances
+permitted.
+
+© 2008 GMT Games, LLC
+
+The Halls of Montezuma
+53	 Sale of Church Property: Mexico’s financial difficulties lead to
+attempts to levy and sieze Church properties despite the strong opposition
+of Santa Anna. Under Acting President Gomez, the Mexican congress
+voted passage of a law authorizing seizure of Church property. The act led
+to outright rebellion (known as the Polka Rebellion). Once Santa Anna
+resumed power, the Church paid over 2 million pesos to facilitate repeal
+of the act.
+54	No Future Glory: Many American military careers were born in the
+Mexican War; who knows what the future might have held had Robert
+E. Lee been struck down by dysentery or Ulysses Grant killed by a stray
+cannonball ?
+55	 San Patricios: The Saint Patrick or San Patricio battalion, a Mexican
+army unit made out of Catholics who had deserted the American army.
+The San Patricios fought at the battles of Buena Vista, Cerro Gordo, and
+Churubusco. Many of the San Patricio survivors were captured by the
+American army and executed for treason.
+56	Reinforcements: The new regiment marched up to the battleline,
+their clean uniforms in sharp contrast to the sweaty, dirty, ragged men who
+had been fighting all morning. “I’m heartily glad to see you, Colonel,” the
+General said, holding out his hand. “Now let’s see about whipping those
+fellows.”
+57	 Gomez Presidency: Valentin Gomez Farias, acting President of
+Mexico from December, 1846 to March, 1847.
+58	 Foreign Aid: Seeking to head off the growth of a potentially powerful
+North American power, several European governments, including Britain
+and Spain, sent aid to Mexico.
+59	 Anaya Presidency: Mexican General Pedro Maria Anaya was elected
+President of Mexico in November, 1847, to replace acting President Pena.
+Anaya began negotiations to end the Mexican-American War but was
+unable to complete them before his term expired in January, 1848.
+60	 Fresh Troops: Frequently, conscription would bolster a force; or,
+rest and recuperation via rotation of troops allowed for enhancement of
+effectiveness.
+61		
+Spies!: During the Mexican War, “no move was made to establish
+a permanent intelligence capability,... either in the fighting or in the peace
+that followed. [General Zachary] Taylor ignored intelligence almost to
+the point of dereliction in his invasion of northern Mexico. General
+Winfield Scott, who landed at Vera Cruz and occupied central Mexico,
+displayed better intelligence sense. He organized a crude but effective
+secret service known as the Mexican Spy Company under Colonel Ethan
+Allen Hitchcock.” Ameringer, U.S. Foreign Intelligence, p. 48.
+62	Recruits: As Winfield Scott’s army closed on Mexico City, the
+Mexicans desperately recruited new units to defend the city, including
+the Military Academy cadets who defended Chapultepec Castle.
+63	 March Attrition: American troops were not used to the hot, humid
+Mexican climate, and suffered greatly during long marches.
+64	 Local Militia Raid: Mexican regional militia units attack the long,
+vulnerable American supply line.
+65	 Yucatan Revolt Suppressed: Yucatan revolted against the Mexican
+government and declared its independence in 1841. At the outbreak of the
+Mexican-American war, Yucatan remained neutral but the state’s Mayan
+population rebelled against the Hispanic-led state leadership during the
+Caste War in 1847. The Hispanic government asked for Mexican help
+against the Mayans in exchange for rejoining Mexico; the Mayan rebellion
+was defeated and Yucatan was re-admitted to the Mexican nation in 1848.
+66	 Artillery Duel: The cannonball thumped off the ground and bounded
+past the General’s horse. “Mighty good practice,” he said, watching the
+enemy gunners scurry around their pieces. With a rumble of hooves and
+a clatter of harness a battery came into position next to him. As the crew
+
+23
+
+rushed to unlimber their guns the General cried, “Get some fire going,
+boys. Make it bloody hot for ‘em !”
+67	 Scott Removed: Following the capture of Mexico City in September,
+1847, infighting quickly developed between the prickly Winfield Scott and
+several of his general officers. Some of these, particularly Gideon Pillow,
+were quick to use political influence. President Polk, fearing the rise of
+yet another Mexican War general as political rival, removed Scott from
+command in January, 1848.
+69	 Morale Loss: A blazing sun; tired, thirsty men who hadn’t eaten in
+days; rumors of a great defeat suffered on the coast; the General knew it
+would be a hard battle today.
+70	 Logistics: Maintaining large armies in a pre-industrial age across the
+long open spaces of Mexico and Texas with the added difficulty of desert
+climate was very difficult for both nations.
+71		
+Armistice: After capturing Mexico City in September, 1847,
+General Winfield Scott agreed to an armistice with Santa Anna’s
+Mexican government to begin peace negotiations. However, Scott did
+not understand Santa Anna’s weakness, nor did he anticipate that Santa
+Anna would be removed from office and exiled. Negotiations would drag
+on until February, 1848.
+72	Dug In: Stripped to the waist, sweat pouring off them, the soldiers
+dug. One private leaned on his spade and looked up. “Dangit General, are
+we fighters or are we moles ?” “No soldier ever died from hard work,” the
+General replied. “You’ll thank those dirt walls tomorrow when the balls
+are flying.”
+73	Taylor Runs for President: After the capture of Monterrey in
+September, 1846, American General Zachary Taylor’s campaign in
+northeastern Mexico petered out as President Polk, suspicious of Taylor’s
+political ambitions, withdrew veteran troops to add them to Winfield
+Scott’s army. Democratic President Polk’s distrust of Taylor was largely
+driven by Taylor’s Whig sympathies and his fear that Taylor had his eyes on
+the presidency. Taylor received the Whig party’s nomination for President
+in 1848 and defeated Democrat Lewis Cass to win the White House.
+74	Cavalry Charge: Bugles blared, sabers flashed in the sun, and with
+a sudden thunder of pounding hooves the cavalry leapt into motion.
+Standing in his stirrups, the General cheered his voice hoarse as they swept
+towards the enemy line.
+75	Deserters: Both nations had small regular armies and relied on
+volunteers and local militias to fill in the ranks. Non-professional troops
+such as these were unreliable and deserted in large numbers.
+76	 Weak Volunteers: The General rode along the line, peering intently
+into the faces of his men. A few hard, battle-tested regulars, true, but far
+too many young farm boys or homeless adventurers looked back at him
+with frightened eyes.
+77	 Breach!: One moment the fire-ringed walls were standing stout as
+ever, then with a sudden clap like thunder they were down in a cloud of dirt
+and debris. A great cheer went up and the troops sprang forward, racing
+for the gap. “The walls are down, boys, charge ! Charge !” the General
+cried.
+79	Cavalry Pursuit: The enemy line broke. Banners, packs, muskets
+were tossed aside as men sought only safety, but it wasn’t to be. The cavalry
+were among them now, riding them down with sabers flashing, chasing
+the survivors towards the horizon.
+80	 Artillery Barrage: Behind him the line of guns bucked and roared.
+The General raised his telescope again to watch the bursts of dirt and debris
+among the enemy’s lines and grunted in satisfaction. “We are kicking the
+tarnation out of them,” he bellowed to an aide. “We’ll soon see how long
+they can stand it!”
+
+© 2008 GMT Games, LLC
+
+24
+
+The Halls of Montezuma
+
+22.0	RULES INDEX
+Activate Unit/Force..................................................................... 9.3
+Amphibious landing . ........................................................ 9.6, 14.2
+Armies—building them ........................................................... 15.1
+Artillery loss............................................................................11.2.g
+Automatic Declaration of War.................................................18.3.c
+Avoid Battle.............................................................................. 10.8
+Baggage Train—placement........................................................ 13.5
+Battle and Armies.............................................................5.1.c, 15.3
+Battle in general........................................................................... 11
+Battle procedure........................................................................ 11.2
+Battle response cards......................................................8.3.c, 11.2.d
+Blockade............................................................................ 9.2, 14.5
+Cavalry Withdrawal............................................................... 11.2.b
+Chief of staff—Officer effect...................................................12.1.e
+Collapse of Mexican government............................................... 18.2
+Collapse of Mexican government.............................. 5.1.d, 8.1, 18.2
+Committed unit...................................................2.2.a, 11.2.d, 11.4
+Control marker placement--Spaces............................................ 13.1
+Control of Spaces............................................................... 6.7, 18.1
+Control Space....................................................... 6.7.a, 10.2.a, 13.1
+Control State......................................................... 5.1.d, 6.9, 18.5.b
+Control Zone..................................................................... 6.8, 10.4
+Declaration of War effects.......................................................18.3.e
+Discard .................................................................................... 17.1
+Efficiency roll.................................................................11.2.g, 11.3
+End game—die roll................................................................... 18.7
+Events—Action cards............................................................... 7.1.b
+Events—Strategy cards................................................................. 12
+Field command—Officer effect...............................................12.1.e
+Fieldworks—building..............................................................13.2.a
+Firepower total........................................................................ 11.2.f
+Fortifications in Battle......................10.5, 10.8.c, 11.5.d, 11.7, 13.3
+Fortresses . ................................................................................ 13.3
+Forts—building.......................................................................13.2.a
+Guerilla Withdrawal . ............................................................ 11.2.b
+Guerillas . ................................................ 10.2.g, 1.2.b, 11.2.c,16.5,
+Guerillas in Battle .........................................................11.2.c, 16.5
+Hand Size .................................................................................. 8.1
+Heat turns........................................................................9.2, 10.2.c
+Held card........................................................................... 8.1, 17.2
+Inherent units—fortress..........................................................13.3.a
+Interception ............................................................................. 10.7
+Isolated control markers...................................................6.1, 18.1.a
+Lead unit . ..............................................................................11.2.e
+Leader losses . .........................................................3.2, 11.2.g, 11.3
+Mandated Events on Turn Record Track . .................................7.1.a
+Mandatory Events.................................................................. 12.1.b
+Mexican naval movement....................................................... 14.1.d
+Movement................................................................................. 10.2
+
+Movement Allowances ............................................................. 10.1
+Movement attrition.................................................................10.2.c
+Movement of Armies................................................................. 15.2
+Moving into enemy-occupied spaces...................................... 10.2.b
+MP cost for Battle type ..........................................................11.2.a
+Naval move........................................................................ 9.6, 14.1
+Officer card effects .................................................................12.1.e
+Out of supply effects........................................................6.6, 10.2.c
+Overrun Battle.......................................................................... 11.6
+Placement Actions........................................................................ 13
+Placement of Reinforcements...................................................... 3.4
+Placement of replacements..................................................... 13.4.b
+Port seizure......................................................................... 9.6, 14.4
+Post-Battle losses.....................................................................11.5.a
+PW changes.............................................................................. 18.5
+Raid effects . ............................................................................. 16.4
+Raid—PW effect.....................................................................18.5.a
+Raids............................................................................. 16.2.b, 16.3
+Raids—Action cards . .............................................................16.2.a
+Reaction movement/Zones . ............................................ 10.6, 10.9
+Removal of forts and fieldworks............................................. 13.2.b
+Remove cards...........................................................................8.3.a.
+Replacement action................................................................... 13.4
+Reshuffle cards......................................................................... 8.3.b
+Response cards..........................................................................8.3.c
+Retreat................................................................................... 11.5.b
+Revolt/Suppression . .............................................10.2.c, 10.3, 18.4
+Revolts—effect....................................................................... 18.4.b
+Revolts—effect....................................................................... 18.4.b
+Revolts—PW effect................................................................ 18.5.b
+Revolts—spread......................................................................18.4.a
+Santa Anna . .................................................................... 3.6, 7.1.b.
+Seizing a port..................................................................... 9.6, 14.4
+Siege ............................................................................... 10.5, 13.3
+Squadron activation ........................................................... 9.6,14.3
+State control........................................................................... 18.1.b
+State control and PW............................................................. 18.5.b
+Step losses............................................................2.2.a, 11.2.h, 11.4
+Strategy card use . .......................................................................... 8
+Supply Event............................................................................... 9.2
+Supply Wagon/Supply Event check................................... 8.3.d, 9.2
+Suppress revolt.......................................................................... 10.3
+Type of Battle . .......................................................................11.2.a
+Underlined MA . ....................................................................10.2.c
+US control of fortress............................................................. 13.3.b
+US Declaration of War................................................. 7.1.d, 18.3.b
+War and Crisis decks................................................................... 8.2
+War declaration table...............................................................18.3.a
+War Declaration Table.............................................................18.3.a
+War declared at beginning of turn.......................................... 18.3.b
+
+GMT Games, LLC
+
+P.O. Box 1308, Hanford, CA 93232-1308
+www.GMTGames.com
+
+© 2008 GMT Games, LLC
+
+</rulebook>
+			
+						                           
+						               													<description>The Halls of Montezuma is a fast paced game of the Mexican War which takes you back to the era of Manifest Destiny. The Halls of Montezuma is a Card Driven Game, allowing players the opportunity to recreate the various events and actions in Mexico from 1846 to 1848. The historical cast of characters is here, from Doniphan to Arista, Scott to Santa Anna. Even Lee, Jackson, Beauregard and Grant make appearances.&amp;#10;&amp;#10;Strategy card play allows you to move your forces, make events happen, activate the fleet, secure control of your lines of communication, and even invade Mexico with General Scott.&amp;#10;&amp;#10;The outcome is never a foregone conclusion. Victory comes from driving Mexico's political will down to zero; but each battle's outcome is in doubt - a few troops performing superbly can defeat many troops performing poorly. Mexico can achieve a quick sudden-death victory before the U.S. has declared war and can bring its force to bear.&amp;#10;&amp;#10;Components&amp;#10;&amp;#10;        Rules booklet&amp;#10;        Deck of 110 Strategy &amp;amp; Action cards&amp;#10;        One 22x34 mapsheet&amp;#10;        Player aid cards&amp;#10;        Quick Start card&amp;#10;        Two 5/8-inch counter sheets (352 counters total)&amp;#10;&amp;#10;&amp;#10;DESIGNERS Michael Welker &amp;amp; David Fox&amp;#10;DEVELOPER William Cooper&amp;#10;COUNTER ART Rodger B. MacGowan &amp;amp; Mark Simonitch&amp;#10;MAP ART Tim Schlief&amp;#10;CARD ART Mike Simonitch&amp;#10;&amp;#10;(from GMT website)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2710" value="Post-Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10642" value="Country: Mexico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58087" value="History: Mexican – American War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Two Players Only Wargames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1114" value="David A. Fox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1113" value="Michael Welker" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74862" value="Tom Lovell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20661" value="Timothy Schleif" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="231" />
+			<average value="6.51853" />
+			<bayesaverage value="5.60808" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7252" bayesaverage="5.60808" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1261" bayesaverage="6.00169" />
+												</ranks>
+
+			<stddev value="1.81044" />
+			<median value="0" />
+			<owned value="848" />
+			<trading value="37" />
+			<wanting value="27" />
+			<wishing value="68" />
+			<numcomments value="124" />
+			<numweights value="43" />
+			<averageweight value="3.1395" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

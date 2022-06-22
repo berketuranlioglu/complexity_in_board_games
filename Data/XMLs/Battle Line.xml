@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="760">
+         <thumbnail>https://cf.geekdo-images.com/RnbZfspkPRfr6EMkRkac2Q__thumb/img/HUtyu4RUS0dBnNNSVGO88hWtHnw=/fit-in/200x150/filters:strip_icc()/pic149717.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RnbZfspkPRfr6EMkRkac2Q__original/img/hANctLTf503m6ZxkyYgPMZTHXRE=/0x0/filters:format(jpeg)/pic149717.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battle Line" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Truva" />
+			    				
+				<name type="alternate" sortindex="1" value="Баталия" />
+			    				
+				<name type="alternate" sortindex="1" value="バトルライン" />
+			    				
+				<name type="alternate" sortindex="1" value="南北戦線 BATTLE LINE" />
+			    				
+				<name type="alternate" sortindex="1" value="古战阵 Battle Line (简体版)" />
+			    				
+				<name type="alternate" sortindex="1" value="古戰陣 Battle Line (繁體版)" />
+				<rulebook>BATTLE LINE
+Ancient battles were fought in organized formations. The leaders of bath sides directed
+their forces along the battle line to gain tactical advantages. Overwhelm the opponent in
+the center, break through one of the flanks, or hold the position until the time has come
+for a decisive move. How will you muster the battle line?
+Players:
+Two
+Playing Time: 30 minutes
+Components:
+• This rulebook
+• 60 Troop cards, in six colors each with the values 1 to 10: [10 = Elephants, 9 =
+Chariots, 8 = Heavy Cavalry, 7 = Light Cavalry, 6 = Hypaspists, 5 = Phalangists,
+4 = Hoplites, 3 = Javalineers, 2 = Peltasts, 1 = Skirmishers]
+• Ten Tactics cards (white, ,vith different backs)
+• Nine Flags (plastic pieces)
+PREPARATION
+Layout the nine Flags in a line between the two players. Cut the Troop deck until one
+player has the higher number—that player shuffles and deals seven Troop cards to each
+player's hand. Place the remaining Troop cards as a facedown deck at one end of the
+battle line. Shuffle the ten Tactics cards and place them as a facedown deck at the other
+end of the battle line.
+OBJECTIVE
+The players aim to create powerful formations on their side of the Flags to beat the
+formations on the opponent's side of the respective Flags. The first player to win three
+adjacent Flags (a Breakthrough) or any five Flags (an Envelopment) achieves victory.
+The non-dealer plays first; play alternates thereafter. On his turn, a player selects either
+one Troop card or one Tactics card from his hand and places it face up on his side of the
+battle line. At the end of his turn, the player draws one card from either deck to refresh
+his hand to seven. When both decks run out, no further cards can be drawn, but play
+continues.
+The Flags are won by formations of Troop cards played adjacent to the Flags. The Tactics
+cards are used to influence the formations.
+TROOP CARDS
+A player selects one of his Troop cards and places it face up on his side of the line
+adjacent to one Flag. There are three imaginary card "slots" on each side of the flag. In
+the course of the game each player may place a maximum of three Troop cards adjacent
+to each Flag, in order to create formations. The order in which the cards are played is
+irrelevant. To save space, later cards are placed partially covering former cards at the
+same flag.
+When a player is unable to play any Troop card, he may pass or play a Tactics card on his
+turn, but his opponent still continues to play until the game is decided. Such situations
+
+may occur in two ways: a player may have filled all his available slots on his side of the
+battle line, or a player may have only Tactics cards in his hand.
+FORMATIONS
+The different formations from highest to lowest are:
+•
+•
+•
+•
+•
+
+Wedge: Three cards of the same color with consecutive values. [R4][R5][R3]
+Phalanx: Three cards of the same value. [Y8][R8][G8]
+Battalion Order: Three cards of the same color. [B2][B7][B4]
+Skirmish Line: Three cards with consecutive values. [Y4][R6][G5]
+Host: Any other formation. [Y5][B5][G3]
+
+When comparing two formations in the same category, the formation with the higher
+sum of all three card values is higher than the opposing formation.
+This Red Battahon [R4][R6][R3] beats this Blue Battalion [B7][B1][B3]
+If the two involved sums are equal, the formations are tied (see the Flags section below
+for resolution of ties).
+This Host [Y7][B2][G1] is tied with this Host [Y3][B3][G4]
+FLAGS
+On his turn and before drawing his card from the deck, a player may claim one or more
+Flags. In order to do so, he must have a completed formation of three cards on his side of
+the Flag, and he must be able to prove that Troop cards on the opponent's side of the Flag
+cannot beat this formation.
+If the opponent's side also contains three cards, the situation is obvious. If the opponent'>
+side contains less than three cards, the claiming player must prove that the opponent will
+not be able to create a winning formation, regardless of what Troop cards the opponent
+might play. For this purpose, the player may use the open information from the layout to
+show that certain cards are no longer available. The player may not use any information
+from his own hand. Unplayed Tactics cannot prevent a Flag claim.
+If the formations on either side of a Flag arc tied or at best could be tied, then the player
+who played (or would play) the last card into the formations loses the Flag. His opponent
+may claim it on his next turn.
+• This Wedge [R4][R5][R3] beats this Phalanx [Y8][R8][G8] to claim Flag.
+• This Phalanx [Y2][R2][G2] beats [R7][G6] to claim Flag.
+• This Wedge [R4][R5][R3] beats this [B8] to claim Flag, if the Blue 7 and Blue 10
+have been played.
+When a player successfully claims a Flag, he takes the Flag and moves it to his side,
+beyond the cards that he played. Then neither player may place further cards adjacent to
+that Flag, nor may any Tactics card affect those card$.
+
+TACTICS CARDS
+There are ten Tactics cards. Tactics cards are played instead of Troop cards to influence
+the formations. A player may hold as many Tactics cards as he wishes within his hand
+size of seven, but may never play more than one more than his opponent has played. That
+means, a player can always play a Tactics card unless he has already played more than
+his opponent. Each Tactics card has a special function and belongs to one of the
+following three categories.
+1. Morale Tactics
+These cards are played into the player's layout in place of, and in a similar way to, Troop
+cards:
+• Leader (Alexander, Darius): The Leaders are wild cards. Play a Leader like any Troop
+card, but define the color and value when the Flag is resolved. For example, you have a
+Blue 8 in your layout. If you add a Leader, it gives you the option of adding a Blue 6, 7, 9
+or 10 to make a Wedge, or an 8 to form a Phalanx. Each player may only have one
+Leader on his side of the battle line. If drawn, a second Leader remains unplayable in the
+player's hand until the end of the game.
+• Companion Cavalry: Play this card like any Troop card of value 8, but define its color
+when the Flag is resolved.
+• Shield Bearers: Play this card like any Troop card, but define its color and its value not
+larger than 3 when the Flag is resolved.
+2. Environment Tactics
+These cards are played face up on the player's near side of an unclaimed Flag, so that
+there is enough space for the Troop cards to be placed next to the Flag.
+Once played, the Tactics cards stay in their position until the end of the game.
+• Fog: The fog card disables all formations, and the Flag is merely decided on the basis
+of the total value of cards on each side.
+• Mud: The claim for this Flag is now based on four cards on either side, so the
+formations need to be expanded. This makes it particularly difficult to achieve a Wedge
+or Phalanx.
+3. Guile Tactics
+These cards are played face up on the player's own side next to the Tactics card deck. All
+cards played there must be clearly visible and remain there until the end of the game.
+• Scout: The player draws a total of three cards from one or both decks. Then he chooses
+any two cards from his hand and places them face down on top of their respective deck or
+decks.
+
+• Redeploy: The player chooses anyone Troop or Tactics card from his side next to an
+unclaimed Flag, and places it face up into another of his available slots, or discards it face
+up on his side next to the Tactics card deck. Do not cover any other discard.
+• Deserter: The player may choose any one Troop or Tactics card from the opponent's
+side next to an unclaimed Flag, and discards it face up on the opponent's side next to the
+Tactics card deck. Do not cover any other discard.
+• Traitor: The player may choose anyone Troop card (but not a Tactics card) from the
+opponent's side next to an unclaimed Flag, and places it into an empty slot on his own
+side.
+GAME END
+When one player has successfully claimed three adjacent Flags or any five Flags, the
+game ends immediately with this player winning. Play halts; no other Flags may be
+claimed after that.
+If several games are played, the winner always scores five points, and the loser scores as
+many points as Flags he has claimed. The winner then starts the next game.
+ADVANCED RULE
+Once you have played the standard game a few times you may wish to try this variant. A
+player may only claim Flags at the beginning of his turn. This effectively delays claiming
+a Flag by one turn, enabling the opponent to modify the situation with his Tactics cards.
+GMT Games
+P.O. Box 1308
+Hanford, CA 93232 U.S.A.
+www.gmtgames.com
+(800) 523-6111
+TM and © 2000 GMT Games
+GAME CREDITS
+Game Designer: Reiner Knizia
+Project Coordinator: Andy Lewis
+Art Director: Rodger B. MacGowan
+Cover and Card Illustrations by: Rodger B. MacGowan ©2000
+Card Design by: Mark Simonitch
+Packaging Design by: Rodger B. MacGowan ©2000
+Rulebook Editing and Layout by: Stuart K. Tucker
+Production Coordinator: Tony Curtis
+Many thanks to all playtesters, in particular to David Farquhar for all his contributions
+to the development of the game.
+
+</rulebook>
+			
+						               													<description>Two opponents face off across a 'battle line' and attempt to win the battle by taking 5 of 9 flags or 3 adjacent flags. Flags are decided by placing cards into 3 card poker-type hands on either side of the flag (similar to straight flush, 3 of a kind, straight, flush, etc). The side with the highest 'formation' of cards wins the flag.&amp;#10;&amp;#10;This is a rethemed version of Schotten Totten with different graphics and wooden flag bits in place of the boundary stone cards.  Game play is identical, except the cards run from 1 to 10 (not 9), you hold seven cards in your hand (not 6), and the rule that stones may only be claimed at the start of your turn is presented as an &amp;quot;advanced variant&amp;quot;. Also the tactics cards were introduced by Battle Line; these cards were only added to later editions of Schotten-Totten.&amp;#10;&amp;#10;Some have reported that the production quality of the cards is inferior to the Schotten Totten cards, however, for most readers Battle Line will be much easier to find in stores.  In the second edition of GMT's Battle Line the card quality is higher.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="179">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="126" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="171" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="113" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="57">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="28" />
+					<result value="10" numvotes="17" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="68">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="50" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="11" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52373" value="Ancient: Greece" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9960" value="Game: Schotten-Totten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60786" value="Series: Lunchtime Games (GMT)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="297985" value="Battle Line: Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="340252" value="East-West" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="372" value="Schotten Totten" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51039" value="Roland MacDonald" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27022" value="Chrononauts Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35126" value="Roland's Revenge Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16471" />
+			<average value="7.41266" />
+			<bayesaverage value="7.20343" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="255" bayesaverage="7.20343" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="189" bayesaverage="7.23135" />
+												</ranks>
+
+			<stddev value="1.25745" />
+			<median value="0" />
+			<owned value="20141" />
+			<trading value="400" />
+			<wanting value="446" />
+			<wishing value="2727" />
+			<numcomments value="4740" />
+			<numweights value="1185" />
+			<averageweight value="1.8996" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

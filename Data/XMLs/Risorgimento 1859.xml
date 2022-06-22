@@ -1,0 +1,3014 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="7831">
+         <thumbnail>https://cf.geekdo-images.com/wi4BxtE8wCwCUqdXkEnzew__thumb/img/_LexBHtxcq5ffCU-BsLwXusmugs=/fit-in/200x150/filters:strip_icc()/pic240742.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wi4BxtE8wCwCUqdXkEnzew__original/img/HJ0a4y-uZS0ogZOL90lgHiYkGG0=/0x0/filters:format(jpeg)/pic240742.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Risorgimento 1859: the Second Italian War of Independence" />
+				<rulebook>Living Rules version, Sept. 2008 – Changes from previous version by Riccardo Rinaldi, highlighted in YELLOW
+- with the kind assistance of John Ellsworth for translating and formatting the original PDF document back into MS Word.
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+
+1.0 INTRODUCTION
+RISORGIMENTO 1859: THE BATTLES covers
+the two major engagements in the
+Second War for Italian Independence in
+1859: Magenta, the opening battle of the
+war; and Solferino, one of the largest
+battles in European pre-20th century
+history. It was also a war in which two
+emperors—Napoleon III and Franz
+Josef—and a king—Victor Emmanuel—
+all took battlefield command.
+A Word on Complexity. It is the
+designer’s intent to give the players the
+feel and sweep of a large, 19th century
+land battle. At the same time, it is also
+our intent to make the game as playable
+as possible, within its scope and size. To
+that end we have tried to make the
+systems and mechanics as simple as
+possible, and to keep adherents of both
+styles of gaming happy.
+
+the battles greatly, and we apologize
+to anyone living in the area who feels
+left out.
+
+2.2 The Counters
+RISORGIMENTO 1959 contains three
+types of counters (playing pieces): 1)
+combat units—the infantry battalions,
+cavalry regiments and artillery batteries;
+2) leaders (virtually all brigadiers); and
+3) a variety of informational markers,
+such as Hits, used to note status. All
+combat units are printed on both sides;
+the reverse shows the unit as
+“Disordered.” The combat units are
+color-coded for ease in identifying to
+which command [2.4] they belong.
+Play and Design Note: Combat units
+do not have any Strength Points, the
+usual indication of a unit’s numerical
+strength.
+
+2.0 COMPONENTS
+The game includes the following items:
+2 Game maps (22”x34” and backprinted)
+3 Sheets of counters
+1 Rulebook
+1 Playbook with scenarios
+2 Playing aid charts
+1 Activation Card
+2 Ten-sided dice
+
+2.1 The Maps
+The maps cover the area over which the
+battles were fought. Each map is
+overlaid with a grid of hexagons—
+hexes—which are used to regulate
+movement. The various types of terrain
+represented are discussed in the rules
+below. The Solferino battlefield uses two
+maps: the Solferino map and the San
+Martino map. Magenta and the campaign
+map are on the other sides of these maps.
+Design Note: The battlefields, and
+especially Solferino, are virtually
+dotted with small villages, many of
+which we have not included for
+purposes of clarity. They did not affect
+
+Most units are infantry, organized as
+follows:
+Austria: Each infantry counter is a
+battalion, usually part of a four-battalion
+regiment. Usually a Grenzer or Jäger
+battalion was attached. Thus, the
+regiment has a different name than the
+brigade to which it belonged. Thus,
+Hoditz’s Brigade (2nd Division of the I
+Corps), contains all four battalions of the
+Ernst regiment plus the 14th Jäger
+battalion.
+Historical Note: We use the word
+“Austrian” to cover all the units of the
+Habsburg Empire, which included a
+lot of non-Austrian peoples.
+
+Page 2 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+France: The French brigades tended to
+be bigger. Thus, Goze’s brigade (3/I)
+includes the battalions (three each) of the
+1st Zouave, 33rd and 34th regiments.
+Piedmont-Sardinia: This army was
+organized along lines very similar to that
+of the Austrians. Thus, Colliano’s
+brigade consists of the 1st and 2nd
+Grenadiers regiments (four battalions
+each—although some counters represent
+two battalions), plus the 3rd Bersagliari
+battalion.
+
+highly-mobile units which fought in
+dispersed formations.
+Leader: Those generals (and ranks
+below) commanding at brigade level.
+Also called Brigadiers.
+ZOC: Zone of Control—the ability of a
+unit, through its maneuverability and use
+of skirmishers, to extend its presence
+into adjacent hexes.
+2.42 Abbreviations
+
+NOTE: Some units have two brigadiers.
+This indicates that the brigade was
+commanded by different brigadiers in
+each battle. Thus, the 1st Grenadier
+Guards was led by Cler at Magenta and
+Niol at Solferino.
+
+2.3 The Die
+The game uses a ten-sided die to resolve
+combat. A 0 is a 0, not a 10.
+
+2.4 Definitions and
+Abbreviations
+2.41 Key Definitions. Awareness of the
+following terms will help as you read
+through the rules:
+Cohesion: The numerically-rated ability
+of a combat unit to withstand the vigors
+of combat.
+Command: A group of combat units
+under one leader/brigadier, the name on
+the Command Indicator line on the
+counter.
+The
+basic
+“maneuver”
+command in this game is the brigade; the
+basic activation command in the game is
+the corps, with the Piedmontese Army
+being treated as one corps.
+
+Full corps commander and brigadier
+names can be found in the Orders of
+Battle section of the Playbook. Other
+significant unit abbreviations on counters
+or in the scenario setups are found
+below.
+Arty
+Bde
+Bn
+Brsglri
+Chssr
+or Chs
+Cursr
+Div
+Drgn
+or Dgn
+Etrg
+Gd
+Grn
+Grnt
+Grz
+Hus
+Imp
+or IG
+Jgr
+Regt
+Uhl
+Zve
+
+Artillery
+Brigade
+Battalion
+Bersaglieri
+Chasseur
+Cuirrassier
+Division
+Dragoon
+Foreign Legion
+Guard
+Grenadier
+Granatieri
+Grenzer
+Hussar
+
+• The Austrian battalions contained
+about 750 men. However, the
+uneducated, multilingual Austrian
+trooper had not yet figured out how to
+fire his new rifled muskets.
+• The French battalions usually had
+about 550 men, but their small-arms
+weapons, and thus their firepower, was
+much better … and, other than the
+chasseurs and light infantry, they
+mainly relied on the bayonet charge,
+which the Austrians, sans firepower,
+were not very good at repelling.
+• Piedmontese battalions, which had
+about 500 men each, had only tepid
+training,
+little
+experience
+and
+antiquated weapons. Thus, we have
+grouped two of these together (except
+for a few that were used as
+detachments) to render them “equal”
+to the others. The Piedmontese
+Bersaglieri units held 700+ men each,
+so these stand alone.
+Cavalry units (regiments) contained
+around 500 men each, sometimes
+dropping to 400, sometimes as high as
+600 or more. The Piedmontese cavalry
+was usually around 600.
+Each artillery unit represents a 6-8 gun
+battery. The batteries are divided into
+five types:
+
+Imperial Guard
+Jäger
+Regiment
+Uhlan
+Zouave
+
+2.5 The Scale
+
+DRM: Die Roll Modifier—used to
+adjust the value of a rolled die.
+
+The map scale for the battles is about
+325 yards per hex. Each turn covers
+about one hour of real time.
+
+Jägers/Chasseurs: For those not up
+fluent in the languages of the opponents,
+Jägers and Chasseurs are the same unit
+type; the words mean the same thing in
+each language—“hunter.” They are
+
+Each infantry unit is a battalion or two
+(the latter applies to most of the
+Piedmont army). All units are treated as
+having the same strength, equalized as
+follows:
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 3
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+To compare overall strengths, using
+Solferino as a measuring stick:
+• An Austrian corps contained around
+18,000 men (somewhat lower for the
+undermanned VII and XI Corps)
+• French corps ran from 11,000 (III
+Corps; see notes on this corps in
+playbook) to 22,000 (I Corps).
+• The Sardinian Army had about 29,000
+men at Solferino, or 50 per cent more
+than Benedek’s VIII Corps.
+
+3.0 SEQUENCE OF
+PLAY
+
+4.0 THE COMMAND
+SYSTEM
+
+Each turn follows a set sequence as
+described below.
+
+The Command system is used to
+determine an army’s efficiency, its
+ability to use its resources. The most
+important leaders are the brigadiers.
+Higher levels of command—divisions,
+corps, army—are covered differently.
+
+A. Initiative Determination Phase
+Roll the die to see who goes first
+[4.3].
+
+B. Activation Phase
+
+2.6 Ratings
+Determining combat/cohesion ratings for
+units is, at best, a “pièce de guess,” as
+there is no source that lays it out
+mathematically, like numbers, guns, etc.
+Add to that the fact that the sole combat
+rating on most units—Cohesion—covers
+a whole lot more than just “cohesion,”
+and you have, in respect to other
+systems, a lot of seeming anomalies. For
+example, the Austrian Jägers were
+actually “elite” units, yet their Cohesion
+is low. This reflects more their
+manpower, formation and tactical
+doctrine than the soldiers’ ability. As for
+individual ratings, often your guess is as
+good as mine, and if you adhere to that
+doctrine literally, feel free to bump any
+unit up or down. It’s not going to affect
+the game greatly.
+
+2.7 Questions?
+Any questions about play?
+We can be reached on-line at:
+www.gmtgames.com [company]
+BergBROG@AoL.com [Designer]
+or by mail at:
+GMT Games
+ATTN: RISORGIMENTO
+P.O. Box 1308
+Hanford, CA 93232-1308
+www.gmtgames.com
+(800) 523-6111
+
+1.
+
+Reserve Placement Segment.
+Both players may place eligible
+brigades in Reserve [4.6].
+2. Corps Activation Segment.
+The Initiative Player selects
+which of his corps he wishes to
+activate. When a corps is
+activated, he may perform
+available actions [4.4] with all
+of the brigades in that corps.
+Each brigade finishes its actions
+before the next brigade goes.
+3. Continuity Segment. When the
+player undergoing B2 finishes
+he may now either:
+• Pass play to his opponent, in
+which case the latter goes
+back to B2; or
+• Roll for Continuity by
+selecting a new corps (it may
+NOT be the same corps that
+just went) and rolling against
+the
+selected
+Corps
+Commander’s
+Continuity
+Rating. If he succeeds he
+returns to B2. If he fails, his
+opponent goes to B2. When
+all corps are Finished or
+players pass in succession
+[4.56], go to Phase C.
+C. End of Turn Phase.
+1. Recovery Segment. Conduct
+Recovery for Reserve units
+[8.5].
+2. Out of Reserve Segment.
+Bring commands out of reserve
+[4.6].
+3. Move Corps Commanders
+Segment [4.2]
+4. Demoralization
+Segment.
+Check
+for
+Corps
+Demoralization and Brigade
+Hors de Combat [9.0].
+5. Start a new turn.
+
+Design Note: The Austrian (and
+Piedmontese) leaders, with the
+exception of VIII Corps commander,
+Benedek, are rated comparatively
+lower than their French counterparts.
+The Habsburgs used social rank as the
+main (if not only) criterion for
+advancement in the army, and, in this
+war, it served them quite poorly. The
+Piedmontese were simply not up to the
+level of their allies … at least not yet.
+
+4.1 The Brigadiers and Their
+Commands
+
+4.11 Ratings. The brigadiers command
+the actual combat units. They have two
+ratings, aside from their Movement
+Allowance. Brigadiers may move with
+their brigade, when their Corps is
+activated.
+• Commitment DRM: A rating,
+expressed as a die roll modifier, used
+when any of his In Command units
+wishes to attack [7.42].
+• Range: Used to determine which of his
+combat units is In Command. Units
+not within range are Out of Command.
+However, if a combat unit is outside
+its Brigade leader’s range, but adjacent
+to a unit from the same brigade that is
+
+Page 4 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+In Command, it, too, is considered to
+be In Command.
+
+Commitment Rating, would need a
+natural roll of 0-3.
+
+Play Note: Thus if only one unit from
+a brigade is in Range, but all the
+others are adjacent to one another,
+they are all In Command.
+
+4.14 Artillery. Most batteries are
+assigned to a specific brigade, that
+brigade being listed on the second line of
+the counter. Thus, the French 7(11)/I
+battery—battery #7 of the I Corps—is
+assigned to Douay’s brigade. Each sonamed battery is under the command of
+its brigadier.
+
+4.12 Command Range. The ability to
+“command” troops is maintained through
+the Command Range of the brigadier.
+This range is the number of Leader
+Movement Points (not hexes) over which
+the Leader may extend his influence.
+Command Range is always counted from
+brigadier to combat unit, including the
+latter hex, but not the leader’s.
+Command cannot be traced through
+enemy ZOCs, unless the hex being
+traced through is occupied by a friendly
+combat unit; i.e., friendly units negate
+enemy ZOCs for this purpose.
+The Naviglio Canal in Magenta DOES
+NOT
+block
+Corps
+Commander
+Command Range.
+4.13 Orders. Brigades can be either
+Under Orders or Without Orders [4.22].
+The Orders Status is checked at the
+beginning of the Activation Segment;
+such status is retained for the whole turn.
+Brigadiers that are Without Orders can
+attempt to change that to Under Orders.
+To do this, the player rolls one die. He
+adjusts this roll by the brigadier’s
+Commitment DRM.
+• If the adjusted roll is 4 or less, his
+brigade is Under Orders.
+• If the adjusted roll is 5 or more, that
+brigade may not do anything, except
+Rally.
+Example [from Solferino]: Austrian III
+Corps is activated. The brigadiers
+Pokorny, Dientsel and Wezlar are all
+within Schwarzenberg’s Range of 3.
+They are Under Orders, and their In
+Command combat units have full
+capabilities. However, Hartung and
+Rosgen are outside Schwarzenberg’s
+range, so their brigades are Without
+Orders. If the Austrian player wishes,
+he may, when it is time to move each
+of these brigades, roll to see if they
+will become Under Orders. Hartung
+would need a natural roll of 0-4;
+Rosgen,
+because
+of
+his
++1
+
+There are also a large
+minority of batteries that are
+“Reserve.” (This includes
+batteries in the Austrian
+Army Reserves.) These batteries may
+never be commanded by infantry
+brigadiers. They may, however, be
+treated as an individual command when
+their corps is activated—i.e., all nonattached batteries are moved/fired at the
+same time. These batteries can fire at any
+time during that Corps Activation (as if
+they were a brigade) but DO NOT have
+to be in range of anyone (not even the
+Corps Commander).
+Play Note: The Austrian’s ID system
+for batteries produces a fair number of
+units with the same “ID.” There are at
+least three batteries of the 10th
+cavalry nom de guerre. These are the
+10th from three different artillery
+regiments, though (e.g., 10cv/II).
+Ultimately, the historical ID of the
+battery is unimportant for play
+purposes; it is the name of the
+brigadier of assignment, or the
+Reserve notation, that matters.
+See 7.12 for how and when batteries may
+combine fire.
+4.15 Cavalry
+France. All French cavalry is assigned
+to a specific brigadier, as listed on the
+counter.
+Austria. The Austrians have cavalry
+assigned either to individual Corps or to
+the Army Cavalry Reserves.
+• Corps-assigned cavalry has no leader;
+one unit (per brigade) may be
+commanded by any Brigadier in that
+corps.
+• Army Reserve cavalry is led by a
+named brigadier (e.g., the Prinz von
+
+Bayern
+Hussars
+Vopaterney).
+
+are
+
+led
+
+by
+
+Piedmont. Piedmontese cavalry brigades
+are assigned to divisions; they may not
+use Massed Cavalry Attack.
+Historical Note: There was a
+Piedmontese Cavalry Reserve Division
+—Lt.Gen. Sambuy commanded four
+regiments of cavalry—but they do not
+appear to have been involved in either
+battle.
+4.16 Massed Cavalry Attack. A player
+may decide to use his cavalry in a
+Massed Attack. Each player may
+undertake one Massed Attack per turn.
+To do so, he announces this (within the
+parameters below). The eligible cavalry
+units must Charge when so activated;
+units that do not charge are considered to
+not have been activated.
+• France. The French Player selects a
+cavalry brigadier. All cavalry units,
+regardless of assignment, within that
+cavalry leader’s range are eligible for
+Massed Cavalry Attack. To activate a
+Massed Attack, the player uses the
+Corps Activation to which the chosen
+leader belongs. This is considered to
+be that corps’ activation. However,
+only the massed cavalry may
+move/fight; all other units are not
+activated … and it is considered one of
+that corps’ activations.
+• Austria. Their cavalry operates similar
+to the French, with the following
+differences:
+a) 1st Army cavalry may not
+combine with 2nd Army cavalry
+(and vice versa).
+b) Only
+Vopaterny,
+Palffy or Zichy are
+eligible to lead a
+Massed Attack.
+c) The Austrian uses the Reserve
+Activation for this.
+Historical Note: There was a
+somewhat ineffective, but massive,
+cavalry vs. cavalry battle mid-day,
+east of the lightly-cultivated area
+around Medole.
+4.17 Austrian Reserve Units. Certain
+Austrian units (which do not
+have their own corps
+commander) are activated
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 5
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+by treating them as an ersatz corps (“The
+Reserve”— not to be confused with the
+game function of being in Reserve
+[4.6]):
+• The 1st Army Reserve batteries
+• The cavalry brigades from the 1st
+Army and 2nd Army
+
+Command [4.41], except for those
+who are not within range [4.42].
+• A Brigadier Without
+Orders has all his units
+Out
+of
+Command,
+regardless of where they
+are.
+
+All units present are considered active
+when activating The Reserve. The
+Reserve has a Continuity Rating of 2; it
+has no other command function.
+
+4.23 Movement. Corps commanders
+may move only in the End-Turn Phase in
+the Corps Commander movement
+segment.
+
+Play Note: It is possible that the 1st
+Army Artillery, for example, may
+include other batteries. Conversely,
+individual cavalry units may be
+“attached” to brigades/divisions.
+
+4.24
+Guard
+Commander.
+The
+commander of the French Imperial
+Guard, St.Jean d’Angely, has two Range
+ratings. He may use the higher one (6) if
+he is within one hex of Napoleon III.
+
+4.2 Corps-Level Command
+Corps commanders provide initiative and
+orders for their brigades.
+
+4.25 Piedmont Command. Vittorio
+Emanuele acts as both Overall
+Commander of the Piedmont army as
+well as its (sole) corps commander.
+Brigades treat him as a corps
+commander. His “3” rating also serves as
+his Range and Continuity Ratings when
+used as Corps Commander.
+
+4.3 Overall Command
+and Initiative
+Design Note: We have “skipped” over
+the division level of command; the
+capabilities of those leaders has been
+factored into the Corps Continuity and
+Cohesion Ratings.
+4.21 Ratings. Corps Commanders have
+three ratings:
+• Range. The number of Movement
+Points (NOT hexes!) that a Brigadier
+from that corps must be within to be
+Under Orders [4.22]
+• Continuity [See 4.5; 9.2].
+• Movement Allowance [4.23].
+Play Note: The Continuity rating is
+also printed on the Activation Card.
+4.22 Range and Orders. Brigadiers that
+are within range of their corps
+commanders are Under Orders. Those
+that are not are Without Orders.
+• A Brigadier that is Under Orders has
+all his combat units within range as In
+
+The abilities of an army’s overall
+command are represented by the player,
+although we give you each OC as a
+counter. The sole purpose of the OC
+counter is to provide a DRM for
+Initiative, which he may do as long as he
+is on the map.
+In the Initiative Determination Phase,
+each player rolls the die. One of the
+players may get to add a modifier to that
+roll, depending on the scenario. The high
+roller gets the Initiative for that turn. If
+tied, roll again. The player with the
+Initiative gets a Free Activation [4.52],
+indicating which corps command he
+wants to start that turn.
+
+4.4 Activation Capabilities
+A player’s units are activated by corps.
+Corps are activated individually, either
+by Free Activation [4.52) or Continuity
+[4.51]. When a player’s corps is
+activated, all of the brigades (plus
+cavalry and artillery) in that corps are
+activated, regardless of where they are.
+See 4.22 for what status they have.
+Play Note: Use the Activation Card
+and the Hit markers, to keep track of
+the number of Activations a Corps has
+undertaken.
+4.41 Under Orders. When their brigade
+is activated and is Under Orders (4.22),
+the individual units that are In
+Command may:
+• Move
+• Fire (if eligible)
+• Attack
+• Rally (if they have not done any of the
+above)
+This is the Sequence in which the actions
+are undertaken, except that artillery may
+Fire either before or after Moving
+(small-arms units Fire after Movement).
+4.42 Without Orders. When their
+brigade is activated and is Without
+Orders, or there are individual units that
+are Out of Command they may:
+• Move, but they may not move adjacent
+to an enemy combat unit. If already
+adjacent, they may stay or move away.
+• Rally (if they have not moved).
+• They may NOT fire or attack, but they
+will defend normally.
+• Artillery Units that are Without
+Orders, or Out of Command, may Fire
+or Move (not both) when activated.
+4.43 Extended Activation. Normally,
+each corps may be activated twice in a
+single turn. However, a corps may be
+activated a third time in a non-weather
+turn [4.44], at the risk of increasing the
+Hits incurred by the units in that corps.
+Whenever a single corps gets an
+Extended Activation [4.54]:
+• For each unit that moves—and this
+does not include movement associated
+with combat, such as attack into a hex
+or Retreat—roll a die and compare it
+
+Page 6 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+to that unit’s Adjusted Cohesion. If it
+is higher, the unit incurs a Hit.
+• Each unit that attacks (fire is not attack
+for this purpose) earns an automatic
+Hit.
+• In an Extended activation, only those
+French and Piedmontese Artillery
+units that are within range of their
+Corps Commander may fire; Austrian
+batteries may fire if within range of
+their brigadier (or Corps, if Corps or
+Reserve Artillery). Artillery may
+always Reaction Fire.
+Play Note: It is possible for a unit to
+incur two Hits during an Extended
+Activation.
+4.44 Weather Turn. In any turns with
+Weather—that means Heat and/or Rain
+(see the turn tracks and the scenario
+rules)—the normal number of activations
+per turn is one. A second activation
+would be an Extended Activation … and
+there are no third activations.
+
+4.5 Continuity
+After a player has undertaken all his
+actions with his activated corps he may
+either Pass play to his opponent or try to
+activate another corps. He does this
+through Continuity.
+4.51 Continuity Roll. In order for a
+player to continue his turn he selects
+which corps with which he wishes to do
+so and rolls the die. If the roll is:
+• Equal to or lower than the Corps
+Continuity Rating, that corps is now
+activated.
+• Higher than the rating, then play
+passes to his opponent.
+The Corps Commander’s Continuity
+Rating is used whether he is on or off of
+the map.
+Failure of a Continuity Roll does not
+count as an activation unless the Corps is
+Demoralized [9.2].
+4.52 Free Activation. Whenever a
+player fails a Continuity Roll, or Passes
+to the opponent, the opposing player gets
+to activate one of his corps “free”
+(without rolling the die). Passing occurs
+when a player has corps he can try to
+
+activate but chooses not to do so at the
+time.
+
+rule.
+
+4.53 Consecutive Activation. If a player
+gets
+two
+consecutive
+activation
+segments, his opponent gets a Free
+Activation, after which the original
+player may resume his Continuity Rolls
+[4.51]. No Corps may ever be selected
+for activation twice in a row. A player,
+having activated Command “A” must
+either select a different command for
+Continuity or else Pass to the opponent.
+An opponent’s “Pass” is considered an
+“interruption” for this purpose.
+Exception: If the player has only one
+command left eligible to be
+activated—and it was the one he just
+activated—he
+may
+select
+that
+command (or Pass). However, in order
+to select a command twice in a row
+under these circumstances, the player
+must roll for Continuity … and a
+failed result finishes that command for
+that turn.
+4.54 Extended Activation. If a player
+wishes to use Extended Activation (a
+third activation) for a corps, he MUST
+make a Continuity Roll for that corps,
+even in a normally “Free” situation. A
+player may attempt Extended Activation
+only once. If the roll fails, that corps is
+Finished for the turn. When a corps is
+Finished, flip all the Corps’ Brigade
+Commanders to their “Finished” side.
+4.55 One Side Finished.
+Whenever one side has
+Finished and the other side
+has corps that may still be
+activated, activation occurs as follows:
+1) The first corps, selected from those
+left, gets a Free Activation.
+2) For all subsequent corps, the player
+rolls the die to activate.
+• If the roll is the same as or lower
+than the Corps Continuity, the corps
+gets a normal activation.
+• If the roll is higher, the corps is
+activated but may not attack. (It may
+fire.)
+Play Note: This rule “kicks in”
+whenever one side has activated all of
+his commands/corps twice; declaring
+yourself “Finished” does not trigger the
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 7
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+4.56 End of Activations. The Activation
+Phase ends whenever one of the
+following occurs:
+1) Both players voluntarily Pass
+(consecutively) in either of the
+following orders:
+• Austrian, then French, or
+• French, then Austrian, then French.
+Failing a Continuity Roll is
+considered a Pass for this purpose.
+
+not
+
+2) Neither player has a command that
+is eligible to be activated (they are
+all “Finished).
+Design Note: The different sequence
+of Passes represents the overall
+French
+initiative
+advantage,
+compliments of their vastly superior
+middle and junior level of command.
+In essence, the French army was
+“active.”
+
+4.6 In Reserve
+Brigades may be placed
+into Reserve and some
+brigades start a battle in
+Reserve. Brigades are
+placed in Reserve status
+only in the Reserve Placement Segment.
+All In Command units in a brigade,
+regardless of proximity, are together
+placed in Reserve. They may voluntarily
+be brought out of Reserve only in the
+Out of Reserve Segment.
+Design Note: This is a tad on the
+simplistic side, but it does make the
+game easier to play.
+4.61 Reserve Effects. Units in Reserve
+status:
+• May not move, fire or attack.
+• May overstack while in Reserve to the
+extent that all units from the same
+brigade may stack in one hex.
+Overstacking applies only to the initial
+placement (see Scenario Book). When
+units are subsequently placed in
+Reserve during the course of the game,
+they do not overstack. Rather, they
+stay where they are until they are
+brought out of Reserve in the Out of
+Reserve Segment.
+
+• May Rally and/or Recover [8.5]. Being
+in Reserve is the only way a unit can
+Recover (Rally is available to any
+activated unit).
+4.62 Involuntary Release. A brigade
+will be released involuntarily from
+Reserve the instant any enemy combat
+unit moves within three hexes of any of
+the brigade’s combat units, regardless of
+Chain of Command. Upon such
+involuntary release, any Reserve units
+that are overstacked get an “interphase”
+in which they may move up to one hex
+to conform to stacking rules. There are
+no restrictions concerning in which
+direction the “unstacking” units may
+move, other than “no further than one
+hex.”
+Play Note: Each scenario states
+whatever additional restrictions
+apply to releasing Reserves, as well
+as what turn a corps in Reserve is
+automatically released.
+
+5.0 MOVEMENT
+A
+Movement
+Allowance
+(MA)
+represents the maximum number of
+Movement Points (MPs) that any unit
+may “normally” expend during a single
+activation segment. Units may always
+move less than their allowed MA.
+
+5.1 Strategic Movement
+A unit using Strategic
+Movement (SM) places a
+Strategic
+Movement
+marker near it, to so
+indicate. That marker may not be
+removed from the unit until its next
+activation (if it chooses not to continue
+using SM). Units use Strategic
+Movement by brigade. Either all units in
+the brigade use it, or none does. See 7.45
+for combat effects.
+Units that are Without Orders that are
+not already using Strategic Movement
+may not use SM. They may stop using
+SM, though. This does not apply to
+entering Reinforcements or units
+activated from the Reserve.
+
+5.11 Movement Effects. Using SM, the
+unit’s MA is double what is printed on
+the counter. However, when using SM:
+• No unit may start or move within
+THREE hexes of any enemy combat
+unit. A unit cannot move in Strategic
+Mode within three hexes of an enemy
+unit, even if the former can’t see the
+latter (it’s not what they can see, it’s
+what they think might be out there).
+• Units may not move in any HeavilyCultivated hex unless it is by Road
+(not Trail). In Magenta, those are all
+roads (some major, some minor)
+except for the RR, which is treated as
+a Trail, and thus may not be used for
+SM through the vineyards.
+• Units may not move in any LightlyCultivated hex unless it is by Road or
+Trail.
+• Only one combat unit is allowed in any
+one hex.
+Units that are Without Orders that are
+not already using Strategic Movement
+may not use SM. They may stop using
+SM, though. This does not apply to
+entering Reinforcements or units
+activated from Reserve.
+5.12 Artillery SM. The maximum MA
+of a non-horse artillery unit using
+strategic movement is 10. Horse artillery
+use SM like infantry or cavalry.
+Artillery using Strategic Movement
+cannot fire (not even in reaction).
+
+5.2 Terrain
+A unit expends Movement Points for
+each hex it enters. MP costs depend on
+unit type and terrain entered (see the
+Terrain Effects Chart). Movement
+into/across certain terrain types will
+cause certain units to become Reduced.
+5.21 Roads. Units using Roads pay the
+Road cost if they are entering that hex
+from a hex containing a connecting road
+hex; otherwise, they pay the cost of the
+other terrain in the hex. A unit using a
+road to cross an elevated hexside, or a
+ridge, treats that hexside as the next
+lower-level hexside. Thus, the road
+leading from S1424 into S1425 allows
+
+Page 8 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+the unit to ignore the elevation change
+cost. A Major Road is different from a
+Minor Road only in that it is not affected
+by Rain (see Playbook).
+5.22 Trails and Railroads. Trails halve
+(rounding fractions down) the cost to
+enter a specific type of hex. However,
+they have no effect on elevation costs.
+Railroads are treated as if they were
+Trails.
+5.23 Water Terrain. Running water is
+treated as follows:
+• The River Ticino (Magenta map) is
+impassable, except where traversed by
+bridges.
+• Canals and Deep Streams are difficult
+to cross; for some unit types they are
+uncrossable (see Terrain Effects
+Chart). In addition, infantry crossing
+such hexsides incurs an automatic
+Disorder.
+• Shallow Streams are treated as
+indicated in the Terrain Effects Chart.
+• Fords. Where Roads cross streams
+without a bridge, that is considered a
+Ford. Trails do not create fords.
+Design Note: It’s somewhat difficult to
+determine the effect of the streams and
+canals, especially at Solferino, mostly
+for lack of narrative information. The
+canals were at least three yards wide,
+and deeper than a man … but no more
+than 10-15 yards wide. That makes
+them a problem, but not a major
+barrier. As for the streams, their
+difficulty lay in the fact that most were
+“sunk” into the terrain, with fairly
+steep banks. The battle descriptions do
+not mention any great difficulties with
+these barriers (except for the big canal
+flowing through Medole). This could
+mean that they avoided them, of
+course.
+5.24 Elevated Terrain. The hexsides
+where the elevation changes (for game
+purposes, if not in reality) are called
+Slopes. There are three types of Slope,
+each with a different visual indication
+(see the sample terrain on the maps):
+• Gradual: One-level change (no icon)
+• Sharp: Two-level change
+• Steep: Three-level change
+
+Rough. All hexes on level 4 and 5 are
+Rough Terrain (some are also Wooded
+and Rough).
+
+Play Note: The important rule for
+Magenta is No Stacking if you want to
+use roads/Trails through these hexes.
+
+Artillery Firing Angle. Artillery firing
+over distances must consider the total
+number of level changes as affecting
+the angle of their fire. For example,
+Artillery firing up two levels over a
+distance of several hexes would be
+considered as firing up a Sharp slope
+for terrain effects purposes.
+
+5.28 Towns and Villages. These are
+treated distinctly, mostly in terms of
+movement and combat benefits [see 5.5
+on Towns]. Hexes with only one
+building are treated like the other terrain
+in the hex.
+
+5.25 Ridges (Solferino only). Ridges
+represent sharp, but narrow, rises in
+elevation. The color of the ridge hexside
+is its level, comparable to the color code
+for hex levels. (Most are one level above
+the surrounding terrain; a few are
+steeper.) The cost to cross a Ridge is
+based on its elevation level change, as
+listed on the Terrain Effects Chart. Note,
+though, that when crossing a ridge such
+movement negates any elevation change
+cost for the hex entered.
+Example: an infantry unit moving from
+S2218 to S2117 would pay 3 MPs (one
+to enter the hex plus two for crossing a
+Sharp Ridge). The Ridge negated the
+Slope elevation cost between the two
+hexes.
+5.26 Impassable Hexsides. Certain
+hexes/hexsides are impassable; units
+may not enter or cross them (unless they
+are traversed by a Bridge or Road). Note
+that the “one hex” allowance rule [5.31]
+does not allow passage of impassable
+hexes/hexsides.
+Example: Cavalry and artillery units
+may not cross Steep Slope hexsides,
+unless by Road.
+5.27 Cultivated Hexes. Most level 2
+hexes on the Magenta map are Heavily
+Cultivated. Aside from the movement
+costs, Heavily-Cultivated hexes have
+some unusual rules regarding ZOC
+[6.23], movement and combat (see
+Magenta in the Playbook). The LightlyCultivated hexes at Solferino also have
+important ZOC rules in addition to their
+costs.
+
+5.29 Castles. Essentially, there are only
+two: one above the village of Solferino,
+and Monte Rolondo at Magenta. Only
+one unit may gain/use the benefits of a
+castle—and that unit may not be cavalry.
+All other units are considered outside the
+castle. If more than one unit is in that
+hex, the bottom unit is considered to be
+inside the castle. When a castle hex is
+attacked, the units outside the hex are
+treated
+separately,
+and
+attacked
+separately.
+
+5.3 Movement Restrictions
+As a unit moves it traces a path of
+contiguous hexes through the hex grid,
+paying the cost of each hex entered.
+Each unit moves separately, and one
+unit’s movement must be completed
+before another can begin. A unit may be
+moved in any direction or combination
+of directions. A unit’s Facing [6.1] has
+no effect on how or where it may move.
+Exception: See the Awareness rule for
+the
+Heavily-Cultivated
+hexes
+at
+Magenta.
+5.31 Entrance Minimum. A moving
+unit must have enough MP’s to pay the
+terrain (and ZOC) cost of entering a hex;
+if it doesn’t, it may not enter that hex.
+However, a unit may move one hex,
+regardless of available MP, if it is
+permitted to enter that hex at all.
+5.32 Firing Artillery.
+Artillery units that fire
+may also move, but they
+may use only half
+(rounded down) of their
+MA for that segment. Artillery units may
+move, and then fire. Artillery units
+move, and then fire after completion of
+movement by their whole Corps. In this
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 9
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+case, such fire incurs a –1 DRM.
+Artillery using Strategic Movement may
+not fire in that activation.
+5.33 Adjacency Prohibitions. Cavalry
+may not move adjacent to an enemy
+combat unit unless such movement is
+part of a Charge. Artillery units may not
+move adjacent to an enemy unit unless
+the two are separated by impassable
+terrain.
+5.34 Protected Entry. No unit may
+move within two hexes of an enemy
+Entry Hex [5.6] until all reinforcements
+have entered the game.
+
+5.4 Stacking
+Stacking refers to having more than one
+unit in a hex at any one time.
+5.41 Normal Stacking. The basic rules
+are:
+1) Up to TWO infantry or cavalry units
+of the same brigade may stack
+together. Cavalry and infantry units
+may not stack together. If they start a
+scenario stacked together (which is
+sometimes the case), they must
+unstack by the end of their first
+activation.
+Example: Two infantry battalions from
+Dauber’s brigade (VIII, Austrian) may
+stack together. But one of Dauber’s
+units may not stack with one of
+Lippert’s, even though they are from
+the same division (Lang).
+2) ONE artillery unit may stack with one
+infantry or cavalry unit (regardless of
+parent command).
+3) THREE artillery units may stack
+together.
+4) When using Strategic Movement, only
+one combat unit is allowed per hex.
+5) When in Reserve status, units may
+overstack at no penalty.
+6) Infantry in a Town have special
+restrictions [5.5].
+
+7) Markers and Leaders do not count for
+stacking purposes.
+5.42 Combat Stacking. Stacking
+restrictions apply at all times, except
+during an attack. A unit may move into a
+hex containing an enemy unit—that is
+how attack occurs [7.42]. A unit may not
+move through a hex containing an enemy
+combat unit.
+5.43 Stacking Order and Fire. Artillery
+may fire regardless where they are in a
+stack. Jägers, Chasseurs and Lights may
+fire only if they are the top unit in a
+stack.
+5.44 Stacking Order. When a unit
+enters a friendly-occupied hex, it is
+always placed at the bottom of the
+resulting stack. The stacking order can
+only be changed at the beginning of
+movement, and doing so costs 1 MP.
+Additionally, a stack in an enemy ZOC
+cannot change its stacking order.
+
+5.5 Towns
+The narrow streets, close, stone
+buildings and walled perimeters of the
+Italian towns (e.g., Magenta) made for
+strong defensive positions. This rule
+does NOT apply to villages.
+5.51 Town Stacking. A player may
+stack up to three infantry units, or two
+infantry and one artillery unit, in a town
+hex, regardless of their parent
+organization.
+Cavalry
+stacking
+restrictions still apply.
+
+5.53 Town Restrictions. A unit that
+starts its movement in a town hex that is
+taking advantage of town stacking pays
+an extra MP to leave that hex. Only two
+units may attack out of a Town hex, even
+if there are three in that hex. This
+includes firing Jägers, Chasseurs or
+Light Infantry.
+5.54 Cavalry and Towns. Cavalry does
+not gain ANY of the benefits of a Town
+hex (including the terrain benefit applied
+to infantry). They may not charge an
+enemy in a Town hex.
+
+5.6 Reinforcements
+Reinforcements enter the game in the
+turn listed in the reinforcement arrival
+schedule for the scenario (see Playbook).
+They enter when their corps is activated.
+They enter through the Entry Hex(es)
+stated in the scenario, as if they were in a
+“line” extending off the map. That is, the
+first unit in that command pays the cost
+to enter the map edge. Each additional
+reinforcing unit that enters the map pays
+the terrain cost multiplied by the number
+of reinforcement units that have entered
+ahead of it through that entry hex.
+Some Reinforcements specify that they
+may be activated only once that turn.
+This represents units that arrived about
+halfway through the turn’s time frame.
+Reinforcements may enter using
+Strategic Movement, if they are eligible
+and the player wishes.
+
+5.52 Town Effects. If two or more
+infantry units are in any one town hex,
+they each gain the following advantages:
+• They have all-around, six-hex frontal
+facing and ZOC. However, that ZOC
+does not extend into HeavilyCultivated or Woods hexes [6.23].
+• When leaving the hex, or attacking out
+of that hex, they may do so through
+any one hexside.
+These advantages do not apply to single
+infantry units in a town hex, nor do they
+apply to cavalry.
+
+Page 10 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+6.12 Attack Facing. A unit may attack
+only into its Frontal hexes, with some
+restrictions [6.23].
+6.13 Artillery Facing. Stacked artillery,
+or an artillery unit stacked with an
+infantry unit, do NOT have to have the
+same facing. Any facing effects on the
+attack DR apply to the infantry unit’s
+orientation.
+
+6.0 POSITION
+The position of counters (facing,
+adjacency and zones of control) have an
+impact upon what units can and/or must
+do in the game.
+
+6.1 Facing
+All units must be faced in a hex so that
+the top of the unit (the side with its unit
+name) faces along one of the hexsides, as
+shown below. All units in a hex must be
+faced the same way (except as noted in
+6.13 and 6.14). The three hexes to the
+front are called the Frontal hexes; those
+behind, the Rear.
+
+6.14 Square. To protect against a
+cavalry charge, non-Jäger/Chasseur
+infantry unit(s) (within normal stacking
+limits [5.41]) may assume different
+facings to form a Square. To do so the
+unit must not be adjacent
+to an enemy unit and
+must pay 1 MP to do so,
+after which it may move
+no further that turn. Place
+a Square marker atop the unit. Square
+confers the following effects:
+• Units in Square may not move.
+• All hexes adjacent to the Square are
+Frontal.
+• All units in the Square may fire, but
+they still fire separately.
+• Cavalry units add one (+1) to their
+Charge Commitment die roll [7.42]
+when charging a Square.
+Units may leave Square by paying 1 MP.
+They may not do so if adjacent to an
+enemy unit.
+6.15 Rally Facing. Rallied units may
+change facing [7.9].
+6.16 Facing Change after Combat. An
+attacking unit may change facing one
+vertex (in the combat hex) after forcing
+the defender to retreat.
+
+6.2 Zones Of Control (ZOC)
+6.11 Movement Facing. Facing has no
+effect on movement, and a unit is free to
+change its facing at any time, during and
+at the end of movement. Units do not
+have to be facing a particular hex to
+enter that hex.
+Exception: See 6.33 regarding presence
+in enemy frontal ZOC.
+
+Zones of Control represent the extension
+of a unit’s presence outside the
+immediate hex in which it is located,
+usually
+through skirmishers and
+maneuverability.
+6.21 Frontal ZOCs. Infantry and
+cavalry units exert a ZOC into all three
+Frontal hexes adjacent to the hex they
+
+occupy. There are no ZOCs to a unit’s
+Rear.
+Exception: Artillery and Disordered
+units do not exert any ZOC.
+6.22 ZOC Limitations. A ZOC does not
+extend:
+• Across impassable hexsides or into
+Town hexes
+• Through bridges (but they do extend
+across Fords).
+• UP sheer or steep hexsides (but they do
+extend DOWN for infantry).
+6.23 Cultivated Hex ZOCs. Much of the
+Magenta battlefield is heavily-cultivated
+farm land—a maze of vineyards, trees
+and other types of dense cultivation. The
+same applies to much of the southern
+plain of the Solferino battlefield,
+although the growth is not quite as
+entangled and more sporadic, for which
+we have Lightly-Cultivated hexes. In
+addition to the movement costs to
+navigate this thicket of greenery, a unit
+in a Heavily- or Lightly-Cultivated hex
+exerts a ZOC only into the one hex
+directly to its front.
+Exception: ZOCs extend into any
+frontal hex directly connected by a
+road or Trail.
+Units in a Heavily-Cultivated hex may
+attack only into one of their controlled
+hexes. This does not apply to units in
+Lightly-Cultivated hexes, even though
+they may exert a ZOC only directly
+frontal.
+Play Note: See the Magenta scenario in
+the Playbook for additional rules
+concerning this.
+6.24 Enemy ZOCs and Command.
+Enemy ZOCs block command range but
+are negated if the hex into which the
+enemy ZOC is exerted is occupied by a
+friendly unit. See also 4.12.
+
+6.3 Moving Adjacent
+The cost to move adjacent to an enemy
+unit represents the time and difficulty it
+takes to deploy for an attack. See also
+5.33 for adjacency prohibitions.
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 11
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+6.31 Added Movement Cost. The costs
+(in addition to the cost of the terrain
+itself) to move adjacent to an enemy
+infantry or cavalry combat units are:
+• All regular infantry pay +2 MPs to
+enter an enemy ZOC.
+• All regular infantry pay +1 MP to
+move adjacent to any enemy combat
+unit, but not into a ZOC hex.
+
+6.32 Stops Movement. Units must stop
+upon moving into to an enemy ZOC
+(although they can alter their facing as
+they enter that hex). They do not have to
+stop if they do not enter a ZOC.
+6.33 Inhibits Movement. A unit that
+starts movement in an enemy ZOC may
+do one of three things, in terms of
+movement:
+
+6.34 Cavalry Withdrawal. If an enemy
+infantry unit is about to
+move adjacent, or, if
+already starting adjacent,
+wishes to enter a hex
+occupied by a cavalry unit,
+the cavalry may react by withdrawing
+two hexes away. The enemy may move
+into the vacated hex and then continue
+moving if it has MPs remaining. If
+moving adjacent, it does pay the cost to
+enter the cavalry ZOC once the latter has
+withdrawn (for Cavalry only; not for
+Horse Artillery). If already adjacent,
+there is no extra MP cost. Horse
+Artillery—those batteries with an MA of
+8—is considered to be cavalry for the
+purpose of Withdrawing, but the enemy
+infantry unit does NOT pay the cost to
+enter the ZOC once the HA unit has
+withdrawn.
+Cavalry may Withdraw even if the
+subject of a Surprise Attack (Magenta).
+Exception: Cavalry cannot withdraw if
+it is in the ZOC of another enemy unit.
+6.35 Jäger/Chasseur Withdrawal.
+Jäger and Chasseur units [7.2] may, even
+if Disordered, withdraw before an enemy
+unit moves into one of its ZOC hexes.
+To withdraw, the unit moves one hex to
+the rear. The enemy unit may move no
+further, but the withdrawing unit may
+not Reaction Fire.
+
+7.0 COMBAT
+
+Example: A unit in M2403 is facing into M2503. It extends a ZOC into M2503, as
+that is its directly frontal hex, and into M2404, because of the road. It does not
+do so into M2502, even though the latter is a frontal hex.
+• Light infantry and Jägers/Chasseurs
+pay +1 MP to move adjacent to an
+enemy, including a ZOC hex.
+• There is no MP cost to move adjacent
+to an enemy artillery unit not stacked
+with supporting infantry/cavalry.
+• Cavalry may move adjacent to an
+enemy unit only as part of a Charge
+[7.5], though there is no additional MP
+cost.
+
+• Stand still
+• Stay and change its facing one hexside
+(not more).
+• They may leave an enemy ZOC if they
+start their phase there, but to do so
+costs one additional MP (in addition to
+the terrain cost of the hex entered), and
+that unit may not move directly into
+another enemy ZOC.
+
+Combat consists of three types: artillery
+fire, a limited amount of Small-Arms
+Fire and attack (which combines closerange fire and charges).
+• Artillery cannot attack [7.35].
+• Small-Arms Fire is limited to Jägers,
+Chasseurs and Light infantry [7.2].
+Design Note: We have combined the
+usual fire and shock aspects of combat
+into one mechanic. This is as much a
+result of the scale (325 yards per hex)
+as our desire to keep things as
+accessible as possible.
+
+Page 12 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+
+7.1 Artillery Fire
+Artillery may fire any
+time it is activated, once
+per activation segment
+(see 5.32 for movement effects of firing).
+Artillery can change facing (without
+leaving the hex) and fire in the same
+phase. It may also fire in Reaction,
+during an opposing player’s activation
+segment [7.17]. Artillery can fire only
+through its frontal hexes.
+7.11 Fire Procedure. Artillery fire is
+resolved by rolling the die for each firing
+unit, and adjusting that roll [see 7.18 on
+fire resolution]. Artillery fire results
+affect all units in the target hex,
+individually. The effectiveness of the fire
+largely depends upon gun type and
+range.
+• Gun Type: The gun type is printed on
+the counter: F, for Field, H for Heavy,
+R for Rockets and Rf for Rifled. The
+Horsehead indicates Horse Artillery.
+• Ranged Fire: Artillery may fire at
+targets more than one hex away. The
+maximum distance, in hexes, over
+which artillery may fire is printed on
+the counter. Range effects are used as
+a DRM to the fire resolution (consult
+the Artillery Range Effects Chart for
+the DRM for that type at that range).
+Ranged fire may also be restricted by
+Line-of-Sight considerations [7.13].
+Historical Note: The French Imperial
+Guard’s brand new, muzzle-loading
+rifled guns were superior to that of
+either the Austrians or Piedmontese,
+at least in terms of accuracy and
+range. However, it appears that the
+French did not have (or use) grape or
+canister for the new rifled barrels,
+which is why they have lower ratings
+at short ranges.
+7.12 Combined Fire. If artillery units
+from the same Corps are stacked in the
+same hex, or in adjacent hexes, they may
+combine fire IF (and only if) they are
+within range of the Corps Commander.
+Army Reserve batteries may be assigned
+to any corps for this purpose, OR they
+may combine fire as part of the Army
+Reserve activation (but not both).
+Example:
+Schwarzenberg
+can
+command any/all batteries from the III
+
+corps, whether they are in his Reserve
+or assigned to a specific brigade.
+When combining fire, ADD TWO to the
+roll for EACH additional battery.
+Otherwise, artillery units fire separately.
+If guns of different type combine fire,
+they use the “worst” Range DRM.
+Exceptions:
+• French artillery may only combine fire
+when stacked in the SAME HEX.
+• Piedmont batteries may NOT combine
+fire.
+7.13 Line of Sight. Artillery firing at a
+range of two hexes or more—counted
+from guns to target, not counting the hex
+the firing unit is in—can fire only if they
+can see the target (called having a Line
+of Sight). Intervening elevations and
+units (friendly or otherwise) can block
+the Line of Sight (LOS) to the target.
+Ridges are treated as the level of their
+color. Woods, Villages, Towns and
+Castles are treated as being one level
+higher than the hex they are in.
+LOS is blocked if:
+• Any intervening hex is of a higher
+elevation than both target and firing
+hex.
+• Any intervening hex between target
+and firer is Woods, HeavilyCultivated, or a hex occupied by a
+combat unit (friendly or otherwise),
+and neither target nor firer is at a
+higher
+elevation
+than
+that
+woods/occupied hex.
+• The firing hex is higher than the target
+and higher than the intervening Woods
+or Heavily-Cultivated hex, and if the
+obstruction is halfway between the
+two or closer to the target.
+• The target hex is higher than the firing
+hex and higher than the intervening
+woods or HC hex, and if the woods is
+halfway between the two or closer to
+the firing hex.
+The hexside of a potentially blocking
+hex is part of that hex and thus that hex
+will block LOS that travels along that
+hexside. Artificial? You bet.
+If both target and firing hexes are higher
+than intervening obstructions, fire is
+allowed (for the benefits of firing from a
+higher elevation, see 7.14).
+
+7.14 Elevated Fire. Guns at a
+measurably higher elevation than their
+targets were usually more effective, as
+long as the target was not too close.
+Therefore, if the target is NOT
+ADJACJENT, then artillery gains the
+following elevation benefits:
+• +1 DRM if firing down two levels
+• +2 DRM if firing down three levels
+Artillery may not fire at an adjacent
+hex that is two or more levels higher
+or lower.
+7.15 Dispersed Target. If the hex
+contains only Jägers or Chasseurs, the
+player applies a –2 DRM.
+7.16 Massed Target. When artillery
+fires at any hex in which there are two or
+more non-artillery units stacked, it gets a
++1 DRM. Jägers and Chasseurs do not
+count.
+7.17 Reaction Fire. Artillery batteries
+may fire during an opposing player’s
+activation segment, in Reaction to
+certain actions by that player. They may
+do one of each type of fire listed below
+for each activation segment.
+• Counter-Battery Fire. An artillery
+unit may always fire back at any
+artillery unit that fires at it. Such fire is
+not simultaneous; it occurs after the
+original fire, and the unit may only
+Counter-Battery Fire once in each
+activation segment.
+• Pre-Attack Fire. An
+artillery battery that
+is about to be fired at
+[7.2] or attacked
+[7.3], or into whose
+frontal hex an enemy unit moves, may
+fire at any one frontal hex. It may do
+so only once in each activation
+segment.
+Play Note: Thus, a battery may either
+fire when an enemy moves adjacent or
+wait until it decides to attack. The
+choice is up to the non-phasing player.
+7.18 Fire Resolution. Roll the die and
+add or subtract any modifiers to fire (see
+below). Then consult the Artillery Fire
+Table for the result. Note: Disordered
+artillery may not fire.
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 13
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+The artillery fire roll may be adjusted by:
+• Range [7.11]
+• Terrain (see the Terrain Effects Chart)
+• Combined Fire—add two for each
+additional battery firing [7.12]
+• Elevated Fire [7.14]
+• Massed or Dispersed Target [7.15
+and 7.16]
+
+KEY TO FIRE RESULTS:
+NE No Effect
+CDR Cohesion Die Roll: Roll a die and
+compare it to the unit’s present
+Cohesion. If higher than that
+rating, the unit is Disordered; if
+not, then there is no effect. The
+CDR result has no effect on
+artillery.
+D
+All units in hex Disordered
+D+1 All units in hex Disordered, 1 Hit
+is applied to any one unit.
+
+• If stacked with non-Jäger/Chasseur
+units, and the stack is attacked, ignore
+the Jägers/Chasseurs (regardless of
+stacking order). They take Hits from
+an enemy attack only if there are no
+units left.
+• Pay only +1 MP above terrain costs to
+move adjacent to an enemy unit.
+• When an enemy unit moves into a
+Jäger/Chasseur ZOC, and the Jäger/
+Chasseur is the only unit in the hex,
+the Jäger/Chasseur unit has two
+choices:
+1) Stand and defend (they may use
+Reaction Fire), OR
+2) Withdraw one hex to the rear (may
+not use Reaction Fire), but the
+enemy unit may move no further.
+Jägers/Chasseurs
+may
+not
+Withdraw if they are the subject
+of a Surprise Attack (Magenta).
+Cavalry may.
+
+7.2 Jägers, Chasseurs and Light
+Infantry
+Design Note: Jäger and Chasseur
+battalions are prohibited from attack
+simply because, while they were trained
+in shock attack, it does not appear that
+they were used for that purpose during
+this war. The Austrian light infantry is
+mostly second-line, Grenzer battalions,
+and, while the French light infantry is
+rated much better, it was usually
+somewhat smaller (at least as far as we
+can tell). Anyway, it made up for size
+with skill at more than one job. It also
+provides a dash of flavor for the stew
+that is wargaming.
+The only units that may use Small-Arms
+Fire are Jägers and Chasseurs (those
+units with a yellow-boxed cohesion
+rating) and Light Infantry (those units
+with a white-boxed cohesion rating).
+Small-Arms Fire-capable units may fire
+only if they are the top unit in a stack.
+
+7.21 Jäger/Chasseur Capabilities:
+• May only fire; they may never attack.
+
+7.22 Light Infantry Capabilities:
+• May fire and attack when activated.
+• When attacking with any Light
+Infantry, the attacker incurs a –1 DRM
+to his attack die roll.
+(Note: Disregard the CRT – such
+penalty is incurred with ANY Light
+Infantry, not just when attacking with
+more than half LI, as the CRT states.)
+7.23 Small-Arms Fire. This type of fire
+(restricted to Jägers, Chasseurs and Light
+Infantry) takes place only into adjacent,
+frontal hexes. To fire, the player rolls the
+die, applies any terrain or Disorder
+effects—the only DRMs that affect
+small-arms fire—and checks the SmallArms Fire Table. Units may not combine
+Small-Arms Fire. Units capable of
+Small-Arms Fire may do so only once in
+an activation segment, and only into one
+hex.
+Fire may be directed across non-elevated
+hexes across which an attack would
+normally not take place (e.g., a canal
+hexside, across which the units most
+certainly could fire).
+
+7.24 Small-Arms Reaction Fire. Much
+like artillery pre-attach Reaction Fire
+[7.17], small-arms fire may occur during
+an enemy activation segment. However,
+each unit may do this only one time in
+each segment, either after being fired at
+OR before being attacked.
+7.25 Small-Arms Fire Results. The
+result is either No Effect, or else the
+target unit gets 1 Hit.
+
+7.3 Infantry Attack
+Design Note: “Attack” combines
+close-range musketry with the
+subsequent display of “cold steel”, the
+bayonet charge.
+Any active infantry unit—except for
+Jägers and Chasseurs—may attack any
+enemy unit(s) in its ZOC [See 7.5 for
+cavalry]. Attacking is voluntary. A
+single activated unit may attack into only
+one hex. Even if both Frontal hexes are
+enemy-occupied, a single unit may
+attack against only one (attacker’s
+choice). If there are two activated units
+in a hex, they may either combine and
+attack into one hex [7.31], or split and
+attack into one different hex each. This
+choice is made before any Commitment
+die rolls [7.42]. Defenders stacked
+together are combined.
+7.31 Combined Attack. Attacking units
+from the same brigade may combine
+their “strength” if:
+• They start stacked together, or
+• They start in adjacent hexes.
+Non-adjacent
+separately.
+
+units
+
+must
+
+attack
+
+Units from the same corps, but different
+brigades, may not attack together.
+7.32 Separate Attacks. If attacking
+separately, the order is up to the
+attacking player. If one of the attackers is
+doing so across a hexside which would
+give different die roll modifiers, the
+defender gets the benefit of the terrain
+DRM which is best for him.
+7.33 Attack Restrictions:
+
+Page 14 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+• Artillery never participates in attack.
+If stacked with infantry or cavalry, the
+artillery suffers any retreat results
+incurred by the infantry or cavalry. It
+may not be used to take a Hit result,
+though. If attacked while alone in a
+hex (or stacked with another artillery
+unit), it is automatically eliminated.
+• Cavalry may not attack; it must charge
+[7.5].
+• Jägers and Chasseurs may not attack.
+They defend only if they are the only
+units in the defending hex.
+• Light Infantry may fire and attack/
+defend [7.22].
+• Disordered units may not attack
+(although, if capable, they may fire).
+
+7.4 Resolving Attack
+Attacks are undertaken by activated units
+that began the activation In Command,
+and are conducted AFTER all movement
+and fire has been completed (by all
+activated units). Attack is always
+voluntary. An activated unit may launch
+an attack on any enemy unit(s) in its
+Frontal hexes, unless they are separated
+by an uncrossable hexside. Disordered
+units may not attack; they will defend
+(with a DRM).
+7.41 Commitment. To attack, the
+activated unit must enter the enemyoccupied hex. Attack resolution occurs
+when opposing units occupy the same
+hex.
+To enter an enemy hex, each unit must
+pass a Commitment die roll. All
+Commitment die rolls for the brigade are
+undertaken before any attacks are
+resolved. Roll the die, adjusted as below,
+and compare it to the Cohesion Rating
+(as adjusted, see 8.12) of the unit.
+The roll is adjusted (up or down) by the
+Commitment DRM of its brigadier, if the
+unit is within his range at the time of the
+die roll.
+If the DR is equal to or lower than the
+adjusted Cohesion, the unit must enter
+the enemy hex and attack. If the DR is
+higher than the adjusted Morale, it may
+not move or attack.
+
+7.42 Combined Commitment. If there
+are two units in an attacking hex, the top
+unit attempts Commitment first. If it
+passes, the bottom unit follows
+automatically. If it fails, neither unit may
+Commit.
+7.43 Attack Stacking. Stacking
+restrictions do not apply in the attack/
+target hex during the attack, but they
+apply afterwards. After the loser has
+retreated out of the contested hex, the
+winner must “retreat” all units above the
+stacking limits (back into the hexes from
+whence they came). The loser retreats
+his units first (see also 8.33).
+Play Note: As each unit undertakes
+Commitment individually, and a
+committed unit must attack, it is
+entirely possible that some multi-unit
+attacks will not be quite as “multi” as
+the player hoped.
+7.44 Attack Procedure. Attacks are
+resolved, one hex at a time, in any order
+the activated player wishes. To resolve
+the attack, both the attacker and defender
+each roll the die. Each player adds (or
+subtracts) any of his applicable DRMs,
+depending on whether he is attacker or
+defender [7.45]. The result is the number
+of Hits inflicted upon the opposing unit
+[8.0]. Results apply immediately to all
+affected units, before proceeding to the
+next combat.
+7.45 Attack and Charge DRMs. The
+following DRM apply to attack. All
+DRMs are cumulative.
+ATTACKER DRMS
+Strength Comparison. If the attacker
+has more units than the defender, he
+earns a DRM equal to the difference.
+The DRM is always “positive,” and
+applies only to the numerically
+superior player. Example: Three
+Austrian units attack one French unit.
+The Austrian would get a +2 DRM as
+the attacker. There would be no DRM
+for the defender.
+Higher Cohesion. The side with the unit
+with the highest Cohesion ADDS
+ONE to its roll. If tied, neither side
+benefits.
+Position DRMs. If any units are
+attacking by entering the target hex
+
+through the target’s Rear hexside,
+ADD ONE to the attacker’s roll. If
+attacking units are attacking through
+both Front and Rear hexsides, ADD
+TWO to the roll. The attackers get this
+DRM as long as they are Committed
+to Attack the hex; if more than one
+unit is attacking, they do have to
+combine [7.31] their attacks to gain
+such DRM benefit.
+Terrain DRM. Check the Terrain
+Effects Chart for any Terrain DRM
+that negatively affects the attacker’s
+roll.
+Strategic Movement. If
+defender
+is
+using
+Strategic Movement, the
+attacker gets a +2 DRM.
+Morale. If any defender is
+from a brigade that is
+Hors de Combat [9.1],
+the attacker gets a +1
+DRM.
+Unit Type. If ALL
+defending
+units
+are
+Jägers or Chasseurs, the
+attacker gets a +2 DRM.
+If only some of the
+defenders are Jäger/
+Chasseur, simply ignore
+them. If more than half
+of the attackers are Light
+Infantry, the attacker
+incurs a –1 DRM.
+Cavalry
+Charge
+vs.
+Infantry [7.5]. If more
+than half of an attacking
+force is Light Cavalry
+charging infantry, it
+incurs a –2 DRM for
+attacker.
+Cavalry Charge vs. Cavalry [7.5].
+Heavy Cavalry charging
+Light Cavalry receives
+a +1 DRM.
+Light Cavalry charging
+Heavy Cavalry incurs
+a –1 DRM.
+If the attackers (or
+defenders) are mixed
+types, there is no
+DRM.
+Surprise (Magenta only,
+see
+Playbook).
+An
+attacking unit gains a +2
+DRM.
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 15
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+DEFENDER DRMS
+Strength Comparison. If defender has
+more units, he earns a DRM equal to
+the difference. The DRM is always
+“positive,” and applies only to the
+numerically superior player. Example:
+If one French attacked three
+Austrians, the latter, as defender,
+would get a +2 DRM.
+Higher Cohesion. The side with the unit
+with the highest Cohesion ADDS
+ONE to its roll. If tied, neither side
+benefits.
+Disordered. If any defender is
+Disordered, he SUBTRACTS ONE
+from his roll.
+Infantry defending vs. Cavalry. ADD
+TWO to the defender’s roll [see 7.53].
+(This represents the infantry’s
+firepower).
+7.46 Unsupported Artillery. Artillery
+units that are alone in a hex (with no
+infantry or cavalry support) are
+automatically eliminated when attacked,
+after they use Reaction Fire (see 7.61
+regarding Horse Artillery). The attackers
+first must pass Commitment for this to
+happen.
+7.47 Continued Attack. Any time the
+attacker has lost fewer Hits than the
+defender (and, therefore, controls the hex
+he attacked [8.31], he may (voluntary)
+attempt to Continue his attack. He may
+do so only with the unit(s) that remain in
+the hex after meeting stacking limits
+[7.43]. To do this, he rolls the die,
+subtracting the difference between
+enemy Hits suffered and victorious Hits
+suffered, and compares the adjusted roll
+it to the adjusted Morale of the unit
+intended to attack again.
+• If the adjusted roll is the same as or
+lower than the adjusted Morale, that
+unit (or stack) may move into any one
+hex adjacent to the original battle hex
+and attack any enemy therein, using
+regular combat rules.
+• If the adjusted roll is higher, the units
+stay in the original battle hex, and
+there is no further movement.
+Example: Thus, if the attacker loses 1
+Hit and the defender loses Hits, the
+attacker, as winner, may opt to
+attempt Continued Attack with a –2
+DRM.
+
+At the conclusion of the Continued
+Attack, regardless of the result, the
+unit(s) that Continued suffer 1 Hit each.
+Only one Continued Attack may be
+undertaken by each unit in an activation
+segment.
+
+7.5 Cavalry Charge
+Historical Note: Cavalry effectiveness
+was much reduced since the Napoleonic
+era, mostly because of the increased
+range and effectiveness of infantry fire.
+A big cavalry action occurred at
+Solferino, in the plains west of Medole.
+Very little cavalry was at Magenta,
+although the French Chasseurs of the
+Guard did charge, and take, an Austrian
+entrenched position.
+To attack an enemy unit, cavalry must
+Charge. Charges are undertaken by
+activated units that began the activation
+In Command, and are conducted AFTER
+all movement and fire has been
+completed (by all activated units).
+Charge is always voluntary. To Charge
+in its segment, the cavalry unit must
+Charge into the target’s hex, starting at
+least two, but not more than three, hexes
+away. A cavalry unit may Charge only
+against a target it can see before it started
+its Charge move (see 7.13 LOS).
+Disordered cavalry may not Charge. In
+order to continue with the Charge,
+cavalry must roll for Commitment
+[7.41].
+The exact sequence is that the cavalry
+unit moves and then, if eligible for
+Charge, checks for Commitment. If
+successful, it then “charge moves” into
+the hex and attacks. While the latter
+movement is part of the Charge, it is not
+part of actual “movement”. Charging
+cavalry units become Disordered at the
+end of the charge.
+7.51 Enemy Obstruction. Cavalry units
+that start their activation adjacent to an
+enemy combat unit may either stay there
+(and change facing), or move away.
+They may NOT Charge. Moreover,
+cavalry may not voluntarily move
+adjacent to an enemy combat unit except
+during a Charge. It may do so if required
+by a Retreat result [8.3].
+
+Cavalry that are or become adjacent to
+an enemy unit being activated may
+Withdraw as per 6.34 and 7.53 (they can
+Displace other units; see 8.33).
+7.52 Terrain Obstruction. Terrain also
+determines whether a cavalry unit may
+or may not Charge.
+• Cavalry may NOT Charge into a nonroad or non-trail Heavily-Cultivated,
+Marsh or Woods hex.
+• Cavalry MAY Charge into a HeavilyCultivated hex if moving via Road,
+but incurs a –1 DRM (in addition to
+the DRM the terrain usually brings).
+Thus, at Magenta, a cavalry unit in
+4609 could charge a unit in 4507 (with
+a –1 DRM), but not one in 4408.
+• Cavalry may NOT Charge into any
+Castle, Town or Village hex regardless
+of road presence.
+• During charge movement a cavalry
+unit may not move through any hex,
+or across any hexside (including the
+one which separates attacker from
+defender) that would cost more than 2
+MP.
+Historical Note: Normally, we would
+exclude charges across fortifications
+(which exist at Magenta). However,
+most of those fortifications were
+“entrenchments,” and the French
+cavalry—the Chasseurs of the Guard
+— did charge entrenched Austrians at
+Magenta.
+7.53 Cavalry Reaction. Cavalry has the
+ability to avoid—or instigate—an
+infantry attack either by moving away at
+the first sign of danger, or by charging
+into the oncoming units. Whenever an
+enemy infantry unit moves into, or starts
+its activation adjacent to, a cavalry ZOC,
+the “defending” cavalry must do one of
+the following:
+• React by withdrawing two hexes
+away (they can Displace other units;
+see 8.33). The enemy may move into
+the vacated hex (at least), and then
+continue moving if it has MPs
+remaining. Horse Artillery (those
+batteries with an MA of 8) is
+considered to be cavalry for the
+purposes of this ability. The choice as
+to whether to withdraw or not must be
+made the instant the enemy unit enters
+the ZOC.
+
+Page 16 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+• React by countercharging the
+incoming infantry. That combat is
+resolved
+instantly,
+with
+the
+countercharging cavalry as the attacker
+and the attack taking place in the
+original target hex. No Commitment
+roll is needed.
+Design Note: So why can’t the cavalry
+just stand and defend? Because, at the
+level of complexity and design intent,
+the infantry would be firing at the
+cavalry, not meleeing. The cavalry
+would have only two choices in the
+face of that firepower: retreat or
+charge. If it stood in place, the
+infantry would, most likely, shoot it to
+ribbons.
+7.54 Reaction Restrictions. Cavalry
+may not use Reaction if it is in the ZOC
+of a different enemy unit at the time. If
+such is the case, it can neither withdraw
+nor countercharge. Disordered cavalry
+may use reaction to withdraw, but not to
+countercharge. Reaction withdrawal does
+not cost any MPs. However, the unit
+may never react farther than it could
+normally move (in terms of MPs it
+would spend). It may not react into an
+enemy ZOC.
+Cavalry may Countercharge only into
+hexes into which it could normally
+charge [7.52]. If, for reasons of
+terrain/ZOC, the cavalry can neither
+withdraw nor charge “legally,” it must
+stand and defend against the attack.
+Example of Cavalry Reaction:
+[Solferino] The 3/4 Sicilian Uhlans
+are sitting in S3732, guarding the
+bridge across the canal. Directly to
+their rear (in 3731/3632) are three
+battalions of infantry from Dientsl’s
+brigade (III) plus an artillery battery.
+Two battalions from O’Farrel’s
+brigade (IV Corps) move from S3836
+to S3832. As they enter S3832, the
+Uhlans must decide what to do. To
+countercharge would be most foolish
+(heavy negative DRMs), so they opt to
+withdraw (to 3831). The French
+infantry may not move any further. If it
+could, it would have been a difficult
+decision for the French player, as he
+would be moving into the face of an
+
+Austrian battery (and some hefty
+opposition).
+
+8.0 COMBAT RESULTS
+Combat causes units to suffer Hits [8.1],
+Disorder [8.2] and Retreats [8.3].
+Disorder can be removed with Rally,
+while Hits can be removed with
+Recovery [8.5].
+
+8.1 Hits
+The term “Hits” is
+shorthand for the cumulative and
+corrosive effects of combat on a unit. It
+represents more than just the loss of
+manpower, although that is certainly one
+of the aspects. All Hits are cumulative.
+Keep track of them by placing the
+appropriate Hit markers under the
+affected counter.
+8.11 Hit Results. Combat results from
+either attack or fire may include Hits, the
+numbered combat result. Hits are always
+applied to the hex as a whole. Thus, if
+there are two units in a hex, and it incurs
+1 Hit, only one of those units gets that
+Hit. If there is a choice as to how to
+divide Hits, they must be divided as
+evenly as possible, with the affected
+player choosing when there is a
+“leftover” Hit. Hits have no effect on
+Artillery.
+8.12 Effect of Hits:
+• The number of Hits a unit has
+accumulated is used to determine its
+Adjusted Cohesion. Unless the rules
+say specifically to use the “printed”
+Cohesion, whenever a roll is made
+against a unit’s Cohesion Rating, the
+Cohesion Rating is adjusted (down) by
+the number of Hits it has accumulated.
+Example: A unit with a Cohesion
+Rating of 6 with 2 Hits has an adjusted
+Cohesion Rating of 4.
+• The instant a unit has accumulated Hits
+GREATER THAN its Cohesion
+Rating, the unit is eliminated (and is
+unrecoverable).
+• Hits have no affect on a unit’s basic
+ability to fire or attack/defend. It will
+affect Commitment, though.
+
+Design Note: It is important to keep in
+mind that, as Cohesion Ratings reflect
+more than just morale or manpower
+casualties. Hits affect the endurance a
+unit has. To that extent, the Cohesion
++ Hit system simulates a unit’s staying
+power.
+
+8.2 Disorder
+Disorder is a result incurred from
+Artillery Fire or as a consequence of
+performing a charge (cavalry units only).
+Indicate such status by flipping the unit
+to its Disordered side.
+8.21 Disorder Effects. Disordered units
+may not Artillery Fire, attack, Charge or
+Countercharge. They may fire SmallArms.
+A Disordered unit incurs the following
+DRMs:
+• When defending against attack: –1
+• When firing small-arms: –1
+8.24 Additional Disorder. If a
+Disordered unit suffers an additional
+Disorder result, it remains Disordered
+and incurs a Hit (in addition to any other
+Hits it might have incurred). Artillery
+units that suffer an additional Disorder
+are eliminated.
+
+8.3 Retreat
+Retreat applies only to the aftermath of
+an attack; it is not used in fire.
+8.31 Determine Loser. After all Hits
+have been applied when resolving an
+attack, determine the loser of the attack
+(which must retreat all his units), using
+the following list of priorities (use the
+first one that applies):
+1) The player whose units received the
+most hits must retreat.
+2) The player with the unit with the
+lowest Adjusted Cohesion (after hits
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 17
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+from that attack have been applied)
+must retreat.
+3) The side which has a brigadier in the
+combat “wins,” forcing the other
+side to retreat.
+4) The side with the brigadier with the
+superior Commitment Rating (–1 is
+better than +1) wins, forcing the
+other side to retreat.
+5) The attacker retreats.
+8.32 Attacker Retreat. An attacking
+unit must retreat into the hex(es) from
+whence it came. It does not move any
+further. There are no other restrictions.
+8.33 Defender Retreat. A defending
+unit forced to retreat moves into any hex
+adjacent to the target hex, with the
+following “preferences”:
+• It may never retreat into an enemyoccupied hex.
+• It may not retreat into a hex that was
+occupied by an enemy unit prior to the
+attack (the attacker’s hex of origin).
+• It will retreat into the least costly hex
+(in MP cost terms) available.
+• It may not retreat into or through
+prohibited terrain.
+• If it retreats into an enemy ZOC (other
+than that exerted form the contested
+hex), which it may do, it incurs an
+additional Hit.
+That is, back-stepping from the
+contested hex into the victor’s ZOC
+does not trigger the penalty.
+Retreating into the ZOC of another
+enemy unit does.
+• If a unit retreats into a hex occupied by
+a friendly unit with which it CAN
+stack according to 5.41, and which is
+the subject of a pending (yet to be
+resolved) attack, it is placed at the
+bottom of the stack, and does not
+contribute to the hex’s defense in any
+way. If the defenders of the hex are
+subsequently forced to retreat or are
+eliminated, the unit retreats a second
+time and performs a CDR. If it fails, it
+takes one Hit. The one hit penalty for
+retreating into an enemy ZOC still
+applies.
+• If losing, the defender retreats all his
+units from the contested hex before the
+attacker retreats any “extra” (i.e.,
+overstacked) units of his own. This is
+intended to avoid a chance that the
+winning, overstacked attackers might
+
+exert a ZOC into a possible retreat
+hex, forcing an unwarranted step loss.
+• DISPLACEMENT: If a unit’s only
+path of retreat is into a hex occupied
+by a friendly unit with which it
+CANNOT stack per 5.41, it MAY
+enter such hex, but:
+i) the original occupant unit is
+displaced one hex in turn; this
+may
+trigger
+a
+chain
+of
+displacements, which may or may
+not extend to the whole line. This
+effect is intended.
+ii) both units then undergo a CDR. If
+either fails, it takes one additional
+hit.
+iii) If the hex retreated into was
+meant to be attacked later in the
+same activation by enemy units,
+the attack is cancelled. The one
+Hit penalty for retreating into an
+enemy ZOC still applies.
+• An Artillery unit stacked with other
+units that are forced to retreat due to
+enemy attack is eliminated.
+If a defending unit cannot retreat it is
+eliminated.
+8.34 One-Vertex Facing Change. An
+attacking unit can change facing one
+vertex in the combat hex after forcing
+the defender to retreat.
+
+8.4 Commanders and Combat
+Leaders are endangered when one of the
+following occurs:
+• They are stacked with units that
+receive an artillery fire result of D+1.
+• They are stacked with units that
+receive two or more Hits in an attack.
+• They are alone in a hex and an enemy
+combat unit moves adjacent.
+
+completing his two activations, the
+whole Corps is Finished for the turn –
+i.e., no further activations are allowed
+until the next turn.
+Whenever a leader is alone and an
+enemy unit moves adjacent, place his
+counter with the nearest combat unit in
+his brigade after rolling to see if he is
+Finished.
+Design Note: The temporary loss of a
+leader represents the time needed for
+a subordinate to assume command,
+without using a new counter.
+
+8.5 Rally and Recovery
+Rally applies to removing Disorder.
+Recovery is used to reduce the number
+of Hits a unit has accumulated.
+8.51 Rally. Rally is an action a unit may
+undertake when it is activated. If the
+designated unit is not adjacent to an
+enemy combat unit, and it does nothing
+else that activation, the player may
+remove the Disorder. Units in an
+Extended Activation (4.43) may not
+Rally.
+8.52 Recovery. In the
+Recovery Segment, from
+each unit in Reserve status,
+a player may:
+• Remove Disorder status
+AND
+• Remove two Hits.
+8.53 No Full Recovery. In removing
+Hits, a unit may never recover its
+original status. The first Hit it receives is
+permanent. Anything beyond that first
+Hit may be recovered.
+
+When endangered, roll the
+die. If it is 7 or higher that
+Leader is Finished for the
+turn. This means he may
+not be used for any of his
+game functions until next
+turn. For brigadiers, it
+means all his units are Out
+of Command.
+If a Corps
+Finished in
+
+Commander becomes
+this fashion before
+
+Page 18 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+• Add to the roll the number of HDC
+brigades.
+• Subtract from that roll the Corps
+Commander’s
+Continuity
+Rating
+[4.14]. If the adjusted roll is 7 or
+higher (the “Demoralization Level”),
+that corps is Demoralized.
+
+VITTORIO EMANUELE II
+
+9.0 DEMORALIZATION
+Demoralization takes into account the
+overall effect of “wear and tear” during a
+battle. Combat is hard work, at best. In
+the two battles herein, because of the
+heat, it was even worse.
+
+9.1 Hors de Combat
+A brigade becomes hors
+de combat (HDC)—unfit
+for battle—when more than one-half of
+its units are either Disordered or
+Eliminated. HdeC status is determined at
+the end of the turn, in the Demoralization
+segment. Indicate such with an Hors de
+Combat
+marker.
+Artillery
+and
+Piedmontese cavalry units have no effect
+on HDC status.
+9.11 HDC Effects. Units in an HDC
+brigade may not attack, nor may they
+voluntarily move into an enemy ZOC.
+Units may still fire, move, etc.
+9.12 Rally and Recovery. Players may
+use Recovery and/or Rally to “cure” the
+HDC status. When a brigade no longer
+qualifies as HDC, remove the marker.
+
+9.2 Corps Demoralization
+Demoralization is determined by corps.
+In the Demoralization Segment, the
+player rolls the die for each corps that
+has at least one brigade that is HDC.
+Adjust the roll as follows:
+
+Example: Austrian V Corps (2nd
+Army) has five brigades; its Corps
+Commander, Stadion, has a Cohesion
+Rating of 2. Three of its brigades are
+HDC. The Austrian player rolls a 7 for
+Demoralization: 7 – 2 (Stadion) + 3 (#
+of HDC brigades) = 8. That is more
+than the Demoralization Level of 7, so
+the V Corps is now Demoralized.
+9.21 Demoralization Effects. If a corps
+has become Demoralized it:
+• Must roll for Continuity each time it is
+selected for Activation, even for a
+usually Free Activation. If it fails the
+roll, it is considered to have used up
+one of its possible activations for that
+turn.
+• May not attempt an Extended
+Activation.
+• Is subject to possible “Corps
+Withdrawal” during Rain (see
+Solferino scenario rules).
+9.22 No Recovery. Once a corps is
+Demoralized it remains Demoralized.
+Changing the HDC status of its brigades
+has no further effect.
+Design Note: It is much easier for the
+Austrian corps to become demoralized
+than the French. This reflects the
+rather brittle nature of the Austrian
+army. If you feel this makes the game
+unbalanced, lower the French
+Demoralization Level to 6 or 5 (which
+would be rather drastic)
+
+Extra Counters
+The backs of a few counters have been
+printed with counters not presently used
+by the rules. These may be incorporated
+in the variant rules in a future article in
+C3i magazine.
+
+SOURCES
+English
+The pickings are slim for this campaign
+in English. There are, for the most part,
+two readily available sources of
+information, although neither is good for
+OoB.
+Turnbull, Patrick, Solferino (St Martins
+Press, NY, 1985). This is a very
+general survey approach, but not
+entirely worthless. Nice bookcover
+picture.
+Wylly, H.C., 1859, Magenta and
+Solferino. Also a general overview,
+but far better than Turnbull’s book.
+Maps are okay, and battle details—at
+least for a game designer’s purpose—
+are more informative.
+
+Non-English
+As a result, much research was done in
+some period sources in three languages:
+German, Italian and French. Most of that
+research was done by good friends in
+Europe, who provided some of these
+citations, and to whom I am most
+indebted.
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 19
+
+________________________________________________________________________RISORGIMENTO 1859: THE BATTLES
+Campagne de L’Empereur Napoleon III
+en Italie (Paris, 1865). This was the
+source we used for Magenta as: (a) we
+could read it; and (b) it had the most
+discernable detail, of which there was
+plenty.
+Bazancourt, Baron de, La campagne
+d’Italie de 1859 (Paris, 1860).
+
+Der Krieg in Italien (Vienna, 1872-6).
+Italian General Staff, L’armata Sarda a
+San Martino, La insurrezione milanese
+del marzo 1848 (Official History of
+the 1859 campaign). Gives a blow-byblow, hour-by-hour, who-arrivedwhen for the Italians. All in one big
+footnote.
+Montanari, Gen. Mario, Politica e
+
+Strategia in Cento Anni di Guerre
+Italiane
+(Vol
+I-II,
+Periodo
+Risorgimento). Recently released
+work, edited by the Historical Office
+of the Italian Army.
+In addition to the above, we had several,
+battalion-level tables of “official” Orders
+of Battles, in both German and French,
+culled from the military archives (by
+way of the Library of Congress) by
+tireless, fearless, but not overly reckless
+co-designer, Peter Perla. Moreover, these
+were available for several dates during
+the campaign. They were most
+informative, to be sure, although
+determining which OoB should apply to
+when was problematical … and the
+German OoB sometimes differed from
+the French. So, what else is new?
+We were blessed with excellent
+European maps on both battles, to which
+we added those of the (modern/1969)
+Italian Military Geograhical Society (for
+which we thank Dave Powell, and to
+whom we will send our bill for
+eyestrain).
+The base maps were from Moltkes
+Militarische Werke, III (clear and
+concise, but devoid of any vegetation) …
+in combination with the maps from the
+Italian Official History of the 1859
+campaign, which were, at times, tough to
+read but, serendipitously did contain
+vegetation (of which there was lots) and
+unit location, although the exact times
+for that information was not provided.
+Elevation and vegetation growth was
+then correlated with the IGM maps.
+There were differences between the
+Italian Official History maps and the
+Moltke maps, mostly on streams, paths,
+villages, etc. The Italian History maps
+also differed with the modern maps of
+the IGM, especially on terrain elevation
+(Cf. a most curious development, there;
+for those interested in this sort of thing,
+compare the elevations around San
+Martino). The Moltke maps appear to
+have been drawn at an earlier date, so we
+relied mostly, if not entirely, upon them.
+The Magenta map was a fairly easy one
+to render; Solferino was a nightmare …
+as I’m sure it was for the participants.
+
+Page 20 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Rulebook
+
+The Second Italian War for Independence________________________________________________________________________
+
+Copyright © GMT Games, 2000 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Page 21
+
+</rulebook>
+			
+						                           
+						               													<description>Risorgimento 1859, the Second Italian War of Independence, covers the second such war, the first, in 1848, having resulted in heavy defeats at the hands of the Austrian/Hapsburg armies. But the 1859 war was different. The Piedmontese, the Italian province pressing the issue, had gotten Napoleon III and the French Army to help them. Garibaldi and his partisans were most effective in creating havoc. And the Austrians were woefully weak in high command ability and unit morale.&amp;#10;&amp;#10;Risorgimento 1859 is a big game, yet easy to play. The battle games are very enjoyable with lots of maneuver and combat. The Campaign game uses a point-to-point map system. The focus is on coordination and concentration, the ability to guard avenues of approach, and the capability of units to engage in combat.&amp;#10;Battles and Campaigns&amp;#10;&amp;#10;Players fight the two major battles of the campaign, Magenta and Solferino (one of the largest battles in European history). The rules are relatively short and very accessible, as the battle system is designed for ease of play. For example, combat units do not have any numerical Strength! However, they do differ in Morale.&amp;#10;&amp;#10;Magenta&amp;#10;A wild battle fought in the vineyards, where no one could see anything. Reinforcements coming from all corners of the map, as the French have to cross a major river to take the important rail center.&amp;#10;&amp;#10;Solferino&amp;#10;The Austrians and the French literally stumble into each other in teh difficult and hilly country south of the Lombardian lakes. The battle that followed, pitting 4 French corps against 7 Austrian corps, was one of the most brutal in modern history. So brutal that it led directly to the founding of the Red Cross. The French, having started first, get to attack an Austrian-held position that takes advantage of every hill and valley.&amp;#10;&amp;#10;The Campaign&amp;#10;Play out the entire Campaign and see if you can avoid the mistakes the Austrians made. This version uses a point-to-point system and some very unusual mechanics to model one of the first military campaigns that used railroads.&amp;#10;&amp;#10;TIME SCALE:     1 hour per turn&amp;#10;MAP SCALE:     325 yards per hex&amp;#10;UNIT SCALE:     Battalion &amp;amp; Regimental (battle); Division &amp;amp; Corps (campaign)&amp;#10;NUMBER OF PLAYERS:     One to four&amp;#10;&amp;#10;DESIGNERS Richard Berg (Battle game) and Peter Perla (Campaign game)&amp;#10;DEVELOPERS David Fox, John Alsen, and Richard Berg&amp;#10;ART DIRECTOR Rodger B. MacGowan&amp;#10;MAP ART Mark Simonitch&amp;#10;COUNTER ART Mark Simonitch and Rodger B. MacGowan&amp;#10;&amp;#10;(source: GMT website)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2710" value="Post-Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68032" value="Cities: Solferino (Italy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11515" value="Country: Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54194" value="History: Italian Wars of Independence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135" value="Richard H. Berg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2728" value="Peter Perla" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="139" />
+			<average value="7.07302" />
+			<bayesaverage value="5.60158" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7504" bayesaverage="5.60158" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1065" bayesaverage="6.07838" />
+												</ranks>
+
+			<stddev value="1.16761" />
+			<median value="0" />
+			<owned value="561" />
+			<trading value="14" />
+			<wanting value="12" />
+			<wishing value="59" />
+			<numcomments value="82" />
+			<numweights value="30" />
+			<averageweight value="3.3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

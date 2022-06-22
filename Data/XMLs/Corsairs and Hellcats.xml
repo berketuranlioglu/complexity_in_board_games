@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="6506">
+         <thumbnail>https://cf.geekdo-images.com/oVdpF5gTjCxOK67yXoGLbA__thumb/img/36w9krLYkcPCQTfmSYMNK8aIVm4=/fit-in/200x150/filters:strip_icc()/pic1712009.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/oVdpF5gTjCxOK67yXoGLbA__original/img/PbIqzUUlJsBX28Ai2OAcfjnyaD8=/0x0/filters:format(jpeg)/pic1712009.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Corsairs and Hellcats" />
+				<rulebook>Corsairs and Hellcats rules 01/10/2002 draft
+1.0 Introduction
+Corsairs and Hellcats is the fourth game in the Down in Flames series,
+and the second (after Zero!) to cover the Pacific Theatre of World War
+II. This time the action begins with the struggle for Guadalcanal. It
+then moves up the Solomon Islands chain, on to the Philippines, shifts
+to the early B-29 raids against Japan and climaxes with the invasion of
+Okinawa. C&H uses all of the Basic and Campaign rules from Zero!, but
+adds more aircraft, targets, mission types, campaigns and special rules
+to recreate the Pacific air war from mid-1942 to 1945.
+A copy of Zero! is required to play Corsairs and Hellcats.
+A note on the numbering of these rules: the Corsairs and Hellcats rules
+are designed to mesh with those of Zero!. As a result, those items that
+are continuations of rules found in the earlier game (i.e., new types
+of Ordnance) appear as additional subsections of the relevant Zero!
+rules. New rules sections, such as the Kamikaze rules, are numbered
+beginning after the last section of the Zero! Campaign book.
+
+2.0 Components
+Corsairs and Hellcats contains the following components:
+120 Aircraft cards
+4 additional Action cards
+88 Counters
+3 Double-sided Target Sheets
+3 Double-sided and 1 single-sided Campaign Sheets
+4 Campaign Log Sheets
+1 Double-sided 11” x 17” Resource Sheet/Player Aid Card
+1 Rules book
+If any components are damaged or missing, please contact us, and we’ll
+replace them.
+GMT Games
+ATTN: Corsairs and Hellcats
+
+P.O. Box 1308
+Hanford, CA 93232-1308
+www.gmtgames.com
+(800) 523-6111
+
+2.6 New Counter Types
+In addition to more of the counter types found in Zero!, Corsairs and
+Hellcats contains the following: Green pilot/crew counters, Kamikaze
+markers, passenger markers, MXY7 Ohka counters, and a track marker
+for the Guadalcanal campaign.
+
+17.0 Campaign Game Aircraft
+Corsairs and Hellcats adds three new types of Campaign Game aircraft:
+Transports, Night Fighters and Attack Bombers.
+
+17.4 Transport Aircraft
+Note: There are no “true” Transport aircraft in Corsairs and Hellcats.
+However, in some of the campaigns other types of formation aircraft
+function as Transports in the Air Transport and Air Drop Missions.
+17.41 Transport aircraft have a Cargo rating, which is either on the
+aircraft card or listed with the information for the mission. This
+rating indicates how much cargo they can carry and is used to determine
+VP scored during Air Transport and Air Drop Missions. It may also
+affect conditions within a campaign.
+17.42 Transport aircraft are treated as Medium Bombers for the purposes
+of all rules. (Exception: Light Bombers used a Transports follow the
+normal rules for their aircraft type [17.1]. Light Bomber Transports
+are Loaded [17.15] while carrying cargo.)
+
+17.5 Night Fighters
+17.51 Night Fighters are usually present only during Night missions.
+17.52 Night Fighters do not have Wingmen.
+17.53 Special rules are used for Night missions. See 27.3.
+
+17.6 Attack Bombers
+
+Attack Bombers are formation aircraft specialized for low-level attacks
+on ground targets. In the US Army Air Force the type included both
+modified Medium Bombers (the B-25C-1 included in Corsairs and Hellcats)
+and purpose-built aircraft such as the A-20 and A-26.
+17.61 Attack Bombers have a Ground Attack (Strafing) Rating in addition
+to the normal ratings for a Medium Bomber. This Rating is used only to
+attack ground targets; it has no effect on air-to-air combat. The
+Ground Attack Rating is used as per 21.7, except that the Attack Bomber
+does not undergo a second round of Target Flak (in essence, it strafes
+while bombing).
+Example: A B-25C-1 is attacking a Freighter at Very Low altitude. The
+Bomber first draws two (2) Action cards (one for its Level Bombing
+rating of 1 plus one additional card for being at Very Low) and reads
+the Bomb Results, then two more cards, reading the Strafe Results.
+The Freighter then draws 2 card for Target Flak, applying damage and
+Spoiled Attack results normally. Any Spoiled Attacks may be used to
+negate either Bomb or Strafe results.
+17.62 Attack Bombers carrying Air-to-Ground Rockets [18.4] may Bomb AND
+fire Rockets AND use their Ground Attack Rating while still undergoing
+only a single round of Target Flak. (Note: there are no Rocket-capable
+Attack Bombers in Corsairs and Hellcats. This rule is included to cover
+aircraft such as the B-25H and A-26B, which may appear in future
+modules.)
+17.63 The B-25C-1 is the only Attack Bomber included in Corsairs and
+Hellcats. However, 17.61 also applies to Medium Bombers in Zero! that
+are allowed to Strafe through the use of the “Package Guns” resource.
+17.64 Except as noted above, Attack
+Bombers for the purposes of all rules.
+
+Bombers
+
+are
+
+treated
+
+as
+
+Medium
+
+18.0 Ordnance
+Corsairs and Hellcats introduces a number of new types of ordnance.
+Fighters and Light Bombers carrying any of them are considered to be
+Loaded [17.15].
+
+18.4 Air-to-Ground Rockets
+18.41 Certain aircraft (see the individual aircraft cards) are capable
+of carrying Air-to-Ground Rockets in place of or in addition to Bombs.
+(Note: the TBF Avenger may carry Bombs and Rockets but not Torpedoes
+and Rockets.) When allowed (through the selection of the Bombs/Rockets
+resource) the attacking player may place a Rocket counter on these
+aircraft.
+
+18.42 Air-to-Ground Rocket attacks are made during the Bomb or Strafe
+Step of the player turn instead of a Strafing attack by that aircraft.
+The attack is conducted like a Strafing attack, with the following
+exceptions:
+• Regardless of the attacking plane’s Burst rating only one (1) card is
+drawn (exception: an aircraft with a Skilled pilot [19.2] with the S
+(Strafe) skill draws one additional card).
+• The Air-to-Ground Rocket attack may be conducted from Very Low OR Low
+altitude. An attack from Very Low does not draw additional cards.
+• If a hit results it does two (2) points of damage to the target.
+• The defending player draws one less Target Flak card than he normally
+would
+against
+the
+attacking
+aircraft.
+(This
+represents
+the
+“standoff” capability of the Rockets.)
+Example: An F4U with Rockets is at Low altitude during the Bomb Turn
+of an attack on an Airfield. Normally the plane would be unable to
+Strafe from that altitude, but it can make an Air-to-Ground Rocket
+attack. The player draws one card and consults the Strafe Result. If
+it is a Hit he scores two points of damage against the Airfield. The
+defending player then draws for Target Flak. Looking at the Level
+Bombing section of the Bombing Display he sees that he can draw the
+Base number of Target Flak cards (in this case, 3) against a plane at
+Low altitude. However, since this is a Rocket attack he may only draw
+2 cards.
+18.43 Aircraft carrying both Air-to-Ground Rockets and Bombs make two
+separate attacks, undergoing Target Flak for each.
+
+18.5 Napalm
+18.51 When allowed by Resource selection Fighters and Light Bombers may
+carry Napalm instead of Bombs. When using Napalm draw the same number
+of cards as if carrying Bombs.
+18.52 Napalm negates the effects of fortified targets (see the Campaign
+Sheets for these effects). Against other targets each Hit, Direct or
+Vital scored inflicts one additional point of damage.
+18.53 Aircraft
+Bombers).
+
+carrying
+
+Napalm
+
+must
+
+use
+
+Level
+
+Bombing
+
+(even
+
+Dive
+
+18.54 Napalm may not be used against Naval Targets.
+
+18.6 Mines
+18.61 Aircraft carry mines instead of bombs during the Mine Laying
+mission. Level Bombers carry a number of mines equal to twice their
+
+Level Bombing rating. Saturation Bombers carry a number of mines equal
+to their Saturation Bombing rating. See the Target Sheet (6A) for this
+mission and 27.6 for details on the use of this Ordnance.
+
+18.7 Depth Charges
+18.71 Aircraft are assumed to be carrying Depth Charges whenever
+attacking a Submarine (see 27.4 for details on this Target type).
+Aircraft rated for Level or Torpedo Bombing carry two (2) depth charges
+per Bomb or Torpedo (use the higher rating if an aircraft can carry
+either Bombs or Torpedoes). Saturation and Dive Bombers carry one (1)
+Depth Charge per point of Bomb Rating.
+18.72 See 27.44 for the effects of Depth Charges.
+
+18.8 MXY7 Ohka
+18.81 The MXY7 is a piloted, rocket-powered suicide bomb. It was
+carried aboard a Medium Bomber and launched when within range of its
+target. Because of its speed and small size it was very difficult to
+shoot down. However, it was also not very effective (the Allied
+codename for it was “Baka”, the Japanese word for “fool”). The MXY7 is
+represented by a counter, not a card.
+18.82 A Bomber may carry only one MXY7, regardless of its Saturation
+Rating. The Bomber may not carry regular bombs in combination with the
+MXY7.
+18.83 A Bomber carrying an MXY7 releases it at the end of the Search
+Phase [28.4]. The Bomber is not considered to have continued over the
+Target and thus cannot be attacked by Flak or by Fighters that have
+continued. Enemy fighters that have not continued over the Target may
+attack it. At the end of the Ingress Turn the bomber automatically
+Disengages [12.0].
+18.84 A Fighter which attacks a Bomber carrying an MXY7 receives an
+additional +1 to its Burst Rating (if a Leader) or draws one additional
+card for its mini-hand (if a Wingman).
+18.85 The MXY7, unlike normal ordnance, is subject to Flak (it may not,
+however, be attacked by enemy aircraft). Use the printed Area and
+Target Flak Ratings minus one (-1) against an MXY7. The MXY7 is
+destroyed if it incurs two or more points of damage from Flak. It
+automatically misses if a Target Flak card with a Spoiled Attack symbol
+is drawn or it is destroyed by Area and/or Target Flak.
+18.86 The player controlling the MXY7 draws one Bomb card for it. The
+MXY7 does the same amount of damage as a normal bomb.
+
+19.0 Pilots and Crews
+
+19.2 Pilots
+Corsairs and Hellcats introduces a new method of Skilled pilot (and
+Crew) selection. The procedure detailed in 19.24 and 19.34 below is
+used only in Corsairs and Hellcats. Players should continue to use the
+Zero! pilot selection rules for that game. (A future article in C3I –
+GMT’s gaming magazine – will provide the necessary information to
+extend this method to Zero!.) However, players are free to combine
+Skilled pilots from both games.
+This change was made for two reasons: first, to model the large shifts
+in overall aircrew skill that occurred on both sides during the war.
+Second, to incorporate the rules for Japanese Green pilots [19.4].
+Players should note that this new method will considerably reduce the
+number of skilled pilots that will appear in a campaign.
+19.24 Selecting Pilots: Before beginning a Campaign Mission or Strike,
+each side determines whether any Skilled pilots will be flying the
+Mission/Strike. This is done in the following manner.
+1.Draw one Action card for each Fighter or Light Bomber (including
+Wingmen) flying the Mission or Strike. Player may draw in either
+order and may, if they wish, reshuffle the deck after the first
+player to draw has finished doing so.
+2.Cross-index the card drawn with the proper line on the Pilot/Crew
+Selection Table on the Player Aid Card.
+3.If the card drawn is listed on the chart, randomly select a Skilled
+pilot able to fly that aircraft type. Some US aircraft types have
+both Navy and Marine Corps Skilled pilots. When selecting Skilled
+pilots for one of those types in a given mission use one group or the
+other, not both. Use the following guidelines for selecting a group:
+Guadalcanal: either
+Eastern Solomons: Navy
+Santa Cruz: Navy
+Solomon Islands: Draw one action card. If the card is blue-bordered,
+Navy, otherwise USMC.
+Philippines 1944: Marine if Mission aircraft are USMC; otherwise,
+Navy
+Okinawa: Marine if Mission aircraft are USMC; otherwise, Navy
+4.Assign each Skilled pilot selected to an aircraft. Skilled pilots
+must be assigned to Leader aircraft if possible. If a Skilled pilot
+is assigned to a Wingman consult the Skilled Wingman Table (also on
+the Player Aid Card) to determine how his skills are used. A Skilled
+Wingman who is “promoted” due to his Leader being shot down uses his
+skills normally.
+The number of skilled pilots is limited by the counter mix and by any
+special rules for the campaign being played. (For example, in the Santa
+Cruz campaign the Japanese player may not have more than one Skilled
+
+pilot per Strike.) In addition, if an aircraft type that is part of a
+Mission/Strike has no Skilled pilots (i.e., the Ki-30) do not draw for
+that aircraft type (Exception: if using the Green Pilot/Crew rules
+[19.4] draw for all aircraft). Finally, Japanese pilots with an
+aircraft type of A6M may not be used with the A6M2-N Rufe. However,
+skilled A6M2 pilots (from Zero!) may by used to fly the A6M3 and A6M5
+(exceptions to 19.23).
+19.26 (Optional) Historical Pilots: The Pilot/Crew Selection Table has
+a column listing the Skilled Pilots who historically were present in
+each campaign. If players wish they may limit their Skilled pilot
+selections to only those pilots.
+
+19.3 Crews
+19.34 Selecting Crews: Crews are selected using the same system as is
+used for Skilled Pilots [19.24]. However, unlike Pilots, there may
+never be more than one Skilled Crew per formation. Note that Corsairs
+and Hellcats includes Skilled Crews for both Medium and Heavy Bombers.
+
+19.4 (Optional) Green Pilots/Crews
+In December of 1941 Japan had, arguably, the finest combat pilots in
+the world. By mid-1944 Japanese aircrew skill had deteriorated so badly
+that Kamikaze attacks were instituted in part because they were the
+only way that the barely-trained pilots could be effective. What
+happened? Ironically, the very methods that produced the superb early
+war flyers were the Japanese downfall. The training program was so
+rigorous that it was incapable of producing more than a trickle of
+pilots. When large numbers of the pre-war pilots and crews were lost at
+Midway and in the battles around Guadalcanal they could not be
+replaced.
+These rules are optional, because using them will make it very
+difficult for the Japanese player to win the campaigns in which Green
+Pilots are present in any numbers. However, they do reflect the
+handicap that the late-war IJN and IJA operated under.
+19.41 Selecting Green Pilots/Crews: The Pilot/Crew Selection Table has
+listings for Green Pilots and Crews as well as Skilled ones. The same
+Action card draw is used to determine which type (if any) is chosen.
+Example: In the Santa Cruz campaign the Japanese player is drawing
+for an A6M2. If he draws a SCISSORS or HALF LOOP card he receives a
+Skilled Pilot, if the draw is a VERTICAL ROLL card he gets a Green
+Pilot. On any other draw he receives no Pilot of either type.
+19.42 Green Pilots and Crews are assigned in the same way as Skilled
+ones. However, Green Pilots are assigned to Wingmen first, then
+Leaders. Green Pilots/Crews are assigned to aircraft after Skilled
+Pilots/Crews. There may be more than one Green Crew per formation.
+
+19.43 Green Pilots/Crews
+following effects:
+
+Effects:
+
+Green
+
+Pilots
+
+and
+
+Crews
+
+have
+
+the
+
+• Green Pilots reduce their aircraft’s Burst Rating by one (-1).
+• Green Wingmen reduce their aircraft’s Attack Rating by one (-1). This
+reduction is cumulative with those for being Loaded [17.15] and for
+being at Very High altitude [5.32].
+• Both Green Pilots and Green Wingmen are limited in their ability to
+respond to enemy card play. A Green Pilot/Wingman may play a maximum
+of one Response card (i.e. a Blue-bordered card or a White-bordered
+card used to Respond) per Wingman Attack or Play Cards Step.
+Example: A Japanese A6M5 with a Green Pilot is attacked by an
+American F6F. The aircraft are Neutral, and the Japanese player’s
+hand includes a MANEUVERING and two TIGHT TURN cards. The US player
+plays an IN MY SIGHTS (1B/2D) card. The Japanese player responds with
+one of his TIGHT TURNS. The American responds with a TIGHT TURN of his
+own. Because the Japanese pilot is Green the Japanese player may not
+respond with his other TIGHT TURN and must take the two points of
+Damage. In addition, the Japanese player will be unable to respond
+at all to any further Attack cards that the F6F plays during that
+Play Cards Step. During the ensuing Japanese player turn, the A6M5
+plays its MANEUVERING card. The US player responds with yet another
+TIGHT TURN . The Green pilot may use his own TIGHT TURN card at this
+point, but if the US player responds to it he will be unable to play
+any further response cards.
+• Green Crews have a Turret Support Rating of Zero (0).
+• All Green Pilots and Crews reduce the effect of their bombing by one
+level (exception: this does not apply to Kamikaze attacks). This
+reduction is cumulative with the reduction for Saturation Bombing
+against a Naval Target. So, for example, a Ki-49 attacking a Naval
+Target would have to draw a Vital result to have any effect on the
+target.
+• The Allied player receives one (1) less VP than usual for shooting
+down or Damaging an aircraft with a Green Pilot and two (2) less VP
+for shooting down or Damaging an aircraft with a Green Crew.
+19.44
+When
+using
+Pilots/Crews.
+
+this
+
+rule
+
+all
+
+Kamikazes
+
+[28.0]
+
+have
+
+Green
+
+21.0 Bombing
+21.6 Saturation Bombing
+21.64 Skip Bombing. Beginning in March of 1943 (this includes the Early
+1943 Phase of the Solomon Islands campaign) Allied Saturation Bombers
+at Very Low altitude may employ Skip Bombing against Naval Targets.
+
+Skip Bombing aircraft resolve attacks using Level Bombing [21.3]
+instead of Saturation Bombing. As a result, 21.63 does not apply.
+However, the Norden Bombsight bonus [18.32] may still not be used.
+
+27.0 New Mission and Target Types
+27.1 Target Systems
+27.11 Certain results on the Mission Targets tables on the Campaign
+Sheets indicate a Target System (i.e., a group of possible targets)
+rather than an individual target. These results are printed in CAPITAL
+letters on the table.
+27.12 Whenever a Target System is selected draw one card and consult
+the Target Systems chart on the Land Campaign Log. The card drawn will
+indicate the actual target of the mission. This draw is made before
+choosing Resources [24.5] for the mission.
+Example: In the Okinawa campaign Mission #2 (SHIPPING) is selected.
+Since the Target Type is capitalized the players know that it is a
+Target System. The attacking player draws one Action card and looks
+at the Shipping line on the Target Systems Chart. If the card drawn
+was Red-Bordered the target of the mission is a Freighter.
+
+27.2 Special Missions
+27.21 Certain Missions on the Mission Targets tables have a Location of
+“Special”. When a mission of this type is selected, flip the
+allied/axis turn marker to determine the time of day of the mission.
+The Japanese (Rising Sun) side indicates a Day mission, the Allied
+(Star-in-a-Circle) side indicates a Night mission. The players then
+consult the Special Mission Chart (located on the Player Aid Card) for
+that campaign. There is one Day and one Night mission per phase in each
+campaign. Play the appropriate mission for time of day, phase, and
+campaign.
+27.22 When a Special Mission is selected the players do not choose
+Resources (exception to 24.52). Instead, the Special Missions Chart
+lists the Resource aircraft each player receives. Note: this means that
+if one or more Special Missions occur in a campaign both players will
+have “left over” resources at the end of the campaign.
+
+27.3 Night Missions
+Note: These rules differ from those in 8th Air Force. This is
+because in Corsairs and Hellcats night Missions are two-player
+than solitaire. If players wish, they may use these rules to
+two-player night missions and campaigns for the earlier games
+series.
+
+mainly
+rather
+devise
+in the
+
+27.31 Flying at night has several effects on the game rules. They are
+detailed below.
+a. All Formation Aircraft in a Night Mission have a Turret Support
+Rating of zero (0).
+b. Bombing at night is less accurate than daylight bombing. The Night
+Bombing Table on the Player Aid Card details how Bomb Results are
+reduced.
+c. Flak is also less effective at night. Reduce all Target and Area
+Flak values by one (1).
+d. Wingmen are not used in Night Missions.
+e.
+
+At the beginning of each player turn of each turn of a Night
+Mission the player controlling that Leader aircraft draws one or
+more Action Cards to see if it locates the enemy aircraft. Fighters
+with a Night Combat Rating draw a number of cards equal to the
+rating; all other Fighters draw one card. If any of the cards drawn
+is Blue-bordered that player turn proceeds normally. Otherwise that
+Fighter may do nothing that player turn. (Exception: if the Leader
+has fewer cards in his hand than his Performance Rating allows he
+may draw cards normally. He may not, however, discard.)
+
+Example: It is the beginning of the Early 1943 Night Special Mission
+of the Solomon Islands campaign. On the first Target-Bound turn the
+P-38F Leader draws one card at the beginning of his player-turn. The
+card is blue-bordered, so he will be able to attack the Japanese
+bombers that turn. He does so, playing one MANEUVERING and two IN MY
+SIGHTS against one of the bombers. He then draws two new cards, based
+on his HP Rating of 2. At the beginning of his next player turn he
+draws a red-bordered card. He will thus not be able to conduct a
+player-turn. However, since he only has 5 cards in his hand and has a
+Performance Rating of 6 he can draw one more card. He could not, in
+this case, discard a card and draw two new cards into his hand. On
+the third Target-Bound turn he draws a white-bordered card. He can do
+nothing, not even draw. The mission proceeds to the next turn.
+27.32 If a Night Mission involves both Night Fighters and
+Fighters the non-Night Fighters take their player turns after
+Fighters. (Note: there are no such missions in Corsairs and
+This rule is included for players wishing to create their
+Missions.)
+
+non-Night
+all Night
+Hellcats.
+own Night
+
+27.4 Submarines
+Submarines may submerge to avoid attack. The following rules represent
+that ability.
+
+27.41 Aircraft attacking submarines are assumed to be carrying depth
+charges. An airplane’s depth charge capacity is determined as per
+18.71.
+27.42 The attacking player must secretly designate his depth charge
+settings before the mission begins. Settings can be surface, shallow,
+or deep. All of the depth charges on a single airplane must be set to
+the same depth.
+27.43 At the end of the Target-Bound Phase, the defending player draws
+an action card to determine his warning time. Warning time affects the
+depth to which his submarine may dive. The Defending player designates
+submarine depth immediately after the card draw.
+Blue-bordered: ample warning; sub may be at surface, shallow, or deep.
+Red-bordered: little warning; sub may be shallow or surface.
+White-bordered: no warning; sub must remain on surface.
+27.44 A depth charge that explodes at the same depth level as the
+submarine does damage of Miss=0, Hit=1, Direct=4, Vital=7. Depth
+charges set for a different depth do less damage: Miss=0, Hit=0,
+Direct=1, Vital=3.
+27.45 Depth charge attacks must be made from Very Low altitude. The
+attacking player does not receive extra card draws for attacking from
+that altitude (a Skilled Pilot with the BM (Bomb) skill or a Skilled
+Crew with the BD (Bombardier) skill does draw an extra card). If the
+submarine is shallow or deep it does not draw for Target Flak. If it is
+on the surface it draws one Target Flak card per attacking aircraft.
+
+27.5 Air Drops
+In an Air Drop Mission the attacking player is dropping supplies (i.e.,
+Cargo) rather than bombs.
+27.51 The Cargo rating of the Mission aircraft is either their printed
+Rating (in the case of Transports) or is listed on the Campaign Sheet.
+27.52 During the Bomb turn the attacking player draws one card per
+point of Cargo Rating and looks at the Strafe Result. Each Hit delivers
+one supply point. Skilled Pilots with the BM (Bomb) or S (Strafe) skill
+and Skilled Crews with the BD (Bombardier) skill do not draw an extra
+card. In addition, the Norden Bombsight bonus [18.31] may not be used
+in an Air Drop.
+27.53 Air Drops must be made from Very Low altitude.
+
+27.6 Mine Laying
+
+In a Mine Laying Mission the
+rather than bombing a target.
+
+attacking
+
+player
+
+is
+
+delivering
+
+mines
+
+27.61 Mine Laying Missions are conducted according to the normal rules
+for Missions [23.0] with the following exceptions.
+a. There is no Area Flak or Target Flak.
+b. During the Bomb Turn attacking aircraft deliver their mines at the
+time they would normally Bomb. However, no bomb cards are drawn.
+Instead the attacking player simply scores one VP for each mine
+carried by that aircraft. Note that the Norden Bombsight bonus
+[18.32] is not used in this mission.
+27.62 Mines must be delivered from Very Low altitude.
+
+28.0 Kamikazes
+Kamikaze means “divine wind”, a reference to the typhoons that
+destroyed two attempted Mongol invasions of Japan. The Kamikazes were
+organized suicide pilots who attempted to destroy Allied ships by
+crashing their aircraft into them. This tactic came as a surprise to
+Allied planners, who were never able to develop truly effective
+countermeasures. Only the American skill at damage control and their
+numerical superiority in aircraft prevented the Kamikazes from being
+even more effective than they were.
+
+28.1 General
+Kamikaze Missions are conducted somewhat differently than those
+described in 23.0. Mission aircraft are determined randomly, and a
+special table is used for target damage. Most importantly, there is a
+Search Phase of variable length between the Target-Bound and Over
+Target Phases.
+
+28.2 Aircraft Selection
+28.21 Draw one Action card and cross-reference it with the Kamikaze
+Aircraft Table on the Player Aid Card. This determines the Mission
+aircraft. Resource aircraft are selected normally.
+28.22 Only the Mission aircraft may make a Kamikaze attack
+Place a Kamikaze marker on these aircraft as a reminder.
+
+[28.5].
+
+28.23 Kamikaze Medium Bombers must begin the Mission at Very Low
+altitude, unless noted otherwise on the Kamikaze Aircraft Table.
+Kamikaze Fighters and Light Bombers may begin at any altitude except
+Very High, but must be at Very Low at the end of the Ingress Turn and
+remain at that altitude throughout the Bomb Turn.
+
+28.24 All Kamikaze aircraft are considered to be carrying bombs (no
+separate Bomb counter is needed). Therefore, Kamikaze Fighters and
+Light Bombers suffer the Loaded Penalty [17.15]. Kamikazes may not
+voluntarily Jettison their Bombs. Kamikaze Fighters do not have to
+Jettison if they are Damaged (exception to 18.22).
+28.25 Do not draw for Skilled Pilots or Crews for Kamikazes. In
+addition, when using the Green Pilot/Crew rules [19.4] all Kamikazes
+are considered to be Green. Exception: G4M2s carrying the MXY7 Ohka do
+draw for Skilled crews and are not automatically Green.
+28.26 Kamikaze aircraft may not Disengage [12.0].
+
+28.3 Target-Bound Phase
+Determine the duration of the Target-Bound Phase normally [23.24].
+
+28.4 Search Phase
+28.41 After the last Target-Bound turn the Japanese player conducts a
+Search Phase.
+28.42 At the beginning of each turn of the Search Phase the Japanese
+player draws one Action card and consults the Kamikaze Search Table on
+the Player Aid Card to see what target he has found that turn.
+28.43 If the Japanese player decides to attack the target or he has
+made his third draw, the Search Phase ends. Begin the Over Target Phase
+immediately. Interceptors and escorts may decide to Break Off as per
+23.51.
+28.44 If the
+found, play a
+or Very Low
+identified by
+
+Japanese player decides not to attack the target he has
+normal turn. At the end of the turn each aircraft at Low
+altitude takes one round of Area Flak from the target
+the Action card draw. Make another Search Phase draw.
+
+28.5 Over Target Phase
+28.51 The Ingress and Egress Turns of the Over Target Phase are played
+as normal.
+28.52 In order to make a Kamikaze attack a Kamikaze MUST begin the Bomb
+Turn at Very Low altitude.
+28.53 Kamikaze attacks are resolved as follows.
+1.The Japanese player draws
+consults the Bomb Result.
+
+one
+
+Action
+
+card
+
+for
+
+the
+
+Kamikaze
+
+and
+
+2.The Allied player draws a number of cards equal to the target’s
+printed Target Flak Rating. If the Kamikaze aircraft is destroyed, it
+automatically Misses. Spoiled Attack cards have no effect on a
+Kamikaze, however, Kamikazes may not respond to Target Flak [22.26].
+3.If the Kamikaze gets a Hit or better result and the Kamikaze is not
+destroyed it does damage based on the Kamikaze Damage Table, not the
+Target Sheet (exception: the MXY7 [18.86]).
+4.The Kamikaze is removed from play immediately after
+regardless of the result. Kamikazes may not Strafe.
+
+its
+
+attack,
+
+28.54 The Egress Turn is still played even if all Japanese aircraft
+have already been destroyed. In that case the only thing that occurs
+during the Turn is that Area Flak [22.1] is resolved against any
+defending aircraft which continued Over Target [23.51].
+
+28.6 Home-Bound Phase
+Determine the duration of the Home-Bound Phase normally [23.24].
+
+28.7 Mission Victory Points
+These are awarded as usual, EXCEPT that the Allied player does not
+receive any Victory Points for Kamikazes that are shot down. (This does
+not include G4M2s carrying Ohkas, which score VP if damaged or
+destroyed normally.)
+Example of a Kamikaze Mission: It is the March phase of the Okinawa
+campaign. Mission #14, the Kamikaze Mission, is selected. The
+Japanese player draws an IN MY SIGHTS (3B), which gives him eight
+Kamikaze aircraft: one element each of Ki-45s and Ki-61s and two
+elements of Ki-27s. The players then choose resources. The Allied
+player chooses Resource #1, giving him one element of F6Fs to defend
+against the Kamikazes. The Japanese player chooses Resource #3. Since
+the Japanese Mission aircraft are IJA, he receives an element of Ki61s. As a result, the Ki-61 Mission aircraft are changed to Ki-43-IIs
+(see note 2 on the Kamikaze Aircraft Table).
+The Mission then proceeds to the Target-Bound Phase. Because the
+Mission aircraft are Fighters this Phase lasts two turns. At the end
+of the second turn the Japanese player begins his Search Phase. His
+first Search draw is a Miss. Since he has found nothing he must play
+a turn. Then he makes a second draw. This one is a Hit, resulting in
+a Light Carrier being found. The Japanese player is after bigger
+game, so he elects not to attack it. Another turn is played, after
+which all aircraft at Low or Very Low altitude take one Flak card
+(the Light Carrier has an Area Flak Rating of one). The Japanese
+player then makes his third and last Search draw. He draws a Direct,
+a Battleship target. As this was his last Search draw, he must attack
+the Battleship. Play moves on to the Ingress Turn.
+
+By the beginning of the Bomb turn the Japanese player has three
+Kamikazes left: the two Ki-45s and one Ki-27. The Ki-45s make their
+attack first. The Japanese player draws one card for each plane. He
+gets a Hit and a Vital. The Allied player then draws four Flak cards
+for each aircraft. He gets a Spoiled attack against the first Ki-45.
+However, Spoiled Attacks have no effect on Kamikazes, so the Japanese
+aircraft hits its target and causes 3 points of damage (it is a
+multi-engined aircraft). The Ki-45 is then removed from play. The
+second plane also survives the hail of flak and crashes into the
+battlewagon. It does 11 points of Damage and is also removed from
+play. The US player receives no VP for the destruction of the two Ki45s.
+Now the Ki-27 attacks. It draws a Direct. However, the Battleship’s
+Flak does five points of Damage to it, destroying the Nate. It does
+no damage, but the US player again receives no VP for destroying it.
+Finally, the surviving escorts and interceptors play out the Egress
+and Home-Bound turns.
+
+29.0 The Guadalcanal Campaign
+The Guadalcanal Campaign recreates the bitter struggle to secure that island. It
+is played out in weekly game turns, each of which contains two missions. Players
+must allocate their available aircraft in order to best succeed in both the
+individual missions and the campaign as a whole.
+Note: Eighth Air Force players will recognize the similarities
+between this campaign and the Stalingrad Airlift operation in that
+game. However, there are also significant differences. Be sure to
+read these rules carefully.
+
+29.1 Campaign Sequence of Play
+• Draw a card to determine the weather for the week (exception: this is
+not done on the first week of the campaign).
+• Draw a card to determine the Attack Mission target [29.42].
+• Play the Attack Mission.
+© Determine the Mission Duration [23.2].
+© Secretly select, then reveal, aircraft participating in the mission
+
+and the ordnance they are carrying.
+© Randomly select Pilots and Crews for the Mission [19.2 and 19.3].
+© Conduct the Mission [23.0].
+
+© Move the marker on the Campaign Track according to the results of
+
+the mission [29.63].
+• The Japanese player determines the target of the Resupply
+[29.43]. Optional: Play one of the Carrier Campaigns [29.7].
+
+Mission
+
+• Play the Resupply Mission.
+© Determine the Mission Duration [23.2].
+© Secretly select, then reveal, aircraft participating in the mission
+
+and the ordnance they are carrying.
+© Randomly select Pilots and Crews for the Mission [19.2 and 19.3].
+© Conduct the Mission [23.0].
+© Move the marker on the Campaign Track according to the results of
+
+the mission [29.63].
+• Check for victory. If the marker on the Campaign Track is in either
+the Americans Evacuate or Japanese Repulsed space the campaign ends.
+Otherwise, the US player draws an Action card to check for possible
+reinforcements [29.57] and any Events [29.65] listed in the space
+occupied by the marker are noted for the next week.
+
+29.2 Campaign Sheet
+The Guadalcanal Campaign Sheet provides information necessary to play
+the Campaign. The Campaign Sheet includes:
+• The Campaign Name
+• A Campaign Sequence of Play
+• The Campaign Track
+• A listing of adjustments to the marker on the Campaign Track
+• A Weather Table
+• An Attack Mission Targets Table
+• A US Reinforcements Table
+• A Campaign Map
+
+29.3 Campaign Log Sheet
+A Campaign Log Sheet for the Guadalcanal campaign is included in the
+game. Players use this sheet to keep track of the missions conducted,
+Victory Points scored, US reinforcements received and aircraft and
+Japanese shipping available for use in the Campaign. Each player will
+need a Log Sheet for each Campaign played. GMT Games grants permission
+for players to photocopy these sheets for personal use.
+
+29.4 Missions
+29.41 In each week of the campaign two missions are conducted: an
+Attack Mission and a Resupply Mission. The target and the attacking and
+defending players for the Attack Mission are determined randomly; the
+Japanese player chooses the target of the Resupply Mission and is
+always the defending player for that mission.
+29.42 Selecting the Attack Mission Target. One of the players draws an
+Action card and cross-references the card drawn with the Attack Mission
+Targets table on the Campaign Sheet. The result determines both the
+Mission target and the attacking player.
+29.43 Selecting the Resupply Mission Target. After the Attack Mission
+has been played the Japanese player announces whether the Resupply
+Mission will use a Destroyer or Freighter target. The Japanese player
+begins the campaign with five (5) Destroyers and three (3) Freighters
+available for use in the Resupply Mission. Each time one of them is
+sunk during the Mission cross off one box on the appropriate line of
+the Campaign Log. If all ships of one type have been sunk that type may
+no longer be selected as the Resupply Mission target. If all ships of
+both types have been sunk the Resupply Mission is no longer played.
+Instead, play only the Attack Mission and, after adjusting the marker
+based on its result, move the marker one space to the left. When using
+the optional Carrier Campaign rules [29.7] the Japanese player may not
+declare a Carrier Campaign if all of his ships have been sunk.
+29.44 Altitude. Fighters and Light Bombers assigned to either Mission
+may start at any altitude except Very High. Japanese G4M1 Bombers and
+US PBY Patrol aircraft must start at Very Low, Low or Medium altitude.
+US B-17E Bombers must start at Medium or High altitude. As always,
+Formation aircraft may not change altitude during the Mission.
+29.45 Mission Duration. All Missions have a base number of 8 TargetBound and 7 Home-Bound turns. This numbers is reduced according to the
+speed of the mission aircraft as usual.
+
+29.5 Aircraft Allocation
+29.51 Unlike the usual Down in Flames campaign, players of the
+Guadalcanal campaign choose the aircraft that will fly in each Mission.
+Aircraft are restricted in three ways: the number of each type
+available, the number of each type that can be used in a given week,
+and the total number of aircraft that can be used that week.
+29.52 Weather. At the beginning of each week one player draws an Action
+card to determine the Weather for that week. The card drawn is crossindexed on the Weather Table located on the Campaign Sheet. The result
+gives the weather condition and the total number of aircraft that may
+be assigned to missions during that week (Note: the US total may be
+adjusted depending on the position of the marker on the Campaign Track
+
+[29.65]). Exception: during the first week of the campaign do not draw
+for weather. Instead, each player may assign a total of four (4)
+aircraft to missions during that week.
+29.53 The Campaign Log lists all of the aircraft available to each
+player. Each type’s name has a parenthesized number after it. This
+number is the maximum number of aircraft of that type that can be
+assigned to a mission during any one week. Aircraft that are used in
+the Attack Mission cannot be used in the Resupply Mission, and vice
+versa.
+29.54 The boxes shown after each type’s name represent the total number
+of that type that the player has for use in the campaign. Some US
+aircraft types have both shaded and unshaded boxes; the shaded boxes
+represent reinforcement aircraft [29.57]. Each time an aircraft is
+destroyed during a mission check off one box of the appropriate type.
+If all boxes of a type are checked off, aircraft of that type may no
+longer be used in the campaign.
+29.55 Within the limits
+missions as they wish.
+mission must be grouped
+of carrying bombs may do
+
+of 29.52-29.54 players may assign aircraft to
+Whenever possible the aircraft assigned to a
+into elements or formations. Fighters capable
+so.
+
+29.56 Aircraft do not have to be assigned to the Resupply Mission until
+after the Attack Mission is played.
+29.57 Reinforcements. Only the US player receives reinforcement
+aircraft. Reinforcement aircraft become available in groups. The US
+Reinforcements Table on the Campaign Sheet lists each group. At the end
+of each week he draws one Action card. If the card is Red-bordered the
+next group becomes available for use in the succeeding weeks.
+Reinforcement groups must be taken in numerical order.
+
+29.6 The Campaign Track
+29.61 The Campaign Sheet
+victory in the campaign,
+Events [29.65]. A marker
+marker is moved depending
+
+contains a Track that is used to determine
+as well as the occurrence of certain special
+is provided to place on the track and this
+on the results of each mission.
+
+29.62 At the Beginning of the campaign place the marker in the Start
+Campaign space.
+29.63 After the completion of each mission (or Carrier Campaign
+[29.7]), consult the Adjustments to Marker section of the Campaign
+Sheet to see how many spaces (if any) and in what direction the marker
+is moved. The VPs Scored column for the missions refers solely to the
+VP scored for damage to the target. In the Guadalcanal campaign VP are
+not scored for damaging/destroying aircraft, returning Undamaged, etc.
+
+29.64 Victory or the occurrence of an Event is determined by the space
+occupied by the marker at the end of each week. Changes in the position
+of the marker during a week have no effect.
+29.65 Events. Three of the spaces on the Campaign Track have special
+Events listed. Whenever the marker ends a week in one of these spaces
+one or more of the following Events occurs during the next week.
+• Pistol Pete: When this Event is in effect any Japanese Attack Mission
+against the airfield target scores one additional point of Damage.
+(“Pistol Pete” was the nickname given by the Marines to a Japanese
+75mm gun. Whenever they could get close enough to Henderson Field
+they would use the gun to shell the airfield.) This Event is in
+effect whenever the marker ends the week in either the Pistol Pete
+or Fighter One spaces.
+• Fighter One: When this Event is in effect the US player has two (2)
+less aircraft available for the week than the Weather Table draw
+allows him. This Event is in effect whenever the marker ends the
+week in either the Fighter One or Henderson Field spaces.
+• Henderson Field: When this Event is in effect
+Mission against the airfield target is changed
+against a ground forces target. The Japanese
+attacker. This Event is in effect whenever the
+in the Henderson Field space.
+
+any Japanese Attack
+to an Attack Mission
+player is still the
+marker ends the week
+
+The position of the marker only causes an Event during the succeeding
+week. If the action during that week causes the marker to shift out of
+the spaces that trigger it, it will not occur again until the marker
+ends another week in the appropriate space.
+
+29.7 (Optional) Carrier Campaigns
+The Battles of Eastern Solomons and Santa Cruz were both fought as part
+of the Guadalcanal campaign. This option allows the players to recreate
+that aspect of the campaign. The rule is optional because playing the
+carrier battles will add considerably to the playing time of the
+campaign.
+29.71 Starting with the third week of the campaign the Japanese player
+may declare the Battle of Eastern Solomons instead of his Resupply
+Mission.
+29.72 Starting with the sixth week of the campaign the Japanese player
+may declare the Battle of Santa Cruz instead of his Resupply Mission.
+29.73 Each carrier campaign can be fought only once. In addition, if
+the Japanese player declares Santa Cruz before declaring Eastern
+Solomons he may no longer declare Eastern Solomons.
+
+29.74 The Japanese player may only declare a carrier campaign if he is
+the defending player in that week’s Attack Mission.
+29.75 If a carrier campaign is declared play the appropriate campaign,
+using the Campaign Sheet and the normal rules [25.0].
+29.76 After the victor in the carrier battle is determined shift the
+marker as listed in the Adjustments to Marker section of the Campaign
+Sheet (if the battle ends in a tie, there is no change to the marker’s
+position). In addition, if the US player wins a carrier battle he
+automatically receives his next reinforcement group at the end of that
+week.
+
+29.8 Campaign Victory
+The Campaign continues until the marker ends a week
+Americans Evacuate space or the Japanese Repulsed space.
+
+in
+
+either
+
+the
+
+Extended Example: It is the beginning of the third week of the
+campaign. In the first two weeks the Japanese player has managed to
+move the marker one space to the right on the Campaign Track. So far
+the Japanese have lost 1 A6M2 Zero, 2 G4M1 Bettys and a destroyer. US
+losses have been 2 F4F Wildcats and 1 SBD Dauntless. The US player
+has not received any reinforcements [29.57]. The players are using
+the optional Carrier Campaign rule [29.7].
+The turn begins with a draw for the week’s weather. The card drawn is
+a TIGHT TURN , giving weather conditions of Scattered Storms. The US
+player will be able to use a total of 8 aircraft this week, the
+Japanese player 6. Now one of the players draws for the target of the
+Attack Mission. An IN MY SIGHTS is drawn. Cross-indexing it on the
+Attack Mission Table shows the Japanese player will be attacking the
+Airfield target.
+Both players now secretly assign aircraft to the Attack Mission. The
+Japanese player decides to attack with 3 aircraft: 2 D3A1 Vals and a
+single Zero as escort. The US player chooses to defend with a pair of
+F4Fs. Despite the American’s 2:1 advantage in fighters and the
+airfield’s heavy Target Flak, the Japanese attack inflicts 8 points
+of Damage, good for 10 VP and a shift of two spaces to the right on
+the Campaign Track. The marker is thus moved into the Fighter One
+space (note, though, that the Event does not come into effect at this
+time). Worse yet for the US player, he loses another Wildcat, leaving
+him with only one. In return he shoots down one of the Vals.
+Play moves to the Resupply Mission. As this is the third week of the
+campaign, the Japanese player has the ability to play the Eastern
+Solomons campaign instead of the Resupply Mission. However, since he
+was the attacker in the Attack Mission he may not do so this week.
+His only choice is whether the target will be a Destroyer or
+Freighter. He briefly considers going with a Freighter. If he can get
+it through the mission Undamaged he would move the marker two more
+
+spaces to the right, enough to win the campaign. Given that the US
+player will be attacking with 6 aircraft, though, that seems
+unlikely. He instead chooses a Destroyer. He may guard it with up to
+3 aircraft. Since he has already used one Zero this week he may only
+use one more. The other two planes are his pair of A6M2-N Rufes.
+The US player assembles an attacking force of 2 P-400 Airacobras, 2
+SBD Dauntlesses and 2 TBF Avengers. It sinks the Destroyer, moving
+the marker one space to the left. One Dauntless is lost.
+Since no one has won the campaign the US player draws a card for
+reinforcements. He breathes a sigh of relief as an OUT OF THE SUN gives
+him two more Wildcats.
+Finally, the players note that the marker has ended the week in the
+Pistol Pete space. If the Japanese player attacks the airfield again
+in Week 4 he will do one additional point of damage to it.
+
+30.0 The B-29s in China Solitaire Campaign
+The first attacks made by B-29 Superfortresses against Japan were launched from
+airfields in Nationalist-held China. These attacks were ineffective, and the B-29s
+were later relocated to bases in the Marianas.
+B-29s in China is a solitaire campaign. The player controls three Superfortresses.
+During each weekly game turn he must balance their activities between flying
+bombing missions, training the crews in the use of their aircraft, repairing
+damage, and transporting the supplies necessary to conduct his air offensive
+against Japanese targets.
+Note: B-29s in China, like all other Down in Flames campaigns, uses
+Action card draws to resolve various random occurrences. Unlike the
+other campaigns, though, the player does not check the card’s type or
+color to get a result. Instead he looks at the index number, which is
+located on the left side of the card immediately above the “Attack”
+portion of the card.
+
+30.1 Campaign Sequence of Play
+• Draw one card to see if a Mission must occur during the following
+Week (Week 5 and later).
+• Remove one point of damage from each B-29.
+• Assign a Duty [30.3] to each B-29.
+• If any B-29s are assigned the M Duty conduct a Mission [30.4].
+© Expend 20 Supply Points for each B-29 that is going on the Mission.
+© Determine Mission Duration [23.2] and choose an altitude [30.42].
+
+© Draw
+
+one card and consult
+the
+Environment
+column
+on
+the
+Mission/Supply Transport Table. Explanations of the results on the
+column are found on the Campaign Game Resource Sheet.
+
+© Draw
+
+one
+card
+and
+consult
+Mission/Supply Transport Table.
+
+the
+
+Opposition
+
+column
+
+on
+
+the
+
+© Draw one card for each B-29 on the Mission and consult the Event
+
+column on the Mission/Supply Transport Table. Explanations of the
+results on the column are found on the Campaign Game Resource
+Sheet.
+© Conduct the Mission [23.0].
+© Record any VP gained or lost.
+© Check to see if Training boxes may be checked off [30.65].
+
+• If any B-29s are assigned the S Duty conduct
+[30.5] for each B-29 assigned to the Duty.
+
+a
+
+Supply
+
+Transport
+
+© Draw one card and consult the Transport column on the Mission/Supply
+
+Transport Table. Note that this may
+and/or Opposition columns as well.
+
+require
+
+draws
+
+on
+
+the
+
+Event
+
+© If the Transport is opposed determine the number of Turns of combat
+
+and the starting altitude of the opposing fighters. Conduct the
+combat [30.8].
+© Record the number of Supply Points and VP (if any) gained, or, in
+
+the case of VP, lost.
+• If any B-29s are assigned the T Duty check off one Training box of
+the player’s choice for each of them.
+• If any B-29s are assigned the R Duty remove 4 points of Damage from
+each of them.
+• If the Follow Up Attack Event was drawn one or more times during the
+Week conduct the attack. Record any VP gained or lost and any damage
+caused to B-29s.
+• Bring in Replacement B-29s, if desired [30.73].
+• If a Mission was conducted during this Week or a Mandated Mission was
+not flown [30.47] draw one card to determine the next Mission target.
+• If this is Week 12, determine Campaign Victory.
+
+30.2 Campaign and Log Sheets
+
+30.21 Campaign Sheet.
+information necessary
+includes:
+
+The B-29s in
+to play the
+
+China Campaign Sheet provides
+Campaign. The Campaign Sheet
+
+• The Campaign Name
+• A Campaign Sequence of Play
+• A listing of Victory Point Awards
+• A Mission Targets Table
+• A Mission/Supply Transport Table
+• An Opposition Combat Table
+• A Random Aircraft Selection Table
+• A Campaign Map
+• A Victory Table
+30.22 Campaign Log Sheet A Campaign Log Sheet for the campaign is
+included in the game. Players use this sheet to keep track of the
+Duties assigned, Missions conducted, Victory Points scored, Supply
+Points received and expended and the training status of each B-29. GMT
+Games grants permission for players to photocopy these sheets for
+personal use.
+
+30.3 Duties
+30.31 At the beginning of each Week of the campaign the player
+assign a Duty to each of his B-29s. The possible Duties are:
+
+must
+
+M Assign the B-29 to a Bombing Mission [30.4].
+S Transport Supplies [30.5].
+T Conduct Training [30.6].
+R Repair up to 4 points of damage to the B-29 [30.7].
+30.32 A
+than one
+assigned
+that can
+
+B-29 may be assigned only one Duty per Week. (However, more
+B-29 may be assigned the same Duty in a given Week.) The Duty
+to a B-29 in any one Week has no effect on the possible Duties
+be assigned to that B-29 in succeeding Weeks.
+
+30.33 B-29s may not be assigned the M Duty until Week 4.
+30.34 Only B-29s on their Undamaged side may be assigned the M Duty.
+Damaged B-29s may be assigned the S, T or R Duties.
+30.35 It costs 20 Supply Points to assign a B-29 the M Duty.
+
+30.4 Missions
+
+30.41 Beginning with Week 4 B-29s may be sent on a Bombing Mission by
+assigning them the M Duty. If more than one B-29 participates in the
+Mission they are all part of a single Formation [17.22].
+30.42 The player may choose a starting altitude of Medium, High or Very
+High for the B-29s (exception: the Mine Laying Mission (target D) must
+be flown at Very Low altitude). Since the B-29s are Formation aircraft,
+they cannot change altitude during the Mission.
+30.43 After choosing his starting altitude the player draws an Action
+card and cross-references the card’s index number with the Environment
+column of the Mission/Supply table on the Campaign Sheet. Add one (1)
+to the index number of the card drawn for each unchecked training box
+[30.62] of each B-29 participating in the Mission. Next, the player
+draws another card and cross-references its index number with the
+Opposition Column of the same table to determine the number and type of
+Japanese fighters that will oppose the Mission (note that the number of
+opposing aircraft can change, depending on the Event draws). Finally,
+he draws one Action card for each B-29 participating in the Mission and
+cross-references that card’s index number with the Event column of the
+Mission/Supply Transport table. Add five (5) to the index number for
+each unchecked training box of that B-29. Note that the event draw may
+require a further draw on the Opposition column. In that case the
+Japanese aircraft drawn for are added to those opposing the mission. If
+additional draws on the Opposition column exceed the card mix,
+substitute A6M5s for the aircraft drawn for.
+30.44 Missions are conducted using the normal campaign game Mission
+rules [23.0]. Award VP for the Mission using the Victory Point Awards
+table located on the Campaign Sheet.
+30.45 The Week 4 Mission is always a Mandatory Mission [30.47] against
+target B. In addition, Victory Point awards for damage to the target
+during this Mission are doubled, and the VP penalty for not flying the
+Mission is 10 VP per B-29 not participating. B-29s that have been
+destroyed and not replaced [30.73] do not count for this purpose, but
+B-29s that cannot be assigned the M Duty because they are on their
+Damaged side [30.14] or because the player has insufficient Supply
+Points [30.35] do.
+31.46 Starting with Week 4, each Week that a Mission is conducted or a
+Mandatory Mission [30.47] is not flown the player must draw one card
+and cross-reference its index number with the Mission Targets table on
+the Campaign Sheet to determine his next target (write the target’s
+letter in the Next Mission column of the Mission/Duty Track on the
+Campaign Log). He does not have to perform the mission during the next
+Week. However, starting with that Week he draws one Action Card at the
+beginning of the Week. Add 10 to the index number of the card drawn for
+each week that has passed since he last performed a Mission. If the
+modified index number is 50 or greater he must perform a Mandatory
+Mission during the following Week or suffer a VP penalty. Write the
+target’s letter in the Mission column of the Mission/Duty Track.
+
+Example: At the end of Week 4 the player draws a card to determine
+his next target. The index number of the card drawn is 23, so the
+target is the Docks at Taku, Japan. At the beginning of Week 5 he
+draws a card. The number on that card is 44, so he will not have a
+Mandatory Mission on Week 6. He could, however, voluntarily perform
+the Mission on Week 5. Assuming he does not, he draws again at the
+beginning of Week 6. This draw is card number 46. Since he has to add
+10 to the number this time the modified number is 56, which means
+that there will be a Mandatory Mission on Week 7.
+30.47 On the Week that a Mandatory Mission is scheduled the player must
+either assign one or more B-29s the M duty or take a 10 VP penalty. In
+either case he will draw for a new target at the end of the turn.
+30.48 Whether the player draws a Mandatory Mission or not, he may
+always voluntarily perform a Mission against his current next target in
+any Week. Doing so cancels any Mandatory Mission for the next Week and
+causes another draw for a new target.
+Continuing the Example: At the beginning of Week 7 the player elects
+to perform the Mandatory Mission rather than take the 10 VP penalty.
+He assigns the M Duty to two B-29s, paying 40 Supply Points [30.51]
+for doing so. One B-29 has two unchecked training boxes, the other
+has 4 unchecked boxes. He decides that the Mission will be flown at
+Very High altitude. Next, he draws an Action card and looks at the
+Environment column of the Mission/Supply Transport table. The card
+drawn has an index number of 10 to which he adds 6 for the unchecked
+training boxes of his mission aircraft. The modified total of 16
+gives a Flak Guns (US) result. The player will reduce the Target Flak
+of the Docks by one (1). Note that, in combination with the reduction
+for being at Very High, this means the B-29s will take no Target or
+Area Flak on this Mission.
+Now the player draws another card to determine the opposition for the
+Mission. Card number 24 is drawn. Since the target is located in
+Japan the B-29s will face one element of Ki-84-Ia fighters.
+The player then draws one card for each B-29 and consults the Event
+column of the table. The first card (for the B-29 with two unchecked
+training boxes) is number 14. The player adds 10 for the unchecked
+boxes, giving a total of 24, NO EVENT. The second card is number 74.
+Adding 20 for the four unchecked boxes on that B-29 gives 94, thus
+forcing another draw on the Opposition column. This draw is card
+number 39. Since there is only one element of Ki-84-Ia fighters in
+the game the player adds an element of A6M5 fighters to the opposing
+force instead.
+The Mission is then played through. At the end of it the Docks target
+takes 12 points of damage (+10 VP). One B-29 is Damaged (-10 VP), the
+other went over target and returned Undamaged (+7 VP). One Japanese
+fighter is Destroyed (+5 VP) and one other is Damaged (+2 VP). The
+player gains a net total of 14 VP.
+
+Since the player conducted a Mission, he must draw for a new target
+at the end the Week.
+
+30.5 Supply Transport
+In order to perform Missions the player must pay a cost of 20 Supply
+Points for each B-29 that is assigned the M Duty. Supply Points are
+gained by assigning aircraft to the S Duty or by drawing the Tail Winds
+Event during a Mission or Supply Transport.
+30.51 In any Week in which one or more B-29s are assigned the S Duty
+the player draws one Action Card for each aircraft and cross-references
+the card’s index number with the Supply column of the Mission/Supply
+Transport table. Add five (5) to the index number for each unchecked
+training box that that aircraft has. The modified result gives the
+number of Supply Points that the aircraft has carried over “the Hump”
+and may also mandate an additional draw on either the Event or
+Opposition column of the table. Any draw on the Event column uses only
+the modifier listed on the Supply column result, not the modifier for
+unchecked training boxes.
+30.52 Each aircraft performs a Supply Transport separately. This means
+that, if the Transport is opposed, only the aircraft that drew the
+opposition result is involved in the combat, even if more than one B-29
+is assigned the S Duty. See 31.8 for procedures when a Supply Transport
+is opposed. Note that if an opposed B-29 is shot down no Supply Points
+are gained, regardless of the result drawn on the Supply column.
+30.53 Supply Points gained and expended are recorded on the Supply
+Point Track located on the Campaign Log. Unused Supply Points do carry
+over from Week to Week.
+Example: On Week 3 the player assigns the S duty to one of his B-29s.
+The B-29 has three unchecked training boxes. The player draws Action
+Card
+number
+31
+and
+consults
+the
+Transport
+column
+on
+the
+Mission/Supply Transport table. Adding 15 for the unchecked training
+boxes gives a modified result of 46: 20 SP, Event. The player then
+draws on the Event column, this time adding nothing to the index
+number of the card drawn. The card is 59, so the Supply Transport is
+opposed by a single Ki-45. During the ensuing combat the B-29 manages
+to destroy the Ki-45. He delivers 20 Supply Points to China and gets
+5 VP for shooting down the Japanese fighter.
+
+30.6 Training
+At the beginning of the campaign the crews of all three B-29s have
+limited training with their new aircraft. This is represented in the
+game by a lowering of the printed ratings on the aircraft cards. The
+ratings are raised to their normal values by training and going on
+Missions.
+
+30.61 Initially the following ratings are lowered: Saturation Bombing
+(-2), Turret Defense (-1), Turret Support (-1) and both Damage
+Capacities (-1). Therefore, a completely “untrained” B-29 has a
+Saturation Bombing rating of five (5), a Turret Defense rating of two
+(2), a Turret Support rating of one (1) and requires only 11 damage
+points to be flipped to its Damaged side and 17 damage points to be
+Destroyed. Important Note: B-29s in this campaign may not use the
+Norden bombsight bonus [18.32].
+30.62 The training status of each B-29 is kept track of on the Training
+Tracks located on the Campaign Log. As the B-29 crew becomes better
+trained boxes are checked off on the track for that B-29. Only
+unchecked boxes affect the B-29’s ratings.
+30.63 In addition to lowering the printed ratings, each unchecked
+training box adds to the index number of cards drawn and crossreferenced on certain columns of the Mission/Supply Transport table.
+Add five (5) for each unchecked training box an aircraft currently has
+to the index number of any draws on the Transport and Event columns
+(exception: only add to the number on Event column draws during a
+Mission, not a Supply Transport). Add one (1) for each unchecked box of
+all aircraft on a Mission to the index number of a draw on the
+Environment column.
+30.64 In each Week in which an aircraft is assigned the T Duty the
+player may check off any one box for that aircraft (exception: the –2
+Saturation Bombing box must be checked off before the –1 Saturation
+Bombing box). Once a box is checked off it no longer has any effect on
+the relevant rating.
+30.65 In addition, after the completion of any Mission in which at
+least one B-29 survived and went Over Target the player draws an Action
+card. If the card’s index number is from 1-45 he may check off one
+training box of one of the B-29s that went on the Mission, provided the
+B-29 went Over Target and survived the mission.
+30.66 Any replacement B-29s [31.73] have all of their training boxes
+unchecked, unless the player chooses to “buy” training for them
+[30.74]. Erase any previously checked off boxes for that aircraft.
+
+30.7 Damage, Repair and Replacement
+Unlike other Down in Flames campaigns, damage done to B-29s remains on
+the aircraft until repaired.
+30.71 B-29s can suffer damage due to any of the following: combat
+against Japanese fighters [30.8], the Engine Fire Event, a Japanese
+Follow up Attack, or Disengagement [12.0]. In the last case an
+Undamaged B-29 suffering a Damaged result on the Disengagement Table is
+flipped to its Damaged side and given exactly 12 points of Damage, even
+if the Damage Ratings training box is unchecked. The unchecked training
+
+box does still affect the amount of repair necessary to flip the card
+back to its Undamaged side.
+30.72 Damage is repaired in two ways:
+1. At the beginning of each Week each B-29 with any damage has one
+point of damage removed.
+2. Any B-29 assigned the R Duty has either 4 points of damage or the
+total amount of damage it has suffered (whichever is less) removed.
+30.73 At the end of each Week the player may (not must) replace any B29s which have been destroyed. A B-29 does not have to be replaced in
+the same Week in which it was shot down.
+30.74 Replacement B-29 crews are normally untrained [30.61]. However,
+the player can check off up to two training boxes on a replacement B-29
+at a cost of 5 VP per box.
+
+30.8 Air Combat
+As B-29s in China is a solitaire campaign most of the normal rules for
+air combat are not used. Whenever the rules in this section contradict
+those in the Basic and Campaign rulebooks these take precedence.
+30.81 B-29s assigned to a Mission will almost always be opposed by
+Japanese Fighters. B-29s assigned to a Supply Transport will sometimes
+be opposed. In either case, after the player determines the number and
+type(s) of Japanese fighters involved he performs the following steps.
+1. Draw for the length of the combat (Supply transport only). Draw one
+Action Card and cross-reference the index number with the Turns of
+Combat column on the Opposition Combat Table located on the
+Campaign Sheet.
+2. Determine the starting altitude(s) of the Japanese fighters. Draw
+one Action Card for each element or Lone Leader and crossreference the index number with the Starting Altitude column of
+the Opposition Combat Table. Note that the chosen altitude is
+lowered by one level when Mission D is being performed.
+If a Mission is being performed the player has already chosen the
+starting altitude of the B-29s. When a Supply Transport is opposed the
+B-29 is always at High altitude.
+30.82 Once the starting altitudes and length of combat have
+determined begin playing turns. Use the following sequence of
+rather than that given in 3.0 and 15.2.
+
+been
+play
+
+1. Choose one fighter element or Lone Leader. If the element/Leader is
+at a different altitude from the B-29s change altitude towards
+them by one level.
+
+2. If the element/Leader is now at the same altitude as the B-29s and
+has not chosen a B-29 to attack do so. Draw one Action Card and
+cross-reference the index number with the Random Aircraft
+Selection Table located on the Campaign Sheet. The element/Leader
+will continue to attack this B-29 until either it or the B-29 is
+shot down or Disengages [30.85]. If the B-29 is shot down or
+Disengages choose a new target aircraft in the same way.
+3. If the element/Leader has chosen a B-29 it makes its attack. In
+this campaign both Leaders and Wingmen attack like Wingmen in a
+standard Down in Flames campaign. See 20.0 for the procedures
+involved. Draw cards for both the fighter and the B-29 and lay
+them out face up. Decide the order in which to play both sides’
+cards. If the fighter climbed an altitude level this turn draw one
+less card than normal. If the fighter dived an altitude level this
+turn draw one more card than normal. Also, remember to reduce the
+number of cards that the fighter draws based on its altitude
+[5.32]. If the element changed altitude this turn only the Leader
+may attack during the turn. Beginning the next turn both aircraft
+may
+attack.
+Play Note: Obviously if the player can see all of the fighter’s
+cards he can optimize his defensive play. This is intentional.
+4. Choose the next element/Leader and perform steps
+elements/Leaders have “gone” begin another turn.
+
+1-3.
+
+If
+
+all
+
+Example: A B-29 performing a Supply Transport is opposed by a Ki-43II Leader. The player first draws a card to determine the length of
+the combat. The card’s index number is 51, which gives a length of 3
+turns. He then draws another card to determine the fighter’s starting
+altitude. Card number 72 means that the Ki-43-II will begin at Low
+altitude. Since this is a Supply Transport the B-29 is automatically
+at High altitude.
+The player then begins the combat. On the first turn the Ki-43-II
+Leader climbs to Medium altitude. As he is still below the B-29 the
+turn ends there. On the second turn he climbs to High. He may now
+attack (since there is only one B-29 there is no need to use the
+Random Aircraft Selection Table). A Ki-43-II Wingman has an Offensive
+Rating of one (1) and a Defensive Rating of two (2). Normally that
+would allow the aircraft to draw three cards for its attack. However,
+since the Ki-43-II climbed a level this turn (-1 card) and is at high
+altitude (-1 card) he draws only one card. The B-29 draws two cards
+(its Turret Defense training box is still unchecked). The fighter
+draws an In My Sights (1B/1D). The B-29 draws an Ace Pilot (with a
+Spoiled Attack symbol) and a Tight Turn. The fighter’s In My Sights
+is negated by the Spoiled Attack, so play proceeds to turn 3. This
+time the Ki-43-II can draw two cards. They are an In My Sights
+(1B/2D), and a Half Loop. The B-29 gets an Out of the Sun (2B/3D) and
+a Barrel Roll. The Fighter’s In My Sights takes effect, but so does
+the B-29’s Out of the Sun. Three points of damage is enough to flip
+the Ki-43-II, so if this was not the last turn of the combat it would
+
+Disengage. The B-29 has taken 2 points of damage, but the player gets
+2 VP for Damaging the Japanese fighter.
+30.83 The Skilled Pilot [19.2] and Green Pilot [19.4] rules are not
+used in this campaign.
+30.84 Fighters
+[23.51].
+
+opposing
+
+a
+
+Mission
+
+will
+
+never
+
+continue
+
+Over
+
+Target
+
+30.85 Disengagement. B-29s performing a Mission may only Disengage
+[12.0] during the Target-Bound Phase. Follow the normal procedure for
+doing so. A B-29 opposed during a Supply Transport cannot Disengage. A
+Japanese Lone Leader will automatically Disengage if it is on its
+Damaged side at the end of a turn. A Japanese fighter element will
+automatically Disengage if both aircraft are on their Damaged side at
+the end of a turn. Japanese fighters which Disengage do not have to
+draw on the Disengagement Table, but the player still receives VP for
+damaging them.
+
+30.9 Campaign Victory
+At the end of Week 12 the player totals his accumulated Victory Points
+and consults the Campaign Victory Table on the Campaign Sheet to
+determine his level of victory.
+
+Credits
+Game Design:
+
+Dan Verssen
+
+Game Producer:
+
+Gene Billingsley
+
+Game Development:
+
+Michael Lemick
+
+Campaign Design:
+
+Greg Courter, James Crate, Roger Horky
+
+Rules Layout/Editing:
+
+Stuart Tucker
+
+Art Director:
+
+Rodger MacGowan
+
+Graphics:
+
+Dave Lawrence, Michael Lemick,
+Mark Simonitch, Rodger MacGowan
+
+Martin
+
+Scott,
+
+Playtesting:
+Special thanks to Joe Silva and Roger Horky for researching the
+Historical pilots for the campaigns and to Chris Janiec for all of the
+checking of rules, campaign cards, etc. that he did.
+
+Sources:
+Bergerud, Eric M. Fire in the Sky. Westview Press, 2000.
+Bueschel, Richard M. Mitsubishi Ki-67/Ki-109 Hiryu in Japanese Army Air
+Force Service. Schiffer, 1997.
+Bueschel, Richard M. Mitsubishi/Nakajima G3M1/2/3, 96
+Japanese Naval Air Service. Schiffer, 1997.
+
+Rikko L3Y1/2 in
+
+Bueschel, Richard M. Nakajima Ki-49 Donryu in Japanese Army Air Force
+Service. Schiffer, 1997.
+Campbell, Christy. Air War Pacific. Crescent, 1990.
+Cloe, John Haile. The Aleutian Warriors: a History of the 11th Air Force
+and Fleet Air Wing 4. Pictorial Histories, 1999.
+Dear, Ian and M. R. D. Foot, eds. The Oxford Companion to the Second
+World War. Oxford, 1995.
+Dunnigan, James F. and Nofi, Albert A. Victory at Sea: World War II in
+the Pacific. William Morrow and Company, 1995.
+Ford, Daniel. Flying Tigers: Claire Chennault
+Volunteer Group. Smithsonian Institute Press, 1991.
+
+and
+
+the
+
+American
+
+Francillon, René. Japanese Aircraft of the Pacific War. Naval Institute
+Press, 1987.
+Francillon, René. Japanese Navy Bombers of World War Two. Doubleday,
+1969.
+Francillon, René. Japanese Carrier Air Groups, 1941-1945. Osprey, 1979.
+Garfield, Brain. The Thousand-Mile War: World War II in Alaska and the
+Aleutians. Ballantine, 1971.
+Hammel, Eric. Air War Pacific: America’s Air War in East Asia and the
+Pacific1941-1945: A Chronology. Pacifica, 1998.
+Jablonski, Edward. Airwar: Tragic Victories. Doubleday, 1971.
+Jablonski, Edward. Airwar: Wings of Fire. Doubleday, 1971.
+Lindley, John M. Carrier Victory: The Air War in the Pacific. TalismanParrish books, 1978.
+Hata, Ikuhiko and Yasuho Izawa. Japanese Naval Aces and Fighter Units
+in World War II. Naval Institute Press, 1989.
+March, Daniel J. and John Heathcott. The Aerospace Encyclopedia of Air
+Warfare volume 1 1911-1945. Aerospace Publishing, 1997.
+
+Molesworth, Carl. P-40 Warhawk Aces of the CBI. Osprey, 2000.
+Molesworth, Carl. Sharks Over China: the 23rdFighter Group in World War
+II. Brassey’s 1999.
+Moser, Don. China Burma India. Time-Life, 1980.
+Sakaida, Henry. Imperial Japanese Navy Aces, 1937-1945. Osprey, 1998.
+Sakaida, Henry. Japanese Army Air Force Aces, 1937-1945. Osprey, 1997.
+Sherrod, Robert. History
+Presidio Press, 1980.
+
+of
+
+Marine
+
+Corps
+
+Aviation
+
+in
+
+World
+
+War
+
+II.
+
+Shores, Christopher. Duel for the Sky. Doubleday, 1985.
+Short, Wanda and Thayne Cornelius. Ding Hao: America’s Air War in China
+1937-1945. Pelican, 1980.
+Stanway, John.
+Osprey, 1999.
+Stanway, John.
+
+Mustang and Thunderbolt Aces of the Pacific and CBI.
+
+P-38 Aces of the Pacific and CBI. Osprey, 1997.
+
+Steinberg, Rafael. Island Fighting. Time-Life, 1979.
+Steinberg, Rafael. Return to the Philippines. Time-Life, 1981.
+Styling, Mark. Corsair Aces of World War 2. Osprey, 1995.
+Swanborough, Gordon, and Peter M. Bowers. United
+Aircraft since 1909. Smithsonian Institution, 1989.
+
+States
+
+Military
+
+Swanborough, Gordon, and Peter M. Bowers. United States Naval Aircraft
+Since 1911. Naval Institute Press, 1990.
+Tagaya, Osama. Mitsubishi Type 1
+Osprey, 2001.
+
+Rikko “Betty” Units of World War 2.
+
+Tillman, Barrett. Hellcat Aces of WW2. Osprey, 1996.
+Tillman, Barrett. Wildcat Aces of WW2. Osprey, 1999.
+Weal, John. Combat Aircraft of World War Two. Macmillan, 1977.
+Werrell,
+1996.
+
+Kenneth
+
+P.
+
+Blankets
+
+of
+
+Fire.
+
+Smithsonian
+
+Institute
+
+Press,
+
+Wheeler, Keith. Bombers Over Japan. Time-Life, 1982.
+Wilson, Stewart. Boeing B-17, B-29 & Lancaster. Aerospace Publications
+Pty. Ltd., 1995.
+
+Winton, John. Air Power at Sea 1939-1945. Thomas Y. Crowell Co., 1977.
+Van der Hat, Dan. The Pacific Campaign, The US-Japanese Naval War 19411945. Simon & Schuster, 1991.
+
+</rulebook>
+			
+						                           
+						               													<description>(from GMT website:)&amp;#10;&amp;#10;Volume IV in the Down in Flames card game series covers World War II in the Pacific from mid-1942 until early 1945, starting where Volume III (Zero!) left off.&amp;#10;&amp;#10;Corsairs &amp;amp; Hellcats is a DiF Gamette, including all of the major late war aircraft types developed by both sides (Zero! is required in order to play this gamette). Allied players can fly the game's namesakes, the F4U-1 Corsair and F6F Hellcat, as well as the British Firefly, the P47-N, and the P-61 Black Widow. Japanese players can counter with two models of late war Zero, the Ki-84 Frank, the N1K1 George, and the J2M Jack. New bomber types include the TBF Avenger, the B-29 Superfortress, and the Ki-49 Helen. There's even a new kind of bomber: the Attack Bomber, which can strafe and bomb. Two types are present in Corsair &amp;amp; Hellcats: the B-25C-1 field modification and the solid nose B-25J, which carried a dozen (!) fixed forward-firing .50 caliber machine guns.&amp;#10;&amp;#10;All of these aircraft (plus many of the ones in Zero!) are used in seven new campaigns. Eastern Solomons and Santa Cruz are carrier campaigns like those pioneered in Zero!. Solomon Islands, Philippines 1944, and Okinawa use the land campaign structure familiar to players of the previous games in the series. The other two campaigns are quite different, though. Guadalcanal models the drawn out struggle for control of the airspace above that island. Players allocate available aircraft to two missions each week in an attempt to force a withdrawal by their opponent. The campaign also includes the option to play the Eastern Solomons and Santa Cruz campaigns as part of the battle, feeding the results of the carrier encounters back into the main campaign. B-29s in China is a solitaire campaign representing the beginning of the strategic bombing offensive against Japan. The player controls three Superfortresses and must balance their activities between training, carrying supplies, repairing damage, and conducting bombing missions.&amp;#10;&amp;#10;In addition, Corsairs &amp;amp; Hellcats includes new target types, skilled pilots, and ordnance. The game also has rules for Kamikazes, supply drops, submarines, and mine laying. There's even a new method of selecting skilled (and green) pilots and crews that reflects the changes in aircrew quality that both sides went through during the course of the war. Are you ready to relive history? Can you sweep the skies in the cockpit of your Corsair or Hellcat? Pilots, man your planes...&amp;#10;&amp;#10;NOTE: In order to play Corsairs &amp;amp; Hellcats you must have a copy of Zero!.&amp;#10; CONTENTS:&amp;#10;&amp;#10;    88 full-color, die-cut counters&amp;#10;    124 full-color Playing Cards&amp;#10;    7 Campaign Map Displays&amp;#10;    One Player Aid Card&amp;#10;    One Resource Sheet&amp;#10;    6 Target Displays&amp;#10;    4 Campaign Logs&amp;#10;    16-Page Rules Booklet&amp;#10;&amp;#10;&amp;#10;Designed by Dan Verssen&amp;#10;Developed by Mike Lemick&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75" value="Series: Down in Flames (Dan Verssen)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327895" value="Battle of the Bismarck Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21697" value="Down in Flames Squadron Pack 1: Fighters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159661" value="Down in Flames: Dutch Harbor / Aleutians" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="126921" value="Down in Flames: Operation Leader 1943" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62230" value="Wild Blue Yonder" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2247" value="Zero!" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="428" value="Dan Verssen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6548" value="Mike Lemick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="225" />
+			<average value="7.43351" />
+			<bayesaverage value="5.70788" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.70788" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.47552" />
+												</ranks>
+
+			<stddev value="1.11119" />
+			<median value="0" />
+			<owned value="647" />
+			<trading value="22" />
+			<wanting value="23" />
+			<wishing value="39" />
+			<numcomments value="112" />
+			<numweights value="37" />
+			<averageweight value="2.1622" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
